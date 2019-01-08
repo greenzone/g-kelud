@@ -1,0 +1,667 @@
+<!DOCTYPE html>
+<html lang="id_ID">
+<head>
+  
+<!-- Meta Tags -->
+<base href="http://www.bakosurtanal.go.id/" />
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="apple-mobile-web-app-capable" content="yes">
+
+<meta name="author" content="Badan Informasi Geospasial">
+
+<title>BIG | Bersama Menata Indonesia Yang Lebih Baik</title>
+
+
+
+
+<link rel="stylesheet" type="text/css" media="screen" id="normalize-css" href="themes/big/css/normalize.css">
+<link rel="stylesheet" type="text/css" media="screen" id="screen-css" href="themes/big/css/screen.css">
+<link rel="stylesheet" type="text/css" media="screen" id="flexslider-css" href="themes/big/css/flexslider.css">
+
+
+
+<!-- ################### Javascript ################### -->
+<script type="text/javascript" src="themes/big/js/jquery.min.js"></script>
+<script type="text/javascript" src="themes/big/js/modernizr.js"></script>
+<script type="text/javascript" src="themes/big/js/main.js"></script>
+<script type="text/javascript" src="themes/big/plugins/jquery.webticker.js"></script>
+<script type="text/javascript" src="themes/big/plugins/jQuery.equalHeights.js"></script>
+<script type="text/javascript" src="themes/big/plugins/jquery.flexslider-min.js"></script>
+<script type="text/javascript" src="themes/big/plugins/jquery.qtip-1.0.0-rc3.min.js"></script>
+
+
+<script src="themes/big/js/css3-mediaqueries.js"></script>
+<script src="themes/big/js/baseScript.js"></script>
+
+<!-- ################## Fonts ######################## -->
+<link href='http://fonts.googleapis.com/css?family=Maven+Pro:400,700' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Yesteryear' rel='stylesheet' type='text/css'>
+
+		<link rel="stylesheet" href="themes/big/css/style.css">
+		<link rel="stylesheet" href="themes/big/css/zerogrid.css" >
+		
+		
+		<link rel="stylesheet" href="themes/big/css/responsive.css">
+        	<link rel="stylesheet" href="themes/big/css/stylesheet.css" />
+		
+<script type="text/javascript">
+	function showonlyonev2(thechosenone) {
+      var newboxes = document.getElementsByTagName("div");
+      for(var x=0; x<newboxes.length; x++) {
+            name = newboxes[x].getAttribute("class");
+            if (name == 'newboxes-2') {
+                  if (newboxes[x].id == thechosenone) {
+                        if (newboxes[x].style.display == 'block') {
+                              //newboxes[x].style.display = 'none';
+                        }
+                        else {
+                              newboxes[x].style.display = 'block';				  	
+                        }
+                  }else {
+                        newboxes[x].style.display = 'none';
+                  }
+            }
+      }
+	}
+</script>
+<link rel="stylesheet" type="text/css" href="http://www.bakosurtanal.go.id/themes/big/css/layout.css?m=1358402713" />
+</head>
+<body id="home-page">
+
+<header role="topbar">
+	<h1 class="logo">Badan Informasi Geospasial<span></span></h1>
+	<p class="slogan">Bersama Menata Indonesia yang Lebih Baik<span></span></p>
+	<ul class="toolbar">
+			
+				<li><a href="http://www.bakosurtanal.go.id/link-3">Tautan</a></li>
+				<li><a href="http://www.bakosurtanal.go.id/peta-situs">Peta Situs</a></li>
+			
+			<li>
+				<form id="SearchForm_SearchForm" action="/home/SearchForm" method="get" enctype="application/x-www-form-urlencoded">
+	<fieldset>
+		<legend></legend>
+		
+			<div id="Search" class="field text  nolabel"><div class="middleColumn"><input type="text" class="text nolabel" id="SearchForm_SearchForm_Search" name="Search" value="" /></div></div>
+		
+			<input class="hidden" type="hidden" id="SearchForm_SearchForm_locale" name="locale" value="id_ID" />
+		
+		
+			<input class="action hide" id="SearchForm_SearchForm_action_results" type="submit" name="action_results" value="Cari" title="Cari" />
+		
+	</fieldset>
+</form>
+
+			</li>		
+	</ul>
+	
+	<nav role="main navigation">
+		<!-- navigasi atas-->
+<ul class="menu">
+	
+		<li><a href="/">Home</a></li>
+	
+		<li><a href="/sejarah/">Profil</a></li>
+	
+		<li><a href="/produk/">Produk</a></li>
+	
+		<li><a href="/informasi-publik1/">Informasi Publik</a></li>
+	
+		<li><a href="/maklumat-pelayanan/">Layanan Publik</a></li>
+	
+		<li><a href="/berita/">Berita</a></li>
+	
+		<li><a href="/kontak-2/">Kontak</a></li>
+	
+		<li class="translate">
+		<!--	<a href="http://www.bakosurtanal.go.id/?locale=id_ID"><img src="themes/big/images/flag_id.png" alt="Indonesia" /></a> -->
+		<!--	<a href="http://www.bakosurtanal.go.id/?locale=en_US"><img src="themes/big/images/flag_gb.png" alt="English" /></a> -->
+		</li>
+</ul>
+<!-- end navigasi atas-->		
+	</nav>
+</header>
+<div id="main">
+	<header role="banner" id="banner">
+		<ul class="slides">
+			
+			<li>
+				<figure>
+				
+                    
+                        
+							<img src="/assets/Uploads/_resampled/paddedimage630270-BIGDeputi-IGT.jpg" alt="healine image" />
+						
+                    
+				
+				</figure>
+				<h2><a href="http://www.bakosurtanal.go.id/berita-surta/show/rakortek-igt-tahap-ii-bahas-evaluasi-target-percepatan-kebijakan-satu-petatahun-2016">Rakortek IGT Tahap II Bahas Evaluasi Target Percepatan Kebijakan Satu PetaTahun 2016</a></h2>
+			</li>
+			
+			<li>
+				<figure>
+				
+                    
+                        
+							<img src="/assets/Uploads/_resampled/paddedimage630270-DSC06371.JPG" alt="healine image" />
+						
+                    
+				
+				</figure>
+				<h2><a href="http://www.bakosurtanal.go.id/berita-surta/show/big-mengadakan-pelantikan-pejabat-eselon-iii">Pelantikan Pejabat Administrator dan Pejabat Pengawas di Lingkungan BIG</a></h2>
+			</li>
+			
+			<li>
+				<figure>
+				
+                    
+                        
+							<img src="/assets/Uploads/_resampled/paddedimage630270-DSC6233.JPG" alt="healine image" />
+						
+                    
+				
+				</figure>
+				<h2><a href="http://www.bakosurtanal.go.id/berita-surta/show/big-berikan-inspirasi-kebijakan-satu-peta-untuk-kesatuan-asean">BIG Berikan Inspirasi Kebijakan Satu Peta untuk Kesatuan ASEAN</a></h2>
+			</li>
+			
+			<li>
+				<figure>
+				
+                    
+                        
+							<img src="/assets/Uploads/_resampled/paddedimage630270-DSC6122.JPG" alt="healine image" />
+						
+                    
+				
+				</figure>
+				<h2><a href="http://www.bakosurtanal.go.id/berita-surta/show/pengembangan-kecerdasan-ekologi-melalui-aktualisasi-geografi-pengajar-indonesia">Pengembangan Kecerdasan Ekologi  melalui Aktualisasi Geografi Pengajar Indonesia</a></h2>
+			</li>
+			
+			<li>
+				<figure>
+				
+                    
+                        
+							<img src="/assets/Uploads/_resampled/paddedimage630270-NZ9A6085.JPG" alt="healine image" />
+						
+                    
+				
+				</figure>
+				<h2><a href="http://www.bakosurtanal.go.id/berita-surta/show/big-selenggarakan-media-gathering-dan-public-relation-capacity-building">BIG Selenggarakan Media Gathering dan Public Relation Capacity Building</a></h2>
+			</li>
+			
+		</ul>
+	</header>
+	
+	<nav role="quick links" id="quicklinks">
+		<ul>
+			
+				<li class=""><a href="/jaring-kontrol-geodesi/" title="Jaring Kontrol Geodesi" tooltip="Jaring kontrol Geodesi  terdiri atas Jaring Kontrol Horisontal (JKH), Jaring...">
+				
+					<img src="themes/big/images/icon_map.gif" alt="" width="32" width="32"/>
+				
+				<span>Jaring Kontrol Geodesi</span>
+				</a></li>
+			
+				<li class=""><a href="/peta-rupabumi/" title="Peta Rupabumi" tooltip="Peta Rupabumi Indonesia (RBI) adalah peta topografi yang menampilkan sebagian...">
+				
+					
+						
+							<img src="/assets/Uploads/_resampled/SetSize3232-iconmap.gif" alt=""/>
+						
+					
+				
+				<span>Peta Rupabumi</span>
+				</a></li>
+			
+				<li class=""><a href="/peta-kelautan/" title="Peta Kelautan" tooltip="Peta Kelautan (LPI dan LLN)">
+				
+					
+						
+							<img src="/assets/Uploads/_resampled/SetSize3232-iconmap2.gif" alt=""/>
+						
+					
+				
+				<span>Peta Kelautan</span>
+				</a></li>
+			
+				<li class=""><a href="/atlas/" title="Atlas" tooltip=" ">
+				
+					
+						
+							<img src="/assets/Uploads/_resampled/SetSize3232-iconatlas.gif" alt=""/>
+						
+					
+				
+				<span>Atlas</span>
+				</a></li>
+			
+				<li class=""><a href="/peta-tematik/" title="Peta Tematik" tooltip="Peta Tematik adalah peta yang menyajikan tema tertentu dan untuk...">
+				
+					
+						
+							<img src="/assets/Uploads/_resampled/SetSize3232-iconmap3.gif" alt=""/>
+						
+					
+				
+				<span>Peta Tematik</span>
+				</a></li>
+			
+				<li class=""><a href="/dokumen-standar/" title="Dokumen Standar" tooltip="Standar dalam bidang informasi geografi/geomatika bertujuan untuk menyusun suatu kumpulan...">
+				
+					
+						
+							<img src="/assets/Uploads/_resampled/SetSize3232-icondocument.gif" alt=""/>
+						
+					
+				
+				<span>Dokumen Standar</span>
+				</a></li>
+			
+				<li class=""><a href="/buku-geospasial/" title="Buku Geospasial" tooltip="">
+				
+					
+						
+							<img src="/assets/Uploads/_resampled/SetSize3232-iconbook.gif" alt=""/>
+						
+					
+				
+				<span>Buku Geospasial</span>
+				</a></li>
+			
+				<li class=""><a href="/jasa-survei-dan-pemetaan/" title="Jasa Survei dan Pemetaan" tooltip="1.    JASA PENGUKURAN DASAR       a.    Pengukuran GPS Teliti (Geodetik)...">
+				
+					<img src="themes/big/images/icon_map.gif" alt="" width="32" width="32"/>
+				
+				<span>Jasa Survei dan Pemetaan</span>
+				</a></li>
+			
+				<li class=""><a href="/jasa-diklat/" title="Jasa Diklat" tooltip="Balai Pendidikan dan Pelatihan Survei dan Pemetaan adalah salah satu...">
+				
+					
+						
+							<img src="/assets/Uploads/_resampled/SetSize3232-icondiklat.gif" alt=""/>
+						
+					
+				
+				<span>Jasa Diklat</span>
+				</a></li>
+			
+		</ul>
+	</nav>
+	
+		
+	<div id="scroll-banner">
+		<ul class="slides">
+			
+				
+					<li>
+						<a href="/undang-undang-informasi-geospasial/">
+                            
+                                
+                                    <img src="/assets/Uploads/_resampled/croppedimage18065-uu-ig5.jpg" alt="banner animate" />
+                                
+                            
+						</a>
+					</li>
+				
+			
+				
+					<li>
+						<a href="/jaringan-dokumentasi-dan-informasi-hukum-jdih/">
+                            
+                                
+                                    <img src="/assets/Uploads/_resampled/croppedimage18065-per-uu-an-2.jpg" alt="banner animate" />
+                                
+                            
+						</a>
+					</li>
+				
+			
+				
+					<li>
+						<a href="/ina-geoportal-2/">
+                            
+                                
+                                    <img src="/assets/Uploads/_resampled/croppedimage18065-geoportal2.jpg" alt="banner animate" />
+                                
+                            
+						</a>
+					</li>
+				
+			
+				
+					<li>
+						<a href="/pengadaan-barang-dan-jasa-2/">
+                            
+                                
+                                    <img src="/assets/Uploads/_resampled/croppedimage18065-lelang1.jpg" alt="banner animate" />
+                                
+                            
+						</a>
+					</li>
+				
+			
+				
+					<li>
+						<a href="/indeks-bencana/">
+                            
+                                
+                                    <img src="/assets/Uploads/_resampled/croppedimage18065-bencana2.jpg" alt="banner animate" />
+                                
+                            
+						</a>
+					</li>
+				
+			
+				
+					<li>
+						<a href="/prediksi-pasang-surut/">
+                            
+                                
+                                    <img src="/assets/Uploads/_resampled/croppedimage18065-pasutbig3.jpg" alt="banner animate" />
+                                
+                            
+						</a>
+					</li>
+				
+			
+				
+					<li>
+						<a href="/perpustakaan-3/">
+                            
+                                
+                                    <img src="/assets/Uploads/_resampled/croppedimage18065-perpus.jpg" alt="banner animate" />
+                                
+                            
+						</a>
+					</li>
+				
+			
+				
+					<li>
+						<a href="/profil-parangtritis-geomaritime-science-park/">
+                            
+                                
+                                    <img src="/assets/Uploads/_resampled/croppedimage18065-PGSP-Banner.jpg" alt="banner animate" />
+                                
+                            
+						</a>
+					</li>
+				
+			
+				
+			 
+		</ul>
+	</div>
+	
+	<div id="content">
+		
+		
+		<div class="wrap-col">
+			
+			<div class="col">
+				<header>
+					<h3>Pengumuman</h3>					
+				</header>
+				<article>
+					<ul class="list-articles">
+						<li><a href="materi-rakornas-ig-tahun-2016/" target="_blank">Materi RAKORNAS 2016</a></li>
+						<li><a href="indeks-kepuasan-masyarakat/" target="_blank">Indeks Kepuasan Masyarakat</a></li>
+						<li><a href="assets/download/lpjig/Seleksi-Administrasi-LPJIG.pdf" target="_blank">Hasil Seleksi Administrasi Calon Anggota LPJIG</a></li>
+					</ul>
+				</article>		
+				<header>
+					<h3>Agenda</h3>
+					<a href="agenda" class="index">Indeks &rsaquo;&rsaquo;</a>
+				</header>
+				<article>
+					<ul class="list-events">					
+						
+							<li><span>May <strong>31</strong></span><a>Kegiatan Donor Darah, Kerjasana DWP BIG dan PMI Kab.Bogor</a></li>
+						
+							<li><span>May <strong>20</strong></span><a>Upacara Hari Kebangkitan Nasional dan Launching Budaya Organisasi BIG</a></li>
+						
+					</ul>
+				</article>
+				<header>
+					<h3>Rilis Pers</h3>
+					<a href="rilis-pers" class="index">Indeks &rsaquo;&rsaquo;</a>
+				</header>
+				<article>
+					<ul class="list-articles">
+					
+						<li><a href="http://www.bakosurtanal.go.id/rilis-pers/show/media-gathering-and-big-s-public-relation-capasity-building"><em>18-07-2016</em> Media Gathering &amp; BIG's Public Relation Capacity Building</a></li>
+					
+						<li><a href="http://www.bakosurtanal.go.id/rilis-pers/show/rakornas-ig-2016"><em>27-04-2016</em> Rakornas Informasi Geospasial 2016</a></li>
+					
+					</ul>
+				</article>
+
+					
+				
+				
+			</div>
+			<div class="col">
+				<header>
+					<h3>Artikel</h3>
+					<a href="artikel" class="index">Indeks &rsaquo;&rsaquo;</a>
+				</header>
+				<article>
+					<ul class="list-news">
+						
+							<li><a href="http://www.bakosurtanal.go.id/artikel/show/catatan-geospasial-nusamanuk-penjaga-kedaulatan-laut-selatan">Catatan Geospasial : Nusamanuk, Penjaga Kedaulatan Laut Selatan</a></li>
+						
+							<li><a href="http://www.bakosurtanal.go.id/artikel/show/big-selenggarakan-bimbingan-teknis-konseptor-sni-editor-sni-dan-asesor-akreditasi">BIG Selenggarakan Bimbingan Teknis Konseptor SNI, Editor SNI dan Asesor Akreditasi</a></li>
+						
+							<li><a href="http://www.bakosurtanal.go.id/artikel/show/belajar-spasial-dari-go-jek">Belajar Spasial dari Go-Jek</a></li>
+						
+							<li><a href="http://www.bakosurtanal.go.id/artikel/show/page-1948">Survei Batas Negara, Butuh Lebih dari Sekedar Surveyor</a></li>
+						
+							<li><a href="http://www.bakosurtanal.go.id/artikel/show/mempopulerkan-geospasial-lewat-tulisan">Mempopulerkan Geospasial Lewat Tulisan</a></li>
+						
+					</ul>
+				</article>
+			</div>			
+			<div class="col">
+				<header>
+					<ul class="tab">
+						<li class="active"><a href="/#">BIG - Foto</a></li>
+						
+					</ul>
+				</header>
+				<article>
+					<div id="gallery" class="gallery">
+						<ul class="slides">
+							
+								<li><a href="/big-turut-meriahkan-car-free-day-hakteknas-2016-solo/">
+									
+										
+											<img src="/assets/Uploads/_resampled/croppedimage295245-13.gif" alt="galeri" />
+										
+									
+									<span class="caption">BIG Turut Meriahkan Car Free Day Hakteknas 2016 Solo</span>
+								</a></li>
+							
+								<li><a href="/diklat-sistem-informasi-geografis-tingkat-dasar-bagi-kabupaten-mimika-dan-sekitarnya/">
+									
+										
+											<img src="/assets/Uploads/_resampled/croppedimage295245-DSC1023.JPG" alt="galeri" />
+										
+									
+									<span class="caption">Diklat Sistem Informasi Geografis Tingkat Dasar bagi Kabupaten Mimika dan Sekitarnya</span>
+								</a></li>
+							
+								<li><a href="/alam-bebas-sarana-dalam-big-s-public-relation-capacity-building/">
+									
+										
+											<img src="/assets/galleries/2016/0719_BIGs-PR-Capacity-Building-Day-2/_resampled/croppedimage295245-IMG-20160719-WA0032-Copy.jpg" alt="galeri" />
+										
+									
+									<span class="caption">Alam Bebas, Sarana dalam BIG’s Public Relation Capacity Building </span>
+								</a></li>
+							
+								<li><a href="/halal-bi-halal-dengan-dwp-dan-paguyuban-pensiunan-big/">
+									
+										
+											<img src="/assets/Uploads/_resampled/croppedimage295245-Logo-BIG2.jpg" alt="galeri" />
+										
+									
+									<span class="caption">Halal Bi Halal dengan DWP dan Paguyuban Pensiunan BIG</span>
+								</a></li>
+							
+								<li><a href="/halal-bi-halal-idul-fitri-1437-h-badan-informasi-geospasial/">
+									
+										
+											<img src="/assets/Uploads/_resampled/croppedimage295245-DSC2480.JPG" alt="galeri" />
+										
+									
+									<span class="caption">Halal Bi Halal Idul Fitri 1437 H Badan Informasi Geospasial</span>
+								</a></li>
+							
+						</ul>
+						<div class="more"><a href="/galeri-foto/">Indeks Foto</a></div>
+					</div>
+					<div id="videos" class="gallery">
+						<ul class="slides">
+							
+								<li><a href="/contoh-video-2/">
+									
+										
+									
+									<span class="caption">Contoh Video 2</span>
+								</a></li>
+							
+								<li><a href="/contoh-video/">
+									
+										
+											<img src="/assets/Uploads/_resampled/SetSize295245-preview.jpg" alt="galeri" />
+										
+									
+									<span class="caption">Contoh Video 1</span>
+								</a></li>
+							
+						</ul>
+						<div class="more"><a href="galeri-video">Indeks Video</a></div>
+					</div>
+				</article>
+			</div>
+		</div>
+	</div>
+	
+</div>
+
+
+	<div id="flying-banner">
+		<div class="content-area">
+			
+				
+					<a href="https://form.jotform.me/bigsurvey2016/survey-kepuasan-IG2">
+					
+						<img src="/assets/galleries/2016/0729_Kuesioner-Kepuasan-Pelanggan/_resampled/SetSize630270-BIG-surveybackground.jpg" alt="banner" />
+					
+					</a>
+				
+			
+			<a href="/#" class="btn-close">Close</a>
+		</div>
+	</div>
+
+
+
+	<div id="footer-banner">
+		<div class="content-area">
+			
+				
+					<a href="/lomba-dan-penghargaan-2016/">
+					
+						<img src="/assets/galleries/Lomba-2016/Penghargaan-Simpul-Jaringan/_resampled/SetSize97060-Lomba.jpg" alt="banner" />
+					
+					</a>
+				
+						
+			<a href="/#" class="btn-close">Close</a>
+		</div>
+	</div>
+
+<footer role="contentinfo">
+	
+		<!-- navigasi bawah-->
+	<div class="links">
+		<div class="products">
+			<h4>Produk</h4>
+			<ul>
+				
+					<li><a href="/jaring-kontrol-geodesi/">Jaring Kontrol Geodesi</a></li>
+				
+					<li><a href="/peta-rupabumi/">Peta Rupabumi</a></li>
+				
+					<li><a href="/peta-kelautan/">Peta Kelautan</a></li>
+				
+					<li><a href="/atlas/">Atlas</a></li>
+				
+					<li><a href="/peta-tematik/">Peta Tematik</a></li>
+				
+					<li><a href="/dokumen-standar/">Dokumen Standar</a></li>
+				
+					<li><a href="/buku-geospasial/">Buku Geospasial</a></li>
+				
+					<li><a href="/jasa-survei-dan-pemetaan/">Jasa Survei dan Pemetaan</a></li>
+				
+					<li><a href="/jasa-diklat/">Jasa Diklat</a></li>
+				
+			</ul>
+		</div>
+		
+		<div class="services">
+			<h4>Layanan Publik</h4>
+			<ul>
+				
+					<li><a href="/maklumat-pelayanan/">Maklumat Pelayanan</a></li>
+				
+					<li><a href="/tarif-produk/">Tarif Produk</a></li>
+				
+					<li><a href="/prosedur-pelayanan/">Prosedur Pelayanan</a></li>
+				
+					<li><a href="/mutu-pelayanan/">Mutu Pelayanan</a></li>
+				
+					<li><a href="/sentra-peta/">Sentra Peta</a></li>
+				
+					<li><a href="/tutorial/">Tutorial</a></li>
+				
+					<li><a href="/direktori-spasial/">Direktori Spasial</a></li>
+				
+					<li><a href="/download/">Download</a></li>
+				
+					<li><a href="/indeks-bencana/">Indeks Bencana</a></li>
+				
+					<li><a href="/laporan-tahunan/">Laporan Tahunan</a></li>
+				
+					<li><a href="http://jurnal.big.go.id/">Jurnal Ilmiah</a></li>
+				
+					<li><a href="/indeks-kepuasan-masyarakat/">Indeks Kepuasan Masyarakat</a></li>
+				
+			</ul>
+		</div>
+<!-- end navigasi bawah-->
+		
+	
+	
+
+	<div class="copy">
+		<p>&copy; Copyright - Badan Informasi Geospasial — Integritas, Visioner, Tanggung Jawab, Kerjasama</p>
+	</div>
+</footer>
+<!-- End of Footer -->
+
+<script type="text/javascript" src="http://static.ak.fbcdn.net/connect.php/js/FB.Share"></script><script type="text/javascript">//<![CDATA[
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+
+//]]></script><script type="text/javascript">//<![CDATA[
+setTimeout("jQuery('#flying-banner').hide();",'20000'); // tutup flying main banner
+
+//]]></script><script type="text/javascript">//<![CDATA[
+setTimeout("jQuery('#footer-banner').hide();",'10000'); // tutup flying bottom banner
+
+//]]></script></body>
+</html>

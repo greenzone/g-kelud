@@ -1,0 +1,240 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+  <head>
+    
+    <title>Nepal Relief @ More Than Sport</title>
+    
+    <link rel="stylesheet" type="text/css" href="//rainmakerapp.s3.amazonaws.com/mts/css/main.css" />
+    <link rel="stylesheet" type="text/css" href="//rainmakerapp.s3.amazonaws.com/mts/css/hint.css" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet" />
+    <script src="//rainmakerapp.s3.amazonaws.com/mts/js/vendor/jquery-2.1.0.min.js"></script>
+    <script type="text/javascript" src="//rainmakerapp.s3.amazonaws.com/mts/js/build.js"></script>
+    <link rel="shortcut icon" type="image/x-icon" href="//rainmakerapp.s3.amazonaws.com/mts/images/favicon.png" />
+    <link rel="canonical" href="http://www.morethansport.org/partner/nepalrelief" />
+    <script type="text/javascript" src="//use.typekit.net/mxg2cyu.js"></script>
+    <script type="text/javascript">
+      try{Typekit.load({active:function(){
+        $(window).trigger('typekit-active');
+      }});}catch(e){}
+      
+    </script>
+    <script src="/static/widget/embed.js" type="text/javascript" charset="utf-8"></script>
+    <script>
+      var __rmSettings = {organization:'mts',domain:'www.morethansport.org'}
+      
+      
+    </script>
+  </head>
+  <body>
+    <div class="header fixed ">
+      <div class="content section">
+        <div style="position:relative" class="row"><a href="/" class="branding regular"><img src="//rainmakerapp.s3.amazonaws.com/mts/images/logo.png" style="height:50px" /></a><a href="/" class="branding white"><img src="//rainmakerapp.s3.amazonaws.com/mts/images/logo-white.png" style="height:50px" /></a><a href="#" style="display:inline-block" class="show-ul"><i class="fa fa-bars"></i></a>
+          <ul class="reset">
+            <li><a href="/learn-more">About</a></li>
+            <li><a href="/our-causes" class="active">Causes</a></li>
+            <li><a href="/athletes">Athletes</a></li>
+            <li><a href="#/my/donate">Donate</a></li>
+            <li><a href="http://shop.morethansport.org" target="_blank">Shop</a></li>
+            <li class="cta-nav-links">
+              <div class="cta-nav-link text-right"><a href="/start-a-fundraiser" class="cta-link">Start a Fundraiser
+                  <div class="circle-background"><i class="fa fa-caret-right"></i></div></a></div>
+              <div class="cta-nav-link text-right"><a href="#/my/account" class="cta-link">My Fundraiser Login
+                  <div class="circle-background"><i class="fa fa-caret-right"></i></div></a></div>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="feature">
+      <div style="background-image:url(/resource/momentum/project/386/091a733e717b2fbe403caff883698594)" class="image"></div>
+      <div class="mask"></div>
+      <div class="content">
+        <div class="face"><a><img src="/resource/momentum/project/386/cdacb6fc82417ec2af9b1b51c5941870/x:300/y:300" /></a></div>
+        <h1></h1>
+        <a href="#my/donate?project=386" data-action="donate" data-project="386" class="rain button rounded inline">Donate</a>
+        
+      </div>
+    </div>
+    
+    <div class="progress-bar-fancy">
+      <div class="progress">
+        <div style="width:57%" class="amount">
+          
+          <div class="label"><strong>$28K</strong> of $50K goal</div>
+        </div>
+      </div>
+    </div>
+    
+    <div class="content">
+      <div class="row">
+        <h2 style="text-transform:none" class="titling"><strong style="display:block">How you can help:</strong></h2>
+      </div>
+      <div class="row columns text-blocks">
+        <div class="col width-33">
+          <div class="icon"><i class="glyph glyph-goal"></i></div>
+          <h2>Our Goal</h2>
+          <p>Your support will go to fund a highly trained and motivated team which is already in Nepal. We will provide relief to the individuals affected by this tragic earthquake.</p><a href="#my/donate?project=386" class="button rounded inline">Make a Donation</a>
+        </div>
+        <div class="col width-33">
+          <div class="icon"><i class="glyph glyph-fundraise"></i></div>
+          <h2>Fundraise</h2>
+          <p>Every great story has a hero, a problem, and a solution. Here, you can start a fundraising campaign and help those the world forgets.  Thank you for being one of our Everyday Heroes!                                                       </p><a href="#" data-action="account.newFundraiser" data-type="fundraiser" data-project="386" class="rain button rounded inline">Start Fundraising</a>
+        </div>
+        <div class="col width-33">
+          <div class="icon"><i class="glyph glyph-team"></i></div>
+          <h2>Start a Team</h2>
+          <p>Changing lives through sport is just more fun together - so grab your friends, teammates, co-workers, family, or even complete strangers - create a team - and DO MORE together! </p><a href="#" data-action="account.newFundraiser" data-type="team" data-project="386" class="button rounded inline rain">Start a Team</a>
+        </div>
+      </div>
+    </div>
+    <div id="projects" class="gray-block">
+      <div class="content section">
+        <div class="row">
+          <h2 class="titling">Project Details</h2>
+        </div>
+        <div class="row columns main-text">
+          
+          <div class="col width-60 project-text width-80">
+            <div class="row">
+              <p>After hearing the destruction caused by the earthquake our team made the quick decision to abandon our immediate plans to climb Annapurna and return to the valleys below to see how we can help out. This trek is usually only made by helicopter because of the danger it presents, however we have decided to continue down to Pokhara, establishing a home base, on foot. We estimate the team will be fully up and running in Pokhara in 2-3 days.</p><p>We will continue to post updates as we transition from a climbing expedition into a disaster relief team, but in the interim we need your help. Up until now all expedition expenses were included in a base camp logistics package deal, but as soon as we leave the mountain all expedition support will cease and we must cover all our new expenses. </p><p>Our team of 7 is in an incredibly unique position to help, already located nearby some of the most affected areas of the earthquake. We are also highly trained: 3 of us have skill sets that include: professional climbing, training as an EMT, Search and Rescue and Firefighting. We have skill sets that include certifications in Incident Command,Technical Rigging, Building Extrication, Industrial Rigging, Hazmat Response, Confined Space Entry, Structural Welding, Heavy Equipment Operation, Metal and Structural Integrity, and First Aid<u></u><u></u></p><p>We need funding in order to use our skills to provide relief for the people of Nepal. Your support will also go to provide water filters, food, and any equipment necessary that will bring hope and restoration. Communications are critical in the remote regions, imperative for team safety, and for receiving directives and reporting needs of the Nepal people to our Disaster Relief Partners. Our Team of 7 is motivated, resilient, full of energy, and ready to use our skills and resources to assist wherever we can.</p>
+            </div>
+          </div>
+          <div class="col width-20 section">
+            <div class="row">
+              <ul class="reset social-icons">
+                <li><a href="#" rel="facebook-share" data-name="Do More / Nepal Relief" data-description="Your support will go to fund a highly trained and motivated team which is already in Nepal. We will provide relief to the individuals affected by this tragic earthquake." data-photo="http://www.morethansport.org/resource/momentum/project/386/091a733e717b2fbe403caff883698594/x:500/y:500"><i class="fa fa-facebook"></i></a></li>
+                <li><a href="#" rel="twitter-share" data-message="Nepal Relief - "><i class="fa fa-twitter"></i></a></li>
+                <li><a href="#" rel="gplus-share"><i class="fa fa-google-plus"></i></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="border-bottom:1px solid #DADADA;padding-bottom:50px;margin-bottom:60px" class="row">
+      <div class="content">
+        <h2 class="titling">We're raising funds for Nepal Relief.<strong style="white-space:nowrap"> Join Us.</strong></h2>
+        <div class="row columns profile-blocks center">
+          
+        </div>
+      </div>
+    </div>
+    
+<div class="content">
+  <div class="row">
+    <h2 class="titling">Gear with a purpose
+    </h2>
+  </div>
+  
+  <div class="row columns featured-products">
+    <div class="col width-33 section"><a href="http://shop.morethansport.org/collections/mens/products/surfmore-mens-t-shirt?variant=3383924357" target="_blank" style="display:block">
+        <div class="row"><img src="http://cdn.shopify.com/s/files/1/0164/0164/products/surf_more_large.png?v=1435094217" /></div>
+        <div class="row pricing"><span class="price">$25</span><strong>SurfMore Men's T-Shirt</strong><em></em></div></a></div>
+    <div class="col width-33 section"><a href="http://shop.morethansport.org/collections/mens/products/surfmore-mens-t-shirt?variant=4628545285" target="_blank" style="display:block">
+        <div class="row"><img src="http://cdn.shopify.com/s/files/1/0164/0164/products/surf_more_black_large.png?v=1440456964" /></div>
+        <div class="row pricing"><span class="price">$25</span><strong>SurfMore Men's T-Shirt</strong><em></em></div></a></div>
+    <div class="custom-row">
+      <div class="col width-33 section"><a href="http://shop.morethansport.org/products/more-than-sport-camo-5-panel" target="_blank" style="display:block">
+          <div class="row"><img src="http://cdn.shopify.com/s/files/1/0164/0164/products/Camo_5_panel_6afbbbf5-4518-4517-9b56-1933189f5858_large.jpg?v=1443509169" /></div>
+          <div class="row pricing"><span class="price">$25</span><strong>More the Sport Camo 5 Panel</strong><em></em></div></a></div>
+    </div>
+  </div>
+  
+  <style>
+    .custom-row img{
+      margin-bottom:66px;
+    }
+  </style>
+</div>
+  
+    
+<div class="footer">
+  <div class="content section">
+    <div class="row columns">
+      <div class="col width-25">
+        <h2>Connect</h2>
+        <ul class="reset social-links">
+          
+          <li><a href="https://www.facebook.com/MoreThanSport" target="_blank"><i class="fa fa-facebook"></i></a></li>
+          
+          
+          <li><a href="http://instagram.com/morethansport" target="_blank"><i class="fa fa-instagram"></i></a></li>
+          
+          
+          <li><a href="http://twitter.com/morethansport" target="_blank"><i class="fa fa-twitter"></i></a></li>
+          
+          
+          
+          
+          <li><a href="http://vimeo.com/morethansport" target="_blank"><i class="fa fa-vimeo-square"></i></a></li>
+          
+        </ul>
+        <div class="row"><a href="#">info@morethansport.org</a></div>
+      </div>
+      <div class="col width-25">
+        <h2><a href="/learn-more">About</a></h2>
+        <ul class="reset in-rows">
+          <li><a href="/learn-more">About</a></li>
+          <li><a href="/athletes">Athletes</a></li>
+          <li><a href="http://blog.morethansport.org">Blog</a></li>
+          <li><a href="/internships">Internships</a></li>
+          <li><a href="//rainmakerapp.s3.amazonaws.com/mts/images/ImpactSummary.pdf" target="_blank">Impact Summary</a></li>
+          <li><a href="/partners">Partners</a></li>
+        </ul>
+      </div>
+      <div class="col width-25">
+        <h2><a href="/our-causes">Causes</a></h2>
+        <ul class="reset in-rows">
+          <li><a href="/cause/food">Food</a></li>
+          <li><a href="/cause/water">Water</a></li>
+          <li><a href="/cause/shelter">Shelter</a></li>
+          <li><a href="/cause/medical">Medical</a></li>
+          <li><a href="/cause/education">Education</a></li>
+        </ul>
+      </div>
+      <div class="col width-25">
+        <h2>How to Help</h2>
+        <ul class="reset in-rows">
+          <li><a href="#/my/donate">Donate</a></li>
+          <li><a href="/start-a-fundraiser">Fundraise</a></li>
+          <li><a href="/volunteer">Volunteer</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+    <script type="text/javascript" src="//rainmakerapp.s3.amazonaws.com/mts/js/vendor/snap.svg.js"></script>
+    <script type="text/javascript" src="//rainmakerapp.s3.amazonaws.com/mts/js/vendor/pizza.js"></script>
+    <script>
+      $(function(){
+        Pizza.init();
+      })
+    </script>
+  
+    <div id="fb-root"></div>
+    <script type="text/javascript">
+      var facebookAppId = '1406434856279607';
+      var facebookChannelFile = '//www.morethansport.org/act/session/facebook_channel_file';
+    </script>
+    <script type="text/javascript">
+      (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1";
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));
+    </script>
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      
+      ga('create', 'UA-43399272-1', 'morethansport.org');
+      ga('send', 'pageview');
+    </script>
+  </body>
+</html>

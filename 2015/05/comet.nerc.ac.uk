@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-GB" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-GB" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if !(IE 7) & !(IE 8)]><!-->
+<html lang="en-GB" prefix="og: http://ogp.me/ns#">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<title>Welcome to COMET - COMET</title>
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://comet.nerc.ac.uk/xmlrpc.php">
+	<!--[if lt IE 9]>
+	<script src="http://comet.nerc.ac.uk/wp-content/themes/twentyfourteen/js/html5.js"></script>
+	<![endif]-->
+	
+<!-- This site is optimized with the Yoast SEO plugin v3.2.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://comet.nerc.ac.uk/" />
+<meta property="og:locale" content="en_GB" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Welcome to COMET - COMET" />
+<meta property="og:description" content=" Latest News A COMET-led paper on 2014 Napa Valley earthquake is now the most shared on the AGU&#8217;s EoS website.  Congratulations to lead author John Elliott et al.! Andy Hooper receives 2016 AGU Macelwane Medal Icelandic volcano collapse explained Our research combines techniques such as Synthetic Aperture Radar Interferometry (InSAR) with ground-based observations and geophysical models &hellip; Continue reading Welcome to COMET &rarr;" />
+<meta property="og:url" content="http://comet.nerc.ac.uk/" />
+<meta property="og:site_name" content="COMET" />
+<meta property="og:image" content="http://comet.nerc.ac.uk/wp-content/uploads/2016/07/a.hooper.jpg" />
+<meta property="og:image" content="http://comet.nerc.ac.uk/wp-content/uploads/2016/07/Bardarbunga-dike-150x150.jpg" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","url":"http:\/\/comet.nerc.ac.uk\/","name":"COMET","potentialAction":{"@type":"SearchAction","target":"http:\/\/comet.nerc.ac.uk\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="COMET &raquo; Feed" href="http://comet.nerc.ac.uk/feed/" />
+<link rel="alternate" type="application/rss+xml" title="COMET &raquo; Comments Feed" href="http://comet.nerc.ac.uk/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/comet.nerc.ac.uk\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.3"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='twentyfourteen-jetpack-css'  href='http://comet.nerc.ac.uk/wp-content/plugins/jetpack/modules/theme-tools/compat/twentyfourteen.css?ver=4.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='tt-public-css-main-css'  href='http://comet.nerc.ac.uk/wp-content/plugins/tweetthis/assets/css/public-main.css?ver=4.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='tt-public-css-theme-css'  href='http://comet.nerc.ac.uk/wp-content/plugins/tweetthis/assets/css/themes/light_hc.css?ver=4.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='twentyfourteen-lato-css'  href='https://fonts.googleapis.com/css?family=Lato%3A300%2C400%2C700%2C900%2C300italic%2C400italic%2C700italic&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='http://comet.nerc.ac.uk/wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css?ver=3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='twentyfourteen-style-css'  href='http://comet.nerc.ac.uk/wp-content/themes/twentyfourteen/style.css?ver=4.5.3' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentyfourteen-ie-css'  href='http://comet.nerc.ac.uk/wp-content/themes/twentyfourteen/css/ie.css?ver=20131205' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='jetpack_css-css'  href='http://comet.nerc.ac.uk/wp-content/plugins/jetpack/css/jetpack.css?ver=4.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='event-list-css'  href='http://comet.nerc.ac.uk/wp-content/plugins/event-list/includes/css/event-list.css?ver=4.5.3' type='text/css' media='all' />
+<script type='text/javascript' src='http://comet.nerc.ac.uk/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://comet.nerc.ac.uk/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://comet.nerc.ac.uk/wp-content/plugins/tweetthis/assets/js/tweet-this-box.js?ver=4.5.3'></script>
+<link rel='https://api.w.org/' href='http://comet.nerc.ac.uk/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://comet.nerc.ac.uk/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://comet.nerc.ac.uk/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.5.3" />
+<link rel='shortlink' href='http://wp.me/P5NBzI-6' />
+<link rel="alternate" type="application/json+oembed" href="http://comet.nerc.ac.uk/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fcomet.nerc.ac.uk%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://comet.nerc.ac.uk/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fcomet.nerc.ac.uk%2F&#038;format=xml" />
+<script>
+	function expand(param) {
+		param.style.display = (param.style.display == "none") ? "block" : "none";
+	}
+	function read_toggle(id, more, less) {
+		el = document.getElementById("readlink" + id);
+		el.innerHTML = (el.innerHTML == more) ? less : more;
+		expand(document.getElementById("read" + id));
+	}
+	</script>
+<link rel='dns-prefetch' href='//v0.wordpress.com'>
+<link rel='dns-prefetch' href='//widgets.wp.com'>
+<link rel='dns-prefetch' href='//s0.wp.com'>
+<link rel='dns-prefetch' href='//0.gravatar.com'>
+<link rel='dns-prefetch' href='//1.gravatar.com'>
+<link rel='dns-prefetch' href='//2.gravatar.com'>
+<style type='text/css'>img#wpstats{display:none}</style>	<style type="text/css" id="twentyfourteen-header-css">
+			.site-title a {
+			color: #5ed100;
+		}
+		</style>
+	<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #000000; }
+</style>
+<style type="text/css">.wpbizplugins-ssnb-updated-date {
+              color: darkgrey;
+          }</style></head>
+
+<body class="home page page-id-6 page-template-default custom-background header-image footer-widgets grid">
+<div id="page" class="hfeed site">
+		<div id="site-header">
+		<a href="http://comet.nerc.ac.uk/" rel="home">
+			<img src="http://comet.nerc.ac.uk/wp-content/uploads/2015/07/cropped-JE-Napa.png" width="1260" height="240" alt="COMET">
+		</a>
+	</div>
+	
+	<header id="masthead" class="site-header" role="banner">
+		<div class="header-main">
+			<h1 class="site-title"><a href="http://comet.nerc.ac.uk/" rel="home">COMET</a></h1>
+
+			<div class="search-toggle">
+				<a href="#search-container" class="screen-reader-text" aria-expanded="false" aria-controls="search-container">Search</a>
+			</div>
+
+			<nav id="primary-navigation" class="site-navigation primary-navigation" role="navigation">
+				<button class="menu-toggle">Primary Menu</button>
+				<a class="screen-reader-text skip-link" href="#content">Skip to content</a>
+				<div class="menu-main-container"><ul id="primary-menu" class="nav-menu"><li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-6 current_page_item menu-item-36"><a href="http://comet.nerc.ac.uk/">Welcome to COMET</a></li>
+<li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35"><a href="http://comet.nerc.ac.uk/about/">Our research</a></li>
+<li id="menu-item-489" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-489"><a href="http://comet.nerc.ac.uk/earth-observation/">Geohazards &#038; Earth observation</a></li>
+<li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="http://comet.nerc.ac.uk/latest-earthquakes-and-eruptions/">Earthquakes &#038; eruptions</a></li>
+<li id="menu-item-1182" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1182"><a href="http://comet.nerc.ac.uk/research-impact/">Research impact</a></li>
+<li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a href="http://comet.nerc.ac.uk/publications/">COMET publications</a></li>
+<li id="menu-item-70" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-70"><a href="http://comet.nerc.ac.uk/about/our-projects/">COMET projects</a></li>
+<li id="menu-item-798" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-798"><a href="http://comet.nerc.ac.uk/in-the-news/">In the news</a></li>
+</ul></div>			</nav>
+		</div>
+
+		<div id="search-container" class="search-box-wrapper hide">
+			<div class="search-box">
+				<form role="search" method="get" class="search-form" action="http://comet.nerc.ac.uk/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form>			</div>
+		</div>
+	</header><!-- #masthead -->
+
+	<div id="main" class="site-main">
+
+<div id="main-content" class="main-content">
+
+	<div id="primary" class="content-area">
+		<div id="content" class="site-content" role="main">
+
+			
+<article id="post-6" class="post-6 page type-page status-publish hentry">
+	<header class="entry-header"><h1 class="entry-title">Welcome to COMET</h1></header><!-- .entry-header -->
+	<div class="entry-content">
+		<h2 style="text-align: center;"> Latest News</h2>
+<p style="text-align: center;"><strong>A<a href="http://comet.nerc.ac.uk/earthquake-monitoring-gets-boost-from-new-satellite/"> COMET-led paper</a> on 2014 Napa Valley earthquake is now the most shared on the <a href="https://eos.org/project-updates/earthquake-monitoring-gets-boost-new-satellite">AGU&#8217;s EoS website</a>.  Congratulations to lead author John Elliott <em>et al.</em>!</strong></p>
+<hr />
+<p style="text-align: center;"><span style="color: #008000;"><a style="color: #008000;" href="http://comet.nerc.ac.uk/andy-hooper-receives-2016-agu-macelwane-medal/"><span style="text-decoration: underline;"><strong>Andy Hooper receives 2016 AGU Macelwane Medal</strong></span></a></span></p>
+<p style="text-align: center;"><a href="http://comet.nerc.ac.uk/wp-content/uploads/2016/07/a.hooper.jpg"><img class="aligncenter size-full wp-image-1344" src="http://comet.nerc.ac.uk/wp-content/uploads/2016/07/a.hooper.jpg" alt="a.hooper" width="122" height="180" /></a></p>
+<hr />
+<p style="text-align: center;"><span style="color: #008000;"><a style="color: #008000;" href="http://comet.nerc.ac.uk/iceland-volcano-collapse-explained/"><span style="text-decoration: underline;"><strong>Icelandic volcano collapse explained</strong></span></a></span></p>
+<p style="text-align: center;"><a href="http://comet.nerc.ac.uk/wp-content/uploads/2016/07/Bardarbunga-dike.jpg"><img class="aligncenter wp-image-1327 size-thumbnail" src="http://comet.nerc.ac.uk/wp-content/uploads/2016/07/Bardarbunga-dike-150x150.jpg" alt="Bardarbunga dike" width="150" height="150" /></a></p>
+<hr />
+<p>Our research combines techniques such as Synthetic Aperture Radar Interferometry (<a title="InSAR" href="http://tempcomet.leeds.ac.uk/?page_id=61">InSAR</a>) with ground-based observations and geophysical models to study earthquakes and volcanoes, and help understand the hazards they pose.</p>
+<p>Since April 2014, we have been working in partnership with the <span lang="EN-GB"><a href="http://www.bgs.ac.uk/home.html?src=topNav">British Geological Survey</a> (BGS) to </span><span lang="EN-GB">deliver cutting-edge research on earthquakes and volcanoes as well as hazard monitoring services.</span> We also work closely with the <a href="http://www.nerc.ac.uk/"><span lang="EN-GB">Natural Environment Research Council</span></a><span lang="EN-GB"> (NERC), </span><a href="http://www.nceo.ac.uk/"><span lang="EN-GB">National Centre for Earth Observation</span></a><span lang="EN-GB"> (NCEO) and </span><a href="http://www.esa.int/"><span lang="EN-GB">European Space Agency</span></a><span lang="EN-GB"> (ESA), as well as many other national and international partners.</span></p>
+<p><a class="twitter-timeline" href="https://twitter.com/NERC_COMET" data-widget-id="568368605440798720">Tweets by @NERC_COMET</a><script>// <![CDATA[
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+// ]]&gt;</script></p>
+	</div><!-- .entry-content -->
+</article><!-- #post-## -->
+
+		</div><!-- #content -->
+	</div><!-- #primary -->
+	<div id="content-sidebar" class="content-sidebar widget-area" role="complementary">
+	<aside id="simpleimage-26" class="widget widget_simpleimage">
+
+	<p class="simple-image">
+		<img width="2651" height="2480" src="http://comet.nerc.ac.uk/wp-content/uploads/2015/03/COMET_Vertical_Colour.jpg" class="attachment-full size-full" alt="COMET_Vertical_Colour" srcset="http://comet.nerc.ac.uk/wp-content/uploads/2015/03/COMET_Vertical_Colour.jpg 2651w, http://comet.nerc.ac.uk/wp-content/uploads/2015/03/COMET_Vertical_Colour-300x281.jpg 300w, http://comet.nerc.ac.uk/wp-content/uploads/2015/03/COMET_Vertical_Colour-768x718.jpg 768w, http://comet.nerc.ac.uk/wp-content/uploads/2015/03/COMET_Vertical_Colour-1024x958.jpg 1024w" sizes="(max-width: 2651px) 100vw, 2651px" />	</p>
+
+
+</aside><aside id="wpbizplugins_ssnb_widget-2" class="widget widget_wpbizplugins_ssnb_widget"><div class="wpbizplugins-ssnb-full-container"><h3 id="wpbizplugins-ssnb-title">COMET News</h3><div class="wpbizplugins-ssnb-content"><p><span style="text-decoration: underline;"><span style="color: #339966;"><strong><a style="color: #339966; text-decoration: underline;" href="http://comet.nerc.ac.uk/andy-hooper-receives-2016-agu-macelwane-medal/">Andy Hooper receives 2016 AGU Macelwane Medal</a></strong></span></span></p>
+<p><span style="text-decoration: underline;"><a href="http://comet.nerc.ac.uk/iceland-volcano-collapse-explained/"><strong>Icelandic volcano collapse explained</strong></a></span></p>
+<p><span style="text-decoration: underline;"><a href="http://comet.nerc.ac.uk/coupling-volcanic-gas-emission-measurements-computational-models-conduit-gas-flow/"><strong>Coupling volcanic gas emission measurements to computational models of conduit gas flow</strong></a></span></p>
+<p><span style="text-decoration: underline;"><strong><a href="http://comet.nerc.ac.uk/wp-admin/post.php?post=1271&amp;action=edit">Airborne volcanic ash detection using infrared spectral imaging</a></strong></span></p>
+<p><span style="text-decoration: underline;"><strong><a href="http://tempcomet.leeds.ac.uk/vertical-distribution-of-volcanic-so2-plumes-measured-by-iasi/">Vertical distribution of volcanic SO2 plumes measured by IASI</a></strong></span></p>
+<p><span style="text-decoration: underline;"><strong><a href="http://tempcomet.leeds.ac.uk/detecting-geohazards-with-gps/">Detecting geohazards with GPS in near real-time</a></strong></span></p>
+<p><span style="text-decoration: underline;"><strong><a href="http://tempcomet.leeds.ac.uk/jumping-earthquakes-limits-to-rupture-forecasting-exposed-by-instantaneously-triggered-earthquake-doublet/" target="_blank">Jumping Earthquakes: limits to rupture forecasting exposed by instantaneously triggered earthquake doublet</a></strong></span></p>
+<p><span style="color: #008000; text-decoration: underline;"><strong><a href="http://tempcomet.leeds.ac.uk/comet-studentships-2016/">COMET PhD Opportunities</a></strong></span></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div><div class="wpbizplugins-ssnb-updated-date"><em>Last updated</em> 07:55, 22-07-2016</div></div></aside><aside id="archives-4" class="widget widget_archive"><h1 class="widget-title">All news stories</h1>		<label class="screen-reader-text" for="archives-dropdown-4">All news stories</label>
+		<select id="archives-dropdown-4" name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+			
+			<option value="">Select Month</option>
+				<option value='http://comet.nerc.ac.uk/2016/07/'> July 2016 </option>
+	<option value='http://comet.nerc.ac.uk/2016/05/'> May 2016 </option>
+	<option value='http://comet.nerc.ac.uk/2016/04/'> April 2016 </option>
+	<option value='http://comet.nerc.ac.uk/2016/02/'> February 2016 </option>
+	<option value='http://comet.nerc.ac.uk/2016/01/'> January 2016 </option>
+	<option value='http://comet.nerc.ac.uk/2015/12/'> December 2015 </option>
+	<option value='http://comet.nerc.ac.uk/2015/11/'> November 2015 </option>
+	<option value='http://comet.nerc.ac.uk/2015/10/'> October 2015 </option>
+	<option value='http://comet.nerc.ac.uk/2015/09/'> September 2015 </option>
+	<option value='http://comet.nerc.ac.uk/2015/08/'> August 2015 </option>
+	<option value='http://comet.nerc.ac.uk/2015/07/'> July 2015 </option>
+	<option value='http://comet.nerc.ac.uk/2015/06/'> June 2015 </option>
+	<option value='http://comet.nerc.ac.uk/2015/05/'> May 2015 </option>
+	<option value='http://comet.nerc.ac.uk/2015/04/'> April 2015 </option>
+	<option value='http://comet.nerc.ac.uk/2015/03/'> March 2015 </option>
+	<option value='http://comet.nerc.ac.uk/2015/02/'> February 2015 </option>
+
+		</select>
+		</aside><aside id="event_list_widget-5" class="widget widget_event_list_widget"><h1 class="widget-title">Upcoming events:</h1>
+				<div class="event-list"><p>no event</p>
+				</div><div style="clear:both"><a title="see all events" href="http://tempcomet.leeds.ac.uk/events-2/">see all events</a></div></aside><aside id="blog_subscription-3" class="widget jetpack_subscription_widget"><h1 class="widget-title">Subscribe to the latest COMET news</h1>
+			<form action="#" method="post" accept-charset="utf-8" id="subscribe-blog-blog_subscription-3">
+				<div id="subscribe-text"></div><p>Join 29 other subscribers</p>
+					<p id="subscribe-email">
+						<label id="jetpack-subscribe-label" for="subscribe-field-blog_subscription-3">
+							Email Address						</label>
+						<input type="email" name="email" required="required" class="required" value="" id="subscribe-field-blog_subscription-3" placeholder="Email Address" />
+					</p>
+
+					<p id="subscribe-submit">
+						<input type="hidden" name="action" value="subscribe" />
+						<input type="hidden" name="source" value="http://comet.nerc.ac.uk/" />
+						<input type="hidden" name="sub-type" value="widget" />
+						<input type="hidden" name="redirect_fragment" value="blog_subscription-3" />
+												<input type="submit" value="Subscribe" name="jetpack_subscriptions_widget" />
+					</p>
+							</form>
+
+			<script>
+			/*
+			Custom functionality for safari and IE
+			 */
+			(function( d ) {
+				// In case the placeholder functionality is available we remove labels
+				if ( ( 'placeholder' in d.createElement( 'input' ) ) ) {
+					var label = d.querySelector( 'label[for=subscribe-field-blog_subscription-3]' );
+						label.style.clip 	 = 'rect(1px, 1px, 1px, 1px)';
+						label.style.position = 'absolute';
+						label.style.height   = '1px';
+						label.style.width    = '1px';
+						label.style.overflow = 'hidden';
+				}
+
+				// Make sure the email value is filled in before allowing submit
+				var form = d.getElementById('subscribe-blog-blog_subscription-3'),
+					input = d.getElementById('subscribe-field-blog_subscription-3'),
+					handler = function( event ) {
+						if ( '' === input.value ) {
+							input.focus();
+
+							if ( event.preventDefault ){
+								event.preventDefault();
+							}
+
+							return false;
+						}
+					};
+
+				if ( window.addEventListener ) {
+					form.addEventListener( 'submit', handler, false );
+				} else {
+					form.attachEvent( 'onsubmit', handler );
+				}
+			})( document );
+			</script>
+				
+</aside><aside id="categories-2" class="widget widget_categories"><h1 class="widget-title">Categories</h1><label class="screen-reader-text" for="cat">Categories</label><select name='cat' id='cat' class='postform' >
+	<option value='-1'>Select Category</option>
+	<option class="level-0" value="4">COMET news</option>
+	<option class="level-0" value="5">Earthquakes</option>
+	<option class="level-0" value="7">Events</option>
+	<option class="level-0" value="31">Tectonics</option>
+	<option class="level-0" value="1">Uncategorised</option>
+	<option class="level-0" value="29">Volcanoes</option>
+</select>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "cat" );
+	function onCatChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value > 0 ) {
+			location.href = "http://comet.nerc.ac.uk/?cat=" + dropdown.options[ dropdown.selectedIndex ].value;
+		}
+	}
+	dropdown.onchange = onCatChange;
+})();
+/* ]]> */
+</script>
+
+</aside></div><!-- #content-sidebar -->
+</div><!-- #main-content -->
+
+<div id="secondary">
+		<h2 class="site-description">Centre for Observation and Modelling of Earthquakes, Volcanoes and Tectonics</h2>
+	
+		<nav role="navigation" class="navigation site-navigation secondary-navigation">
+		<div class="menu-secondary-menu-container"><ul id="menu-secondary-menu" class="menu"><li id="menu-item-906" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-906"><a href="http://comet.nerc.ac.uk/comet-datasets-and-services/">COMET datasets and services</a></li>
+<li id="menu-item-73" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-73"><a href="http://comet.nerc.ac.uk/whos-who/">Who&#8217;s who</a></li>
+<li id="menu-item-799" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-799"><a href="http://comet.nerc.ac.uk/contact-us/">Contact us</a></li>
+<li id="menu-item-75" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="http://comet.nerc.ac.uk/for-media/">For media</a></li>
+<li id="menu-item-74" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-74"><a href="http://comet.nerc.ac.uk/for-schools/">For students</a></li>
+<li id="menu-item-402" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-402"><a href="http://comet.nerc.ac.uk/members-area/">Members&#8217; area</a></li>
+<li id="menu-item-379" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-379"><a href="http://comet.nerc.ac.uk/associate-membership/">Associate membership</a></li>
+<li id="menu-item-434" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-434"><a href="http://comet.nerc.ac.uk/privacy/">Privacy</a></li>
+</ul></div>	</nav>
+	
+	</div><!-- #secondary -->
+
+		</div><!-- #main -->
+
+		<footer id="colophon" class="site-footer" role="contentinfo">
+
+			
+<div id="supplementary">
+	<div id="footer-sidebar" class="footer-sidebar widget-area" role="complementary">
+		<aside id="simpleimage-15" class="widget widget_simpleimage">
+
+	<p class="simple-image">
+		<a href="http://www.bgs.ac.uk" target="_blank"><img width="200" height="45" src="http://comet.nerc.ac.uk/wp-content/uploads/2015/04/bgslogo200.gif" class="attachment-full size-full" alt="bgslogo200" /></a>	</p>
+
+
+</aside><aside id="simpleimage-16" class="widget widget_simpleimage">
+
+	<p class="simple-image">
+		<a href="http://www.bristol.ac.uk" target="_blank"><img width="236" height="69" src="http://comet.nerc.ac.uk/wp-content/uploads/2015/04/Bristol.gif" class="attachment-full size-full" alt="Bristol" /></a>	</p>
+
+
+</aside><aside id="simpleimage-24" class="widget widget_simpleimage">
+
+	<p class="simple-image">
+		<a href="http://www.ucl.ac.uk" target="_blank"><img width="300" height="88" src="http://comet.nerc.ac.uk/wp-content/uploads/2015/04/UCL.png" class="attachment-full size-full" alt="UCL" /></a>	</p>
+
+
+</aside><aside id="simpleimage-23" class="widget widget_simpleimage">
+
+	<p class="simple-image">
+		<a href="http://www.reading.ac.uk" target="_blank"><img width="168" height="59" src="http://comet.nerc.ac.uk/wp-content/uploads/2015/04/reading.jpg" class="attachment-full size-full" alt="reading" /></a>	</p>
+
+
+</aside><aside id="simpleimage-22" class="widget widget_simpleimage">
+
+	<p class="simple-image">
+		<a href="http://www.ox.ac.uk" target="_blank"><img width="150" height="150" src="http://comet.nerc.ac.uk/wp-content/uploads/2015/04/ox_brand_cmyk_pos2-150x150.png" class="attachment-thumbnail size-thumbnail" alt="ox_brand_cmyk_pos2" srcset="http://comet.nerc.ac.uk/wp-content/uploads/2015/04/ox_brand_cmyk_pos2-150x150.png 150w, http://comet.nerc.ac.uk/wp-content/uploads/2015/04/ox_brand_cmyk_pos2-300x300.png 300w, http://comet.nerc.ac.uk/wp-content/uploads/2015/04/ox_brand_cmyk_pos2-1024x1024.png 1024w" sizes="(max-width: 150px) 100vw, 150px" /></a>	</p>
+
+
+</aside><aside id="simpleimage-21" class="widget widget_simpleimage">
+
+	<p class="simple-image">
+		<a href="http://www.ncl.ac.uk" target="_blank"><img width="300" height="105" src="http://comet.nerc.ac.uk/wp-content/uploads/2015/04/Newcastle_University-300x105.jpeg" class="attachment-medium size-medium" alt="Newcastle_University" srcset="http://comet.nerc.ac.uk/wp-content/uploads/2015/04/Newcastle_University-300x105.jpeg 300w, http://comet.nerc.ac.uk/wp-content/uploads/2015/04/Newcastle_University-1024x360.jpeg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>	</p>
+
+
+</aside><aside id="simpleimage-20" class="widget widget_simpleimage">
+
+	<p class="simple-image">
+		<a href="http://www.nerc.ac.uk" target="_blank"><img width="115" height="80" src="http://comet.nerc.ac.uk/wp-content/uploads/2015/04/nerc-logo-115.png" class="attachment-full size-full" alt="nerc-logo-115" /></a>	</p>
+
+
+</aside><aside id="simpleimage-19" class="widget widget_simpleimage">
+
+	<p class="simple-image">
+		<a href="http://www.leeds.ac.uk" target="_blank"><img width="300" height="86" src="http://comet.nerc.ac.uk/wp-content/uploads/2015/04/logo_white-300x86.png" class="attachment-medium size-medium" alt="logo_white" srcset="http://comet.nerc.ac.uk/wp-content/uploads/2015/04/logo_white-300x86.png 300w, http://comet.nerc.ac.uk/wp-content/uploads/2015/04/logo_white.png 768w" sizes="(max-width: 300px) 100vw, 300px" /></a>	</p>
+
+
+</aside><aside id="simpleimage-17" class="widget widget_simpleimage">
+
+	<p class="simple-image">
+		<a href="http://www.cam.ac.uk" target="_blank"><img width="288" height="61" src="http://comet.nerc.ac.uk/wp-content/uploads/2015/04/cambridge.png" class="attachment-full size-full" alt="cambridge" /></a>	</p>
+
+
+</aside><aside id="simpleimage-18" class="widget widget_simpleimage">
+
+	<p class="simple-image">
+		<a href="http://www.liv.ac.uk" target="_blank"><img width="352" height="143" src="http://comet.nerc.ac.uk/wp-content/uploads/2015/04/Liverpool.jpg" class="attachment-full size-full" alt="Liverpool" srcset="http://comet.nerc.ac.uk/wp-content/uploads/2015/04/Liverpool.jpg 352w, http://comet.nerc.ac.uk/wp-content/uploads/2015/04/Liverpool-300x122.jpg 300w" sizes="(max-width: 352px) 100vw, 352px" /></a>	</p>
+
+
+</aside>	</div><!-- #footer-sidebar -->
+</div><!-- #supplementary -->
+
+			<div class="site-info">
+								<a href="https://wordpress.org/">Proudly powered by WordPress</a>
+			</div><!-- .site-info -->
+		</footer><!-- #colophon -->
+	</div><!-- #page -->
+
+		<div style="display:none">
+	</div>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201633'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2016Augaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://comet.nerc.ac.uk/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.5.3'></script>
+<script type='text/javascript' src='http://comet.nerc.ac.uk/wp-includes/js/masonry.min.js?ver=3.1.2'></script>
+<script type='text/javascript' src='http://comet.nerc.ac.uk/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2'></script>
+<script type='text/javascript' src='http://comet.nerc.ac.uk/wp-content/themes/twentyfourteen/js/functions.js?ver=20150315'></script>
+<script type='text/javascript' src='http://comet.nerc.ac.uk/wp-includes/js/wp-embed.min.js?ver=4.5.3'></script>
+<script type='text/javascript' src='http://stats.wp.com/e-201633.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:4.0.2',blog:'85704194',post:'6',tz:'0',srv:'comet.nerc.ac.uk'} ]);
+	_stq.push([ 'clickTrackerInit', '85704194', '6' ]);
+</script>
+</body>
+</html>

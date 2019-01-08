@@ -1,0 +1,191 @@
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>Kementerian Dalam Negeri - Republik Indonesia</title><meta name="title" content="Kementerian Dalam Negeri - Republik Indonesia"/><meta name="description" content=""/><meta name="keywords" content=""/><link rel="alternate" type="application/rss+xml" title="Kemendagri" href="/rss" /> <!--[if lt IE 9]><script src="js/html5.js"></script><![endif]--><link rel="icon" href="/template/depdagrinew/images/favicon.ico" type="image/x-icon" /><link rel="shortcut icon" href="/template/depdagrinew/images/favicon.ico" type="image/x-icon" /><link rel="stylesheet" type="text/css" media="all" href="/template/depdagrinew/css/unsemantic-grid-responsive.css" /><link rel="stylesheet" type="text/css" media="all" href="/template/depdagrinew/css/superfish.css" /><link rel="stylesheet" type="text/css" media="all" href="/template/depdagrinew/css/flexslider.css" /><link rel="stylesheet" type="text/css" media="all" href="/template/depdagrinew/css/bootstrap.min.css" /><link rel="stylesheet" type="text/css" media="all" href="/template/depdagrinew/css/font-awesome.min.css" /><link rel="stylesheet" type="text/css" media="all" href="/template/depdagrinew/css/style.css" /><!--[if lt IE 8]><link rel="stylesheet" type="text/css" media="all" href="/template/depdagrinew/css/ie8minus.css" /><![endif]--><link rel="stylesheet" type="text/css" media="all" href="/template/bank/default/css/default.css" /><link href="/js/libs/jquery/plugin/fancybox/1.3.1/jquery.fancybox-1.3.1.css" rel="stylesheet" type="text/css" /><link href="/js/libs/jquery/plugin/nivo/nivo-slider.css" rel="stylesheet" type="text/css" /><link href="/js/libs/jquery/plugin/jcarousel/skins/custom/skin.css" rel="stylesheet" type="text/css" /><link href="/js/libs/jquery/plugin/bxslider/bx_styles/bx_styles.css" rel="stylesheet" type="text/css" /><!--[if (lt IE 9) & (!IEMobile)]><link rel="stylesheet" href="stylesheets/ie.css" /><![endif]-->
+<script type="text/javascript">
+<!--
+    var BLANK_URL = '/js/blank.html';
+    var BLANK_IMGX = '/js/spacer.gif';
+//-->
+</script><link rel="stylesheet" type="text/css" media="all" href="/js/libs/jqueryui/1.8.5/css/smoothness/jquery-ui-1.8.5.custom.css" /><script type="text/javascript" src="/js/libs/jquery/1.4.2/jquery.min.js"></script>
+<script type="text/javascript" src="/js/libs/jqueryui/1.8.5/jquery-ui-1.8.5.custom.min.js"></script>
+<script type="text/javascript" language="javascript">
+    <!--
+    jQuery.noConflict();
+    //-->
+    </script>
+<script type="text/javascript" src="/js/libs/prototype/1.6.1.0/prototype.js"></script>
+<script type="text/javascript" src="/js/libs/scriptaculous/1.8.3/scriptaculous.js"></script>
+<script type="text/javascript" src="/js/libs/prototype/control/livepipe.js"></script>
+<script type="text/javascript" src="/js/libs/prototype/control/window.js"></script>
+<script type="text/javascript" src="/js/libs/prototype/validation/1.5.4.1/validation.js"></script>
+<script type="text/javascript" src="/js/myindo.js"></script>
+<script type="text/javascript" src="/js/myindo.function.js"></script>
+<script type="text/javascript" language="javascript">
+<!--
+var myindo = '';
+var uri_string = '';
+var modalLoader = '';
+var tweetmeme_style = 'compact';
+
+jQuery(document).ready(function($) {
+    uri_string = '';
+    var options = {
+        base_url: '/',
+        index_page: '',
+        image_url: '/images/'
+    }
+    myindo = new MyIndo(options);
+    myindo.setLang('global_confirm','Are your sure?');
+    myindo.js_url = '/js/';
+    var modalLoader = new Control.Modal(false,{
+        containerClassName: 'loader',
+        overlayClassName: 'loader',
+        contents: 'Memproses Data. <br />Silahkan Menunggu ...',
+        overlayCloseOnClick:false,
+        width: 200,
+        opacity: 0.3
+    });
+});
+
+//-->
+</script><!--[if lt IE 7]><script type="text/javascript" src="/js/ie7.js"></script>
+<script type="text/javascript">
+<!--
+    var BLANK_IMG = '/js/spacer.gif';
+//-->
+</script><![endif]--><script type="text/javascript" src="/js/myindo/myindo.js"></script>
+<script type="text/javascript" src="/js/libs/jquery/plugin/fancybox/1.3.1/jquery.easing-1.3.pack.js"></script>
+<script type="text/javascript" src="/js/libs/jquery/plugin/fancybox/1.3.1/jquery.mousewheel-3.0.2.pack.js"></script>
+<script type="text/javascript" src="/js/libs/jquery/plugin/fancybox/1.3.1/jquery.fancybox-1.3.1.js"></script>
+<script type="text/javascript" src="/js/web/captcha.js"></script>
+<script type="text/javascript" src="/js/ticker.js"></script>
+<script type="text/javascript" src="/js/libs/jquery/plugin/nivo/jquery.nivo.slider.pack.js"></script>
+<script type="text/javascript" src="/js/libs/jquery/plugin/superfish/1.4.8/superfish.js"></script>
+<script type="text/javascript" src="/js/libs/jquery/plugin/flexslider/jquery.flexslider-min.js"></script>
+<script type="text/javascript" src="/js/libs/jquery/plugin/jquery.equalheights.js"></script>
+<script type="text/javascript" src="/js/libs/jquery/plugin/jcarousel/lib/jquery.jcarousel.min.js"></script>
+<script type="text/javascript" src="/js/libs/jquery/plugin/bxslider/jquery.bxSlider.min.js"></script>
+<script type="text/javascript" src="/js/libs/jquery/plugin/bootstrap/3.1/bootstrap.min.js"></script>
+<script type="text/javascript" src="/js/jquery/pngFix/jquery.pngFix.pack.js"></script>
+<script type="text/javascript">
+<!--
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-11380691-2']);
+
+  _gaq.push(['_trackPageview']);
+
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+//-->
+</script>
+<script type="text/javascript">
+    jQuery(document).ready(function($){
+        $('#slider').nivoSlider({
+        effect:'fade', //Specify sets like: 'fold,fade,sliceDown'
+        animSpeed:500, //Slide transition speed
+        pauseTime:2000,
+        startSlide:0, //Set starting Slide (0 index)
+        directionNav:true, //Next & Prev
+        directionNavHide:true, //Only show on hover
+        controlNav:true, //1,2,3...
+        controlNavThumbs:false, //Use thumbnails for Control Nav
+        controlNavThumbsFromRel:false, //Use image rel for thumbs
+        controlNavThumbsSearch: '.jpg', //Replace this with...
+        controlNavThumbsReplace: '_thumb.jpg', //...this in thumb Image src
+        keyboardNav:true, //Use left & right arrows
+        pauseOnHover:true, //Stop animation while hovering
+        manualAdvance:false, //Force manual transitions
+        captionOpacity:0.8, //Universal caption opacity
+        beforeChange: function(){},
+        afterChange: function(){},
+        slideshowEnd: function(){}, //Triggers after all slides have been shown
+        lastSlide: function(){}, //Triggers when last slide is shown
+        afterLoad: function(){} //Triggers when slider has loaded
+    });
+    $('ul.sf-menu').superfish();
+	$('.content-slider').flexslider({
+		animation: "slide",
+		controlNav: false,
+        slideShow : true
+	});
+	$('.header-slider').flexslider({
+        animation: "slide",
+		controlNav: false,
+        slideShow : true
+	});
+	$('.gallery-slider').flexslider({
+	     animation: "slide",
+	    animationLoop: true,
+	    itemWidth: 280,
+	    itemMargin: 5,
+	    minItems: 1,
+	    maxItems: 3,
+		controlNav: false,
+		directionNav : false
+	  });
+	$('.media-slider').flexslider({
+	     animation: "slide",
+	    animationLoop: true,
+	    itemWidth: 280,
+	    itemMargin: 5,
+	    minItems: 1,
+	    maxItems: 1,
+		controlNav: false,
+	  });
+	  $(".news").equalHeights(480, 500);
+	$(".footer").equalHeights(100, 600);
+	$(".media").equalHeights(260, 260);
+	$('#galleryCarousel').jcarousel({
+		auto : 5,
+		wrap: 'circular',
+		scroll: 1
+	});
+	$('#mediaCarousel').jcarousel({
+		auto: 4,
+		wrap: 'circular',
+		scroll: 1
+	});
+	$('#bannerCarousel').jcarousel({
+        wrap: 'circular',
+        vertical: true,
+        scroll: 1,
+        auto: 3
+    });
+     $('#slider1').bxSlider({
+     	pause: 8000,
+     	auto: true,
+	    pager: true,
+	    controls : false
+    });
+	$('.fancybox').fancybox()
+    });
+
+</script><link href='http://fonts.googleapis.com/css?family=Droid+Sans:400,700' rel='stylesheet' type='text/css'></head><body style="background:url(/media/banner/2015/03/19/t/a/tarian-nusantara.jpg)"><div class="grid-container"><!-- main wrapper --><div class="grid-100 wrapper grid-parent"><header class="grid-100 headerbg" style="background:url(/template/depdagrinew/images/headertop.png)no-repeat top left"><div class="headertop"><div class="grid-30"><h1 class="logo"><a href="/">Kementerian Dalam Negeri</a></h1></div><div class="main-menu grid-70"><ul id="vertical-navigation" class="sf-menu"><li class="parent"><a href="/">Beranda</a></li><li onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)" class="level0 parent"><a href="/profil"><span>Profil</span></a><ul class="level0"><li class="level1 level1-sejarah"><a href="/profil/sejarah"><span>Sejarah</span></a></li><li class="level1 level1-arti-logolambang"><a href="/profil/arti-logolambang"><span>Arti Logo/Lambang</span></a></li><li class="level1 level1-visi-dan-misi"><a href="/profil/visi-dan-misi"><span>Visi dan Misi</span></a></li><li class="level1 level1-tugas-dan-fungsi"><a href="/profil/tugas-dan-fungsi"><span>Tugas dan Fungsi</span></a></li><li class="level1 level1-rencana-strategi"><a href="/profil/rencana-strategi"><span>Rencana Strategi</span></a></li><li class="level1 level1-struktur-organisasi"><a href="/profil/struktur-organisasi"><span>Struktur Organisasi</span></a></li><li class="level1 level1-profil-pimpinan last"><a href="/profil/profil-pimpinan"><span>Profil Pimpinan</span></a></li></ul></li><li onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)" class="level0 parent"><a href="/news"><span>Berita</span></a><ul class="level0"><li class="level1 level1-berita-daerah"><a href="/news/category/berita-daerah"><span>Berita Daerah</span></a></li><li class="level1 level1-berita-kemendagri"><a href="/news/category/berita-kemendagri"><span>Berita Kemendagri</span></a></li><li class="level1 level1-berita-nasional"><a href="/news/category/berita-nasional"><span>Berita Nasional</span></a></li><li class="level1 level1-dari-menteri"><a href="/news/category/dari-menteri"><span>Dari Menteri</span></a></li><li class="level1 level1-siaran-pers last"><a href="/news/category/siaran-pers"><span>Siaran Pers</span></a></li></ul></li><li onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)" class="level0 parent"><a href="/produk-hukum"><span>Produk Hukum</span></a><ul class="level0"><li class="level1 level1-undang-undang"><a href="/produk-hukum/category/undang-undang"><span>0. Undang-Undang (UU)</span></a></li><li class="level1 level1-pp-pengganti-uu"><a href="/produk-hukum/category/pp-pengganti-uu"><span>1. PP Pengganti UU</span></a></li><li class="level1 level1-peraturan-pemerintah"><a href="/produk-hukum/category/peraturan-pemerintah"><span>2. Peraturan Pemerintah (PP)</span></a></li><li class="level1 level1-peraturan-presiden"><a href="/produk-hukum/category/peraturan-presiden"><span>3. Peraturan Presiden</span></a></li><li class="level1 level1-instruksi-presiden"><a href="/produk-hukum/category/instruksi-presiden"><span>4. Instruksi Presiden</span></a></li><li class="level1 level1-keputusan-presiden"><a href="/produk-hukum/category/keputusan-presiden"><span>5. Keputusan Presiden</span></a></li><li class="level1 level1-peraturan-menteri"><a href="/produk-hukum/category/peraturan-menteri"><span>6. Peraturan Menteri</span></a></li><li class="level1 level1-instruksi-menteri"><a href="/produk-hukum/category/instruksi-menteri"><span>7. Instruksi Menteri</span></a></li><li class="level1 level1-keputusan-menteri last"><a href="/produk-hukum/category/keputusan-menteri"><span>8. Keputusan Menteri</span></a></li></ul></li><li class="parent"><a href="http://lpse.kemendagri.go.id/eproc/app">LPSE</a></li><li class="parent"><a href="http://sapa.kemendagri.go.id/">Pengaduan</a></li><li class="parent"><a href="/pages/ula/unit-layanan-administrasi-ula-kementerian-dalam-negeri">Layanan</a></li><li class="parent"><a href="https://mail.kemendagri.go.id/zimbra/?zinitmode=http">eMail</a></li><li class="parent"><a href="http://www.kemendagri.go.id/media/filemanager/2016/06/21/b/a/batal_perda_21_juni_2016.pdf">PERDA Batal</a></li></ul></div></div></header><div class="slidebg"><div class="flexslider header-slider"><ul class="slides"><li><img class="bannerhits_107 " src="http://www.kemendagri.go.id/media/banner/2013/10/01/w/e/welcome_banner1.jpg" width="961" height="124" alt="WelcomeBanner" /></li><li><img class="bannerhits_228 " src="http://www.kemendagri.go.id/media/banner/2016/08/09/m/a/mabrur1.jpg" width="961" height="124" alt="" /></li><li><img class="bannerhits_221 " src="http://www.kemendagri.go.id/media/banner/2016/06/10/w/t/wtp.png" width="961" height="124" alt="Opini WTP" /></li></ul></div></div><div class="grid-100 header-bottom"><div class="grid-70 news-ticker"><div id="ticker" class="ticker"></div></div><div class="grid-20 searchform"><form id="search" name="search" method="get" action="/pages/search"><input type="hidden" name="mode" value="0" /><input type="hidden" name="mod" value="topic|" /><input type="hidden" name="kirim" value="go" /><div class="input-append"><input name="q" type="text" placeholder="Search..." style="width:80%" class="" value="" /><button type="submit" name="submit" class="btn"><i class="icon-search"></i></button></div></form></div><div class="grid-10 language"><ul class="inline"><li><a href="/pages/under-construction/under-construction"><img src="/template/depdagrinew/images/indonesia.png" width="24" alt="Indonesia" /></a></li><li><a href="/pages/under-construction/under-construction"><img src="/template/depdagrinew/images/england.png" width="24" alt="English" /></a></</li></ul></div></div><div class="grid-100"><!-- Slider --><div class="grid-70"><div class="featured-sliders well pad0"><ul id="slider1" class="slides"><li><img class="pull-right" src="/thumbnail.php?src=media/article/images/2016/08/14/i/m/img-20160814-wa0020_1.jpg&amp;w=250&amp;h=240&amp;q=100&amp;"/><div style="margin-left:20px;"><h4>Kemendagri Selenggarakan Pendidikan Politik untuk Perempuan</h4>MALANG – Kementerian Dalam Negeri (Kemendagri) lewat Direktorat Jendral Politik dan Pemerintahan Umum (Polpum) menyelenggarakan pendidikan politik bagi perempuan di Hotel Astria Malang, Jawa Timur, Minggu (14/8).<p style="margin-top:20px;"><a href="/news/2016/08/14/kemendagri-selenggarakan-pendidikan-politik-untuk-perempuan" class="btn btn-primary">Baca Selengkapnya</a></p></div></li><li><img class="pull-right" src="/thumbnail.php?src=media/article/images/2016/08/14/d/a/dana_pilkada_tjahjo_1.jpg&amp;w=250&amp;h=240&amp;q=100&amp;"/><div style="margin-left:20px;"><h4>Mendagri: Dana Pilkada 2017 Tercukupi</h4>JAKARTA – Menteri Dalam Negeri (Mendagri) Tjahjo Kumolo memastikan dana pelaksanaan Pilkada serentak 2017 sudah tercukupi. Tapi, ada beberapa daerah masih mengalami masalah.<p style="margin-top:20px;"><a href="/news/2016/08/14/mendagri-dana-pilkada-2017-tercukupi" class="btn btn-primary">Baca Selengkapnya</a></p></div></li><li><img class="pull-right" src="/thumbnail.php?src=media/article/images/2016/08/14/m/e/mendagri_bawaslu_1.jpg&amp;w=250&amp;h=240&amp;q=100&amp;"/><div style="margin-left:20px;"><h4>Mendagri Ajak Masyarakat Awasi Jalannya Pemilu</h4>JAKARTA – Badan Pengawas Pemilu RI (Bawaslu RI) melakukan sosialisasi pemilihan kepala daerah (pilkada) serentak yang akan berlangsung pada Februari 2017. Kegiatan tersebut dilaksanakan bersamaan dengan momentum car free day (CFD) di kawsan Thamrin, Jakarta, Minggu (14/8).<p style="margin-top:20px;"><a href="/news/2016/08/14/mendagri-ajak-masyarakat-awasi-jalannya-pemilu" class="btn btn-primary">Baca Selengkapnya</a></p></div></li><li><img class="pull-right" src="/thumbnail.php?src=media/article/images/2016/08/14/i/m/img-20160814-wa0008_1.jpg&amp;w=250&amp;h=240&amp;q=100&amp;"/><div style="margin-left:20px;"><h4>Kepri Siap Jadi Percontohan Pembangunan Industri Maritim Pemerintah Pusat</h4>BATAM: Gubernur Kepulauan Riau Nurdin Basirun menyatakan kesiapan Provinsi Kepri menjadi percontohan pembangunan industri maritim pemerintah pusat. Letak strategis dan berbagai potensi yang dimiliki alam dan masyarakat Kepri diyakini bisa membantu pemerintah pusat untuk mencapai kejayaan Indonesia dalam industri maritim.<p style="margin-top:20px;"><a href="/news/2016/08/14/kepri-siap-jadi-percontohan-pembangunan-industri-maritim-pemerintah-pusat" class="btn btn-primary">Baca Selengkapnya</a></p></div></li></ul></div></div> <!-- /Slider --><!-- Video Widget --><div class="grid-30 " style="padding:0"><div class="widget well pad0"><div class="widget-header gradient-header-silver"><h4>Video</h4></div><iframe width="260" height="150" src="" frameborder="0" allowfullscreen></iframe></div></div> <!-- end Video --></div> <!-- slider and video wrapper--><div class="grid-100 main-content"><!-- Column --><div class="grid-25"><div class="widget well pad0 news"><div class="widget-header"><h4>Berita Nasional</h4></div><div class="widget-content"><h5 class="news-title"><a href="/news/2016/08/12/walikota-makassar-kembali-dinobatkan-sebagai-walikota-terinovatif-2016">Walikota Makassar Kembali Dinobatkan Sebagai Walikota Terinovatif 2016</a></h5><img src="/thumbnail.php?src=media/article/images/2016/08/12/d/a/danny_ny_inovatif.jpg&amp;w=200&amp;h=80&amp;q=100&amp;"/><hr /><div class="NewsList"><ul class="unstyled dotted"><li><a href="/news/2016/08/11/amnesti-pajak-sarana-menuju-kemandirian-bangsa">Amnesti Pajak, Sarana Menuju Kemandirian Bangsa</a></li><li><a href="/news/2016/08/11/menuju-hari-kemerdekaan-jangan-ada-warga-tak-kibarkan-bendera">Menuju Hari Kemerdekaan, Jangan Ada Warga Tak Kibarkan Bendera</a></li><li><a href="/news/2016/08/11/hari-ini-presiden-jokowi-buka-kongres-aacc-ke-3-di-bali">Hari ini, Presiden Jokowi Buka Kongres AACC ke-3 Di Bali</a></li></ul></div><div class="more"><a class="btn btn-mini" href="/news/category/berita-nasional"><i class="icon-chevron-sign-right"></i> Berita Selanjutnya</a></div></div></div></div> <!-- /Column --><!-- Column --><div class="grid-25"><div class="widget well pad0 news"><div class="widget-header"><h4>Berita Daerah</h4></div><div class="widget-content"><h5 class="news-title"><a href="/news/2016/08/14/kepri-siap-jadi-percontohan-pembangunan-industri-maritim-pemerintah-pusat">Kepri Siap Jadi Percontohan Pembangunan Industri Maritim Pemerintah Pusat</a></h5><img src="/thumbnail.php?src=media/article/images/2016/08/14/i/m/img-20160814-wa0008.jpg&amp;w=200&amp;h=80&amp;q=100&amp;"/>BATAM: Gubernur Kepulauan Riau Nurdin Basirun menyatakan kesiapan Provinsi Kepri&#8230;<hr /><div class="NewsList"><ul class="unstyled dotted"><li><a href="/news/2016/08/12/kembangkan-sektor-kemaritiman-yang-kuat">Kembangkan Sektor Kemaritiman yang Kuat</a></li><li><a href="/news/2016/08/12/sambut-17-agustus-pemprov-aceh-gelar-tri-lomba-juang">Sambut 17 Agustus, Pemprov Aceh Gelar Tri Lomba Juang</a></li><li><a href="/news/2016/08/12/sekda-aceh-ingatkan-pns-untuk-netral-hadapi-pilkada">Sekda Aceh Ingatkan PNS untuk Netral Hadapi Pilkada</a></li></ul></div><div class="more"><a class="btn btn-mini" href="/news/category/berita-daerah"><i class="icon-chevron-sign-right"></i> Berita Selanjutnya</a></div></div></div></div> <!-- /Column --><!-- /Column --><div class="grid-25"><div class="widget well pad0 news"><div class="widget-header"><h4>Berita Kemendagri</h4></div><div class="widget-content"><div class="widget-content"><h5 class="news-title"><a href="/news/2016/08/14/kemendagri-selenggarakan-pendidikan-politik-untuk-perempuan">Kemendagri Selenggarakan Pendidikan Politik untuk Perempuan</a></h5><img src="/thumbnail.php?src=media/article/images/2016/08/14/i/m/img-20160814-wa0020.jpg&amp;w=200&amp;h=80&amp;q=100&amp;"/>MALANG – Kementerian Dalam Negeri (Kemendagri) lewat Direktorat Jendral Politik&#8230;<hr /><div class="NewsList"><ul class="unstyled dotted"><li><a href="/news/2016/08/14/mendagri-dana-pilkada-2017-tercukupi">Mendagri: Dana Pilkada 2017 Tercukupi</a></li><li><a href="/news/2016/08/14/mendagri-ajak-masyarakat-awasi-jalannya-pemilu">Mendagri Ajak Masyarakat Awasi Jalannya Pemilu</a></li><li><a href="/news/2016/08/14/pagi-ini-mendagri-ikuti-senam-pagi-dan-fun-walk">Pagi ini, Mendagri Ikuti Senam Pagi dan Fun Walk</a></li></ul></div><div class="more"><a class="btn btn-mini" href="/news/category/berita-kemendagri"><i class="icon-chevron-sign-right"></i> Berita Selanjutnya</a></div></div></div></div></div> <!-- /Column --><div class="grid-25"><div class="no-border-line widget well pad0 news "><div class="widget-header gradient-header-silver"><h4>Tautan</h4></div><div class="widget-content"><div class="menu-microsite-banner menuTypeBanner"><ul id="bannerCarousel" class="unstyled jcarousel-skin-banner"><li><a class="bannerclick_186" href="/pages/pilkadaserentak/pilkada-serentak"><img class="bannerhits_186 " src="http://www.kemendagri.go.id/media/banner/2015/08/06/p/i/pilkada.jpg" width="167" height="38" alt="Pilkada Serentak" /></a></li><li><a class="bannerclick_4" href="http://sipd.bangda.kemendagri.go.id/"><img class="bannerhits_4 " src="http://www.kemendagri.go.id/media/banner/2009/11/09/s/i/sipd.jpg" width="167" height="38" alt="SIPD" /></a></li><li><a class="bannerclick_153" href="http://perpustakaan.kemendagri.go.id/"><img class="bannerhits_153 " src="http://www.kemendagri.go.id/media/banner/2014/10/02/p/e/perpustakaan.gif" width="167" height="38" alt="Perpustakaan KDN" /></a></li><li><a class="bannerclick_47" href="http://keuda.kemendagri.go.id/sipkd"><img class="bannerhits_47 " src="http://www.kemendagri.go.id/media/banner/2012/01/06/s/i/sipkd_banner.jpg" width="167" height="38" alt="Sistem Informasi Pengelolaan Keuangan Daerah" /></a></li><li><a class="bannerclick_172" href="/pages/peta-tematik-kdn"><img class="bannerhits_172 " src="http://www.kemendagri.go.id/media/banner/2015/05/07/p/e/peta_tematik.jpg" width="167" height="38" alt="Peta Tematik Kemendagri" /></a></li><li><a class="bannerclick_64" href="/pages/lakip/lakip-kemendagri"><img class="bannerhits_64 " src="http://www.kemendagri.go.id/media/banner/2012/04/30/l/a/lakip_kdn_banner_.jpg" width="167" height="38" alt="Lakip Kemendagri" /></a></li><li><a class="bannerclick_91" href="http://sapa.kemendagri.go.id/"><img class="bannerhits_91 " src="http://www.kemendagri.go.id/media/banner/2013/09/30/s/a/sapa.jpg" width="167" height="38" alt="Sarana Pengaduan dan Aspirasi" /></a></li><li><a class="bannerclick_220" href="http://e-perda.kemendagri.go.id:8888/eperda"><img class="bannerhits_220 " src="http://www.kemendagri.go.id/media/banner/2016/05/09/e/p/eperda.png" width="167" height="38" alt="e-perda" /></a></li><li><a class="bannerclick_223" href="http://www.kemendagri.go.id/media/filemanager/2016/06/21/b/a/batal_perda_21_juni_2016.pdf"><img class="bannerhits_223 " src="http://www.kemendagri.go.id/media/banner/2016/06/20/p/e/perda.png" width="167" height="38" alt="Pembatalan PERDA" /></a></li></ul></div><div class="menu-announcement menuTypeCategory"></div></div></div></div></div><!-- media Module --><div class="grid-100 main-module"><div class="grid-50"><div class="widget well pad0 media"><div class="widget-header gradient-header-silver"><h4>Gallery</h4></div><!-- start div gallery --><div class="widget-content"><div class=""><!-- <ul class="slides"> --><ul id="galleryCarousel" class="jcarousel-skin-gallery"><li> <a href="media/gallery/2015/10/13/p/i/pict2.jpg" class="fancybox"> <img src="/thumbnail.php?src=media/gallery/2015/10/13/p/i/pict2.jpg&amp;w=120&amp;h=150&amp;q=100&amp;"/></a></li><li> <a href="media/gallery/2015/10/13/p/i/pict1.jpg" class="fancybox"> <img src="/thumbnail.php?src=media/gallery/2015/10/13/p/i/pict1.jpg&amp;w=120&amp;h=150&amp;q=100&amp;"/></a></li><li> <a href="media/gallery/2016/02/05/p/e/pemisah-galeri.gif" class="fancybox"> <img src="/thumbnail.php?src=media/gallery/2016/02/05/p/e/pemisah-galeri.gif&amp;w=120&amp;h=150&amp;q=100&amp;"/></a></li><li> <a href="media/gallery/2016/02/05/i/m/img_9382.jpg" class="fancybox"> <img src="/thumbnail.php?src=media/gallery/2016/02/05/i/m/img_9382.jpg&amp;w=120&amp;h=150&amp;q=100&amp;"/></a></li><li> <a href="media/gallery/2016/02/05/i/m/img_9376.jpg" class="fancybox"> <img src="/thumbnail.php?src=media/gallery/2016/02/05/i/m/img_9376.jpg&amp;w=120&amp;h=150&amp;q=100&amp;"/></a></li><li> <a href="media/gallery/2016/02/05/i/m/img_9372.jpg" class="fancybox"> <img src="/thumbnail.php?src=media/gallery/2016/02/05/i/m/img_9372.jpg&amp;w=120&amp;h=150&amp;q=100&amp;"/></a></li><li> <a href="media/gallery/2016/02/05/i/m/img_9362.jpg" class="fancybox"> <img src="/thumbnail.php?src=media/gallery/2016/02/05/i/m/img_9362.jpg&amp;w=120&amp;h=150&amp;q=100&amp;"/></a></li><li> <a href="media/gallery/2016/02/05/i/m/img_9360.jpg" class="fancybox"> <img src="/thumbnail.php?src=media/gallery/2016/02/05/i/m/img_9360.jpg&amp;w=120&amp;h=150&amp;q=100&amp;"/></a></li><li> <a href="media/gallery/2016/02/05/i/m/img_9386.jpg" class="fancybox"> <img src="/thumbnail.php?src=media/gallery/2016/02/05/i/m/img_9386.jpg&amp;w=120&amp;h=150&amp;q=100&amp;"/></a></li><li> <a href="media/gallery/2015/09/11/p/e/pemisah_galeri_copy.jpg" class="fancybox"> <img src="/thumbnail.php?src=media/gallery/2015/09/11/p/e/pemisah_galeri_copy.jpg&amp;w=120&amp;h=150&amp;q=100&amp;"/></a></li></ul></div></div><!-- <a href="/gallery-list">Selengkapnya</a> --><!-- end start div galery --></div></div><div class="grid-25 main-module"><div class="widget-50"><div class="widget well pad0 media"><!-- start media div --><div class="widget-header gradient-header-silver"><h4>Media Kemendagri</h4></div><div class="widget-content"><div class=""><ul id="mediaCarousel" class="jcarousel-skin-media"><li><a href="media/pdf/p/r/prajaaa9.pdf"> <img src="/thumbnail.php?src=media/media_thumbnail/j/a/jan2015_3.jpg&amp;w=120&amp;h=150&amp;q=100"/> Januari 2015</a>media_thumbnail/j/a/jan2015_3.jpg</li><li><a href="media/pdf/p/o/pokok_program.pdf"> <img src="/thumbnail.php?src=media/media_thumbnail/p/o/pokok_6.jpg&amp;w=120&amp;h=150&amp;q=100"/> Pokok Pikiran Mendagri 11Maret2015</a>media_thumbnail/p/o/pokok_6.jpg</li><li><a href="media/pdf/i/m/img_0550.pdf"> <img src="/thumbnail.php?src=media/media_thumbnail/i/m/img_0550_1.jpg&amp;w=120&amp;h=150&amp;q=100"/> 100</a>media_thumbnail/i/m/img_0550_1.jpg</li><li><a href="media/pdf/i/m/img_0553_1.pdf"> <img src="/thumbnail.php?src=media/media_thumbnail/i/m/img_0553.jpg&amp;w=120&amp;h=150&amp;q=100"/> 100 Hari Kerja</a>media_thumbnail/i/m/img_0553.jpg</li></ul></div></div><!-- <a href="/gallery-list">Selengkapnya</a> --></div><!-- end media div --></div></div><div class="grid-25"><div class="widget well pad0 media"><div class="widget-header gradient-header-silver"><h4>Polling</h4></div><div class="widget-content"><div class="module"> <!--content start here--></div></div></div></div></div> <!-- /media module --><div class="grid-100 main-content"><div class="grid-25"><div class="widget well pad0 footer"><div class="widget-header gradient-header-blue"><h4>Produk Hukum Terbaru</h4></div><div class="widget-content"><ul class="icons-ul"><li><i class="icon-li icon-arrow-right"></i><a href="/produk-hukum/2016/08/05/pengampunan-pajak">0. Undang-Undang (UU) No 11 Tahun 2016</a></li><li><i class="icon-li icon-arrow-right"></i><a href="/produk-hukum/2016/08/05/perubahan-kedua-atas-uu-nomor-1-tahun-2015-ttg-penetapan-peraturan-pemerintah-pengganti-uu-nomor-1-tahun-2014-ttg-pemilihan-gub-bupati-dan-walikota-menjadi-uu">0. Undang-Undang (UU) No 10 Tahun 2016</a></li><li><i class="icon-li icon-arrow-right"></i><a href="/produk-hukum/2016/08/04/pemberian-tunjangan-hari-raya-dalam-tahun-anggaran-2016-kepada-pimpinan-dan-pegawai-non-pegawai-negeri-sipil-pada-lembaga-non-struktural">2. Peraturan Pemerintah (PP) No 22 Tahun 2016</a></li><li><i class="icon-li icon-arrow-right"></i><a href="/produk-hukum/2016/08/04/pemberian-penghasilan-ketiga-belas-kepada-pimpinan-dan-pegawai-non-pegawai-negeri-sipil-pada-lembaga-non-struktural">2. Peraturan Pemerintah (PP) No 21 Tahun 2016</a></li><li><i class="icon-li icon-arrow-right"></i><a href="/produk-hukum/2016/08/04/pemberian-tunjangan-hari-raya-dalam-tahun-anggaran-2016-kepada-pegawai-negeri-sipil-prajurit-tentara-nasional-indonesia-anggota-kepolisian-negara-republik-indonesia-dan-pejabat-negara">2. Peraturan Pemerintah (PP) No 20 Tahun 2016</a></li></ul></div></div></div><div class="grid-25"><div class="widget well pad0 footer"><div class="widget-header gradient-header-blue"><h4>Situs Komponen</h4></div><div class="widget-content"><ul class="arrowList unstyled dotted"><li><a href="http://www.setjen.kemendagri.go.id" class="menu-link-setjen" target="_blank">Sekretariat Jenderal</a></li><li><a href="http://kesbangpol.kemendagri.go.id/" class="menu-link-kesbangpol" target="_blank">Ditjen Politik dan Pemerintahan Umum</a></li><li><a href="http://ditjenbinaadwil.kemendagri.go.id" class="menu-ditjen-bina-administrasi-kewilayahan" >Ditjen Bina Administrasi Kewilayahan</a></li><li><a href="http://otda.kemendagri.go.id" class="menu-link-otda" target="_blank">Ditjen Otonomi Daerah</a></li><li><a href="http://www.bangda.kemendagri.go.id/" class="menu-link-bangda" target="_blank">Ditjen Bina Pembangunan Daerah</a></li><li><a href="http://www.binapemdes.kemendagri.go.id/" class="menu-link-pmd" target="_blank">Ditjen Bina Pemerintahan Desa</a></li><li><a href="http://www.dukcapil.kemendagri.go.id/" class="menu-link-adminduk" target="_blank">Ditjen Kependudukan dan Pancatatan Sipil</a></li><li><a href="http://keuda.kemendagri.go.id/" class="menu-link-keuda" target="_blank">Ditjen Bina Keuangan Daerah</a></li><li><a href="http://itjen.kemendagri.go.id/" class="menu-link-itjen" target="_blank">Inspektorat Jenderal</a></li><li><a href="http://bpp.kemendagri.go.id/" class="menu-link-litbang" target="_blank">Badan Penelitian dan Pengembangan</a></li><li><a href="http://diklat.kemendagri.go.id/" class="menu-link-diklat" target="_blank">Badan Pengembangan Sumber Daya Manusia</a></li><li><a href="http://www.ipdn.ac.id/" class="menu-ipdn" target="_blank">Institut Pemerintahan Dalam Negeri</a></li></ul></div></div></div><div class="grid-25"><div class="widget well pad0 footer"><div class="widget-header gradient-header-blue"><h4>Tautan Lainnya </h4></div><div class="widget-content"><ul class="sublink unstyled dotted"><li><a href="/basis-data/category/general" class="menu-basis-data" >Basis Data</a></li><li><a href="/staff-directory" class="menu-modprofile-staff-directory">Direktori Pejabat</a></li><li><a href="/pages/profil-daerah" class="menu-modpages-profil-daerah">Profil Daerah</a></li><li><a href="/pages/data-wilayah" class="menu-modpages-data-wilayah">Data Wilayah</a></li><li><a href="/pages/links" class="menu-modpages-links">Links</a></li><li><a href="/pages/glossary" class="menu-modpages-glossary">Glossary</a></li><li><a href="http://www.kemendagri.go.id/media/filemanager/2012/04/04/k/o/kode_etik_khusus.pdf" class="menu-kode-etik-khusus-pns-di-lingkungan-sekretariat-jenderal-kemendagri" >Kode Etik Khusus PNS</a></li><li><a href="http://www.kemendagri.go.id/media/filemanager/2012/04/09/l/a/lampiran_sop_terpadu.pdf" class="menu-sop-di-lingkungan-kemendagri" >SOP di lingkungan Kemendagri</a></li><li><a href="/pages/daftar-ppid-prov-kab-kot-seluruh-indonesia/ppid" class="menu-daftar-ppid" >Daftar PPID Prov/Kab/Kota Se Indonesia</a></li><li><a href="/pages/se-mendagri-satu-juta-rumah/se-mendagri" class="menu-surat-edaran-mendagri-no64812409sj" target="_blank">SE Mendagri No.648.12/409/SJ (Dukungan Prog 1 Jt Rumah Th. 2015)</a></li><li><a href="http://www.kemendagri.go.id/media/filemanager/2015/09/22/s/e/se-pengaduan_masy.pdf" class="menu-se-no0406655sj-edaran-penanganan-pengaduan-masyarakat-pemerintah-daerah" >SE No.040/6688/SJ ttg : Edaran Penanganan Pengaduan Masyarakat Pemerintah Daerah.</a></li></ul></div></div></div><div class="grid-25"><div class="widget well pad0 footer"><div class="widget-header gradient-header-blue"><h4>Artikel Kemendagri</h4></div><div class="widget-content"><ul class="icons-ul dotted"><li class=""><i class="icon-li icon-chevron-sign-right"></i> <a href="/article/2016/02/04/visi-menjadi-perguruan-tinggi-terkemuka-di-asia">Visi Menjadi Perguruan Tinggi Terkemuka di Asia</a></li><li class=""><i class="icon-li icon-chevron-sign-right"></i> <a href="/article/2016/02/03/harga-emas-antam-turun-lagi-ikuti-emas-dunia">Harga Emas Antam Turun Lagi Ikuti Emas Dunia</a></li><li class=""><i class="icon-li icon-chevron-sign-right"></i> <a href="/article/2016/01/28/menkes-prilaku-phbs-kunci-pencegahan-gagal-ginjal">Menkes: Prilaku PHBS Kunci Pencegahan Gagal Ginjal</a></li><li class=""><i class="icon-li icon-chevron-sign-right"></i> <a href="/article/2016/01/26/tni-kekuatan-angkatan-laut-masih-kurang">TNI: Kekuatan Angkatan Laut Masih Kurang</a></li><li class=""><i class="icon-li icon-chevron-sign-right"></i> <a href="/article/2016/01/21/mk-kembali-gelar-sidang-putusan-sengketa-pilkada">MK kembali gelar sidang putusan sengketa pilkada</a></li></ul></div></div></div></div> <!-- end footer module --></div></div> <!-- end main wrapper --><div class="mainfooter"><img src="/template/depdagrinew/images/footerlogo.png" alt="Logo" /><p><a href="/pages/sitemap">Sitemap</a>&nbsp;|&nbsp;<a href="pages/support">Kontak</a>&nbsp;|&nbsp;<a href="http://mail.kemendagri.go.id/" target="_blank">Webmail</a></p><p>&copy; Copyright PUSDATIN 2016. All Right Reserved<br />Jl. Medan Merdeka Utara No. 7, Jakarta Pusat Telp. (021) 3450038, Fax (021) 3851193, 34830261,3846430<br /><span style="font-size: small; color: #ff0000;"><strong>e-mail: pusdatin@kemendagri.go.id</strong></span></p></div><script type="text/javascript" src="/js/web/global.js"></script>
+<script type="text/javascript" src="/js/web/lang/id_ID.js"></script>
+<script type="text/javascript">
+<!--
+(function($) {
+    var datahits = jQuery.parseJSON('{"pages":[],"article":[],"profile":[],"document":[]}');
+    if(datahits.pages.length>0){$.each(datahits.pages,function(k,v){$('#page_hits_'+v.pages_contentid).html(v.hits)})};if(datahits.profile.length>0){$.each(datahits.profile,function(k,v){$('#profilehits_'+v.profileid).html(v.hits)})};if(datahits.article.length>0){$.each(datahits.article,function(k,v){if($('#articlehits_'+v.articleid).length>0){$('#articlehits_'+v.articleid).html(v.hits)}else if($('#articlehit_'+v.articleid).length>0){$('#articlehit_'+v.articleid).html(v.hits)}})};if(datahits.document.length>0){$.each(datahits.document,function(k,v){$('#documentshits_'+v.id).html(v.hits)})};
+})(jQuery);
+//-->
+</script> <script type="text/javascript">
+    <!--
+    var content='<a title="Peringatan Hari Ulang Tahun Kemerdekaan Republik Indonesia ke 71" href="../../../../../pages/peringatan-hari-ulang-tahun-kemerdekaan-republik-indonesia-ke-71">Peringatan Hari Ulang Tahun Kemerdekaan Republik Indonesia ke 71</a> | <a title="SURAT EDARAN MENDAGRI NOMOR 800/1907/SJ" href="../../../../../media/filemanager/2016/05/25/s/e/se_800_1907_sj_penipuan_cpns_dagri_website.pdf" target="_blank">SURAT EDARAN MENTERI DALAM NEGERI NOMOR 800/1907/SJ TENTANG PENIPUAN PENGANGKATAN CALON PEGAWAI NEGERI SIPIL KEMENTERIAN DALAM NEGERI</a> | <a href="../../../../../pages/daftar-ppid-prov-kab-kot-seluruh-indonesia/ppid" target="_blank">SURAT EDARAN NOMOR : 480/6326/SJ TENTANG PERCEPATAN PENUNJUKAN PEJABAT PENGELOLA INFORMASI DAN DOKUMENTASI (PPID) DI TINGKAT PEMERINTAH DAERAH</a> | <a href="http://www.kemendagri.go.id/cms/produk-hukum/detail/id/15486/">PERMENDAGRI NO.68 TAHUN 2015 TENTANG PERUBAHAN  KEDUA ATAS PERATURAN MENTERI DALAM NEGERI NOMOR 60 TAHUN 2007 TENTANG  PAKAIAN DINAS PEGAWAI NEGERI SIPIL Dl LlNGKUNGAN DEPARTEMEN DALAM NEGERI   DAN PEMERINTAH DAERAH </a> | <a href="../../../../../pages/se-mendagri-satu-juta-rumah/se-mendagri" target="_blank">SURAT EDARAN MENDAGRI NOMOR: 648.12/409/SJ tentang DUKUNGAN DALAM RANGKA PROGRAM 1 (SATU) JUTA RUMAH TAHUN 2015.</a> | <a href="../../../pages/lhkpn/surat-edaran-menteri">SURAT EDARAN NO. 700/6597/SJ TENTANG KEWAJIBAN PENYAMPAIAN LAPORAN HARTA KEKAYAAN PENYELENGGARA NEGARA (LHKPN) DI LINGKUNGAN KEMENDAGRI DAN PEMDA</a>';
+        var tWidth='640px';
+        var tHeight='20px';
+        var fsz = parseInt(tHeight) - 8;
+    //-->
+    </script>
+<script type="text/javascript">
+<!--
+(function($) {
+    $(document).ready(function() {
+    	$(document).pngFix();
+    });
+})(jQuery);
+//-->
+</script></body></html>
+<!-- generate 0.084990978240967 seconds -->

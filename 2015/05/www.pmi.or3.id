@@ -1,0 +1,962 @@
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns#" lang="id-id" >
+<head>
+		<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+          <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2.0">
+          <base href="http://www.pmi.or.id/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="generator" content="SWALT! - Content Management System" />
+  <title>PMI - Palang Merah Indonesia</title>
+  <link href="/index.php?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/index.php?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <link href="http://www.pmi.or.id/templates/pmi_pusat/images/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link href="/templates/pmi_pusat/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="http://www.pmi.or.id//plugins/system/pwframework/PWFramework/css/pwframework.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/pmi_pusat/css/k2.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.pmi.or.id/templates/pmi_pusat/css/normalize.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.pmi.or.id/templates/pmi_pusat/css/layout.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.pmi.or.id/templates/pmi_pusat/css/joomla.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.pmi.or.id/templates/pmi_pusat/css/system/system.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.pmi.or.id/templates/pmi_pusat/css/template.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.pmi.or.id/templates/pmi_pusat/css/menu/menu.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.pmi.or.id/templates/pmi_pusat/css/gk.stuff.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.pmi.or.id/templates/pmi_pusat/css/style2.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.pmi.or.id/templates/pmi_pusat/css/typography/typography.style2.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.pmi.or.id/templates/pmi_pusat/css/typography/typography.iconset.style2.css" type="text/css" />
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Oswald:400,700" type="text/css" />
+  <link rel="stylesheet" href="http://www.pmi.or.id/templates/pmi_pusat/css/tablet.css" type="text/css" media="(max-width: 920px)"  />
+  <link rel="stylesheet" href="http://www.pmi.or.id/templates/pmi_pusat/css/mobile.css" type="text/css" media="(max-width: 540px)"  />
+  <link rel="stylesheet" href="/modules/mod_vvisit_counter/mvc.css" type="text/css" />
+  <link rel="stylesheet" href="/media/slideshowii/css/slideshowii.css" type="text/css" />
+  <style type="text/css">
+.gkcol { width: 220px; }body,
+.gkMenu > ul div.childcontent header small,
+.nspHeader,
+.nspLinks ul li h4,
+#gkBottom2 .header  { font-family: Arial, Helvetica, sans-serif; }
+h1, h2, h3, h4, h5, h6,
+#gkLogo.text,
+#gkMainMenu,
+.gkMenu > ul div.childcontent header a,
+.box .header,
+.readon,
+.gkTabsNav { font-family: 'Oswald', Arial, sans-serif; }
+.blank { font-family: Arial, Helvetica, sans-serif; }
+.blank { font-family: Arial, Helvetica, sans-serif; }
+@media screen and (max-width: 690px) {
+	    	#k2Container .itemsContainer { width: 100%!important; } 
+	    	.cols-2 .column-1,
+	    	.cols-2 .column-2,
+	    	.cols-3 .column-1,
+	    	.cols-3 .column-2,
+	    	.cols-3 .column-3,
+	    	.demo-typo-col2,
+	    	.demo-typo-col3,
+	    	.demo-typo-col4 {width: 100%; }
+	    	}#system-message-container { margin: 0 -20px; }#gkSidebar { width: 36%; }
+#gkContent { width: 64%; }
+#gkPage, #gkTopBar > div, .gkFooter, #gkBottom2 { max-width: 1000px; }
+body { padding: 0 20px; }#menu102 > div,
+#menu102 > div > .childcontent-inner { width: 220px; }
+#menu103 > div,
+#menu103 > div > .childcontent-inner { width: 220px; }
+#menu436 > div,
+#menu436 > div > .childcontent-inner { width: 220px; }
+#menu446 > div,
+#menu446 > div > .childcontent-inner { width: 220px; }
+#menu263 > div,
+#menu263 > div > .childcontent-inner { width: 220px; }
+#menu431 > div,
+#menu431 > div > .childcontent-inner { width: 220px; }
+#menu414 > div,
+#menu414 > div > .childcontent-inner { width: 220px; }
+#menu113 > div,
+#menu113 > div > .childcontent-inner { width: 220px; }
+#menu234 > div,
+#menu234 > div > .childcontent-inner { width: 220px; }
+#menu425 > div,
+#menu425 > div > .childcontent-inner { width: 220px; }
+#menu474 > div,
+#menu474 > div > .childcontent-inner { width: 220px; }
+#menu272 > div,
+#menu272 > div > .childcontent-inner { width: 220px; }
+#menu439 > div,
+#menu439 > div > .childcontent-inner { width: 220px; }
+#menu127 > div,
+#menu127 > div > .childcontent-inner { width: 220px; }
+#menu583 > div,
+#menu583 > div > .childcontent-inner { width: 220px; }
+
+#goog-gt-tt {display:none !important;}
+.goog-te-banner-frame {display:none !important;}
+.goog-te-menu-value:hover {text-decoration:none !important;}
+body {top:0 !important;}
+#google_translate_element2 {display:none!important;}
+
+        a.flag {font-size:24px;padding:1px 0;background-repeat:no-repeat;background-image:url('/modules/mod_gtranslate/tmpl/lang/24a.png');}
+        a.flag:hover {background-image:url('/modules/mod_gtranslate/tmpl/lang/24.png');}
+        a.flag img {border:0;}
+        a.alt_flag {font-size:24px;padding:1px 0;background-repeat:no-repeat;background-image:url('/modules/mod_gtranslate/tmpl/lang/alt_flagsa.png');}
+        a.alt_flag:hover {background-image:url('/modules/mod_gtranslate/tmpl/lang/alt_flags.png');}
+        a.alt_flag img {border:0;}
+    
+  </style>
+  <script src="http://www.pmi.or.id//plugins/system/pwframework/PWFramework/js/jquery.js" type="text/javascript"></script>
+  <script src="http://www.pmi.or.id//plugins/system/pwframework/PWFramework/js/jquery.noconflict.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js" type="text/javascript"></script>
+  <script src="/components/com_k2/js/k2.js?v2.6.6&amp;sitepath=/" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="http://www.pmi.or.id/templates/pmi_pusat/js/gk.scripts.js" type="text/javascript"></script>
+  <script src="http://www.pmi.or.id/templates/pmi_pusat/js/gk.menu.js" type="text/javascript"></script>
+  <script src="http://www.pmi.or.id/modules/mod_news_pro_gk4/interface/scripts/engine.js" type="text/javascript"></script>
+  <script src="/media/slideshowii/js/jquery.cycle.all.js" type="text/javascript"></script>
+  <script type="text/javascript">
+window.addEvent('load', function() {
+				new JCaption('img.caption');
+			});
+ $GKMenu = { height:true, width:true, duration: 250 };
+$GK_TMPL_URL = "http://www.pmi.or.id/templates/pmi_pusat";
+
+$GK_URL = "http://www.pmi.or.id/";
+function  spsyt(a, b, c){
+		var id = document.id(a);
+		var w = id.getParent().getWidth();
+		var h = (c*w)/b;
+		id.setStyles({
+			'width': w,
+			'height': h
+		});
+	}
+  </script>
+  <link rel="apple-touch-icon" href="http://www.pmi.or.id/templates/pmi_pusat/images/touch-device.png">
+  <link rel="apple-touch-icon-precompose" href="http://www.pmi.or.id/templates/pmi_pusat/images/touch-device.png">
+
+    
+<!--[if IE 9]>
+<link rel="stylesheet" href="http://www.pmi.or.id/templates/pmi_pusat/css/ie/ie9.css" type="text/css" />
+<![endif]-->
+
+<!--[if IE 8]>
+<link rel="stylesheet" href="http://www.pmi.or.id/templates/pmi_pusat/css/ie/ie8.css" type="text/css" />
+<![endif]-->
+
+<!--[if lte IE 7]>
+<link rel="stylesheet" href="http://www.pmi.or.id/templates/pmi_pusat/css/ie/ie7.css" type="text/css" />
+<![endif]-->
+
+<!--[if (gte IE 6)&(lte IE 8)]>
+<script type="text/javascript" src="http://www.pmi.or.id/templates/pmi_pusat/js/respond.js"></script>
+<script type="text/javascript" src="http://www.pmi.or.id/templates/pmi_pusat/js/selectivizr.js"></script>
+<script type="text/javascript" src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->	 </head>
+<body data-mobile="true" data-tablet-width="960" data-mobile-width="580" data-bg="2">	
+		
+	
+	<div id="gkPage">	 
+	    	    
+	    <section id="gkPageTop">                    	
+		    
+          <a href="http://www.pmi.or.id/" id="gkLogo" class="cssLogo">PMI</a>
+     		    
+		    <div id="gkMobileMenu">
+		    	Menu		    	<select onChange="window.location.href=this.value;">
+		    	<option selected="selected"  value="http://www.pmi.or.id/">Home</option><option  value="#">Tentang Kami</option><option  value="/index.php/tentang-kami/sejarah-pmi.html">&nbsp;&nbsp;&raquo;Sejarah PMI</option><option  value="/index.php/tentang-kami/misi-dan-visi.html">&nbsp;&nbsp;&raquo;Misi dan Visi</option><option  value="/index.php/tentang-kami/tujuan-strategis.html">&nbsp;&nbsp;&raquo;Tujuan Strategis</option><option  value="#">&nbsp;&nbsp;&raquo;Organisasi</option><option  value="/index.php/tentang-kami/organisasi/pengurus-pmi.html">&nbsp;&nbsp;&nbsp;&nbsp;&raquo;Pengurus PMI</option><option  value="/index.php/tentang-kami/organisasi/divisi-biro-unit.html">&nbsp;&nbsp;&nbsp;&nbsp;&raquo;Divisi/Biro/Unit </option><option  value="/index.php/tentang-kami/organisasi/tender.html">&nbsp;&nbsp;&nbsp;&nbsp;&raquo;Tender</option><option  value="/index.php/tentang-kami/mitra-gerakan.html">&nbsp;&nbsp;&raquo;Mitra Gerakan</option><option  value="#">Aktivitas</option><option  value="#">&nbsp;&nbsp;&raquo;Diseminasi</option><option  value="/index.php/aktivitas/diseminasi/lambang.html">&nbsp;&nbsp;&nbsp;&nbsp;&raquo;Lambang</option><option  value="/index.php/aktivitas/diseminasi/hpi.html">&nbsp;&nbsp;&nbsp;&nbsp;&raquo;HPI</option><option  value="/index.php/aktivitas/diseminasi/prinsip-dasar-gerakan.html">&nbsp;&nbsp;&nbsp;&nbsp;&raquo;Prinsip Dasar Gerakan</option><option  value="/index.php/aktivitas/diseminasi/panduan-keselamatan.html">&nbsp;&nbsp;&nbsp;&nbsp;&raquo;Panduan Keselamatan</option><option  value="/index.php/aktivitas/pengembangan-organisasi.html">&nbsp;&nbsp;&raquo;Pengembangan Organisasi</option><option  value="#">&nbsp;&nbsp;&raquo;Pelayanan</option><option  value="#">&nbsp;&nbsp;&nbsp;&nbsp;&raquo;Manajemen Bencana</option><option  value="/index.php/aktivitas/pelayanan/manajemen-bencana/kesiapsiagaan-bencana.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&raquo;Kesiapsiagaan Bencana</option><option  value="/index.php/aktivitas/pelayanan/manajemen-bencana/tanggap-darurat-bencana.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&raquo;Tanggap Darurat Bencana</option><option  value="/index.php/aktivitas/pelayanan/manajemen-bencana/pemulihan-bencana.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&raquo;Pemulihan Bencana</option><option  value="#">&nbsp;&nbsp;&nbsp;&nbsp;&raquo;Kesehatan</option><option  value="/index.php/aktivitas/pelayanan/kesehatan/ppbm.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&raquo;PPBM</option><option  value="/index.php/aktivitas/pelayanan/kesehatan/pp-dan-ambulans.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&raquo;PP dan Ambulans</option><option  value="/index.php/aktivitas/pelayanan/kesehatan/air-dan-sanitasi.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&raquo;Air dan Sanitasi</option><option  value="/index.php/aktivitas/pelayanan/kesehatan/psp.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&raquo;PSP</option><option  value="/index.php/aktivitas/pelayanan/kesehatan/hiv-aids.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&raquo;HIV &amp; AIDS</option><option  value="/index.php/aktivitas/pelayanan/kesehatan/operasi-katarak.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&raquo;Operasi Katarak</option><option  value="#">&nbsp;&nbsp;&nbsp;&nbsp;&raquo;Donor Darah</option><option  value="/index.php/aktivitas/pelayanan/donor-darah/pelayanan-donor-darah.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&raquo;Pelayanan Donor Darah</option><option  value="/index.php/aktivitas/pelayanan/donor-darah/donor-sekarang.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&raquo;Donor Sekarang</option><option  value="http://ayodonor.pmi.or.id/page/jadwal">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&raquo;Jadwal Donor Darah</option><option  value="#">Berita dan Media</option><option  value="/index.php/berita-dan-media/siaran-pers.html">&nbsp;&nbsp;&raquo;Siaran Pers</option><option  value="/index.php/berita-dan-media/peristiwa.html">&nbsp;&nbsp;&raquo;Peristiwa</option><option  value="/index.php/berita-dan-media/kliping-berita.html">&nbsp;&nbsp;&raquo;Kliping Berita</option><option  value="#">&nbsp;&nbsp;&raquo;Gallery</option><option  value="/index.php/berita-dan-media/gallery/photo-gallery.html">&nbsp;&nbsp;&nbsp;&nbsp;&raquo;Photo Gallery</option><option  value="/index.php/berita-dan-media/gallery/video-gallery.html">&nbsp;&nbsp;&nbsp;&nbsp;&raquo;Video Gallery</option><option  value="/index.php/berita-dan-media/kisah/k2-categories.html">&nbsp;&nbsp;&raquo;Kisah</option><option  value="/index.php/berita-dan-media/k2-categories/kabar-donasi.html">&nbsp;&nbsp;&raquo;Kabar Donasi</option><option  value="/index.php/berita-dan-media/k2-categories/e-library.html">&nbsp;&nbsp;&raquo;E-Library</option><option  value="#">Kapasitas</option><option  value="/index.php/kapasitas/sukarelawan.html">&nbsp;&nbsp;&raquo;Sukarelawan</option><option  value="/index.php/kapasitas/sukarelawan/palang-merah-remaja.html">&nbsp;&nbsp;&nbsp;&nbsp;&raquo;Palang Merah Remaja</option><option  value="/index.php/kapasitas/sukarelawan/korps-sukarela-ksr.html">&nbsp;&nbsp;&nbsp;&nbsp;&raquo;Korps Sukarela - KSR</option><option  value="/index.php/kapasitas/sukarelawan/tenaga-sukarela-tsr.html">&nbsp;&nbsp;&nbsp;&nbsp;&raquo;Tenaga Sukarela - TSR</option><option  value="/index.php/kapasitas/sukarelawan/donor-darah-sukarela.html">&nbsp;&nbsp;&nbsp;&nbsp;&raquo;Donor Darah Sukarela</option><option  value="http://www.pmi.or.id/index.php/corporatevolunteer.html">&nbsp;&nbsp;&nbsp;&nbsp;&raquo;Corporate Volunteer </option><option  value="/index.php/kapasitas/sukarelawan/volunter.html">&nbsp;&nbsp;&nbsp;&nbsp;&raquo;Volunteers</option><option  value="#">&nbsp;&nbsp;&raquo;Donasi</option><option  value="/index.php/kapasitas/donasi/info-donasi.html">&nbsp;&nbsp;&nbsp;&nbsp;&raquo;Info Donasi</option><option  value="/index.php/kapasitas/donasi/donatur-pmi.html">&nbsp;&nbsp;&nbsp;&nbsp;&raquo;Donatur PMI</option><option  value="#">&nbsp;&nbsp;&raquo;Training </option><option  value="/index.php/kapasitas/training/eksternal.html">&nbsp;&nbsp;&nbsp;&nbsp;&raquo;Eksternal</option><option  value="/index.php/kapasitas/training/internal.html">&nbsp;&nbsp;&nbsp;&nbsp;&raquo;Internal</option><option  value="http://www.pmi.or.id/index.php/kapasitas/donasi/info-donasi.html">Donasi</option><option  value="#">Hubungi Kami</option><option  value="/index.php/hubungi-kami/menghubungi-kami.html">&nbsp;&nbsp;&raquo;Menghubungi Kami</option><option  value="/index.php/hubungi-kami/pmi-provinsi.html">&nbsp;&nbsp;&raquo;PMI Provinsi</option>		    	</select>
+		    </div>
+		    
+		    		    <div id="gkTopBanner">
+		    			    		
+
+<div class="custom"  >
+
+	<p> </p>
+<p>A Member Of <img src="/images/banners/logo-redcross.jpg" border="0" style="border: 0; vertical-align: middle;" /></p>	
+</div>
+
+		    			    </div>
+		    		    
+		    		    <div id="gkMainMenu">
+		    	<nav id="gkExtraMenu" class="gkMenu">
+<ul class="gkmenu level0"><li  class="first active"><a href="http://www.pmi.or.id/"  class=" first active" id="menu101" title="Home" >Home</a></li><li  class="haschild"><a href="#"  class=" haschild" id="menu102" title="Tentang Kami" >Tentang Kami<small>Tentang Kami</small></a><div class="childcontent">
+<div class="childcontent-inner">
+<div class="gkcol gkcol1  first"><ul class="gkmenu level1"><li  class="first"><a href="/index.php/tentang-kami/sejarah-pmi.html"  class=" first" id="menu123" title="Sejarah PMI" >Sejarah PMI</a></li><li ><a href="/index.php/tentang-kami/misi-dan-visi.html"  id="menu124" title="Misi dan Visi" >Misi dan Visi</a></li><li ><a href="/index.php/tentang-kami/tujuan-strategis.html"  id="menu444" title="Tujuan Strategis" >Tujuan Strategis</a></li><li  class="haschild"><a href="#"  class=" haschild" id="menu103" title="Organisasi" >Organisasi</a><div class="childcontent">
+<div class="childcontent-inner">
+<div class="gkcol gkcol1  first"><ul class="gkmenu level2"><li  class="first"><a href="/index.php/tentang-kami/organisasi/pengurus-pmi.html"  class=" first" id="menu105" title="Pengurus PMI"  rel="nofollow">Pengurus PMI</a></li><li ><a href="/index.php/tentang-kami/organisasi/divisi-biro-unit.html"  id="menu652" title="Divisi/Biro/Unit "  rel="nofollow">Divisi/Biro/Unit </a></li><li  class="last"><a href="/index.php/tentang-kami/organisasi/tender.html"  class=" last" id="menu445" title="Tender" >Tender</a></li></ul></div>
+</div>
+</div></li><li  class="last"><a href="/index.php/tentang-kami/mitra-gerakan.html"  class=" last" id="menu581" title="Mitra Gerakan" >Mitra Gerakan</a></li></ul></div>
+</div>
+</div></li><li  class="haschild"><a href="#"  class=" haschild" id="menu436" title="Aktivitas" >Aktivitas</a><div class="childcontent">
+<div class="childcontent-inner">
+<div class="gkcol gkcol1  first"><ul class="gkmenu level1"><li  class="first haschild"><a href="#"  class=" first haschild" id="menu446" title="Diseminasi" >Diseminasi</a><div class="childcontent">
+<div class="childcontent-inner">
+<div class="gkcol gkcol1  first"><ul class="gkmenu level2"><li  class="first"><a href="/index.php/aktivitas/diseminasi/lambang.html"  class=" first" id="menu667" title="Lambang" >Lambang</a></li><li ><a href="/index.php/aktivitas/diseminasi/hpi.html"  id="menu668" title="HPI" >HPI</a></li><li ><a href="/index.php/aktivitas/diseminasi/prinsip-dasar-gerakan.html"  id="menu669" title="Prinsip Dasar Gerakan" >Prinsip Dasar Gerakan</a></li><li  class="last"><a href="/index.php/aktivitas/diseminasi/panduan-keselamatan.html"  class=" last" id="menu670" title="Panduan Keselamatan" >Panduan Keselamatan</a></li></ul></div>
+</div>
+</div></li><li ><a href="/index.php/aktivitas/pengembangan-organisasi.html"  id="menu671" title="Pengembangan Organisasi" >Pengembangan Organisasi</a></li><li  class="last haschild"><a href="#"  class=" last haschild" id="menu263" title="Pelayanan" >Pelayanan</a><div class="childcontent">
+<div class="childcontent-inner">
+<div class="gkcol gkcol1  first"><ul class="gkmenu level2"><li  class="first haschild"><a href="#"  class=" first haschild" id="menu431" title="Manajemen Bencana" >Manajemen Bencana</a><div class="childcontent">
+<div class="childcontent-inner">
+<div class="gkcol gkcol1  first"><ul class="gkmenu level3"><li  class="first"><a href="/index.php/aktivitas/pelayanan/manajemen-bencana/kesiapsiagaan-bencana.html"  class=" first" id="menu432" title="Kesiapsiagaan Bencana" >Kesiapsiagaan Bencana</a></li><li ><a href="/index.php/aktivitas/pelayanan/manajemen-bencana/tanggap-darurat-bencana.html"  id="menu433" title="Tanggap Darurat Bencana" >Tanggap Darurat Bencana</a></li><li  class="last"><a href="/index.php/aktivitas/pelayanan/manajemen-bencana/pemulihan-bencana.html"  class=" last" id="menu434" title="Pemulihan Bencana" >Pemulihan Bencana</a></li></ul></div>
+</div>
+</div></li><li  class="haschild"><a href="#"  class=" haschild" id="menu414" title="Kesehatan" >Kesehatan</a><div class="childcontent">
+<div class="childcontent-inner">
+<div class="gkcol gkcol1  first"><ul class="gkmenu level3"><li  class="first"><a href="/index.php/aktivitas/pelayanan/kesehatan/ppbm.html"  class=" first" id="menu415" title="PPBM" >PPBM</a></li><li ><a href="/index.php/aktivitas/pelayanan/kesehatan/pp-dan-ambulans.html"  id="menu655" title="PP dan Ambulans" >PP dan Ambulans</a></li><li ><a href="/index.php/aktivitas/pelayanan/kesehatan/air-dan-sanitasi.html"  id="menu419" title="Air dan Sanitasi" >Air dan Sanitasi</a></li><li ><a href="/index.php/aktivitas/pelayanan/kesehatan/psp.html"  id="menu420" title="PSP" >PSP</a></li><li ><a href="/index.php/aktivitas/pelayanan/kesehatan/hiv-aids.html"  id="menu422" title="HIV &amp; AIDS" >HIV &amp; AIDS</a></li><li  class="last"><a href="/index.php/aktivitas/pelayanan/kesehatan/operasi-katarak.html"  class=" last" id="menu421" title="Operasi Katarak" >Operasi Katarak</a></li></ul></div>
+</div>
+</div></li><li  class="last haschild"><a href="#"  class=" last haschild" id="menu113" title="Donor Darah" >Donor Darah</a><div class="childcontent">
+<div class="childcontent-inner">
+<div class="gkcol gkcol1  first"><ul class="gkmenu level3"><li  class="first"><a href="/index.php/aktivitas/pelayanan/donor-darah/pelayanan-donor-darah.html"  class=" first" id="menu107" title="Pelayanan Donor Darah" >Pelayanan Donor Darah</a></li><li ><a href="/index.php/aktivitas/pelayanan/donor-darah/donor-sekarang.html"  id="menu448" title="Donor Sekarang" >Donor Sekarang</a></li><li  class="last"><a href="http://ayodonor.pmi.or.id/page/jadwal" target="_blank"  class=" last" id="menu437" title="Jadwal Donor Darah" >Jadwal Donor Darah</a></li></ul></div>
+</div>
+</div></li></ul></div>
+</div>
+</div></li></ul></div>
+</div>
+</div></li><li  class="haschild"><a href="#"  class=" haschild" id="menu234" title="Berita dan Media" >Berita dan Media<small>News and Media</small></a><div class="childcontent">
+<div class="childcontent-inner">
+<div class="gkcol gkcol1  first"><ul class="gkmenu level1"><li  class="first"><a href="/index.php/berita-dan-media/siaran-pers.html"  class=" first" id="menu424" title="Siaran Pers" >Siaran Pers</a></li><li ><a href="/index.php/berita-dan-media/peristiwa.html"  id="menu450" title="Peristiwa" >Peristiwa</a></li><li ><a href="/index.php/berita-dan-media/kliping-berita.html"  id="menu653" title="Kliping Berita" >Kliping Berita</a></li><li  class="haschild"><a href="#"  class=" haschild" id="menu425" title="Gallery" >Gallery</a><div class="childcontent">
+<div class="childcontent-inner">
+<div class="gkcol gkcol1  first"><ul class="gkmenu level2"><li  class="first"><a href="/index.php/berita-dan-media/gallery/photo-gallery.html"  class=" first" id="menu577" title="Photo Gallery" >Photo Gallery</a></li><li  class="last"><a href="/index.php/berita-dan-media/gallery/video-gallery.html"  class=" last" id="menu578" title="Video Gallery" >Video Gallery</a></li></ul></div>
+</div>
+</div></li><li ><a href="/index.php/berita-dan-media/kisah/k2-categories.html"  id="menu438" title="Kisah" >Kisah</a></li><li ><a href="/index.php/berita-dan-media/k2-categories/kabar-donasi.html"  id="menu665" title="Kabar Donasi" >Kabar Donasi</a></li><li  class="last"><a href="/index.php/berita-dan-media/k2-categories/e-library.html"  class=" last" id="menu690" title="E-Library" >E-Library</a></li></ul></div>
+</div>
+</div></li><li  class="haschild"><a href="#"  class=" haschild" id="menu474" title="Kapasitas" >Kapasitas</a><div class="childcontent">
+<div class="childcontent-inner">
+<div class="gkcol gkcol1  first"><ul class="gkmenu level1"><li  class="first haschild"><a href="/index.php/kapasitas/sukarelawan.html"  class=" first haschild" id="menu272" title="Sukarelawan" >Sukarelawan</a><div class="childcontent">
+<div class="childcontent-inner">
+<div class="gkcol gkcol1  first"><ul class="gkmenu level2"><li  class="first"><a href="/index.php/kapasitas/sukarelawan/palang-merah-remaja.html"  class=" first" id="menu416" title="Palang Merah Remaja" >Palang Merah Remaja</a></li><li ><a href="/index.php/kapasitas/sukarelawan/korps-sukarela-ksr.html"  id="menu417" title="Korps Sukarela - KSR" >Korps Sukarela - KSR</a></li><li ><a href="/index.php/kapasitas/sukarelawan/tenaga-sukarela-tsr.html"  id="menu418" title="Tenaga Sukarela - TSR" >Tenaga Sukarela - TSR</a></li><li ><a href="/index.php/kapasitas/sukarelawan/donor-darah-sukarela.html"  id="menu579" title="Donor Darah Sukarela" >Donor Darah Sukarela</a></li><li ><a href="http://www.pmi.or.id/index.php/corporatevolunteer.html"  id="menu675" title="Corporate Volunteer " >Corporate Volunteer </a></li><li  class="last"><a href="/index.php/kapasitas/sukarelawan/volunter.html"  class=" last" id="menu697" title="Volunteers" >Volunteers</a></li></ul></div>
+</div>
+</div></li><li  class="haschild"><a href="#"  class=" haschild" id="menu439" title="Donasi" >Donasi</a><div class="childcontent">
+<div class="childcontent-inner">
+<div class="gkcol gkcol1  first"><ul class="gkmenu level2"><li  class="first"><a href="/index.php/kapasitas/donasi/info-donasi.html"  class=" first" id="menu440" title="Info Donasi" >Info Donasi</a></li><li  class="last"><a href="/index.php/kapasitas/donasi/donatur-pmi.html"  class=" last" id="menu441" title="Donatur PMI" >Donatur PMI</a></li></ul></div>
+</div>
+</div></li><li  class="last haschild"><a href="#"  class=" last haschild" id="menu127" title="Training " >Training </a><div class="childcontent">
+<div class="childcontent-inner">
+<div class="gkcol gkcol1  first"><ul class="gkmenu level2"><li  class="first"><a href="/index.php/kapasitas/training/eksternal.html"  class=" first" id="menu106" title="Eksternal" >Eksternal</a></li><li  class="last"><a href="/index.php/kapasitas/training/internal.html"  class=" last" id="menu423" title="Internal" >Internal</a></li></ul></div>
+</div>
+</div></li></ul></div>
+</div>
+</div></li><li ><a href="http://www.pmi.or.id/index.php/kapasitas/donasi/info-donasi.html"  id="menu689" title="Donasi" >Donasi</a></li><li  class="last haschild"><a href="#"  class=" last haschild" id="menu583" title="Hubungi Kami" >Hubungi Kami<small>Contact Us</small></a><div class="childcontent">
+<div class="childcontent-inner">
+<div class="gkcol gkcol1  first"><ul class="gkmenu level1"><li  class="first"><a href="/index.php/hubungi-kami/menghubungi-kami.html"  class=" first" id="menu426" title="Menghubungi Kami" >Menghubungi Kami</a></li><li  class="last"><a href="/index.php/hubungi-kami/pmi-provinsi.html"  class=" last" id="menu427" title="PMI Provinsi" >PMI Provinsi</a></li></ul></div>
+</div>
+</div></li></ul>
+</nav>   
+	    	</div>
+	    		    	
+	    		    </section>
+	
+		<div id="gkPageContent">
+					 
+	    	<section id="gkContent">					
+								<section id="gkTop1" class="gkCols3">
+					<div>
+						<div class="box  gkmod-1 nomargin"><div><h3 class="header"><span id="module575">Kampanye</span></h3><div class="content">
+	<div id="sj_slideshowii_18549532811471220665" class="sj-slideshowii" style="width:598px;">
+				<div class="sl2-wrap theme1" style="height:319px;">
+			<div class="sl2-items" style="width:425px; height:319px;">
+								<div class="sl2-item curr">
+					<div class="sl2-image" style="width:425px; height:319px;" >
+						<a href="/index.php/component/k2/item/804-kamisiapbantu.html" title="#PMISiapBantu Sukseskan Mudik yang Nyaman, Aman dan Selamat." >
+							<img src="/cache/resized/00e4c4c5001290dc337c51618ec917e7.jpg" alt="cache/resized/00e4c4c5001290dc337c51618ec917e7.jpg"/>						</a>
+					</div>
+					<div class="sl2-more">
+						<div class="sl2-opacity"></div>
+												<div class="sl2-title">
+							<a href="/index.php/component/k2/item/804-kamisiapbantu.html" title="#PMISiapBantu Sukseskan Mudik yang Nyaman, Aman dan Selamat." >
+								#PMISiapBantu Sukseskan Mudik yang Nyaman, Aman dan Selamat.							</a>
+						</div>
+																		<div class="sl2-desc">
+							<strong>#PMISiapBantu </strong>adalah tagline <strong>kegiatan siaga lebaran</strong> yang ...	 
+						</div>
+																	</div>
+				</div>
+								<div class="sl2-item ">
+					<div class="sl2-image" style="width:425px; height:319px;" >
+						<a href="/index.php/component/k2/item/798-pengumuman-pemenang-lomba-blogger-redcrossday.html" title="Pengumuman Pemenang Lomba Blogger #RedCrossDay" >
+							<img src="/cache/resized/db448b085925b0bc2c1929859c9779ec.jpg" alt="cache/resized/db448b085925b0bc2c1929859c9779ec.jpg"/>						</a>
+					</div>
+					<div class="sl2-more">
+						<div class="sl2-opacity"></div>
+												<div class="sl2-title">
+							<a href="/index.php/component/k2/item/798-pengumuman-pemenang-lomba-blogger-redcrossday.html" title="Pengumuman Pemenang Lomba Blogger #RedCrossDay" >
+								Pengumuman Pemenang Lomba Blogger #RedCrossDay							</a>
+						</div>
+																		<div class="sl2-desc">
+							Berikut adalah Pemenang Lomba Blogger dalam rangka ...	 
+						</div>
+																	</div>
+				</div>
+								<div class="sl2-item ">
+					<div class="sl2-image" style="width:425px; height:319px;" >
+						<a href="/index.php/component/k2/item/698-game-saifah-dan-tanah,-ajari-tangguh-bencana-iamfighter.html" title="Game Saifah dan Tanah, Ajari Tangguh Bencana #IamFighter" >
+							<img src="/cache/resized/b0e6265701784221c2262e06b9a19899.jpg" alt="cache/resized/b0e6265701784221c2262e06b9a19899.jpg"/>						</a>
+					</div>
+					<div class="sl2-more">
+						<div class="sl2-opacity"></div>
+												<div class="sl2-title">
+							<a href="/index.php/component/k2/item/698-game-saifah-dan-tanah,-ajari-tangguh-bencana-iamfighter.html" title="Game Saifah dan Tanah, Ajari Tangguh Bencana #IamFighter" >
+								Game Saifah dan Tanah, Ajari Tangguh Bencana #IamFighter							</a>
+						</div>
+																		<div class="sl2-desc">
+							Indonesia adalah negara yang rawan Bencana jika dilihat ...	 
+						</div>
+																	</div>
+				</div>
+								<div class="sl2-item ">
+					<div class="sl2-image" style="width:425px; height:319px;" >
+						<a href="/index.php/component/k2/item/477-laporkan-situasi-kedaruratan-dengan-aplikasi-mra.html" title="Laporkan Situasi Kedaruratan dengan Aplikasi #MRA" >
+							<img src="/cache/resized/20ee32087a6e539fc1922350a7070b06.jpg" alt="cache/resized/20ee32087a6e539fc1922350a7070b06.jpg"/>						</a>
+					</div>
+					<div class="sl2-more">
+						<div class="sl2-opacity"></div>
+												<div class="sl2-title">
+							<a href="/index.php/component/k2/item/477-laporkan-situasi-kedaruratan-dengan-aplikasi-mra.html" title="Laporkan Situasi Kedaruratan dengan Aplikasi #MRA" >
+								Laporkan Situasi Kedaruratan dengan Aplikasi #MRA							</a>
+						</div>
+																		<div class="sl2-desc">
+							<strong>Apa itu MRA?</strong> 
+ MRA (Mobile Rapid Assessment) adalah ...	 
+						</div>
+																	</div>
+				</div>
+								<div class="sl2-item ">
+					<div class="sl2-image" style="width:425px; height:319px;" >
+						<a href="/index.php/component/k2/item/475-aplikasi-firstaidpmi-panduan-praktis-pertolongan-pertama.html" title="Aplikasi #FIRSTAIDPMI : PANDUAN PRAKTIS PERTOLONGAN PERTAMA" >
+							<img src="/cache/resized/c28533406b10190348de0513d4dd1e95.jpg" alt="cache/resized/c28533406b10190348de0513d4dd1e95.jpg"/>						</a>
+					</div>
+					<div class="sl2-more">
+						<div class="sl2-opacity"></div>
+												<div class="sl2-title">
+							<a href="/index.php/component/k2/item/475-aplikasi-firstaidpmi-panduan-praktis-pertolongan-pertama.html" title="Aplikasi #FIRSTAIDPMI : PANDUAN PRAKTIS PERTOLONGAN PERTAMA" >
+								Aplikasi #FIRSTAIDPMI : PANDUAN PRAKTIS PERTOLONGAN PERTAMA							</a>
+						</div>
+																		<div class="sl2-desc">
+							Dalam kehidupan sehari-hari, masyarakat tentu mengalami ...	 
+						</div>
+																	</div>
+				</div>
+								<div class="sl2-item ">
+					<div class="sl2-image" style="width:425px; height:319px;" >
+						<a href="/index.php/component/k2/item/474-siap-hadapi-bencana-dengan-aplikasisiagabencana.html" title="Siap Hadapi Bencana dengan Aplikasi #SiagaBencana" >
+							<img src="/cache/resized/f43ed6564f18a25ae8ed08fe984ac5b4.jpg" alt="cache/resized/f43ed6564f18a25ae8ed08fe984ac5b4.jpg"/>						</a>
+					</div>
+					<div class="sl2-more">
+						<div class="sl2-opacity"></div>
+												<div class="sl2-title">
+							<a href="/index.php/component/k2/item/474-siap-hadapi-bencana-dengan-aplikasisiagabencana.html" title="Siap Hadapi Bencana dengan Aplikasi #SiagaBencana" >
+								Siap Hadapi Bencana dengan Aplikasi #SiagaBencana							</a>
+						</div>
+																		<div class="sl2-desc">
+							Indonesia merupakan supermarket bencana, segala jenis ...	 
+						</div>
+																	</div>
+				</div>
+								<div class="sl2-item ">
+					<div class="sl2-image" style="width:425px; height:319px;" >
+						<a href="/index.php/component/k2/item/473-ingatlah-selalu-safetyroad.html" title="Ingatlah Selalu  #SafetyRoad" >
+							<img src="/cache/resized/8fb4bc52868615cf24bc8790548b514b.jpg" alt="cache/resized/8fb4bc52868615cf24bc8790548b514b.jpg"/>						</a>
+					</div>
+					<div class="sl2-more">
+						<div class="sl2-opacity"></div>
+												<div class="sl2-title">
+							<a href="/index.php/component/k2/item/473-ingatlah-selalu-safetyroad.html" title="Ingatlah Selalu  #SafetyRoad" >
+								Ingatlah Selalu  #SafetyRoad							</a>
+						</div>
+																		<div class="sl2-desc">
+							Persiapan untuk menghindari kecelakaan di jalan adalah ...	 
+						</div>
+																	</div>
+				</div>
+							</div>
+			<div class="sl2-slide" style="width:173px; height:319px;">
+								<div class="sl2-slide-inner" style="width:173px; height:319px;right:px ;left:px;">
+					<div class="slide-items">
+												<div class="slide-item slide-item1 active">
+							<div class="slide-item-inner" style="height:49px;">
+																								<div class="slide-more">
+																		<div class="slide-title">
+										#PMISiapBantu Sukseskan Mudik yang Nyaman, Aman dan Selamat.									</div>
+																										</div>
+								
+							</div>
+						</div>
+												<div class="slide-item slide-item2 ">
+							<div class="slide-item-inner" style="height:49px;">
+																								<div class="slide-more">
+																		<div class="slide-title">
+										Pengumuman Pemenang Lomba Blogger #RedCrossDay									</div>
+																										</div>
+								
+							</div>
+						</div>
+												<div class="slide-item slide-item3 ">
+							<div class="slide-item-inner" style="height:49px;">
+																								<div class="slide-more">
+																		<div class="slide-title">
+										Game Saifah dan Tanah, Ajari Tangguh Bencana #IamFighter									</div>
+																										</div>
+								
+							</div>
+						</div>
+												<div class="slide-item slide-item4 ">
+							<div class="slide-item-inner" style="height:49px;">
+																								<div class="slide-more">
+																		<div class="slide-title">
+										Laporkan Situasi Kedaruratan dengan Aplikasi #MRA									</div>
+																										</div>
+								
+							</div>
+						</div>
+												<div class="slide-item slide-item5 ">
+							<div class="slide-item-inner" style="height:49px;">
+																								<div class="slide-more">
+																		<div class="slide-title">
+										Aplikasi #FIRSTAIDPMI : PANDUAN PRAKTIS PERTOLONGAN PERTAMA									</div>
+																										</div>
+								
+							</div>
+						</div>
+												<div class="slide-item slide-item6 ">
+							<div class="slide-item-inner" style="height:49px;">
+																								<div class="slide-more">
+																		<div class="slide-title">
+										Siap Hadapi Bencana dengan Aplikasi #SiagaBencana									</div>
+																										</div>
+								
+							</div>
+						</div>
+												<div class="slide-item slide-item7 ">
+							<div class="slide-item-inner" style="height:49px;">
+																								<div class="slide-more">
+																		<div class="slide-title">
+										Ingatlah Selalu  #SafetyRoad									</div>
+																										</div>
+								
+							</div>
+						</div>
+											</div>
+				</div>	
+							</div>
+						
+		</div>
+				</div><!--End sj-content-slideshow-->
+	
+	<script type="text/javascript">
+	//<![CDATA[		
+	jQuery(document).ready(function($){
+		/* slide navigation for theme 1, 2, 3, 4  
+		*/
+		function setSlidingTo(index, options){
+			var tabs = $(options.pager);
+			var tabs_holder = tabs.eq(0).parent();
+			var tabs_container = tabs_holder.parent();
+			if (tabs_container && tabs_holder){
+				tabs_container.css({height: function(){
+					return tabs_container.height();
+				}});
+				tabs_container.css({position: 'absolute'});
+				tabs_holder.css({position: 'absolute'});
+			}
+			
+			var viewport   = {};
+			viewport.top  = 0;
+			viewport.bottom = tabs_container.height();
+			
+			var visible   = {};
+			visible.top  = viewport.top  - parseInt( tabs_holder.position().top );
+			visible.bottom = viewport.bottom - parseInt( tabs_holder.position().top );
+		
+			var posUpdate = function(){
+				visible.top  = viewport.top  - parseInt( tabs_holder.position().top );
+				visible.bottom = viewport.bottom - parseInt( tabs_holder.position().top );
+			};
+			
+			var slidingTo = function(index, d){
+				if (!d){
+					d = 500
+				}
+				if (index >= 0){
+					if (index == 0){
+						index = 1;
+					}
+					var prevTop = tabs.eq(index-1).position().top;
+					//console.log(visible.bottom);
+					if (prevTop < visible.top){
+						tabs_holder.animate({
+							top: '+='+(visible.top-prevTop)+'px'
+						}, {
+							duration: d,
+							complete: posUpdate,
+							queue:false 
+						});
+					}
+				}
+				if (index < tabs.length){
+					if (index == tabs.length-1){
+						index = tabs.length-2;
+					}
+					var nextBottom = tabs.eq(index+1).position().top + tabs.eq(index+1).height();
+					if (nextBottom > visible.bottom && index !=1 ){
+						tabs_holder.animate({
+							top: '-='+(nextBottom-visible.bottom)+'px'
+						}, {
+							duration: d,
+							complete: posUpdate,
+							queue:false 
+						});
+					}
+				}
+			};								
+			slidingTo(index);	
+		}
+		
+		/* slide navigation for theme 5  
+		*/
+		function setSlidingToX(index, options){
+			var tabs = $(options.pager);
+			var tabs_holder = tabs.eq(0).parent();
+			var tabs_container = tabs_holder.parent();
+				 //console.log(tabs); 
+				//console.log(tabs_holder);
+				 //console.log(tabs_container); 
+			if (tabs_container && tabs_holder){
+				tabs_container.css({height: function(){
+					return tabs_container.height();
+				}});
+				tabs_container.css({position: 'absolute'});
+				tabs_holder.css({position: 'absolute'});
+			}
+			var viewport   = {};
+			viewport.left  = 0;
+			viewport.right = tabs_container.width();
+			
+			var visible   = {};
+			visible.left  = viewport.left  - parseInt( tabs_holder.position().left );
+			visible.right = viewport.right - parseInt( tabs_holder.position().left );
+			
+			var posUpdate = function(){
+				visible.left  = viewport.left  - parseInt( tabs_holder.position().left );
+				visible.right = viewport.right - parseInt( tabs_holder.position().left );
+			};
+			
+			var slidingTo = function(index, d){
+				if (!d){
+					d = 500
+				}
+				if (index >= 0){
+					if (index == 0){
+						index = 1;
+					}
+					var prevLeft = tabs.eq(index-1).position().left;
+					if (prevLeft < visible.left){
+						tabs_holder.animate({
+							left: '+='+(visible.left-prevLeft)+'px'
+						}, {
+							duration: d,
+							complete: posUpdate,
+							queue:false 
+						});
+					}
+				}
+				if (index < tabs.length){
+					if (index == tabs.length-1){
+						index = tabs.length-2;
+					}
+					var nextRight = tabs.eq(index+1).position().left + tabs.eq(index+1).width();
+					if (nextRight > visible.right){
+						tabs_holder.animate({
+							left: '-='+(nextRight-visible.right)+'px'
+						}, {
+							duration: d,
+							complete: posUpdate,
+							queue:false 
+						});
+					}
+				}
+			};								
+			slidingTo(index);	
+		}
+					$('#sj_slideshowii_18549532811471220665  .sl2-items').cycle({	
+				slideExpr: '.sl2-item',
+				before: function(curr, next, options){
+					$('#sj_slideshowii_18549532811471220665  .sl2-item').eq(options.startingSlide).addClass('curr');
+					if (typeof options.inited == 'undefined'){
+						var slidingTo = options.startingSlide;
+						options.inited = true;					
+						if(typeof options.fxs != 'undefined'){						
+							var tmp=[];
+							var j=0;					
+							for(var i=0;i<options.fxs.length;i++){
+								if(options.fxs[i]=='none'){												
+									continue;
+								}
+								
+								tmp[j++]=options.fxs[i];							
+							}
+							if(tmp.length!=options.fxs.length){
+								options.fxs=tmp;
+							}						
+						}										
+					} else {
+						var slidingTo = options.nextSlide;
+						$('#sj_slideshowii_18549532811471220665  .sl2-item').removeClass('curr');
+						$('#sj_slideshowii_18549532811471220665  .sl2-item').eq(options.nextSlide).addClass('curr');
+					}
+											setSlidingTo(slidingTo, options);
+									}, 
+				fx: 'fade',
+				speed: 900,
+				timeout: 5000,
+				pause:1,
+				pauseOnPagerHover:1,
+				startingSlide: 0,
+				pager: '#sj_slideshowii_18549532811471220665 .slide-items .slide-item',
+				pagerAnchorBuilder: function(i, el){
+					return $('#sj_slideshowii_18549532811471220665  .slide-items .slide-item:eq(' + i + ')');
+				},
+				updateActivePagerLink: function(pager, i, clsName){
+					$(pager).removeClass('active').eq(i).addClass('active');
+				},
+								next: '#sj_slideshowii_18549532811471220665 .sl2-control .next',
+				prev: '#sj_slideshowii_18549532811471220665 .sl2-control .previous',
+								skipInitializationCallbacks: false,
+				pagerEvent: 'click' 	
+				
+			});
+			
+			$('#sj_slideshowii_18549532811471220665 .play-pause').bind('click',function(){
+					if ( $(this).hasClass('pause') ){
+						$(this).addClass('play');
+						$(this).removeClass('pause');					
+						$('#sj_slideshowii_18549532811471220665 .sl2-wrap .sl2-items').cycle('pause');
+					}else{
+						$(this).removeClass('play');
+						$(this).addClass('pause');
+						$('#sj_slideshowii_18549532811471220665 .sl2-wrap .sl2-items').cycle('resume');
+					}
+			});
+			
+						});
+	//]]>
+</script>
+
+</div></div></div>
+					</div>
+				</section>
+								
+								
+					
+				
+								
+				<section id="gkMainbody">
+											<div class="box  nomargin"><div><div class="content"><div class="bannergroup">
+
+	<div class="banneritem">
+																																														<img
+						src="http://www.pmi.or.id/images/banners/13442671_10209632595993021_7496532068628646613_o.jpg"
+						alt="Jumbara PMR VIII"
+																	/>
+											<div class="clr"></div>
+	</div>
+
+</div>
+</div></div></div><div class="box  nsp color1 mobilelayout"><div><h3 class="header"><span id="module523">Berita</span></h3><div class="content">	<div class="nspMain nspFs100" id="nsp-nsp_523" style="width:100%;" data-direction="ltr">
+					<div class="nspArts bottom" style="width:100%;">
+								
+				<div class="nspArtScroll1">
+					<div class="nspArtScroll2 nspPages1">
+																	<div class="nspArtPage nspCol1">
+																				<div class="nspArt nspCol1" style="padding:28px 0;">
+								<a href="/index.php/berita-dan-media/peristiwa/item/824-2000-masker-untuk-warga-ternate.html" class="nspImageWrapper tleft fleft gkResponsive" style="margin:0 32px 0 0;"><img class="nspImage tleft fleft gkResponsive" src="http://www.pmi.or.id/modules/mod_news_pro_gk4/cache/k2.items.cache.0d4be46703e4caec7901c928d2f5e122_Lnsp_523.jpg" alt="2000 Masker Untuk Warga Ternate"   /></a><div class="gkArtContentWrap"><p class="nspInfo  tleft fnone">Agustus 03, 2016 <a class="nspComments" href="/index.php/berita-dan-media/peristiwa/item/824-2000-masker-untuk-warga-ternate.html#itemCommentsAnchor">No comments</a></p><h4 class="nspHeader tleft fnull"><a href="/index.php/berita-dan-media/peristiwa/item/824-2000-masker-untuk-warga-ternate.html" title="2000 Masker Untuk Warga Ternate">2000 Masker Untuk Warga Ternate</a></h4><p class="nspText tleft fnull">Mengantisipasi dampak erupsi Gunung Gamalama berupa abu vulkanik yang mulai meluas di beberapa wilayah di Kota Ternate, PMI Kota Ternate membagikan masker kepada warga sekitar.
+“Sebanyak 2000 masker telah dibagikan oleh...</p><a class="readon  fleft" href="/index.php/berita-dan-media/peristiwa/item/824-2000-masker-untuk-warga-ternate.html">Read more</a></div>							</div>
+																															<div class="nspArt nspCol1" style="padding:28px 0;">
+								<a href="/index.php/berita-dan-media/peristiwa/item/823-terdampak-bencana,-103-siswa-sd-belajar-kesiapsiagaan-bencana.html" class="nspImageWrapper tleft fleft gkResponsive" style="margin:0 32px 0 0;"><img class="nspImage tleft fleft gkResponsive" src="http://www.pmi.or.id/modules/mod_news_pro_gk4/cache/k2.items.cache.90c8a860751b252e58c26f97e05856c4_Lnsp_523.jpg" alt="Terdampak Bencana, 103 Siswa SD Belajar Kesiapsiagaan Bencana"   /></a><div class="gkArtContentWrap"><p class="nspInfo  tleft fnone">Agustus 03, 2016 <a class="nspComments" href="/index.php/berita-dan-media/peristiwa/item/823-terdampak-bencana,-103-siswa-sd-belajar-kesiapsiagaan-bencana.html#itemCommentsAnchor">No comments</a></p><h4 class="nspHeader tleft fnull"><a href="/index.php/berita-dan-media/peristiwa/item/823-terdampak-bencana,-103-siswa-sd-belajar-kesiapsiagaan-bencana.html" title="Terdampak Bencana, 103 Siswa SD Belajar Kesiapsiagaan Bencana">Terdampak Bencana, 103 Siswa SD Belajar Kesiapsiagaan Bencana</a></h4><p class="nspText tleft fnull">Sebanyak 103 siswa Sekolah Dasar Negri (SDN) Babakan Mindi yang terdampak bencana pergerakan tanah, Kecamatan Curugkembar, Kabupaten Sukabumi, Jawa Barat, harus rela belajar di tenda-tenda darurat yang tak jauh dari...</p><a class="readon  fleft" href="/index.php/berita-dan-media/peristiwa/item/823-terdampak-bencana,-103-siswa-sd-belajar-kesiapsiagaan-bencana.html">Read more</a></div>							</div>
+																															<div class="nspArt nspCol1" style="padding:28px 0;">
+								<a href="/index.php/berita-dan-media/peristiwa/item/822-pergerakan-tanah-di-curugkembar-sukabumi-rusak-ratusan-rumah.html" class="nspImageWrapper tleft fleft gkResponsive" style="margin:0 32px 0 0;"><img class="nspImage tleft fleft gkResponsive" src="http://www.pmi.or.id/modules/mod_news_pro_gk4/cache/k2.items.cache.1397be472e45feda66c2cb00ba5f4ce2_Lnsp_523.jpg" alt="Pergerakan Tanah di Curugkembar Sukabumi Rusak Ratusan Rumah"   /></a><div class="gkArtContentWrap"><p class="nspInfo  tleft fnone">Juli 30, 2016 <a class="nspComments" href="/index.php/berita-dan-media/peristiwa/item/822-pergerakan-tanah-di-curugkembar-sukabumi-rusak-ratusan-rumah.html#itemCommentsAnchor">No comments</a></p><h4 class="nspHeader tleft fnull"><a href="/index.php/berita-dan-media/peristiwa/item/822-pergerakan-tanah-di-curugkembar-sukabumi-rusak-ratusan-rumah.html" title="Pergerakan Tanah di Curugkembar Sukabumi Rusak Ratusan Rumah">Pergerakan Tanah di Curugkembar Sukabumi Rusak Ratusan Rumah</a></h4><p class="nspText tleft fnull">Bencana pergerakan tanah di Kampung Babakanmindi, Desa Nagrakjaya, Kecamatan Curugkembar, Kabupaten Sukabumi, Jawa Barat merusak ratusan rumah dan sawah milik warga. Retakan sejak Selasa (19/7) malam itu bahkan menyebabkan tebing...</p><a class="readon  fleft" href="/index.php/berita-dan-media/peristiwa/item/822-pergerakan-tanah-di-curugkembar-sukabumi-rusak-ratusan-rumah.html">Read more</a></div>							</div>
+																															<div class="nspArt nspCol1" style="padding:28px 0;">
+								<a href="/index.php/berita-dan-media/peristiwa/item/821-wayang-pencegah-hiv-aids.html" class="nspImageWrapper tleft fleft gkResponsive" style="margin:0 32px 0 0;"><img class="nspImage tleft fleft gkResponsive" src="http://www.pmi.or.id/modules/mod_news_pro_gk4/cache/k2.items.cache.52c96c35c30d11cfb13711cfa4231ac4_Lnsp_523.jpg" alt="Wayang Pencegah HIV &amp; AIDS"   /></a><div class="gkArtContentWrap"><p class="nspInfo  tleft fnone">Juli 30, 2016 <a class="nspComments" href="/index.php/berita-dan-media/peristiwa/item/821-wayang-pencegah-hiv-aids.html#itemCommentsAnchor">No comments</a></p><h4 class="nspHeader tleft fnull"><a href="/index.php/berita-dan-media/peristiwa/item/821-wayang-pencegah-hiv-aids.html" title="Wayang Pencegah HIV &amp; AIDS">Wayang Pencegah HIV &amp; AIDS</a></h4><p class="nspText tleft fnull">Sebagai remaja yang merupakan masa depan bangsa, anggota PMR dituntut memiliki wawasan pengetahuan serta mampu memunculkan ide-ide kreatif dalam menghadapi tantangan jaman dan hubungan sosial. Itulah yang diharapkan kepada PMR...</p><a class="readon  fleft" href="/index.php/berita-dan-media/peristiwa/item/821-wayang-pencegah-hiv-aids.html">Read more</a></div>							</div>
+																															<div class="nspArt nspCol1" style="padding:28px 0;">
+								<a href="/index.php/berita-dan-media/peristiwa/item/820-mengenal-sesama-dan-budaya.html" class="nspImageWrapper tleft fleft gkResponsive" style="margin:0 32px 0 0;"><img class="nspImage tleft fleft gkResponsive" src="http://www.pmi.or.id/modules/mod_news_pro_gk4/cache/k2.items.cache.884bd078062ee6bd157b294c752d7970_Lnsp_523.jpg" alt="Mengenal Sesama dan Budaya"   /></a><div class="gkArtContentWrap"><p class="nspInfo  tleft fnone">Juli 29, 2016 <a class="nspComments" href="/index.php/berita-dan-media/peristiwa/item/820-mengenal-sesama-dan-budaya.html#itemCommentsAnchor">No comments</a></p><h4 class="nspHeader tleft fnull"><a href="/index.php/berita-dan-media/peristiwa/item/820-mengenal-sesama-dan-budaya.html" title="Mengenal Sesama dan Budaya">Mengenal Sesama dan Budaya</a></h4><p class="nspText tleft fnull">Bersahabat sambil mengenal kebudayaan sesama menjadi suasana yang kental di lokasi Jumbara, Bumi Perkemahan Eks Pabrik Semen Tonasa 1 di Pangkajene Kepulauan (Pangkep). Situasi ini tercermin dalam kegiatan Anjangsana yang...</p><a class="readon  fleft" href="/index.php/berita-dan-media/peristiwa/item/820-mengenal-sesama-dan-budaya.html">Read more</a></div>							</div>
+												</div>
+																</div>
+				</div>	
+			</div>
+					</div>
+
+<script type="text/javascript">
+//<![CDATA[
+try {$Gavick;}catch(e){$Gavick = {};};
+$Gavick["nsp-nsp_523"] = {
+	"animation_speed": 400,
+	"animation_interval": 5000,
+	"animation_function": Fx.Transitions.Expo.easeIn,
+	"news_column": 1,
+	"news_rows": 5,
+	"links_columns_amount": 0,
+	"links_amount": 0,
+	"counter_text": '<strong>Page:</strong>'
+};
+//]]>
+</script>	</div></div></div>
+									</section>
+				
+					    	</section>
+	    	
+	    		    	<aside id="gkSidebar">
+	    		<div class="box  nomargin"><div><div class="content">
+
+<div class="custom"  >
+
+	<table style="width: 290px;">
+<tbody>
+<tr>
+<td valign="middle"> <a href="http://ayodonor.pmi.or.id/page/jadwal" target="_blank" title="Ayo Donor"><img src="/images/icon/logo-ayo-donor-1.png" border="0" alt="Ayo Donor" /></a></td>
+</tr>
+<tr>
+<td valign="middle"><a href="http://pmibloodbook.com" target="_blank" title="Bloodbook"><img src="/images/icon/bloodbook-logo.png" border="0" width="250" style="border: 0;" /></a></td>
+</tr>
+</tbody>
+</table>	
+</div>
+</div></div></div><div class="box "><div><h3 class="header"><span id="module571">PMI VIDEO</span></h3><div class="content"><div class="sp_simple_youtube">
+	<iframe title="Simple youtube module by JoomShaper.com" id="sp-simple-youtube571" src="http://www.youtube.com/embed/CsDHlG4aw34?wmode=transparent" frameborder="0"></iframe>
+</div>
+<script type="text/javascript">
+	window.addEvent("domready", function() {
+		spsyt('sp-simple-youtube571', 300, 250);
+	});
+	window.addEvent("resize", function() {
+		spsyt('sp-simple-youtube571', 300, 250);
+	});
+</script>
+</div></div></div><div class="box "><div><div class="content">
+
+<div class="custom"  >
+
+	<table style="width: 290px;">
+<tbody>
+<tr>
+<td bgcolor="#f3cac4"><a href="/index.php/kapasitas/sukarelawan/donor-darah-sukarela.html" title="Donor Darah"><img src="/images/icon/ikon-donor-darah.png" border="0" width="52" style="border: 0;" /></a> <a href="/index.php/berita-dan-media/k2-categories/e-library.html" title="E-Library"><img src="/images/icon/e-library.png" border="0" width="52" /></a> <a href="http://epaper.pmi.or.id" target="_blank" title="E-paper"><img src="/images/icon/e-paper.png" border="0" width="52" /></a><a href="/index.php/berita-dan-media/gallery/photo-gallery.html" title="Galery Photo"><img src="/images/icon/ikon-galeri-foto.png" border="0" width="52" style="border: 0;" /></a><a href="/index.php/kapasitas/sukarelawan/volunter.html" title="Volunteer"><img src="/images/icon/ikon-volunteer.png" border="0" width="52" style="border: 0;" /></a></td>
+</tr>
+</tbody>
+</table>	
+</div>
+</div></div></div><div class="box "><div><div class="content"><div class="bannergroup">
+
+
+</div>
+</div></div></div><div class="box  nsp color1 mobilelayout"><div><h3 class="header"><span id="module573">Siaran Pers</span></h3><div class="content">	<div class="nspMain nspFs100" id="nsp-nsp_573" style="width:100%;" data-direction="ltr">
+					<div class="nspArts bottom" style="width:100%;">
+								
+				<div class="nspArtScroll1">
+					<div class="nspArtScroll2 nspPages1">
+																	<div class="nspArtPage nspCol1">
+																				<div class="nspArt nspCol1" style="padding:28px 0;">
+								<h4 class="nspHeader tleft fnull"><a href="/index.php/berita-dan-media/siaran-pers/item/815-jumbara-pmr-tingkat-nasional-viii-digelar.html" title="Jumbara PMR Tingkat Nasional VIII Digelar">Jumbara PMR Tingkat Nasional VIII Digelar</a></h4><p class="nspInfo  tleft fnone">Juli 26, 2016 </p><a href="/index.php/berita-dan-media/siaran-pers/item/815-jumbara-pmr-tingkat-nasional-viii-digelar.html" class="nspImageWrapper tleft fleft gkResponsive" style="margin:0 32px 0 0;"><img class="nspImage tleft fleft gkResponsive" src="http://www.pmi.or.id/modules/mod_news_pro_gk4/cache/k2.items.cache.068055ed933d2e69cfeb9ff2d23bac50_Lnsp_573.jpg" alt="Jumbara PMR Tingkat Nasional VIII Digelar"   /></a><p class="nspText tleft fnull">Palang Merah Indonesia (PMI) menggelar kegiatan Jumpa Bakti Gembira (JUMBARA) Palang Merah Remaja (PMR) Tingkat Nasional VIII di Kabupaten Pangkajene Kepulauan, Sulawesi Selatan. Tidak kurang dari 2.500 peserta JUMBARA yang terdiri dari PMR dari seluruh Indonesia dan 10 Perhimpunan Nasional...</p><a class="readon  fleft" href="/index.php/berita-dan-media/siaran-pers/item/815-jumbara-pmr-tingkat-nasional-viii-digelar.html">Read more</a>							</div>
+												</div>
+																</div>
+				</div>	
+			</div>
+					</div>
+
+<script type="text/javascript">
+//<![CDATA[
+try {$Gavick;}catch(e){$Gavick = {};};
+$Gavick["nsp-nsp_573"] = {
+	"animation_speed": 400,
+	"animation_interval": 5000,
+	"animation_function": Fx.Transitions.Expo.easeIn,
+	"news_column": 1,
+	"news_rows": 1,
+	"links_columns_amount": 0,
+	"links_amount": 0,
+	"counter_text": '<strong>Page:</strong>'
+};
+//]]>
+</script>	</div></div></div><div class="box  nsp color1 mobilelayout"><div><h3 class="header"><span id="module580">Tender</span></h3><div class="content">	<p>Error: No articles to display</p>
+
+<script type="text/javascript">
+//<![CDATA[
+try {$Gavick;}catch(e){$Gavick = {};};
+$Gavick["nsp-nsp_580"] = {
+	"animation_speed": 400,
+	"animation_interval": 5000,
+	"animation_function": Fx.Transitions.Expo.easeIn,
+	"news_column": 1,
+	"news_rows": 1,
+	"links_columns_amount": 0,
+	"links_amount": 0,
+	"counter_text": '<strong>Page:</strong>'
+};
+//]]>
+</script>	</div></div></div><div class="box  nsp color1 mobilelayout"><div><h3 class="header"><span id="module587">Karir</span></h3><div class="content">	<p>Error: No articles to display</p>
+
+<script type="text/javascript">
+//<![CDATA[
+try {$Gavick;}catch(e){$Gavick = {};};
+$Gavick["nsp-nsp_587"] = {
+	"animation_speed": 400,
+	"animation_interval": 5000,
+	"animation_function": Fx.Transitions.Expo.easeIn,
+	"news_column": 1,
+	"news_rows": 1,
+	"links_columns_amount": 0,
+	"links_amount": 0,
+	"counter_text": '<strong>Page:</strong>'
+};
+//]]>
+</script>	</div></div></div>
+	    	</aside>
+	    			</div>
+		    
+		    </div> 
+    
+        <section id="gkBottom2" class="gkCols6">
+    	<div>
+    		<div class="box  gkmod-3 nomargin"><div><h3 class="header"><span id="module578">Markas Pusat Palang Merah Indonesia </span></h3><div class="content">
+
+<div class="custom"  >
+
+	<p>Jl. Jend. Gatot Subroto Kav. 96 Jakarta - Indonesia  Telp. +62 021 7992325 Faks. +62 021 7995188  Email: pmi.or.id,  Laman: www.pmi.or.id</p>	
+</div>
+</div></div></div><div class="box  gkmod-3 nomargin"><div><div class="content">
+
+<div class="custom"  >
+
+	<p><img src="/images/spacer.png" border="0" style="border: 0;" /></p>	
+</div>
+</div></div></div><div class="box  gkmod-3 nomargin"><div><h3 class="header"><span id="module581">Jumlah Pengunjung</span></h3><div class="content"><div class="mvc_main"><div style="text-align: center;" class="mvc_digitCounter"><img class="mvc_digitCounterImg" src="/modules/mod_vvisit_counter/images/blackold/1.gif" alt="1" title="1"/><img class="mvc_digitCounterImg" src="/modules/mod_vvisit_counter/images/blackold/0.gif" alt="0" title="0"/><img class="mvc_digitCounterImg" src="/modules/mod_vvisit_counter/images/blackold/1.gif" alt="1" title="1"/><img class="mvc_digitCounterImg" src="/modules/mod_vvisit_counter/images/blackold/3.gif" alt="3" title="3"/><img class="mvc_digitCounterImg" src="/modules/mod_vvisit_counter/images/blackold/6.gif" alt="6" title="6"/><img class="mvc_digitCounterImg" src="/modules/mod_vvisit_counter/images/blackold/0.gif" alt="0" title="0"/></div></div><!-- Mod_VVisit_Counter :  http://www.mmajunke.de/ --></div></div></div>
+    	</div>
+    </section>
+        
+    
+<footer class="gkFooter">
+		
+		<div id="gkFooterNav">
+		
+<ul class="menu">
+<li class="item-466"><a href="http://www.pmi.or.id" >Home</a></li><li class="item-152"><a href="/index.php/tender.html" >Tender</a></li><li class="item-153"><a href="/index.php/karir.html" >Karir</a></li><li class="item-674"><a href="/index.php/corporatevolunteer.html" >Corporate Volunteer</a></li><li class="item-701"><a href="/index.php/launching-games-sai-fah-dan-tanah.html" >Launching Games Sai Fah dan Tanah</a></li><li class="item-702"><a href="/index.php/respon-bom-sarinah.html" >Respon Bom Sarinah</a></li></ul>
+
+	</div>
+		
+		
+		<p class="gkCopyrights">Template Design &copy; <a href="http://www.pmi.co.id" title="Palang Merah Indonesia">Palang Merah Indonesia</a>. All rights reserved.</p>
+	</footer>    
+        <div id="gkTopBar">
+    	<div>
+    		    		<div class="social-icons">
+    			
+
+<div class="custom"  >
+
+	<p><a class="gkFb" href="https://www.facebook.com/palangmerah" target="_blank">Facebook</a> <a class="gkTwitter" href="https://twitter.com/palangmerah" target="_blank">Twitter</a> <a class="gkGplus" href="https://plus.google.com/u/0/111335889120165210241" target="_blank">Google+</a> <a class="gkRss" href="#">RSS</a></p>	
+</div>
+
+    		</div>
+    		    		
+    		
+    		    		
+    		    		<nav id="gkTopBarUsermenu">
+    			<noscript>Javascript is required to use <a href="http://gtranslate.net/">GTranslate</a> <a href="http://gtranslate.net/">multilingual website</a> and <a href="http://gtranslate.net/">translation delivery network</a></noscript>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('6 7(a,b){n{4(2.9){3 c=2.9("o");c.p(b,f,f);a.q(c)}g{3 c=2.r();a.s(\'t\'+b,c)}}u(e){}}6 h(a){4(a.8)a=a.8;4(a==\'\')v;3 b=a.w(\'|\')[1];3 c;3 d=2.x(\'y\');z(3 i=0;i<d.5;i++)4(d[i].A==\'B-C-D\')c=d[i];4(2.j(\'k\')==E||2.j(\'k\').l.5==0||c.5==0||c.l.5==0){F(6(){h(a)},G)}g{c.8=b;7(c,\'m\');7(c,\'m\')}}',43,43,'||document|var|if|length|function|GTranslateFireEvent|value|createEvent||||||true|else|doGTranslate||getElementById|google_translate_element2|innerHTML|change|try|HTMLEvents|initEvent|dispatchEvent|createEventObject|fireEvent|on|catch|return|split|getElementsByTagName|select|for|className|goog|te|combo|null|setTimeout|500'.split('|'),0,{}))
+/* ]]> */
+</script>
+
+
+<div id="google_translate_element2"></div>
+<script type="text/javascript">function googleTranslateElementInit2() {new google.translate.TranslateElement({pageLanguage: 'id', autoDisplay: false}, 'google_translate_element2');}</script>
+<script type="text/javascript" src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit2"></script>
+
+<select onchange="doGTranslate(this);"><option value="">Select Language</option><option value="id|id" style="font-weight:bold;background:url('/modules/mod_gtranslate/tmpl/lang/16l.png') no-repeat scroll 0 -432px;padding-left:18px;">Indonesian</option><option value="id|en" style="background:url('/modules/mod_gtranslate/tmpl/lang/16l.png') no-repeat scroll 0 -0px;padding-left:18px;">English</option></select>
+    		</nav>
+    		    	</div>
+    </div>
+        	
+   	
+
+<div id="gkfb-root"></div>
+<script type="text/javascript">
+
+//<![CDATA[
+   	window.fbAsyncInit = function() {
+		FB.init({ appId: '171342606239806', 
+			status: true, 
+			cookie: true,
+			xfbml: true,
+			oauth: true
+		});
+   		    
+	  		  	function updateButton(response) {
+	    	var button = document.getElementById('fb-auth');
+		
+			if(button) {
+	    		if (response.authResponse) {
+	      		// user is already logged in and connected
+				button.onclick = function() {
+					if($('login-form')){
+						$('modlgn-username').set('value','Facebook');
+						$('modlgn-passwd').set('value','Facebook');
+						$('login-form').submit();
+					} else if($$('.login form')[0]) {
+					   $('username').set('value','Facebook');
+					   $('password').set('value','Facebook');
+					   $$('.login form')[0].submit();
+					}
+				}
+			} else {
+	      		//user is not connected to your app or logged out
+	      		button.onclick = function() {
+					FB.login(function(response) {
+					   if (response.authResponse) {
+					      if($('login-form')){
+					      	$('modlgn-username').set('value','Facebook');
+					      	$('modlgn-passwd').set('value','Facebook');
+					      	$('login-form').submit();
+					      } else if($$('.login form')[0]) {
+					         $('username').set('value','Facebook');
+					         $('password').set('value','Facebook');
+					         $$('.login form')[0].submit();
+					      }
+					  } else {
+					    //user cancelled login or did not grant authorization
+					  }
+					}, {scope:'email'});  	
+	      		}
+	    	}
+	    }
+	  }
+	  // run once with current status and whenever the status changes
+	  FB.getLoginStatus(updateButton);
+	  FB.Event.subscribe('auth.statusChange', updateButton);	
+	  	};
+    //      
+   window.addEvent('load', function(){
+        (function(){
+                if(!document.getElementById('fb-root')) {
+                     var root = document.createElement('div');
+                     root.id = 'fb-root';
+                     document.getElementById('gkfb-root').appendChild(root);
+                     var e = document.createElement('script');
+                 e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+                     e.async = true;
+                 document.getElementById('fb-root').appendChild(e);   
+                }
+        }());
+    }); 
+    //]]>
+</script>
+
+
+<!-- +1 button -->
+
+<!-- twitter -->
+
+
+<!-- Pinterest script --> 
+
+	
+</body>
+</html>

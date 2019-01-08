@@ -1,0 +1,350 @@
+<!doctype html>
+<html>
+<head>
+<title>Org Chart Editor</title>
+<!-- Copyright 1998-2015 by Northwoods Software Corporation. -->
+<script src="go.js"></script>
+<link href="goSamples.css" rel="stylesheet" type="text/css"/>  <!-- you don't need to use this -->
+<script src="goSamples.js"></script>  <!-- this is only for the GoJS Samples framework -->
+<script id="code">
+  function init() {
+    if (window.goSamples) goSamples();  // init for these samples -- you don't need to call this
+    var $ = go.GraphObject.make;  // for conciseness in defining templates
+
+    myDiagram =
+      $(go.Diagram, "myDiagram", // must be the ID or reference to div
+        {
+          initialContentAlignment: go.Spot.Center,
+          // make sure users can only create trees
+          validCycle: go.Diagram.CycleDestinationTree,
+          // users can select only one part at a time
+          maxSelectionCount: 1,
+          layout:
+            $(go.TreeLayout,
+              {
+                treeStyle: go.TreeLayout.StyleLastParents,
+                arrangement: go.TreeLayout.ArrangementHorizontal,
+                // properties for most of the tree:
+                angle: 90,
+                layerSpacing: 35,
+                // properties for the "last parents":
+                alternateAngle: 90,
+                alternateLayerSpacing: 35,
+                alternateAlignment: go.TreeLayout.AlignmentBus,
+                alternateNodeSpacing: 20
+              }),
+          // support editing the properties of the selected person in HTML
+          "ChangedSelection": onSelectionChanged,
+          "TextEdited": onTextEdited,
+          // enable undo & redo
+          "undoManager.isEnabled": true
+        });
+
+    // when the document is modified, add a "*" to the title and enable the "Save" button
+    myDiagram.addDiagramListener("Modified", function(e) {
+      var button = document.getElementById("SaveButton");
+      if (button) button.disabled = !myDiagram.isModified;
+      var idx = document.title.indexOf("*");
+      if (myDiagram.isModified) {
+        if (idx < 0) document.title += "*";
+      } else {
+        if (idx >= 0) document.title = document.title.substr(0, idx);
+      }
+    });
+
+    var levelColors = ["#AC193D/#BF1E4B", "#2672EC/#2E8DEF", "#8C0095/#A700AE", "#5133AB/#643EBF",
+                       "#008299/#00A0B1", "#D24726/#DC572E", "#008A00/#00A600", "#094AB2/#0A5BC4"];
+
+    // override TreeLayout.commitNodes to also modify the background brush based on the tree depth level
+    myDiagram.layout.commitNodes = function() {
+      go.TreeLayout.prototype.commitNodes.call(myDiagram.layout);  // do the standard behavior
+      // then go through all of the vertexes and set their corresponding node's Shape.fill
+      // to a brush dependent on the TreeVertex.level value
+      myDiagram.layout.network.vertexes.each(function(v) {
+        if (v.node) {
+          var level = v.level % (levelColors.length);
+          var colors = levelColors[level].split("/");
+          var shape = v.node.findObject("SHAPE");
+          if (shape) shape.fill = $(go.Brush, go.Brush.Linear, { 0: colors[0], 1: colors[1], start: go.Spot.Left, end: go.Spot.Right });
+        }
+      });
+    }
+
+    // when a node is double-clicked, add a child to it
+    function nodeDoubleClick(e, obj) {
+      var clicked = obj.part;
+      if (clicked !== null) {
+        var thisemp = clicked.data;
+        myDiagram.startTransaction("add employee");
+        var nextkey = (myDiagram.model.nodeDataArray.length + 1).toString();
+        var newemp = { key: nextkey, name: "(new person)", title: "", parent: thisemp.key };
+        myDiagram.model.addNodeData(newemp);
+        myDiagram.commitTransaction("add employee");
+      }
+    }
+
+    // this is used to determine feedback during drags
+    function mayWorkFor(node1, node2) {
+      if (!(node1 instanceof go.Node)) return false;  // must be a Node
+      if (node1 === node2) return false;  // cannot work for yourself
+      if (node2.isInTreeOf(node1)) return false;  // cannot work for someone who works for you
+      return true;
+    }
+
+    // This function provides a common style for most of the TextBlocks.
+    // Some of these values may be overridden in a particular TextBlock.
+    function textStyle() {
+      return { font: "9pt  Segoe UI,sans-serif", stroke: "white" };
+    }
+
+    // This converter is used by the Picture.
+    function findHeadShot(key) {
+      return "images/HS" + key + ".png"
+    };
+
+
+    // define the Node template
+    myDiagram.nodeTemplate =
+      $(go.Node, "Auto",
+        { doubleClick: nodeDoubleClick },
+        { // handle dragging a Node onto a Node to (maybe) change the reporting relationship
+          mouseDragEnter: function (e, node, prev) {
+            var diagram = node.diagram;
+            var selnode = diagram.selection.first();
+            if (!mayWorkFor(selnode, node)) return;
+            var shape = node.findObject("SHAPE");
+            if (shape) {
+              shape._prevFill = shape.fill;  // remember the original brush
+              shape.fill = "darkred";
+            }
+          },
+          mouseDragLeave: function (e, node, next) {
+            var shape = node.findObject("SHAPE");
+            if (shape && shape._prevFill) {
+              shape.fill = shape._prevFill;  // restore the original brush
+            }
+          },
+          mouseDrop: function (e, node) {
+            var diagram = node.diagram;
+            var selnode = diagram.selection.first();  // assume just one Node in selection
+            if (mayWorkFor(selnode, node)) {
+              // find any existing link into the selected node
+              var link = selnode.findTreeParentLink();
+              if (link !== null) {  // reconnect any existing link
+                link.fromNode = node;
+              } else {  // else create a new link
+                diagram.toolManager.linkingTool.insertLink(node, node.port, selnode, selnode.port);
+              }
+            }
+          }
+        },
+        // for sorting, have the Node.text be the data.name
+        new go.Binding("text", "name"),
+        // bind the Part.layerName to control the Node's layer depending on whether it isSelected
+        new go.Binding("layerName", "isSelected", function(sel) { return sel ? "Foreground" : ""; }).ofObject(),
+        // define the node's outer shape
+        $(go.Shape, "Rectangle",
+          {
+            name: "SHAPE", fill: "white", stroke: null,
+            // set the port properties:
+            portId: "", fromLinkable: true, toLinkable: true, cursor: "pointer"
+          }),
+        $(go.Panel, "Horizontal",
+          $(go.Picture,
+            {
+              maxSize: new go.Size(39, 50),
+              margin: new go.Margin(0, 8, 15, 10),
+            },
+            new go.Binding("source", "key", findHeadShot)),
+          // define the panel where the text will appear
+          $(go.Panel, "Table",
+            {
+              maxSize: new go.Size(450, 999),
+              margin: new go.Margin(10, 10, 0, 3),
+              defaultAlignment: go.Spot.Left
+            },
+            $(go.RowColumnDefinition, { column: 2, width: 4 }),
+            $(go.TextBlock, textStyle(),  // the name
+              {
+                row: 0, column: 0, columnSpan: 5,
+                font: "12pt Segoe UI,sans-serif",
+                editable: true, isMultiline: false,
+                minSize: new go.Size(10, 16)
+              },
+              new go.Binding("text", "name").makeTwoWay()), // End of Name
+		// Title / Jabatan
+            $(go.TextBlock, "", textStyle(),
+              { row: 1, column: 0 }),
+            $(go.TextBlock, textStyle(),
+              {
+                row: 1, column: 0, columnSpan: 4,
+                editable: true, isMultiline: false,
+                minSize: new go.Size(10, 14),
+                margin: new go.Margin(0, 0, 0, 0)
+              },
+              new go.Binding("text", "title").makeTwoWay()),
+		//=========== Penambahan Custom ============//
+		// Menampilkan Keterangan 
+            $(go.TextBlock, "", textStyle(),
+              { row: 2, column: 0 }),
+            $(go.TextBlock, textStyle(),
+              {
+                row: 2, column: 0, columnSpan: 4,
+                editable: true, isMultiline: false,
+                minSize: new go.Size(10, 14),
+                margin: new go.Margin(0, 0, 0, 0)
+              },
+              new go.Binding("text", "nb").makeTwoWay()),
+		// Menampilkan NIP
+            $(go.TextBlock, "", textStyle(),
+              { row: 3, column: 0 }),
+            $(go.TextBlock, textStyle(),
+              {
+                row: 3, column: 0, columnSpan: 4,
+                editable: true, isMultiline: false,
+                minSize: new go.Size(10, 14),
+                margin: new go.Margin(0, 0, 0, 0)
+              },
+              new go.Binding("text", "nip").makeTwoWay()),
+		//=========== Selesai ============//
+		// Menampilkan ID start
+            //$(go.TextBlock, textStyle(),
+              //{ row: 2, column: 0 },
+              //new go.Binding("text", "key", function(v) {return "ID: " + v;})), // Menampilkan ID END
+		// Menampilkan Boss Parent
+            //$(go.TextBlock, textStyle(),
+              //{ row: 2, column: 3, },
+              //new go.Binding("text", "parent", function(v) {return "Boss: " + v;})), //Menampilkan Boss END
+            $(go.TextBlock, textStyle(),  // the comments
+              {
+                row: 4, column: 0, columnSpan: 5,
+                font: "italic 9pt sans-serif",
+                wrap: go.TextBlock.WrapFit,
+                editable: true,  // by default newlines are allowed
+                minSize: new go.Size(10, 14)
+              },
+              new go.Binding("text", "comments").makeTwoWay())
+          )  // end Table Panel
+        ) // end Horizontal Panel
+      );  // end Node
+
+    // define the Link template
+    myDiagram.linkTemplate =
+      $(go.Link, go.Link.Orthogonal,
+        { corner: 5, relinkableFrom: true, relinkableTo: true },
+        $(go.Shape, { strokeWidth: 4, stroke: "#00a4a4" }));  // the link shape
+
+    // read in the JSON-format data from the "mySavedModel" element
+    load();
+  }
+
+  // Allow the user to edit text when a single node is selected
+  function onSelectionChanged(e) {
+    var node = e.diagram.selection.first();
+    if (node instanceof go.Node) {
+      updateProperties(node.data);
+    } else {
+      updateProperties(null);
+    }
+  }
+
+  // Update the HTML elements for editing the properties of the currently selected node, if any
+  function updateProperties(data) {
+    if (data === null) {
+      document.getElementById("propertiesPanel").style.display = "none";
+      document.getElementById("name").value = "";
+      document.getElementById("title").value = "";
+      document.getElementById("nb").value = "";
+      document.getElementById("nip").value = "";
+      document.getElementById("comments").value = "";
+    } else {
+      document.getElementById("propertiesPanel").style.display = "block";
+      document.getElementById("name").value = data.name || "";
+      document.getElementById("title").value = data.title || "";
+      document.getElementById("nb").value = "";
+      document.getElementById("nip").value = data.title || "";
+      document.getElementById("comments").value = data.comments || "";
+    }
+  }
+
+  // This is called when the user has finished inline text-editing
+  function onTextEdited(e) {
+    var tb = e.subject;
+    if (tb === null || !tb.name) return;
+    var node = tb.part;
+    if (node instanceof go.Node) {
+      updateProperties(node.data);
+    }
+  }
+
+  // Update the data fields when the text is changed
+  function updateData(text, field) {
+    var node = myDiagram.selection.first();
+    // maxSelectionCount = 1, so there can only be one Part in this collection
+    var data = node.data;
+    if (node instanceof go.Node && data !== null) {
+      var model = myDiagram.model;
+      model.startTransaction("modified " + field);
+      if (field === "name") {
+        model.setDataProperty(data, "name", text);
+      } else if (field === "title") {
+        model.setDataProperty(data, "title", text);
+      } else if (field === "nb") {
+        model.setDataProperty(data, "nb", text);
+      } else if (field === "nip") {
+        model.setDataProperty(data, "nip", text);
+      } else if (field === "comments") {
+        model.setDataProperty(data, "comments", text);
+      }
+      model.commitTransaction("modified " + field);
+    }
+  }
+
+  // Show the diagram's model in JSON format
+  function save() {
+    document.getElementById("mySavedModel").value = myDiagram.model.toJson();
+    myDiagram.isModified = false;
+  }
+  function load() {
+    myDiagram.model = go.Model.fromJson(document.getElementById("mySavedModel").value);
+  }
+</script>
+</head>
+<body onload="init()">
+<div id="sample">
+  <div id="myDiagram" style="background-color: #696969; border: solid 1px black; height: 650px"></div>
+  <div>
+    <textarea id="mySavedModel" style="display:none;width:100%;height:450px">
+{ "class": "go.TreeModel",
+  "nodeDataArray": [ 
+{"key":"1", "name":"KEPALA EX-OFFICIO BPBD", "title":"SEKRETARIS DAERAH"},
+{"key":"2", "name":"UNSUR PENGARAH", "parent":"1"},
+{"key":"4", "name":"KEPALA PELAKSANA BPBD", "title":"DRS. HERU IRAWAN .MSI", "nb":"Pembina /IV a", "nip":"NIP.19591212 198003 1 020", "parent":"1"},
+{"key":"10", "name":"SEKRETARIS", "title":"TANTOWI JAUHARI,SP", "nb":"Pembina /IV a", "nip":"NIP.19731105 199901 1 001", "parent":"4"},
+{"key":"7", "name":"KELOMPOK ", "title":"JABATAN FUNGSIONAL", "parent":"10"},
+{"key":"72", "name":"SUB BAG PENYUSUNAN PROGRAM", "title":"SUMIATI.SE", "nb":"Penata Tk.I (III/d)", "nip":"NIP.19600711 198509 2 001", "parent":"10"},
+{"key":"8", "name":"SUB BAG KEUANGAN", "title":"MUJIATI", "nb":"Penata Tk.I (III/d )", "nip":"NIP.19600306 198103 2 004", "parent":"10"},
+{"key":"82", "name":"SUB BAG UMUM DAN KEPEGAWAIAN", "title":"A.PURWOKO I,SE", "nb":"Penata /III c", "nip":"NIP.19681007 199202 1 002", "parent":"10"},
+{"key":"9", "name":"STAF", "title":"SURYANTO", "nb":"Pengatur Muda  Tk I/II/b", "nip":"NIP.19660601 200701 1 021", "parent":"72"},
+{"key":"11", "name":"STAF", "title":"FARID PANDHU P, AMD", "nb":"Pengatur /II/c", "nip":"NIP.19851128 201101 1 009", "parent":"8"},
+{"key":"12", "name":"STAF", "title":"LILIN LISTIANA, AMD", "nb":"Pengatur /II/c", "nip":"NIP.19791129 201101 2 010", "parent":"8"},
+{"key":"13", "name":"STAF", "title":"ERWAN WIEDIANTO", "nb":"Pengatur Muda Tk.I /II/b", "nip":"NIP.19770116 200601 1 004", "parent":"82"},
+{"key":"14", "name":"STAF", "title":"WAGIMIN", "nb":"Juru Tk.I /I/d", "nip":"NIP. 19750505 200801 1 028", "parent":"82"},
+{"key":"142", "name":"BDG.PENCEGAHAN DAN KESIAPSIAGAAN", "title":"DRS. KATIJAN., MSI.", "nb":"Pembina /IV a", "nip":"NIP.19601110 197907 1 002", "parent":"4"},
+{"key":"15", "name":"BIDANG KEDARURATAN DAN LOGISTIK", "title":"MUSTOFA,SPd", "nb":"Pembina /IV a", "nip":"NIP.19650705 198606 1002", "parent":"4"},
+{"key":"16", "name":"BIDANG REHABILITASI DAN REKONSTRUKSI", "title":"MARUDUT NADEAK. SH.MH", "nb":"Pembina /IV a", "nip":"NIP.19680521 199603 1 001", "parent":"4"},
+{"key":"17", "name":"UPTD", "parent":"4"},
+{"key":"18", "name":"SEKSI PENCEGAHAN", "title":"SABAR ARIADI, SE.MM", "nb":"Penata /III ca", "nip":"NIP.19720817 200312 1 007", "parent":"142"},
+{"key":"19", "name":"STAF", "title":"DANI TRI ANGGORO,S.Sos", "nb":"Penata Muda /III/a", "nip":"NIP.19841113 201001 2 015", "parent":"18"},
+{"key":"20", "name":"SEKSI KESIAPSIAGAAN", "title":"DRS. DJONI OPERIANTO TRISULA", "nb":"Penata Tk.I/III D", "nip":"NIP.19680609 199503 1 002", "parent":"142"},
+{"key":"21", "name":"SEKSI KEDARURATAN", "title":"GANEF RAHMANTO. S.Sos", "nb":"Penata Tk I/III d ", "nip":"NIP.19631126 198603 1 014", "parent":"15"},
+{"key":"22", "name":"SEKSI LOGISTIK", "title":"Drs. IMAM SUHARI", "nb":"Penata Tk. I/III/d", "nip":"NIP. 19580810 199003 1 007", "parent":"15"},
+{"key":"23", "name":"STAF", "title":"AGUS RIADI", "nb":"Pengatur Muda Tk.I/II/b", "nip":"NIP.19800817 200901 1 001", "parent":"22"},
+{"key":"24", "name":"SEKSI REHABILITASI", "title":"WAHYUDI., ST.", "nb":"Penata /III c", "nip":"NIP.19740805 200312 1 005", "parent":"16"},
+{"key":"25", "name":"SEKSI REKONSTRUKSI", "title":"IMAM KHAMBALI, ST.", "nb":"Penata Tk. I/III/d", "nip":"NIP.19590209 199703 1 001", "parent":"16"}
+]}
+    </textarea>
+  </div>
+</div>
+</body>
+</html>

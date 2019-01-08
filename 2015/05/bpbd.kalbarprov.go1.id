@@ -1,0 +1,104 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml"><head>
+<head>
+	<title>SIMBE - Sistem Informasi Mitigasi Bencana</title>
+
+	<meta http-equiv="Content-Language" content="en-us" />
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="description" content="Pemerintah Provinsi Kalimantan Barat" />
+	<meta name="keywords" content="kalbar provinsi propinsi kalimantan barat indonesia bencana" />
+	<meta name="robots" content="index, follow" />
+
+	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+	<style type="text/css">@import url('style.css');</style>
+	<script type="text/javascript" language="javascript" src="menu/stmenu.js"></script>
+</head>
+<body>
+<div id="utama">
+	<div id="atas">
+	<img src="gbr/atas_01.jpg" /><img src="gbr/atas_02.gif" /><img src="gbr/atas_03.gif" /><img src="gbr/atas_04.gif" />
+	</div>	<div id="isi">
+		<div id="kiri">
+<div id="box">
+  <div id="menu">
+					<div class="menufont"><b><a href='index.php'>HOME</a></b></div>
+				</div>  <div id="menu">
+					<div class="menufont"><b><a href='sahana/www/'>SAHANA</a></b></div>
+				</div>  <div id="menu">
+					<div class="menufont"><b><a href='gammu/'>SMS SERVICE</a></b></div>
+				</div>  <div id="menu">
+					<div class="menufont"><b><a href='berita.php'>BERITA</a></b></div>
+				</div>  <div id="menu">
+					<div class="menufont"><b><a href='artikel.php'>ARTIKEL</a></b></div>
+				</div>  <div id="menu">
+					<div class="menufont"><b><a href='kontak.php'>HUBUNGI KAMI</a></b></div>
+				</div></div>
+<!-- <div id="box" style="color:#4a568a; font-size:12px;"><b>SATKORLAK</b>
+</div> -->
+
+<div id="box" style="color:#4a568a; font-size:12px;">
+	<div id="menu">
+	<div class="menufont"><b>DATA</b></div>
+	</div>
+ 
+					<div id="kiritaut"><a href='data.php?1'>Daerah Rawan Bencana</a></div> 
+					<div id="kiritaut"><a href='data.php?2'>Satlak</a></div> 
+					<div id="kiritaut"><a href='data.php?3'>Organisasi</a></div> 
+					<div id="kiritaut"><a href='data.php?5'>Sarana Umum</a></div> 
+					<div id="kiritaut"><a href='data.php?7'>Logistik & Peralatan</a></div></div>
+
+<div id="box" style="color:#4a568a; font-size:12px;">
+	<div id="menu">
+	<div class="menufont"><b>PETA BENCANA</b></div>
+	</div>
+	<a href="data.php?6"><img src="gbr/peta_link2.jpg" /></a>
+</div>
+
+</div>		<div id="kanan">
+<div id="box">
+<div id="menu">
+	<div class="menufont"><b>PRAKIRAAN CUACA</b></div>
+	</div>
+	<div class="cuacafont">
+	<table cellpadding="1" cellspacing="0">
+	<tr><td>Kota Pontianak </td><td><img src="gbr/hujan_sedang.gif"></td><td> 20 - 23ºC</td></tr>
+	<tr><td>Kota Singkawang </td><td><img src="gbr/hujan_ringan.gif"></td><td> 22 - 25ºC</td></tr>
+	<tr><td>Kab. Ketapang </td><td><img src="gbr/berawan.gif"></td><td> 25 - 27ºC</td></tr>
+	<tr><td>Kab. Pontianak </td><td><img src="gbr/cerah_berawan.gif"></td><td> 22 - 25ºC</td></tr>
+	</table>
+	</div>
+</div>
+<div id="box">
+<div id="menu">
+	<div class="menufont"><b>INFO BENCANA</b></div>
+	</div>
+	<div class="cuacafont">
+	<b>Angin Puting Beliung</b> <br />Lokasi : Kab. Ketapang<br />Waktu : 2009-11-30 09:25:11<div align="right" style="color:#CCCCCC"><u><a href='inbe/index.php?1'>Selengkapnya..</a></u></div><b>Banjir</b> <br />Lokasi : Kab. Sambas<br />Waktu : 0000-00-00 00:00:00<div align="right" style="color:#CCCCCC"><u><a href='inbe/index.php?2'>Selengkapnya..</a></u></div>	</div>
+</div>
+<div id="box">
+<div id="menu">
+	<div class="menufont"><b>LOGIN OPERATOR</b></div>
+	</div>
+	<div class="cuacafont"><table>
+	<form action="admin.php" method="get"><tr><td>user</td><td><input name="user" type="text" size="12" /></td></tr>
+	<tr><td>password</td><td><input name="pass" size="12" type="password" /></td></tr><tr><td colspan="2" align="center"><input name="sub_user" type="submit" value="login" /></td></tr></form></table>
+	</div>
+</div>
+</div>		<div id="kolom">
+						<div id="box">
+				<div class="tengahfont" style="height:65px;"><!--<marquee direction="up" height="40px">-->
+				PERINGATAN !! <br />Bahaya Asap, gunakan masker sebagai pelindung pernapasan jika sedang bepergian.<br />Tidak melakukan pembakaran ladang atau sampah.<br />Waspada ISPA<!--</marquee>-->
+				</div>
+			</div>						<div id="tengah_kiri">
+				<div id="box">
+				<div id="menu_tengah"><div class="menufont"><b>BERITA</b></div></div>
+				<div style="margin:1px 1px 1px 1px;background-color:#dddddd";><div style="margin:3px 3px 3px 3px;"><div style="margin-bottom:5px;"><b><a href="berita.php?3"; style="color:#3a4780;"  >WASPADA DIARE DAN DBD</a></b></div>KEPALA Dinas Kesehatan Kalimantan Barat, HM Subuh, mengimbau agar warga tetap berwaspada. Sebab, musim kemarau tahun ini diprediksi akan berlangsung lebih lama sehingga rentan memancing munculnya berbagai jenis penyakit terutama ...<div align="right"><a href="artikel.php?" style="color:#3a4780;">Selengkapnya</a></div><br></div></div><div style="margin:1px 1px 1px 1px;background-color:#FFFFFF";><div style="margin:3px 3px 3px 3px;"><div style="margin-bottom:5px;"><b><a href="berita.php?2"; style="color:#3a4780;"  >RUMAH DINAS BANK KALBAR TERBAKAR</a></b></div>SAMBAS-Maut nyaris menghampiri rumah dinas milik Bank Kalbar, di Jalan Ahmad Marzuki, Sambas, tadi malam. Bagian atapnya sebagai tempat sambungan kabel listrik-mengalami terbakar. Untung saja keburu ketahuan oleh tetangga yang ...<div align="right"><a href="artikel.php?" style="color:#3a4780;">Selengkapnya</a></div><br></div></div>				</div>
+			</div>						<div id="tengah_kanan">
+				<div id="box">
+				<div id="menu_tengah"><div class="menufont"><b>ARTIKEL</b></div></div>
+				<div style="margin:1px 1px 1px 1px;background-color:#FFFFFF";><div style="margin:3px 3px 3px 3px;"><div style="margin-bottom:5px;"><b><a href="artikel.php?3" style="color:#3a4780;">ANGIN TOPAN</a></b></div>Angin Topanadalah pusaran angin kencang dengan kecepatan angin 120 km/jam ataulebih yang sering terjadi di wilayah tropis diantara garis balik utaradan selatan, kecuali di daerah-daerah yang sangat berdekatan dengankhatulistiwa.<br /><br /><br />Angin topan ...<div align="right"><a href="artikel.php?3" style="color:#3a4780;">Selengkapnya</a></div><br></div></div><div style="margin:1px 1px 1px 1px;background-color:#dddddd";><div style="margin:3px 3px 3px 3px;"><div style="margin-bottom:5px;"><b><a href="artikel.php?2" style="color:#3a4780;">KEBAKARAN</a></b></div>Kebakaran adalah situasi dimana suatu tempat/lahan/bangunan dilanda api serta hasilnya menimbulkan kerugian. Sedangkan Kebakaran lahan dan hutan adalah keadaan dimana lahan dan hutan dilanda api sehingga mengakibatkan kerusakan lahan dan ...<div align="right"><a href="artikel.php?2" style="color:#3a4780;">Selengkapnya</a></div><br></div></div>				</div>
+			</div>		</div>
+	</div>
+<div id="footer">Pemerintah Provinsi Kalimantan Barat - Badan Penanggulangan Bencana @2009 - kontak kami</div>
+</div>
+</body>

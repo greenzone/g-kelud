@@ -1,0 +1,1310 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+  <title>OCHA | Coordination Saves Lives</title>
+  <meta name="bitly-verification" content="da1c2878722a"/>
+  <meta name="p:domain_verify" content="03b52e4cd22fd64cda7ea2475c5b7a0a"/>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="OCHA, UN, United Nations, Office for the Coordination of Humanitarian Affairs, Coordination, Humanitarian, Humanitarian Affairs, Coordination Saves Lives" />
+<meta name="copyright" content="UN Office for the Coordination of Humanitarian Affairs" />
+<meta name="description" content="OCHA(Office for the Coordination of Humanitarian Affairs) is the part of the United Nations Secretariat responsible for bringing together humanitarian actors to ensure a coherent response to emergencies. OCHA also ensures there is a framework within which each actor can contribute to the overall response effort." />
+<meta name="abstract" content="OCHA is the part of the United Nations Secretariat responsible for bringing together humanitarian actors to ensure a coherent response to emergencies." />
+<link rel="shortcut icon" href="/sites/default/files/ochaonline_theme_favicon.ico" type="image/x-icon" />
+
+        <script type="text/javascript" src="/misc/jquery-1.4.js"></script>
+    <script type="text/javascript">
+      var $jq = jQuery.noConflict();
+    </script>
+
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/ctools/css/531b1fdc47c0633fbc8ebfb4d8ae1ca9.css?5" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/ctools/css/966fda8dbc708f7c55674e42798e0a1a.css?5" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/ochaonline_theme/custom/modules/views_slideshow_ddblock/vsd-ochatheme-front-top-10p/views-slideshow-ddblock-cycle-vsd-ochatheme-front-top-10p.css?5" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/css/css_bc4a6e3faa727185d83ad554394eea36.css" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/ochaonline_theme/css/ochaonline_theme.css?5" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/ochaonline_theme/custom/boxes/boxes.css?5" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/ochaonline_theme/custom/corners/corners_97cbee.css?5" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/ochaonline_theme/css/ochaonline_menu.css?5" />
+
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fusion/fusion_core/css/grid16-960.css" />
+
+  <!--[if IE 8]>
+
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fusion/fusion_core/css/ie8-fixes.css" />
+
+  <![endif]-->
+
+  <!--[if IE 7]>
+
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fusion/fusion_core/css/ie7-fixes.css" />
+
+  <![endif]-->
+
+  <!--[if lte IE 6]>
+
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fusion/fusion_core/css/ie6-fixes.css" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/ochaonline_theme/css/ie6-fixes.css" />
+
+  <![endif]-->
+
+  
+        <link type='text/css' rel='stylesheet' media='all' href='/sites/all/themes/ochaonline_theme/css/show-splash.css' />   
+  <script type="text/javascript" src="/sites/all/modules/jquery_update/replace/jquery.min.js?5"></script>
+<script type="text/javascript" src="/misc/drupal.js?5"></script>
+<script type="text/javascript" src="/sites/all/modules/google_analytics/googleanalytics.js?5"></script>
+<script type="text/javascript" src="/sites/all/modules/panels_new/js/panels.js?5"></script>
+<script type="text/javascript" src="/sites/all/modules/poormanscron/poormanscron.js?5"></script>
+<script type="text/javascript" src="/sites/all/modules/views_slideshow/js/jquery.cycle.all.min.js?5"></script>
+<script type="text/javascript" src="/sites/all/modules/views_slideshow/contrib/views_slideshow_singleframe/views_slideshow.js?5"></script>
+<script type="text/javascript" src="/sites/all/modules/views_slideshow/contrib/views_slideshow_thumbnailhover/views_slideshow.js?5"></script>
+<script type="text/javascript" src="/sites/all/modules/views_slideshow_ddblock/js/views_slideshow_ddblock.admin.js?5"></script>
+<script type="text/javascript" src="/sites/all/modules/extlink/extlink.js?5"></script>
+<script type="text/javascript" src="/sites/all/modules/emfield/contrib/emvideo/emvideo.thumbnail-replacement.js?5"></script>
+<script type="text/javascript" src="/sites/all/modules/reliefwebapi_panel/js/plugin/jquery.dotdotdot-1.5.9.min.js?5"></script>
+<script type="text/javascript" src="/sites/all/modules/reliefwebapi_panel/js/list.js?5"></script>
+<script type="text/javascript" src="/sites/all/modules/image_caption/image_caption.js?5"></script>
+<script type="text/javascript" src="/sites/all/modules/views_slideshow_ddblock/js/jquery.cycle.all.min.js?5"></script>
+<script type="text/javascript" src="/sites/all/modules/views_slideshow_ddblock/js/json2.pack.js?5"></script>
+<script type="text/javascript" src="/sites/all/modules/views_slideshow_ddblock/js/views_slideshow_ddblock.js?5"></script>
+<script type="text/javascript" src="/sites/all/themes/fusion/fusion_core/js/jquery.bgiframe.min.js?5"></script>
+<script type="text/javascript" src="/sites/all/themes/fusion/fusion_core/js/hoverIntent.js?5"></script>
+<script type="text/javascript" src="/sites/all/themes/fusion/fusion_core/js/supposition.js?5"></script>
+<script type="text/javascript" src="/sites/all/themes/fusion/fusion_core/js/supersubs.js?5"></script>
+<script type="text/javascript" src="/sites/all/themes/fusion/fusion_core/js/superfish.js?5"></script>
+<script type="text/javascript" src="/sites/all/themes/fusion/fusion_core/js/script.js?5"></script>
+<script type="text/javascript" src="/sites/all/themes/fusion/fusion_core/js/curvycorners.src.js?5"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip" }, "lightbox2": { "rtl": 0, "file_path": "/(\\w\\w/)sites/default/files", "default_image": "/sites/all/modules/lightbox2/images/brokenimage.jpg", "border_size": 10, "font_color": "000", "box_color": "fff", "top_position": "", "overlay_opacity": "0.8", "overlay_color": "000", "disable_close_click": 1, "resize_sequence": 0, "resize_speed": 400, "fade_in_speed": 400, "slide_down_speed": 600, "use_alt_layout": 1, "disable_resize": 0, "disable_zoom": 0, "force_show_nav": 0, "show_caption": 1, "loop_items": 0, "node_link_text": "View Image Details", "node_link_target": 0, "image_count": "Image !current of !total", "video_count": "Video !current of !total", "page_count": "", "lite_press_x_close": "press \x3ca href=\"#\" onclick=\"hideLightbox(); return FALSE;\"\x3e\x3ckbd\x3ex\x3c/kbd\x3e\x3c/a\x3e to close", "download_link_text": "", "enable_login": false, "enable_contact": false, "keys_close": "c x 27", "keys_previous": "", "keys_next": "", "keys_zoom": "z", "keys_play_pause": "32", "display_image_size": "original", "image_node_sizes": "()", "trigger_lightbox_classes": "", "trigger_lightbox_group_classes": "", "trigger_slideshow_classes": "", "trigger_lightframe_classes": "", "trigger_lightframe_group_classes": "", "custom_class_handler": "lightbox_ungrouped", "custom_trigger_classes": "img.popup", "disable_for_gallery_lists": 1, "disable_for_acidfree_gallery_lists": true, "enable_acidfree_videos": true, "slideshow_interval": 5000, "slideshow_automatic_start": 1, "slideshow_automatic_exit": 1, "show_play_pause": 1, "pause_on_next_click": 0, "pause_on_previous_click": 1, "loop_slides": 0, "iframe_width": 640, "iframe_height": 360, "iframe_border": 0, "enable_video": 1, "flvPlayer": "/sites/all/modules/jwplayermodule/player.swf", "flvFlashvars": "bufferlength=5\x26amp;autostart=true\x26amp;playerMode=normal" }, "cron": { "basePath": "/poormanscron", "runNext": 1471226563 }, "extlink": { "extTarget": "_blank", "extClass": 0, "extSubdomains": 0, "extExclude": "(www.unocha\\.org)", "extInclude": "", "extAlert": 0, "extAlertText": "This link will take you to an external web site. We are not responsible for their content.", "mailtoClass": "mailto" }, "emvideo": { "thumbnail_overlay": 0 }, "viewsSlideshowDdblockContent": { "front_in_focus_block_3": { "block": "front_in_focus_block_3", "nrOfItems": 3, "setDimensions": "vsd-ochatheme-front-top-10p", "contentContainer": "div.slide", "custom": "", "fx": "fade", "speed": 750, "timeOut": 4000, "pause": 1, "next": 0, "overflow": null, "pager": "number-pager", "pagerPosition": "bottom", "nrOfPagerItems": 3, "pagerContainer": ".custom-pager-item", "pagerEvent": "click", "pagerFast": 1, "pagerPause": 1, "pager2": 0, "pager2Event": "click", "pager2PagerHide": 1, "pager2SlideHide": 1, "slideText": 1, "slideTextjQuery": 0, "slideTextPosition": "bottom", "slideTextContainer": "div.slide-text", "slideTextEffectBefore": "hide", "slideTextEffectBeforeSpeed": 500, "slideTextEffectAfter": "show", "slideTextEffectAfterSpeed": 500 } }, "ddblockCustomTemplate": { "pager": "number-pager", "pagerContainer": ".custom-pager-item", "pagerPosition": "bottom" } });
+//--><!]]>
+</script>
+
+
+</head>
+
+
+
+<body id="pid-front" class="front not-logged-in page-front no-sidebars panels layout-main sidebars-split font-family-sans-serif-lg font-size-12 grid-type-960 grid-width-16
+   ">
+
+  <div style="display: none">RESULT:: </div>
+  <div id="page" class="page">
+
+    <div id="page-inner" class="page-inner">
+
+      <div id="skip">
+
+        <a href="#main-content-area">Skip to Main Content Area</a>
+
+      </div>
+
+
+
+      <!-- header-top row: width = grid_width -->
+
+      
+
+
+      <!-- header-group row: width = grid_width -->
+
+      <div id="header-group-wrapper" class="header-group-wrapper full-width">
+
+        <div id="header-group" class="header-group row grid16-16">
+
+          <div id="header-group-inner" class="header-group-inner inner clearfix">
+
+            
+            
+
+
+            
+            <div id="header-site-info" class="header-site-info block">
+
+              <div id="header-site-info-inner" class="header-site-info-inner inner">
+
+                
+                <div id="logo">
+
+                  <a href="/" title="Home"><img src="/sites/default/files/ochaonline_theme_logo.gif" alt="Home" /></a>
+
+                </div>
+
+                
+                
+              </div><!-- /header-site-info-inner -->
+
+            </div><!-- /header-site-info -->
+
+            
+
+
+              
+<div id="block-search-0" class="block block-search odd first grid16-3 fusion-right">
+  <div class="inner clearfix">
+            <div class="content clearfix">
+      <form action="/"  accept-charset="UTF-8" method="post" id="search-block-form">
+<div><div class="form-item" id="edit-search-block-form-1-wrapper">
+ <label for="edit-search-block-form-1">Search this site: </label>
+ <input type="text" maxlength="128" name="search_block_form" id="edit-search-block-form-1" size="15" value="" title="Enter the terms you wish to search for." class="form-text" />
+</div>
+<input type="hidden" name="form_build_id" id="form-iQiVy14X4voWq2c5Axz6SEgW8HCuZO6KfB7gMlmhOSU" value="form-iQiVy14X4voWq2c5Axz6SEgW8HCuZO6KfB7gMlmhOSU"  />
+<input type="hidden" name="form_id" id="edit-search-block-form" value="search_block_form"  />
+<input type="image" name="" id="image_button_id"  class="form-submit" src="/sites/all/themes/ochaonline_theme/images/searchbutton.gif" />
+
+</div></form>
+    </div>
+  </div><!-- /block-inner -->
+</div><!-- /block -->
+  
+<div id="block-nice_menus-1" class="block block-nice_menus even  last grid16-16">
+  <div class="inner clearfix">
+            <div class="content clearfix">
+      <ul class="nice-menu nice-menu-down" id="nice-menu-1"><li class="menu-17722 menuparent menu-path-nolink-17722 first  odd "><a href="#" class="nolink">About Us</a href="#"><ul><li class="menu-5463 menu-path-node-142 first  odd "><a href="/about-us/who-we-are" title="Who We Are">Who We Are</a></li>
+<li class="menu-883 menu-path-node-52 even "><a href="/about-us/headofOCHA" title="Under-Secretary-General and Emergency Relief Coordinator (USG/ERC)">Head of OCHA</a></li>
+<li class="menu-75727 menu-path-node-3266 odd "><a href="/about-us/senior-management" title="OCHA&#039;s Senior Management">OCHA&#039;s Senior Management</a></li>
+<li class="menu-76507 menu-path-node-136706 even "><a href="/about-us/strategic-plan" title="Strategic Framework">Strategic Plan</a></li>
+<li class="menu-31800 menu-path-node-946 odd "><a href="/about-us/gender-equality-programming" title="">Gender Equality Programming</a></li>
+<li class="menu-888 menu-path-node-54 even "><a href="/about-us/ocha-funded" title="OCHA Funded">How OCHA is Funded</a></li>
+<li class="menu-6586 menu-path-about-us-publications odd "><a href="/about-us/publications" title="">Publications and Products</a></li>
+<li class="menu-24183 menu-path-node-982 even "><a href="/about-us/publications/humanitarian-reports" title="OCHA Humanitarian Reports">OCHA Humanitarian Reports</a></li>
+<li class="menu-78601 menu-path-node-223381 odd "><a href="/about-us/world-humanitarian-summit" title="World Humanitarian Summit">World Humanitarian Summit</a></li>
+<li class="menu-78776 menu-path-unochaorg-whd2016 even "><a href="http://www.unocha.org/whd2016" title="">World Humanitarian Day</a></li>
+<li class="menu-76213 menu-path-node-66227 odd "><a href="/about-us/subscribe" title="Subscribe">Subscribe</a></li>
+<li class="menu-22612 menu-path-node-929 even "><a href="/about-us/employment" title="Employment and Jobs">Employment and Jobs</a></li>
+<li class="menu-76111 menu-path-node-43706 odd  last "><a href="/about-us/ocha-contacts" title="OCHA Contacts">OCHA Contacts</a></li>
+</ul>
+</li>
+<li class="menu-17758 menuparent menu-path-nolink-17758 even "><a href="#" class="nolink">What We Do</a href="#"><ul><li class="menu-5461 menu-path-node-930 first  odd "><a href="/what-we-do/coordination/overview" title="Coordination">Coordination</a></li>
+<li class="menu-14043 menu-path-node-941 even "><a href="/what-we-do/policy/overview" title="Policy">Policy</a></li>
+<li class="menu-929 menu-path-node-951 odd "><a href="/what-we-do/advocacy/overview" title="Advocacy">Advocacy</a></li>
+<li class="menu-928 menu-path-node-955 even "><a href="/what-we-do/information-management/overview" title="Information Management">Information Management</a></li>
+<li class="menu-17539 menu-path-node-959 odd  last "><a href="/what-we-do/humanitarian-financing/overview" title="Humanitarian Financing">Humanitarian Financing</a></li>
+</ul>
+</li>
+<li class="menu-31739 menuparent menu-path-nolink-31739 odd "><a href="#" class="nolink">Themes</a href="#"><ul><li class="menu-31798 menu-path-node-1027 first  odd "><a href="/what-we-do/policy/thematic-areas/displacement" title="">Displacement</a></li>
+<li class="menu-32120 menu-path-node-932 even "><a href="/what-we-do/coordination/preparedness/overview" title="">Emergency Preparedness</a></li>
+<li class="menu-32121 menu-path-node-933 odd "><a href="/what-we-do/coordination/response/overview" title="">Emergency Response</a></li>
+<li class="menu-31790 menu-path-node-938 even "><a href="/what-we-do/coordination-tools/environmental-emergencies" title="">Environmental Emergencies</a></li>
+<li class="menu-75529 menu-path-node-1016 odd "><a href="/what-we-do/policy/thematic-areas/evaluations-of-humanitarian-response/overview" title="">Evaluations of Humanitarian Response</a></li>
+<li class="menu-76666 menu-path-node-172256 even "><a href="/what-we-do/explosive-weapons-populated-areas" title="Explosive weapons in populated areas">Explosive weapons in populated areas</a></li>
+<li class="menu-32603 menu-path-node-1051 odd "><a href="/what-we-do/policy/thematic-areas/food-security" title="">Food security</a></li>
+<li class="menu-31797 menu-path-node-949 even "><a href="/what-we-do/policy/thematic-areas/humanitarian-access" title="">Humanitarian Access</a></li>
+<li class="menu-31793 menu-path-node-975 odd "><a href="/what-we-do/coordination-tools/UN-CMCoord/overview" title="">Humanitarian Civil-Military Coordination</a></li>
+<li class="menu-31801 menu-path-node-950 even "><a href="/what-we-do/policy/thematic-areas/humanitarian-development-nexus" title="">Humanitarian Development Nexus</a></li>
+<li class="menu-31802 menu-path-node-1031 odd "><a href="/what-we-do/policy/thematic-areas/humanitarian-engagement" title="">Humanitarian Engagement</a></li>
+<li class="menu-32122 menu-path-node-939 even "><a href="/what-we-do/coordination/leadership/overview" title="">Humanitarian Leadership</a></li>
+<li class="menu-31794 menu-path-node-1002 odd "><a href="/what-we-do/coordination-tools/logistics-support/overview" title="">Logistics Support</a></li>
+<li class="menu-31795 menu-path-node-1030 even "><a href="/what-we-do/coordination-tools/needs-assessment" title="">Needs Assessment</a></li>
+<li class="menu-31803 menu-path-node-948 odd "><a href="/what-we-do/policy/thematic-areas/OCHAs-work-with-governments" title="">OCHA&#039;s work with Governments</a></li>
+<li class="menu-77946 menu-path-node-201996 even "><a href="/themes/partnerships-private-sector" title="Partnerships with the Private Sector">Partnerships with the Private Sector</a></li>
+<li class="menu-31804 menu-path-node-945 odd "><a href="/what-we-do/policy/thematic-areas/protection" title="">Protection</a></li>
+<li class="menu-31796 menu-path-node-934 even "><a href="/what-we-do/coordination-tools/surge-capacity/overview" title="">Surge Capacity</a></li>
+<li class="menu-31808 menu-path-node-1035 odd  last "><a href="/what-we-do/policy/thematic-areas/transition-from-relief-to-development" title="">Transition from Relief to Development</a></li>
+</ul>
+</li>
+<li class="menu-886 menuparent menu-path-nolink-886 even "><a href="#" class="nolink">Where We Work</a href="#"><ul><li class="menu-64130 menu-path-where-we-work-all-countries first  odd "><a href="/where-we-work/all-countries" title="">All Countries</a></li>
+<li class="menu-76108 menu-path-node-42890 even  last "><a href="/where-we-work/emergencies" title="Emergencies">Emergencies</a></li>
+</ul>
+</li>
+<li class="menu-887 menuparent menu-path-nolink-887 odd "><a href="#" class="nolink">Media Resources</a href="#"><ul><li class="menu-17982 menu-path-node-858 first  odd "><a href="/media-resources/latest-products" title="Latest Products">Latest Products</a></li>
+<li class="menu-16394 menu-path-media-resources-usg-statement-speeches even "><a href="/media-resources/usg-statement-speeches" title="USG Statements and Speeches">USG Statements and Speeches</a></li>
+<li class="menu-69021 menu-path-media-resources-erc-key-messages odd "><a href="/media-resources/erc-key-messages" title="">ERC Key Messages</a></li>
+<li class="menu-76015 menu-path-node-21045 even "><a href="/media-resources/asg-kang-statements-and-speeches" title="ASG Statements and Speeches">ASG Kang&#039;s Statements and Speeches</a></li>
+<li class="menu-23293 menu-path-node-969 odd "><a href="/media-resources/press-releases" title="Press Releases">Press Releases</a></li>
+<li class="menu-49283 menu-path-media-resources-video even "><a href="/media-resources/video" title="">OCHA Videos</a></li>
+<li class="menu-54064 menu-path-media-resources-photo-gallery odd  last "><a href="/media-resources/photo-gallery" title="">OCHA Photos</a></li>
+</ul>
+</li>
+<li class="menu-5357 menuparent menu-path-nolink-5357 even  last "><a href="#" class="nolink">Top Stories</a href="#"><ul><li class="menu-19728 menu-path-top-stories-all-stories-results first  odd "><a href="/top-stories/all-stories/results" title="">All Stories</a></li>
+<li class="menu-66890 menu-path-top-stories-stories-by-country-results even "><a href="/top-stories/stories-by-country/results" title="">By Country</a></li>
+<li class="menu-66891 menu-path-top-stories-stories-by-theme-results odd "><a href="/top-stories/stories-by-theme/results" title="">By Theme</a></li>
+<li class="menu-67301 menu-path-top-stories-stories-by-event-results even "><a href="/top-stories/stories-by-event/results" title="">By Event</a></li>
+<li class="menu-66892 menu-path-top-stories-stories-by-date-results odd  last "><a href="/top-stories/stories-by-date/results" title="">By Date</a></li>
+</ul>
+</li>
+</ul>
+    </div>
+  </div><!-- /block-inner -->
+</div><!-- /block -->
+
+            
+          </div><!-- /header-group-inner -->
+
+        </div><!-- /header-group -->
+
+      </div><!-- /header-group-wrapper -->
+
+
+
+      <!-- preface-top row: width = grid_width -->
+
+      
+
+
+      <!-- main row: width = grid_width -->
+
+      <div id="main-wrapper" class="main-wrapper full-width">
+
+        <div id="main" class="main row grid16-16">
+
+          <div id="main-inner" class="main-inner inner clearfix">
+
+            
+
+
+            <!-- main group: width = grid_width - sidebar_first_width -->
+
+            <div id="main-group" class="main-group row nested grid16-16">
+
+              <div id="main-group-inner" class="main-group-inner inner">
+
+                
+
+
+                <div id="main-content" class="main-content row nested">
+
+                  <div id="main-content-inner" class="main-content-inner inner">
+
+                    <!-- content group: width = grid_width - (sidebar_first_width + sidebar_last_width) -->
+
+                    <div id="content-group" class="content-group row nested ">
+
+
+                         <div id="content-group-inner" class="content-group-inner inner">
+
+
+
+
+
+                        
+                        <div id="content-top" class="content-top row nested">
+
+                          <div id="content-top-inner" class="content-top-inner inner">
+
+                          <div id="breadcrumbs" class="breadcrumbs block">
+<div id="breadcrumbs-inner" class="breadcrumbs-inner inner clearfix">
+<div class="breadcrumb"></div></div><!-- /breadcrumbs-inner -->
+</div><!-- /breadcrumbs -->
+
+                            
+                            
+                            
+                          </div><!-- /content-top-inner -->
+
+                        </div><!-- /content-top -->
+
+                        
+
+
+                        <div id="content-region" class="content-region row nested">
+
+                          <div id="content-region-inner" class="content-region-inner inner">
+
+                            <a name="main-content-area" id="main-content-area"></a>
+
+                            
+                            <div id="content-inner" class="content-inner block">
+
+                              <div id="content-inner-inner" class="content-inner-inner inner" >
+
+                                
+                                
+                                <div id="content-content" class="content-content">
+
+                                    
+                                  <div class="panel-flexible panels-flexible-1 clear-block" >
+<div class="panel-flexible-inside panels-flexible-1-inside">
+<div class="panels-flexible-row panels-flexible-row-1-8 panels-flexible-row-first clear-block">
+  <div class="inside panels-flexible-row-inside panels-flexible-row-1-8-inside panels-flexible-row-inside-first clear-block">
+<div class="panels-flexible-region panels-flexible-region-1-middle_banner panels-flexible-region-first panels-flexible-region-last">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-1-middle_banner-inside panels-flexible-region-inside-first panels-flexible-region-inside-last">
+
+<div class="panel-pane pane-custom pane-1 " >
+
+  <div class="inner">
+
+    
+
+
+    
+
+
+    
+
+
+    <div class="pane-content content">
+
+      <!--<a href="http://www.unocha.org/el-nino" target="_blank"><img alt="" src="/sites/default/files/OCHA_Category/El Niño Banner 03.jpg" style="width: 930px; height: 130px;" /></a>--><!--<a href="http://www.unocha.org/el-nino" target="_blank"><img alt="" src="/sites/default/files/OCHA_Category/El Niño Banner 03.jpg" style="width: 930px; height: 130px;" /></a>--><div style="margin-top:-23px;width:100%;">
+<iframe frameborder="0" src="http://www.unocha.org/Slider2/Index.html" style="height: 160px; width: 940px; " ></iframe>
+</div>
+
+    </div>
+
+
+
+    
+
+
+    
+  </div>
+
+</div>
+
+  </div>
+</div>
+  </div>
+</div>
+<div class="panels-flexible-row panels-flexible-row-1-7 clear-block panels-front-top">
+  <div class="inside panels-flexible-row-inside panels-flexible-row-1-7-inside clear-block">
+<div class="panels-flexible-region panels-flexible-region-1-top_ panels-flexible-region-first ">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-1-top_-inside panels-flexible-region-inside-first">
+
+<div class="panel-pane pane-views pane-front-in-focus " >
+
+  <div class="inner">
+
+    
+
+
+    
+
+
+    
+
+
+    <div class="pane-content content">
+
+      <div class="view view-front-in-focus view-id-front_in_focus view-display-id-block_3 front-top-story view-dom-id-6">
+    
+  
+  
+      <div class="view-content">
+      
+<!-- dynamic display block slideshow -->
+<div id="views-slideshow-ddblock-front_in_focus_block_3" class="views-slideshow-ddblock-cycle-vsd-ochatheme-front-top-10p clear-block">
+ <div class="container clear-block border">
+  <div class="container-inner clear-block border">
+      <!-- slider content -->
+   <div class="slider clear-block border">
+    <div class="slider-inner clear-block border">
+                  <div class="slide clear-block border">
+        <div class="slide-inner clear-block border">
+         <a href="/top-stories/all-stories/yemen-return-full-scale-hostilities-drives-humanitarian-needs-further" class="imagecache imagecache-front_page imagecache-linked imagecache-front_page_linked"><img src="http://www.unocha.org/sites/default/files/imagecache/front_page/OCHA_Category/Top_Stories/Yemen 3.jpg" alt="" title="Foot Village, Yemen: Children sitting by the medicine cabinet at the home clinic in Foot Village of Sa’ada Governorate.  The clinic is the main source of basic health services for the 3,000 people in the village. Credit: Afif Abu Aser/OCHA"  class="imagecache imagecache-front_page" width="500" height="375" /></a>                   <div class="slide-text slide-text-horizontal slide-text-bottom clear-block border">
+           <div class="slide-text-inner clear-block border">
+                         <div class="slide-title slide-title-horizontal clear-block border">
+              <div class="slide-title-inner clear-block border">
+               <h2><a href="/top-stories/all-stories/yemen-return-full-scale-hostilities-drives-humanitarian-needs-further">Yemen: The return of full-scale hostilities drives humanitarian needs further</a></h2>
+              </div> <!-- slide-title-inner-->
+             </div>  <!-- slide-title-->
+                                     <div class="slide-body-horizontal clear-block border">
+              <div class="slide-body-inner clear-block border">
+                The humanitarian community remains deeply alarmed by the intensification of violence across Yemen, where children and women are reportedly being killed and maimed.
+ <a href="/top-stories/all-stories/yemen-return-full-scale-hostilities-drives-humanitarian-needs-further">More &gt;&gt;</a>              </div> <!-- slide-body-inner-->
+             </div>  <!-- slide-body-->
+                                     <div class="slide-read-more slide-read-more-horizontal clear-block border">
+              <a href="http://www.unocha.org/top-stories/all-stories/results">More Top Stories &gt;&gt;</a>             </div><!-- slide-read-more-->
+                       </div> <!-- slide-text-inner-->
+          </div>  <!-- slide-text-->
+                 </div> <!-- slide-inner-->
+       </div>  <!-- slide-->
+             <div class="slide clear-block border">
+        <div class="slide-inner clear-block border">
+         <a href="/top-stories/all-stories/mali-landmines-and-other-explosive-remnants-war-present-real-threat-resident" class="imagecache imagecache-front_page imagecache-linked imagecache-front_page_linked"><img src="http://www.unocha.org/sites/default/files/imagecache/front_page/OCHA_Category/Top_Stories/MaliUXO.jpg" alt="" title="Staff from Malian NGO, AJDM, explains the dangers of unexploded ordnance to school-age children. Credit: AJDM"  class="imagecache imagecache-front_page" width="500" height="375" /></a>                   <div class="slide-text slide-text-horizontal slide-text-bottom clear-block border">
+           <div class="slide-text-inner clear-block border">
+                         <div class="slide-title slide-title-horizontal clear-block border">
+              <div class="slide-title-inner clear-block border">
+               <h2><a href="/top-stories/all-stories/mali-landmines-and-other-explosive-remnants-war-present-real-threat-resident">Mali: Landmines and other explosive remnants of war present a real threat to residents</a></h2>
+              </div> <!-- slide-title-inner-->
+             </div>  <!-- slide-title-->
+                                     <div class="slide-body-horizontal clear-block border">
+              <div class="slide-body-inner clear-block border">
+                Children are particularly at risk because they spend much of their time playing outside, and are curious about unusual objects. 
+ <a href="/top-stories/all-stories/mali-landmines-and-other-explosive-remnants-war-present-real-threat-resident">More &gt;&gt;</a>              </div> <!-- slide-body-inner-->
+             </div>  <!-- slide-body-->
+                                     <div class="slide-read-more slide-read-more-horizontal clear-block border">
+              <a href="http://www.unocha.org/top-stories/all-stories/results">More Top Stories &gt;&gt;</a>             </div><!-- slide-read-more-->
+                       </div> <!-- slide-text-inner-->
+          </div>  <!-- slide-text-->
+                 </div> <!-- slide-inner-->
+       </div>  <!-- slide-->
+             <div class="slide clear-block border">
+        <div class="slide-inner clear-block border">
+         <a href="/top-stories/all-stories/leaving-no-one-behind-access-education-myanmars-displacement-camps" class="imagecache imagecache-front_page imagecache-linked imagecache-front_page_linked"><img src="http://www.unocha.org/sites/default/files/imagecache/front_page/OCHA_Category/Top_Stories/Myanmar 1.jpg" alt="" title="Myanmar: 37-year-old Bowk Lung living in Robert Camp in Bhamo Township of Kachin State struggles to make ends meet for her family. Credit: OCHA"  class="imagecache imagecache-front_page" width="500" height="375" /></a>                   <div class="slide-text slide-text-horizontal slide-text-bottom clear-block border">
+           <div class="slide-text-inner clear-block border">
+                         <div class="slide-title slide-title-horizontal clear-block border">
+              <div class="slide-title-inner clear-block border">
+               <h2><a href="/top-stories/all-stories/leaving-no-one-behind-access-education-myanmars-displacement-camps">Leaving no one behind: Access to education in Myanmar&#039;s displacement camps</a></h2>
+              </div> <!-- slide-title-inner-->
+             </div>  <!-- slide-title-->
+                                     <div class="slide-body-horizontal clear-block border">
+              <div class="slide-body-inner clear-block border">
+                Since armed conflict was reignited in Myanmar's Kachin and Shan States five years ago, there are now almost 100,000 people, many of them children, living in camps across the two States.
+ <a href="/top-stories/all-stories/leaving-no-one-behind-access-education-myanmars-displacement-camps">More &gt;&gt;</a>              </div> <!-- slide-body-inner-->
+             </div>  <!-- slide-body-->
+                                     <div class="slide-read-more slide-read-more-horizontal clear-block border">
+              <a href="http://www.unocha.org/top-stories/all-stories/results">More Top Stories &gt;&gt;</a>             </div><!-- slide-read-more-->
+                       </div> <!-- slide-text-inner-->
+          </div>  <!-- slide-text-->
+                 </div> <!-- slide-inner-->
+       </div>  <!-- slide-->
+                 <div class="controls"> 
+       <span><a href="" class="prev">Prev</a></span> 
+       <span><a href="" class="next">Next</a></span> 
+       <span><a href="" class="pause">Pause</a></span> 
+       <span><a href="" class="play">Play</a></span> 
+      </div> 
+    </div> <!-- slider-inner-->
+   </div>  <!-- slider-->
+       <!-- number pager --> 
+     <div class="spacer-horizontal"><b></b></div>
+<!-- number pager -->
+<div id="views-slideshow-ddblock-number-pager-front_in_focus_block_3" class="number-pager views-slideshow-ddblock-pager clear-block">
+  <ul>
+   
+     <li class="number-pager-item">
+    <a href="#" class="pager-link" title="click to navigate to topic">
+     1    </a>
+   </li>
+        <li class="number-pager-item">
+    <a href="#" class="pager-link" title="click to navigate to topic">
+     2    </a>
+   </li>
+        <li class="number-pager-item">
+    <a href="#" class="pager-link" title="click to navigate to topic">
+     3    </a>
+   </li>
+        
+ </ul>
+</div> 
+<div class="number-pager-pre-bottom "></div>
+ 
+     </div> <!-- container-inner-->
+ </div> <!--container-->
+</div> <!--  template -->
+    </div>
+  
+  
+  
+  
+  
+  
+</div> 
+    </div>
+
+
+
+    
+
+
+    
+  </div>
+
+</div>
+
+  </div>
+</div>
+<div class="panels-flexible-region panels-flexible-region-1-right_1_ front_usg_box">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-1-right_1_-inside">
+
+<div class="panel-pane pane-views pane-front-usg-erc front_top_box " >
+
+  <div class="inner">
+
+    
+
+
+    
+
+
+    
+
+
+    <div class="pane-content content">
+
+      <div class="view view-front-usg-erc view-id-front_usg_erc view-display-id-block_1 view-dom-id-2">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field-field-thumb-image-fid">
+                <span class="field-content"><a href="https://docs.unocha.org/sites/dms/Documents/USG_ERC_Stephen_OBrien_remarks_to_the_press_South_Sudan10Aug16.pdf"><img src="http://www.unocha.org/sites/default/files/imagecache/front_top_box/06-05-2016 9-52-06 AM.jpg" alt="" title=""  class="imagecache imagecache-front_top_box imagecache-default imagecache-front_top_box_default" width="180" height="138" /></a></span>
+  </div>
+  
+  <span class="views-field-title">
+                <span class="field-content"><b>USG/ERC O&#039;Brien: </b></span>
+  </span>
+  
+  <span class="views-field-field-short-desc-value">
+                <span class="field-content"><a href="https://docs.unocha.org/sites/dms/Documents/USG_ERC_Stephen_OBrien_remarks_to_the_press_South_Sudan10Aug16.pdf">Remarks to the Press on South Sudan, 10 August</a></span>
+  </span>
+  
+  <span class="views-field-edit-node">
+                <span class="field-content"></span>
+  </span>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> 
+    </div>
+
+
+
+    
+
+
+    
+  </div>
+
+</div>
+
+<div class="panel-region-separator"></div>
+<div class="panel-pane pane-views pane-front-emergencies-event front_top_box " >
+
+  <div class="inner">
+
+    
+
+
+    
+
+
+    
+
+
+    <div class="pane-content content">
+
+      <div class="view view-front-emergencies-event view-id-front_emergencies_event view-display-id-block_1 view-dom-id-3">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field-field-thumb-image-fid">
+                <span class="field-content"><a href="http://www.unocha.org/where-we-work/emergencies"><img src="http://www.unocha.org/sites/default/files/imagecache/front_top_box/conflict.PNG" alt="" title=""  class="imagecache imagecache-front_top_box imagecache-default imagecache-front_top_box_default" width="180" height="138" /></a></span>
+  </div>
+  
+  <span class="views-field-title">
+                <span class="field-content"><b>Emergencies: </b></span>
+  </span>
+  
+  <span class="views-field-field-short-desc-value">
+                <span class="field-content"><a href="http://www.unocha.org/where-we-work/emergencies">Latest updates, reports and info-graphics.</a></span>
+  </span>
+  
+  <span class="views-field-edit-node">
+                <span class="field-content"></span>
+  </span>
+  
+  <div class="views-field-field-more-link-url">
+                <span class="field-content"><a href="http://www.unocha.org/where-we-work/emergencies">http://www.unocha.org/where-we-work/emergencies</a></span>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> 
+    </div>
+
+
+
+    
+
+
+    
+  </div>
+
+</div>
+
+  </div>
+</div>
+<div class="panels-flexible-region panels-flexible-region-1-right_2_ panels-flexible-region-last front_irin_box">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-1-right_2_-inside panels-flexible-region-inside-last">
+
+<div class="panel-pane pane-views pane-front-emergencies-event front_top_box " >
+
+  <div class="inner">
+
+    
+
+
+    
+
+
+    
+
+
+    <div class="pane-content content">
+
+      <div class="view view-front-emergencies-event view-id-front_emergencies_event view-display-id-block_1 view-dom-id-4">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field-field-thumb-image-fid">
+                <span class="field-content"><a href="https://docs.unocha.org/sites/dms/Documents/ASG%20Kyung-wha%20Kang_Press%20Remarks%20on%20Malawi-Madagascar_Noon%20briefing%2027Jul2016%20CAD.pdf"><img src="http://www.unocha.org/sites/default/files/imagecache/front_top_box/ASG_Kang_3.jpg" alt="" title=""  class="imagecache imagecache-front_top_box imagecache-default imagecache-front_top_box_default" width="180" height="138" /></a></span>
+  </div>
+  
+  <span class="views-field-title">
+                <span class="field-content"><b>ASG/DERC Kang: </b></span>
+  </span>
+  
+  <span class="views-field-field-short-desc-value">
+                <span class="field-content"><a href="https://docs.unocha.org/sites/dms/Documents/ASG%20Kyung-wha%20Kang_Press%20Remarks%20on%20Malawi-Madagascar_Noon%20briefing%2027Jul2016%20CAD.pdf">Remarks to the Press on London, Malawi and Madagascar mission</a></span>
+  </span>
+  
+  <span class="views-field-edit-node">
+                <span class="field-content"></span>
+  </span>
+  
+  <div class="views-field-field-more-link-url">
+                <span class="field-content"><a href="https://docs.unocha.org/sites/dms/Documents/ASG%20Kyung-wha%20Kang_Press%20Remarks%20on%20Malawi-Madagascar_Noon%20briefing%2027Jul2016%20CAD.pdf" target="_blank">https://docs.unocha.org/sites/dms/Documents/ASG%20Kyung-wha%20Kang_Press%20Remarks%20on%20Malawi-Madagascar_Noon%20briefing%2027Jul2016%20CAD.pdf</a></span>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> 
+    </div>
+
+
+
+    
+
+
+    
+  </div>
+
+</div>
+
+<div class="panel-region-separator"></div>
+<div class="panel-pane pane-views pane-front-funding front_top_box " >
+
+  <div class="inner">
+
+    
+
+
+    
+
+
+    
+
+
+    <div class="pane-content content">
+
+      <div class="view view-front-funding view-id-front_funding view-display-id-block_1 view-dom-id-5">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field-field-thumb-image-fid">
+                <span class="field-content"><a href="http://www.unocha.org/el-nino" target="_blank"><img src="http://www.unocha.org/sites/default/files/imagecache/front_top_box/HOA_2.jpg" alt="" title=""  class="imagecache imagecache-front_top_box imagecache-default imagecache-front_top_box_default" width="180" height="138" /></a></span>
+  </div>
+  
+  <span class="views-field-title">
+                <span class="field-content"><b>El Niño: </b><a href="http://www.unocha.org/el-nino" target="_blank">Latest updates, reports and visuals.</a></span>
+  </span>
+  
+  <span class="views-field-edit-node">
+                <span class="field-content"></span>
+  </span>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> 
+    </div>
+
+
+
+    
+
+
+    
+  </div>
+
+</div>
+
+  </div>
+</div>
+  </div>
+</div>
+<div class="panels-flexible-row panels-flexible-row-1-2 panels-flexible-row-last clear-block panels-front-below">
+  <div class="inside panels-flexible-row-inside panels-flexible-row-1-2-inside panels-flexible-row-inside-last clear-block">
+<div class="panels-flexible-region panels-flexible-region-1-2_column panels-flexible-region-first ">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-1-2_column-inside panels-flexible-region-inside-first">
+<div class="rounded-corner">
+  <div class="wrap-corner">
+    <div class="t-edge"><div class="l"></div><div class="r"></div></div>
+    <div class="l-edge">
+      <div class="r-edge clear-block">
+        
+<div class="panel-pane pane-views pane-multimedia-products-related " >
+
+  <div class="inner">
+
+    
+
+
+    
+      <h2 class="pane-title block-title">Multimedia</h2>
+
+    
+
+
+    
+
+
+    <div class="pane-content content">
+
+      <div class="view view-multimedia-products-related view-id-multimedia_products_related view-display-id-block_2 front-box-bottom view-dom-id-1">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field-field-smugmug-gallery-embed">
+                <span class="field-content"><div class="emvideo-modal emvideo-lightbox2"><a href="/emvideo/modal/237406/800/600/field_smugmug_gallery/smugmug_gallery/59423594_KGhMXv" title="International Search and Rescue Advisory Group undertakes scoping mission to disaster-prone Philippines" class="emvideo-thumbnail-replacement emvideo-modal-lightbox2 lightbox2" rel="lightframe[multimedia|width:810; height:610;]"><img src="http://www.unocha.org/sites/default/files/imagecache/multimedia_thumb_front/phi.jpg" alt="" title=""  class="imagecache imagecache-multimedia_thumb_front" width="210" height="150" /></a></div></span>
+  </div>
+  
+  <div class="views-field-field-smugmug-video-embed">
+                <span class="field-content"><div class="emvideo-modal emvideo-lightbox2"><a href="/emvideo/modal/237406/640/360/field_smugmug_video/%252F" title="International Search and Rescue Advisory Group undertakes scoping mission to disaster-prone Philippines" class="emvideo-thumbnail-replacement emvideo-modal-lightbox2 lightbox2" rel="lightframe[multimedia|width:650; height:370;]"></a></div></span>
+  </div>
+  
+  <div class="views-field-field-youtube-embed-1">
+                <span class="field-content"><div class="emvideo-modal emvideo-lightbox2"><a href="/emvideo/modal/237406/600/494/field_youtube/%252F" title="International Search and Rescue Advisory Group undertakes scoping mission to disaster-prone Philippines" class="emvideo-thumbnail-replacement emvideo-modal-lightbox2 lightbox2" rel="lightframe[multimedia|width:610; height:504;]"></a></div></span>
+  </div>
+  
+  <div class="views-field-lightbox2">
+                <span class="field-content"><a href='http://www.unocha.org/front #lightbox-popup-1'  rel='lightmodal[|width:660px;height:390px][International Search and Rescue Advisory Group undertakes scoping mission to disaster-prone Philippines]'></a>
+                <div style='display: none;'><div id='lightbox-popup-1' class='lightbox-popup'></div></div></span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content">International Search and Rescue Advisory Group undertakes scoping mission to disaster-prone Philippines</span>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="http://www.unocha.org/media-resources/latest-products">
+    More Multimedia &gt;&gt;  </a>
+</div>
+  
+  
+  
+</div> 
+    </div>
+
+
+
+    
+
+
+    
+  </div>
+
+</div>
+
+      </div>
+    </div>
+    <div class="b-edge"><div class="l"></div><div class="r"></div></div>
+  </div>
+</div>
+  </div>
+</div>
+<div class="panels-flexible-region panels-flexible-region-1-1_column ">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-1-1_column-inside">
+<div class="rounded-corner">
+  <div class="wrap-corner">
+    <div class="t-edge"><div class="l"></div><div class="r"></div></div>
+    <div class="l-edge">
+      <div class="r-edge clear-block">
+        
+<div class="panel-pane pane-views pane-feed-country-reliefweb-map " >
+
+  <div class="inner">
+
+    
+
+
+    
+      <h2 class="pane-title block-title">Maps &amp; Graphics</h2>
+
+    
+
+
+    
+
+
+    <div class="pane-content content">
+
+      <div class="view view-feed-country-reliefweb-map view-id-feed_country_reliefweb_map view-display-id-block_2 front-box-bottom view-dom-id-1">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field-phpcode">
+                <span class="field-content"><a href="http://reliefweb.int/map/central-african-republic/car-operational-presence-3wop-30-july-2016"><img src="http://img.static.reliefweb.int/sites/reliefweb.int/files/styles/m/public/resources-pdf-previews/611406-CAR_3WOP_Partenaire_Juillet_2016.png?itok=qFFVhlhg" height=150></a></span>
+  </div>
+  
+  <div class="views-field-markup">
+                <span class="field-content"><a href="http://reliefweb.int/map/central-african-republic/car-operational-presence-3wop-30-july-2016">Central African Republic: CAR : Operational Presence (3W:OP...</a></span>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="http://bit.ly/oSrtaq">
+    More OCHA maps &gt;&gt;  </a>
+</div>
+  
+  
+  
+</div> 
+    </div>
+
+
+
+    
+
+
+    
+  </div>
+
+</div>
+
+      </div>
+    </div>
+    <div class="b-edge"><div class="l"></div><div class="r"></div></div>
+  </div>
+</div>
+  </div>
+</div>
+<div class="panels-flexible-region panels-flexible-region-1-center_highlights ">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-1-center_highlights-inside">
+<div class="rounded-corner">
+  <div class="wrap-corner">
+    <div class="t-edge"><div class="l"></div><div class="r"></div></div>
+    <div class="l-edge">
+      <div class="r-edge clear-block">
+        
+<div class="panel-pane pane-no-context-content-type front-box-bottom-block " >
+
+  <div class="inner">
+
+    
+
+
+    
+      <h2 class="pane-title block-title">Humanitarian Updates</h2>
+
+    
+
+
+    
+
+
+    <div class="pane-content content">
+
+      
+<div class="reliefwebapi-block-items-filter-list is_frontpage_yes title_size_12px list_count_2 list_type_LIST add_bullets_1">
+		<div class="rwapi-item-square">
+			<form id="rwapi-filters-x" class="rwapi-filter-form" action='/reliefweb/list'>
+				<input type="hidden" name='query_text' value='ocha_product: "Situation Report" OR ocha_product: "Flash Update"' />
+                                <input type="hidden" name='title_text_header' value=''/>
+                                <input type="hidden" name='add_border_per_line' value='0'/>
+                                <input type="hidden" name='add_bullets_per_line' value='1'/>
+                                <input type="hidden" name='title_word_limit' value='250'/>
+                                <input type="hidden" name='blurb_word_limit' value='400'/>
+				<input type="hidden" name='add_date_per_line' value='0' />
+				<input type="hidden" name='base_url' value='/' />
+
+				<input type="hidden" name='primary_country' value=''/>
+				<input type="hidden" name='country' value=''/>
+				<input type="hidden" name='theme' value='' />
+				<input type="hidden" name="organisation" value='' />
+				<input type="hidden" name="content_format" value='' />
+				<input type="hidden" name="language" value='' />
+
+				<input type="hidden" name='summ_show_blurb' value='' />
+				<input type="hidden" name='summ_show_thumb' value='' />
+				<input type="hidden" name='summ_show_count' value='2' />
+
+				<input type="hidden" name='sing_show_blurb' value='' />
+				<input type="hidden" name='sing_show_thumb' value='' />
+				<input type="hidden" name='sing_show_count' value='5' />
+				<input type="hidden" name='redirect-to-reliefweb' value='1' />
+				<input type="hidden" name="rid" value="96" />
+				<input type="hidden" name="offset" value="0" />
+  			</form>
+			<ul class="rwapi-contents">
+				<li class='loader-container' style="width: 100%; list-style: none; list-style-type: none;"><img class='loader-image' src='/images/loader.gif'/></li>
+			</ul>
+	</div>
+
+	<div class="rwapi-more-link  rwapi-align-right">				<a href="http://reliefweb.int/updates?search=%28+ocha_product%3A+%22Situation+Report%22+OR+ocha_product%3A+%22Flash+Update%22+%29" class='_reliefwebapi-submit-form reliefwebapi-submit-form'>More Updates >></a>
+				<div style="clear: both;"></div>
+			</div>
+</div>
+    </div>
+
+
+
+    
+
+
+    
+  </div>
+
+</div>
+
+      </div>
+    </div>
+    <div class="b-edge"><div class="l"></div><div class="r"></div></div>
+  </div>
+</div>
+  </div>
+</div>
+<div class="panels-flexible-region panels-flexible-region-1-3_column panels-flexible-region-last ">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-1-3_column-inside panels-flexible-region-inside-last">
+<div class="rounded-corner">
+  <div class="wrap-corner">
+    <div class="t-edge"><div class="l"></div><div class="r"></div></div>
+    <div class="l-edge">
+      <div class="r-edge clear-block">
+        
+<div class="panel-pane pane-no-context-content-type front-box-bottom-block " >
+
+  <div class="inner">
+
+    
+
+
+    
+      <h2 class="pane-title block-title">Press Releases</h2>
+
+    
+
+
+    
+
+
+    <div class="pane-content content">
+
+      
+<div class="reliefwebapi-block-items-filter-list is_frontpage_yes title_size_12px list_count_2 list_type_LIST add_bullets_1">
+		<div class="rwapi-item-square">
+			<form id="rwapi-filters-x" class="rwapi-filter-form" action='/reliefweb/list'>
+				<input type="hidden" name='query_text' value='' />
+                                <input type="hidden" name='title_text_header' value=''/>
+                                <input type="hidden" name='add_border_per_line' value='0'/>
+                                <input type="hidden" name='add_bullets_per_line' value='1'/>
+                                <input type="hidden" name='title_word_limit' value='100'/>
+                                <input type="hidden" name='blurb_word_limit' value='200'/>
+				<input type="hidden" name='add_date_per_line' value='0' />
+				<input type="hidden" name='base_url' value='/' />
+
+				<input type="hidden" name='primary_country' value=''/>
+				<input type="hidden" name='country' value=''/>
+				<input type="hidden" name='theme' value='' />
+				<input type="hidden" name="organisation" value='UN Office for the Coordination of Humanitarian Affairs' />
+				<input type="hidden" name="content_format" value='News and Press Release' />
+				<input type="hidden" name="language" value='' />
+
+				<input type="hidden" name='summ_show_blurb' value='' />
+				<input type="hidden" name='summ_show_thumb' value='' />
+				<input type="hidden" name='summ_show_count' value='2' />
+
+				<input type="hidden" name='sing_show_blurb' value='' />
+				<input type="hidden" name='sing_show_thumb' value='' />
+				<input type="hidden" name='sing_show_count' value='5' />
+				<input type="hidden" name='redirect-to-reliefweb' value='1' />
+				<input type="hidden" name="rid" value="14" />
+				<input type="hidden" name="offset" value="0" />
+  			</form>
+			<ul class="rwapi-contents">
+				<li class='loader-container' style="width: 100%; list-style: none; list-style-type: none;"><img class='loader-image' src='/images/loader.gif'/></li>
+			</ul>
+	</div>
+
+	<div class="rwapi-more-link  rwapi-align-right">				<a href="http://reliefweb.int/updates?search=%28+source%3A%22UN+Office+for+the+Coordination+of+Humanitarian+Affairs%22+%29+AND+%28+format%3A%22News+and+Press+Release%22+%29" class='_reliefwebapi-submit-form reliefwebapi-submit-form'>More Press Releases >></a>
+				<div style="clear: both;"></div>
+			</div>
+</div>
+    </div>
+
+
+
+    
+
+
+    
+  </div>
+
+</div>
+
+      </div>
+    </div>
+    <div class="b-edge"><div class="l"></div><div class="r"></div></div>
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+</div>
+</div>
+</div>
+
+                                  
+                                   
+                                </div><!-- /content-content -->
+
+                                
+                              </div><!-- /content-inner-inner -->
+
+                            </div><!-- /content-inner -->
+
+                          </div><!-- /content-region-inner -->
+
+                        </div><!-- /content-region -->
+
+
+
+                        
+                      </div><!-- /content-group-inner -->
+
+                    </div><!-- /content-group -->
+
+
+
+
+
+                  </div><!-- /main-content-inner -->
+
+                </div><!-- /main-content -->
+
+
+
+                
+              </div><!-- /main-group-inner -->
+
+            </div><!-- /main-group -->
+
+          </div><!-- /main-inner -->
+
+        </div><!-- /main -->
+
+      </div><!-- /main-wrapper -->
+
+
+
+      <!-- postscript-bottom row: width = grid_width -->
+
+      <div id="postscript-bottom-wrapper" class="postscript-bottom-wrapper full-width">
+<div id="postscript-bottom" class="postscript-bottom row grid16-16">
+<div id="postscript-bottom-inner" class="postscript-bottom-inner inner clearfix">
+  
+<div id="block-block-8" class="block block-block odd first last  grid16-16">
+  <div class="inner clearfix">
+            <div class="content clearfix">
+      <p>
+	&nbsp;</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="width: 100%;">
+	<tbody>
+		<tr bgcolor="#1f538c">
+			<td valign="top">
+				&nbsp;</td>
+			<td colspan="5" valign="top">
+				<span style="color: rgb(255, 255, 255);"><span class="header-footer">Other OCHA Sites</span></span></td>
+			<td valign="top">
+				&nbsp;</td>
+			<td valign="top">
+<!--<span class="header-footer">Partnerships</span></td>-->			</td>
+			<td align="left" valign="top">
+				<span class="header-footer">Join us</span></td>
+		</tr>
+		<tr>
+			<td valign="top" width="30">
+				&nbsp;</td>
+			<td valign="top" width="70">
+				<p>
+					<a href="http://www.reliefweb.int/" target="_blank">ReliefWeb</a><br />
+					<a href="http://www.unocha.org/cerf" target="_blank">CERF</a><br />
+					<a href="http://www.humanitarianresponse.info/">Humanitarian Response</a><br />
+					<br />
+					<br />
+					&nbsp;</p>
+			</td>
+			<td align="left" valign="top" width="20">
+				<img src="/sites/default/files/images/bottom_vertical_2.gif" /></td>
+			<td valign="top" width="125">
+				<p>
+					<a href="http://fts.unocha.org" target="_blank">FTS</a><br />
+					<a href="http://www.redhum.org/" target="_blank">RedHum</a><br />
+					<a href="http://vosocc.unocha.org/" target="_blank">Virtual OSOCC</a><br />
+					<a href="http://www.insarag.org/" target="_blank">INSARAG</a></p>
+			</td>
+			<td align="left" valign="top" width="20">
+				<img src="/sites/default/files/images/bottom_vertical_2.gif" /></td>
+			<td valign="top" width="200">
+				<p>
+					<a href="http://gdacs.org/" target="_blank">GDACS</a><br />
+					<a href="http://www.humanitarianinfo.org/iasc" target="_blank">IASC </a><br />
+					<a href="http://www.worldhumanitariansummit.org/" target="_blank">World Humanitarian Summit</a><a href="https://humdata.org/ "><br />
+					Humanitarian Data Exchange</a></p>
+				<p>
+					<br />
+					&nbsp;</p>
+				<p>
+					&nbsp;</p>
+				<p>
+					&nbsp;</p>
+			</td>
+			<td valign="top" width="30">
+				&nbsp;</td>
+			<td valign="top" width="90">
+<!--<p>
+					<a href="http://business.un.org/en" target="_blank">Business.un.org</a></p>-->			</td>
+			<td style="text-align: left; vertical-align: top; width: 328px;">
+				<p class="rteright" style="padding-right: 30px; text-align: left;">
+					<a href="http://www.unocha.org/about-us/subscribe"><img alt="" src="/sites/default/files/OCHA_Category/telecommunications_e-mail_60px_bluebox.png" style="width: 45px; height: 45px;" /></a> <a href="http://www.facebook.com/UNOCHA" target="_blank"><img alt="" border="0" src="/sites/default/files/OCHA_Category/z_Etc/Facebook-icon_sm.png" style="width: 45px; height: 45px;" /></a>&nbsp;<a href="https://plus.google.com/111922302825259590847/posts" target="_blank"><img alt="" src="/sites/default/files/OCHA_Category/googl_plus_front_s.jpg" style="width: 41px; height: 43px; border-width: 0px; border-style: solid;" /></a>&nbsp;<a href="http://www.youtube.com/user/ochafilms" style="text-align: right;" target="_blank"><img alt="" border="0" src="/sites/default/files/images/youtube_front.gif" style="width: 45px; height: 45px;" /></a></p>
+				<p class="rteright" style="padding-right: 30px; text-align: left;">
+					<a href="http://twitter.com/unocha" style="text-align: right;" target="_blank"><img alt="" border="0" src="/sites/default/files/OCHA_Category/z_Etc/twittericon_sm.png" style="width: 45px; height: 45px;" /></a><span style="text-align: right;">&nbsp;</span><a href="https://twitter.com/UNReliefChief" style="text-align: right;" target="_blank"><img alt="" src="/sites/default/files/OCHA_Category/USG.png" style="width: 45px; height: 45px; border-width: 0px; border-style: solid;" /></a>&nbsp;<a href="http://instagram.com/un_ocha"><img alt="" src="/sites/default/files/OCHA_Category/instagram-45.png" style="width: 45px; height: 45px;" /></a>&nbsp;<a href="https://www.linkedin.com/company/united-nations-ocha"><img alt="" src="/sites/default/files/OCHA_Category/instagram-45_0.png" style="width: 46px; height: 45px;" /></a></p>
+				<p class="rteright" style="padding-right: 30px; text-align: left;">
+					&nbsp;</p>
+				<p class="rteright" style="padding-right: 30px; text-align: left;">
+					&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td align="center" colspan="9">
+				<table border="0" cellpadding="0" cellspacing="0" style="width: 95%; border-bottom: 1px solid rgb(108, 108, 108);" valign="top">
+					<tbody>
+						<tr>
+							<td>
+								&nbsp;</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	&nbsp;</p>
+    </div>
+  </div><!-- /block-inner -->
+</div><!-- /block -->
+</div><!-- /postscript-bottom-inner -->
+</div><!-- /postscript-bottom -->
+</div><!-- /postscript-bottom-wrapper -->
+
+
+
+      <!-- footer row: width = grid_width -->
+
+      <div id="footer-wrapper" class="footer-wrapper full-width">
+<div id="footer" class="footer row grid16-16">
+<div id="footer-inner" class="footer-inner inner clearfix">
+  
+<div id="block-block-2" class="block block-block odd first last  grid16-16">
+  <div class="inner clearfix">
+            <div class="content clearfix">
+      <table border="0" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td valign="top">
+				<div class="rtecenter">
+					<span><span><span style="font-size: 10px;"><a href="http://www.un.org/en/aboutun/copyright/">Copyright</a></span></span><span style="font-size: 10px;"><span> | </span></span></span><span style="font-size: 10px;"><a href="http://www.un.org/en/aboutun/terms/"><span><span>Terms of Use</span></span></a><span><span> | </span></span><a href="http://www.un.org/en/aboutun/privacy/"><span><span>Privacy Notice</span></span></a><span><span> | </span></span><a href="/about-us/ocha-contacts"><span><span>Contact Us</span></span></a><span><span> | </span></span><span><span><a href="/sitemap">Site Map</a>&nbsp;<a class="login_link" href="/user" style="color:#eee;">Login</a></span></span></span></div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	&nbsp;</p>
+    </div>
+  </div><!-- /block-inner -->
+</div><!-- /block -->
+</div><!-- /footer-inner -->
+</div><!-- /footer -->
+</div><!-- /footer-wrapper -->
+
+
+
+
+
+      <!-- footer-message row: width = grid_width -->
+
+      <div id="footer-message-wrapper" class="footer-message-wrapper full-width">
+
+        <div id="footer-message" class="footer-message row grid16-16">
+
+          <div id="footer-message-inner" class="footer-message-inner inner clearfix">
+
+            
+          </div><!-- /footer-message-inner -->
+
+        </div><!-- /footer-message -->
+
+      </div><!-- /footer-message-wrapper -->
+
+
+
+    </div><!-- /page-inner -->
+
+  </div><!-- /page -->
+
+  
+  <script type="text/javascript" src="/sites/all/modules/lightbox2/js/auto_image_handling.js?5"></script>
+<script type="text/javascript" src="/sites/all/modules/lightbox2/js/lightbox_video.js?5"></script>
+<script type="text/javascript" src="/sites/all/modules/lightbox2/js/lightbox.js?5"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-1433955-15"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+
+
+</body>
+
+</html>
+

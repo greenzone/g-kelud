@@ -1,0 +1,714 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <!--<meta http-equiv="X-UA-Compatible" content="IE=edge">-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ 
+    <meta name="keywords" content="weather, world, Openstreetmap, forecast, Openweather, current" >
+    <meta name="description" content="Current weather conditions in cities for world wide" >
+    <meta name="author" content="OpenWeatherMap.org">
+    <meta name="domain" content="OpenWeatherMap.org" >
+    <meta http-equiv="pragma" content="no-cache" >
+    <meta http-equiv="Expires" content="-1" >
+
+    <title>WeatherMap</title>
+
+    <!-- Bootstrap core CSS -->
+    <!--<link href="css/bootstrap.css" rel="stylesheet"> -->
+
+    <!-- Custom styles for this template -->
+    <link href="/combine/70a60c128cef9af892512b63a908cc49-1456039778" rel="stylesheet">
+    
+    <link href="/combine/8fe3ca7be900f2e412aa9e32d4c0c5cd-1402933099" rel="stylesheet">
+
+    
+    <!-- Resources -->
+    <link href='fonts.googleapis.com/css?family=Oswald:400,700,300' rel='stylesheet' type='text/css'>
+    <link href='fonts.googleapis.com/css?family=Roboto:400,700,500,400italic,500italic,700italic' rel='stylesheet' type='text/css'>
+
+    <script src="/combine/d101692439773a09e020146fe251340a-1400776594"></script>
+
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-31601618-1']);
+  _gaq.push(['_setDomainName', 'openweathermap.org']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+<link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.css" />
+<script src="http://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.js"></script>    
+
+<!--Need 4 google maps -->
+    <style type="text/css">
+    .leaflet-map-pane {
+        z-index: 2 !important;
+    }
+    .leaflet-google-layer {
+        z-index: 1 !important;
+    }
+    </style>
+
+<script type="text/javascript">
+function ShowSuccessMess(mess)
+{
+	var html = '<div class="alert alert-success" ><a class="close" data-dismiss="alert" href="#">×</a>'+mess+'</div>';
+	$("#alert_body").html(html);
+}
+
+function ShowInfoMess(mess)
+{
+	var html = '<div class="container"><div class="row"><div class="col-md-12"><div class="panel-body">';
+	html = html + '<div class="alert alert-info" ><a class="close" data-dismiss="alert" href="#">×</a>'+mess+'</div>';
+	html = html + '</div></div></div></div>';
+	$("#notes_block").html(html);
+}
+
+function ShowAlertMess(mess)
+{
+	var html = '<div class="alert alert-error" ><a class="close" data-dismiss="alert" href="#">×</a>'+mess+'</div>';
+	$("#alert_body").html(html);
+}
+
+function  errorHandler(e)
+{
+    console.log(e);
+	ShowAlertMess(e.status +' '+e.statusText);
+}
+
+
+function ParseJson(JSONtext)
+{
+	try{
+		JSONobject = JSON.parse(JSONtext); 
+	}catch(e){
+		ShowAlertMess('Error JSON');
+		return;
+	}
+
+	if(JSONobject.cod != '200') {
+		ShowAlertMess('Error '+ JSONobject.cod + ' ('+ JSONobject.message +')');
+		return;
+	}
+	var mes = JSONobject.cod;
+	if(JSONobject.calctime)
+		mes = mes + ' ' + JSONobject.calctime;
+	if(JSONobject.message)
+		mes = mes + ' ' + JSONobject.message;
+	console.log( mes );
+	return JSONobject;
+}
+function set_cookie(name, value, expires)
+{
+if (!expires)
+{
+expires = new Date();
+}
+document.cookie = name + "=" + escape(value) + "; expires=" + expires.toGMTString() +  "; path=/";
+}
+
+function get_cookie(name) {
+    var matches = document.cookie.match(new RegExp(
+        "(?:^|; )" + name.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, '\\$1') + "=([^;]*)"
+      ))
+  return matches ? decodeURIComponent(matches[1]) : undefined
+}
+function set_lang(lang)
+{
+	expires = new Date();
+	expires.setTime(expires.getTime() + (1000 * 60 * 60 * 24));	
+	set_cookie('lang', lang, expires);
+	window.location.reload();
+}
+
+function set_units()
+{
+  var units = 'metric';
+  if( document.getElementById("units_check").checked ) units = 'imperial';
+  expires = new Date();         
+  expires.setTime(expires.getTime() + (1000 * 60 * 60 * 24)); 
+  set_cookie('units', units, expires);
+  window.location.reload();
+}
+
+
+function pad(num, size) {
+    var s = num+"";
+    while (s.length < size) s = "0" + s;
+    return s;
+}
+
+</script>
+
+
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body class="body-orange">
+
+<style>
+.global-map{position:fixed;top:75px;left:0px;right:0px;bottom:0px}
+#map-wrap .panel{position:absolute;top:190px;left:10px;z-index:1000}
+#map-wrap .list-group-item{padding:7px 15px;line-height:14px}
+#map-wrap .panel img{height:18px;margin:0 5px;vertical-align:top}
+#map-wrap .panel .checkbox{margin:0px;height:18px}
+#map-wrap .panel .checkbox label{line-height:18px}
+</style>
+
+
+    <div class="navbar navbar-dark navbar-static-top" role="navigation">
+      <div class="container">
+        <!-- Navbar Header -->
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        
+          <a class="navbar-brand" href="/">
+          <img src="/themes/demo/assets/vendor/owm/images/logo_OpenWeatherMap_orange_website.png" height="30"></a>
+        </div> <!-- / Navbar Header -->
+
+        <!-- Navbar Links -->
+        <div class="navbar-collapse collapse">
+                  <ul class="nav navbar-nav navbar-right">
+       <!--     <li><a href="/" class="bg-hover-color" onclick="_gaq.push(['_trackEvent', 'Navbar', 'Main', 'home']);">Home</a></li> -->
+            <li><a href="/city" class="bg-hover-color" onclick="_gaq.push(['_trackEvent', 'Navbar', 'Main', 'weather']);">Weather</a></li>
+            <!--<li><a href="/maps" class="bg-hover-color" onclick="_gaq.push(['_trackEvent', 'Navbar', 'Main', 'maps']);">Maps</a></li>-->
+            
+            
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle bg-hover-color" data-toggle="dropdown">Maps <b class="caret"></b></a>
+                  <ul class="dropdown-menu">
+                <li><a href="/weathermap" class="bg-hover-color">Weather maps</a></li>
+                <li><a href="http://owm.io/modis" class="bg-hover-color">Current satellite maps</a></li>
+                <!--<li><a href="/help/sat.html" class="bg-hover-color">Current satellite maps</a></li>
+                <li><a href="/beautifulmaps" class="bg-hover-color">Beautiful maps</a></li>-->
+                <li><a href="http://owm.io/beautiful_maps" target="_blank" class="bg-hover-color">Beautiful maps</a></li>
+              </ul>
+            </li>
+            
+            <li><a href="/api" class="bg-hover-color" onclick="_gaq.push(['_trackEvent', 'Navbar', 'Main', 'api']);">API</a></li>
+            <li><a href="/price" class="bg-hover-color" onclick="_gaq.push(['_trackEvent', 'Navbar', 'Main', 'price']);">Price</a></li>
+                        <li><a href="/examples" class="bg-hover-color" onclick="_gaq.push(['_trackEvent', 'Navbar', 'Main', 'examples']);">Partners</a></li>
+                        
+                         <li><a href="/stations" class="bg-hover-color" onclick="_gaq.push(['_trackEvent', 'Navbar', 'Main', 'station']);">Stations</a></li>
+            <li><a href="/news" class="bg-hover-color" onclick="_gaq.push(['_trackEvent', 'Navbar', 'Main', 'news']);">News</a></li>
+           <li class="dropdown">
+              <a href="#" class="dropdown-toggle bg-hover-color" data-toggle="dropdown">About <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="/about" class="bg-hover-color">About company</a></li>
+                <li><a href="/owm-platform" class="bg-hover-color">OWM Platform</a></li>
+                <li><a href="/technology" class="bg-hover-color">Big Data Technology</a></li>
+                <li><a href="/models" class="bg-hover-color">Meteorological models</a></li>
+                <li><a href="/datasource" class="bg-hover-color">Data sources</a></li>
+              </ul>
+            </li>
+
+  
+
+            <!--
+            <li><a href="http://openweathermap.org/help/design/" class="bg-hover-color">Partners</a></li>
+            -->
+          </ul>
+          <!-- Search Form (xs) -->
+          <form class="navbar-form navbar-left visible-xs" role="search">
+            <div class="form-group">
+              <input type="text" class="form-control" placeholder="Search">
+            </div>
+            <button type="submit" class="btn btn-default">Go!</button>
+          </form> <!-- / Search Form (xs) -->
+
+        </div> <!-- / Navbar Links -->
+      </div> <!-- / container -->
+    </div> <!-- / navbar -->
+
+    <div id="notes_block"></div>
+    <!-- Wrapper -->
+    <div class="wrapper">
+      <!-- Topic Header -->
+
+    
+    <script src="/combine/ec420bfd7b8b370582c72def1c98ef2f-1450970891"></script>
+
+
+<link rel="stylesheet" type="text/css" href="/combine/87aa897c498f7ec0ec01952ee7697ed9-1450970859">
+
+<div id='map-wrap'>
+<div class='global-map' id='map'></div>
+</div>
+
+
+<script type="text/javascript">
+
+
+var scales = {
+CLOUDS_STYLE: [
+      {
+        value: 0,
+        color: 'rgba(247,247,255, 0)'
+      },
+      {
+        value: 10,
+        color: 'rgba(251,247,255, 0)'
+      },
+      {
+        value: 20,
+        color: 'rgba(244,248,255, 0.1)'
+      },
+      {
+        value: 30,
+        color: 'rgba(240,249,255, 0.2)'
+      },
+      {
+        value: 40,
+        color: 'rgba(221,250,255, 0.4)'
+      },
+      {
+        value: 50,
+        color: 'rgba(207,251,255, 0.4)'
+      },
+      {
+        value: 60,
+        color: 'rgba(199,252,255, 0.6)'
+      },
+      {
+        value: 70,
+        color: 'rgba(189,255,255, 0.8)'
+      },
+      {
+        value: 80,
+        color: 'rgba(171,255,255, 0.9)'
+      },
+      {
+        value: 90,
+        color: 'rgba(115,235,255, 1)'
+      },
+      {
+        value: 95,
+        color: 'rgba(173,174,255, 1)'
+      },
+      {
+        value: 100,
+        color: 'rgba(173,174,255, 1)'
+      }
+    ],
+    
+PRECIPITATION_STYLE:  [
+      {
+        value: 0,
+        color: 'rgba(172,170,247, 0)'
+      },
+      {
+        value: 1,
+        color: 'rgba(172,170,247, 0.4)'
+      },
+      {
+        value: 10,
+        color: 'rgba(141,138,243, 0.9)'
+      },
+      {
+        value: 20,
+        color: 'rgba(112,110,194, 1)'
+      },
+      {
+        value: 40,
+        color: 'rgba(86,88,255, 1)'
+      },
+      {
+        value: 100,
+        color: 'rgba(91, 93, 177, 1)'
+      },
+      {
+        value: 200,
+        color: 'rgba(62, 63, 133, 1)'
+      } 
+    ],
+PRESSURE_STYLE:[
+      {
+        value: 949.92,
+        color: 'rgba(0,115,255,1)'
+      },
+      {
+        value: 960.00,
+        color: 'rgba(0,170,255,1)'
+      }
+      ,
+      {
+        value: 980.00,
+        color: 'rgba(75,208,214,1)'
+      },
+      {
+        value: 1000.00,
+        color: 'rgba(141,231,199,1)'
+      },
+      {
+        value: 1010.00,
+        color: 'rgba(176,247,32,1)'
+      },
+      {
+        value: 1020.00,
+        color: 'rgba(240,184,0,1)'
+      },
+      {
+        value: 1040.00,
+        color: 'rgba(251,85,21,1)'
+      },
+      {
+        value: 1060.00,
+        color: 'rgba(243,54,59,1)'
+      },
+      {
+        value: 1070.63,
+        color: 'rgba(198,0,0,1)'
+      }
+    ],    
+RAIN_STYLE:[
+      {
+        value: 0,
+        color: 'rgba(0,255,0, 0)'
+      },
+      {
+        value: 1,
+        color: 'rgba(0,255,0, 0.2)'
+      },
+      {
+        value: 3,
+        color: 'rgba(0,232,46, 0.6)'
+      },
+      {
+        value: 14,
+        color: 'rgba(0,202,145, 0.8)'
+      },
+      {
+        value: 19,
+        color: 'rgba(0,170,208, 0.9)'
+      },
+      {
+        value: 49,
+        color: 'rgba(0,156,229, 1)'
+      },
+      {
+        value: 100,
+        color: 'rgba(14,64,134, 1)'
+      },
+      {
+        value: 200,
+        color: 'rgba(13,113,252, 1)'
+      }
+    ],
+SNOW_STYLE: [
+      {
+        value: 0,
+        color: 'rgba(2,255,137, 0)'
+      },
+      {
+        value: 1,
+        color: 'rgba(2,255,137, 0.3)'
+      },
+      {
+        value: 5,
+        color: 'rgba(12,197,119, 0.7)'
+      },
+      {
+        value: 20,
+        color: 'rgba(22,139,101, 0.8)'
+      },
+      {
+        value: 40,
+        color: 'rgba(81,82,255, 0.9)'
+      },
+      {
+        value: 100,
+        color: 'rgba(84,47,130, 1)'
+      },
+      {
+        value: 200,
+        color: 'rgba(84,47,130, 1)'
+      }
+    ],
+WINDSPEED_STYLE:  [
+      {
+        value: 0,
+        color: 'rgba(255,255,0, 0)'
+      },
+      {
+        value: 1,
+        color: 'rgba(255,255,0, 0)'
+      },
+      {
+        value: 5,
+        color: 'rgba(93,255,0, 0.4)'
+      },
+      {
+        value: 15,
+        color: 'rgba(57,218,255,0.7)'
+      },
+      {
+        value: 25,
+        color: 'rgba(253,45,139, 0.8)'
+      },
+      {
+        value: 50,
+        color: 'rgba(116,76,172, 0.9)'
+      },
+      {
+        value: 100,
+        color: 'rgba(70,0,175,1)'
+      },
+      {
+        value: 200,
+        color: 'rgba(13,17,38,1)'
+      }
+    ],
+    
+TEMP_STYLE: [
+      {
+        value: -40,
+        color: 'rgba(69,117,180,1)'
+      },
+      {
+        value: -30,
+        color: 'rgba(82,139,213,1)'
+      },    
+      {
+        value: -25,
+        color: 'rgba(103,163,222,1)'
+      },    
+      {
+        value: -20,
+        color: 'rgba(142,202,240,1)'
+      },    
+      {
+        value: -15,
+        color: 'rgba(155,213,244,1)'
+      },    
+      {
+        value: -10,
+        color: 'rgba(172,225,253,1)'
+      },    
+      {
+        value: -5,
+        color: 'rgba(194,234,255,1)'
+      },    
+      {
+        value: 0,
+        color: 'rgba(255,255,208,1)'
+      },    
+      {
+        value: 5,
+        color: 'rgba(254,248,174,1)'
+      },    
+      {
+        value: 10,
+        color: 'rgba(254,232,146,1)'
+      },    
+      {
+        value: 15,
+        color: 'rgba(254,226,112,1)'
+      },    
+      {
+        value: 20,
+        color: 'rgba(253,212,97,1)'
+      },    
+      {
+        value: 25,
+        color: 'rgba(244,168,94,1)'
+      },    
+      {
+        value: 30,
+        color: 'rgba(244,129,89,1)'
+      },    
+      {
+        value: 35,
+        color: 'rgba(244,104,89,1)'
+      },    
+      {
+        value: 40,
+        color: 'rgba(244,76,73,1)'
+      }
+    ]
+    
+};
+
+
+var map = L.map('map', {
+  worldCopyJump: true,
+  minZoom: 1,
+  maxZoom: 10
+}).setView([51.520371, 42.916844], 3);
+
+var owm = new WeatherLayers(map);
+var attribution = "Open Weather Map 2015 | Design by <a href='http://urbica.co' target='_blank'>Urbica</a>";
+
+var basemap = new L.tileLayer("http://{s}.maps.owm.io/base/gray/{z}/{x}/{y}?appid=b1b15e88fa797225412429c1c50c122a", {
+  attribution: attribution,
+  maxZoom: 18,
+  zIndex: 0,
+  subdomains: 'abcdefgh',
+  showWeather: true
+}).addTo(map);
+
+var clouds = new L.tileLayer("http://{s}.maps.owm.io/current/CLOUDS_STYLE/{z}/{x}/{y}?appid=b1b15e88fa797225412429c1c50c122a", {
+  attribution: attribution,
+  maxZoom: 18,
+  zIndex: 1,
+  scaleParams: {
+    width: '300px',
+    siText: '%',
+    avgValue: 50,
+    gradient: scales.CLOUDS_STYLE
+  }
+});
+
+var precipitation = new L.tileLayer("http://{s}.maps.owm.io/current/PRECIPITATION_STYLE/{z}/{x}/{y}?appid=b1b15e88fa797225412429c1c50c122a", {
+  attribution: attribution,
+  maxZoom: 18,
+  zIndex: 1,
+  subdomains: 'abcdefgh',
+  scaleParams: {
+    width: '300px',
+    siText: 'mm',
+    avgValue: 100,
+    gradient: scales.PRECIPITATION_STYLE
+  }
+  
+});
+
+var pressure = new L.tileLayer("http://{s}.maps.owm.io/current/PRESSURE_STYLE/{z}/{x}/{y}?appid=b1b15e88fa797225412429c1c50c122a", {
+  attribution: attribution,
+  maxZoom: 18,
+  zIndex: 1,
+  subdomains: 'a',
+  scaleParams: {
+    width: '300px',
+    siText: 'hPa',
+    avgValue: 1013.25,
+    gradient: scales.PRESSURE_STYLE
+  }
+});
+
+var rain = new L.tileLayer("http://{s}.maps.owm.io/current/RAIN_STYLE/{z}/{x}/{y}?appid=b1b15e88fa797225412429c1c50c122a", {
+  attribution: attribution,
+  maxZoom: 18,
+  zIndex: 1,
+  scaleParams: {
+    width: '300px',
+    siText: 'mm',
+    avgValue: 100,
+    gradient: scales.RAIN_STYLE
+}
+});
+
+var snow = new L.tileLayer("http://{s}.maps.owm.io/current/SNOW_STYLE/{z}/{x}/{y}?appid=b1b15e88fa797225412429c1c50c122a", {
+  attribution: attribution,
+  maxZoom: 18,
+  zIndex: 1,
+  scaleParams: {
+    width: '300px',
+    siText: 'mm',
+    avgValue: 100,
+    gradient: scales.SNOW_STYLE
+}
+});
+
+
+var temperature = new L.tileLayer("http://{s}.maps.owm.io/current/TEMP_STYLE/{z}/{x}/{y}?appid=b1b15e88fa797225412429c1c50c122a", {
+  attribution: attribution,
+  maxZoom: 18,
+  zIndex: 1,
+   scaleParams: {
+    width: '300px',
+    siText: '°C',
+    avgValue: 0,
+    gradient: scales.TEMP_STYLE
+ }    
+});
+
+var windspeed = new L.tileLayer("http://{s}.maps.owm.io/current/WINDSPEED_STYLE/{z}/{x}/{y}?appid=b1b15e88fa797225412429c1c50c122a", {
+  attribution: attribution,
+  maxZoom: 18,
+  zIndex: 1,
+  scaleParams: {
+    width: '300px',
+    siText: 'm/s',
+    avgValue: 100,
+    gradient: scales.WINDSPEED_STYLE
+}
+});
+
+
+
+var prs = new L.tileLayer("http://{s}.maps.owm.io/weather/pressure_cntr/{z}/{x}/{y}.png?appid=b1b15e88fa797225412429c1c50c122a", {
+  attribution: attribution,
+  maxZoom: 18,
+  zIndex: 1
+});
+
+
+var overlays = {
+//    "prs":prs
+};
+
+var baseLayers = {
+  "Base map": basemap,
+  "Clouds": clouds,
+  "Precipitation": precipitation,
+  "Pressure": pressure,
+  "Rain": rain,
+  "Snow": snow,
+  "Temperature": temperature,
+  "Wind speed": windspeed
+};
+
+var control = owm.getCustomLayersControl(baseLayers, overlays);
+map.addControl(control);
+
+
+var town = owm.getCitiesLayer('http://{s}.maps.owm.io/weather/cities/{z}/{x}/{y}.geojson?appid=b1b15e88fa797225412429c1c50c122a');
+var weathermap = owm.getWeatherLayer('http://{s}.maps.owm.io/weather/cities/{z}/{x}/{y}.geojson?appid=b1b15e88fa797225412429c1c50c122a').addTo(map);
+owm.bindCities('showWeather', weathermap, town);
+owm.bindScales();    
+    
+</script>
+
+
+    </div> <!-- / .wrapper -->
+
+
+
+
+<script src="/combine/cd70f72c4911208557ac5aa4ffda7623-1393649958"></script>
+
+<script src="/combine/1f267b7d68c9a2b5e545f6efaa3d1821-1391751372"></script>
+
+</body>
+    
+<script type="text/javascript">
+jQuery(document).ready(function() {
+
+  var units = 'metric';
+  if( get_cookie('units') ) units = get_cookie('units');
+  if( units == 'metric') {
+      document.getElementById("units_check").checked = true;
+  }else{
+      document.getElementById("units_check").checked = false;
+  }
+});
+</script>
+    
+    
+</html>

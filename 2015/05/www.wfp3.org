@@ -1,0 +1,722 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  	<meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE" />
+  	    <title>WFP | United Nations World Food Programme - Fighting Hunger Worldwide</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="///d2z2hh3whwc4ml.cloudfront.net/favicon.ico" type="image/x-icon" />
+<link rel="alternate" href="http://m.wfp.org/home" />
+    <meta property="fb:page_id" content="28312410177" />
+    <meta property="fb:pages" content="28312410177" />
+    <link type="text/css" rel="stylesheet" media="all" href="http://www.wfp.org/sites/default/files/css/css_3231ea917e8670b1bd5209520a6f0237.css" />
+<link type="text/css" rel="stylesheet" media="print" href="http://www.wfp.org/sites/default/files/css/css_c1359ac21a6f285b1991ea15bef005ec.css" />
+    <!--[if IE]><link type="text/css" rel="stylesheet" media="all" href="/sites/default/themes/wfp/css/fix-ie.css" /><![endif]-->
+    <!--[if IE 6]><link type="text/css" rel="stylesheet" media="all" href="/sites/default/themes/wfp/css/fix-ie6.css" /><![endif]-->
+    <!--[if IE 8]><link type="text/css" rel="stylesheet" media="all" href="/sites/default/themes/wfp/css/fix-ie8.css" /><![endif]-->
+    <script type="text/javascript" src="http://www.wfp.org/sites/default/files/js/js_d9dadc446c8b60103c619f4c14d4a864.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/"});
+//--><!]]>
+</script>
+<script type="text/javascript" src="//d2z2hh3whwc4ml.cloudfront.net/libraries/flowplayer3/flowplayer-3.2.4.min.js"></script>
+<script type="text/javascript" src="//d2z2hh3whwc4ml.cloudfront.net/libraries/flowplayer3/plugins/flowplayer.ipad-3.2.1.min.js"></script>
+<script type="text/javascript" src="//d2z2hh3whwc4ml.cloudfront.net/libraries/flowplayer3/plugins/flowplayer.playlist-3.0.8.min.js"></script>        <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+    <script type="text/javascript" src="//use.typekit.net/zqp4jvz.js"></script>
+    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+    <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+          <script src="//d2z2hh3whwc4ml.cloudfront.net/ew/ew-en.js"></script>      </head>
+<body class="body- ">
+      <!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KN3K8D"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KN3K8D');</script>
+<!-- End Google Tag Manager -->        <div id="header" class="new">
+  <div class="header-container">
+    <div class="header-top-container">
+        <div class="header-top">
+          <div id="languages" class="header-menu-wrapper">
+            <ul class="menu"><li class="leaf first odd"><a href="http://fr.wfp.org" title="Français">Français</a></li>
+<li class="leaf even"><a href="http://es.wfp.org" title="Español">Español</a></li>
+<li class="leaf odd"><a href="http://ar.wfp.org" title="العربية">العربية</a></li>
+<li class="expanded last even"><a href="/languages" class="header-top-languages">More</a><ul class="menu"><li class="leaf first even"><a href="http://cn.wfp.org" title="中文">中文</a></li>
+<li class="leaf odd"><a href="http://da.wfp.org" title="Dansk">Dansk</a></li>
+<li class="leaf even"><a href="http://nl.wfp.org/" title="Nederlands">Nederlands</a></li>
+<li class="leaf odd"><a href="http://fa.wfp.org" title="فارسی">فارسی</a></li>
+<li class="leaf even"><a href="http://fi.wfp.org" title="Suomi">Suomi</a></li>
+<li class="leaf odd"><a href="http://de.wfp.org" title="Deutsch">Deutsch</a></li>
+<li class="leaf even"><a href="http://it.wfp.org" title="Italiano">Italiano</a></li>
+<li class="leaf odd"><a href="http://ja.wfp.org" title="日本語">日本語</a></li>
+<li class="leaf even"><a href="http://ko.wfp.org" title="한국어">한국어</a></li>
+<li class="leaf odd"><a href="http://no.wfp.org" title="Norsk">Norsk</a></li>
+<li class="leaf even"><a href="http://ru.wfp.org" title="Русский">Русский</a></li>
+<li class="leaf last odd"><a href="http://sv.wfp.org" title="Svenska">Svenska</a></li>
+</ul></li>
+</ul>          </div>
+        <div id="top-donate-button">
+          <a href="https://www.wfp.org/donate?lead_source=2014-wfp-donateheader&amp;form_tag=2014-wfp-donateheader" class="top-donate">Donate</a>        </div>
+                    <div id="top-search">
+            <form action="/search/site"  accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search" class="container-inline">
+  <div class="form-item" id="edit-search-theme-form-1-wrapper">
+ <label for="edit-search-theme-form-1">Search this site: </label>
+ <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" size="15" value="" title="Enter the terms you wish to search for." placeholder="Search" class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit-2" value="Search"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-uc0eVUoVVzy3UEFFmWm5OQdMgxi-mIGmi-T4XxWOYcA" value="form-uc0eVUoVVzy3UEFFmWm5OQdMgxi-mIGmi-T4XxWOYcA"  />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
+</div>
+
+</div></form>
+          </div>
+                </div>
+      <a href="/" id="wfp-logo" class="active"><h1>World Food Programme</h1> <h2 class="site-slogan">Fighting Hunger Worldwide</h2></a>      <div id="main-menu" class="header-menu-wrapper">
+        <ul class="menu"><li class="expanded first even"><a href="/about" title="Who we are" class="header-bottom-about">Who we are</a><ul class="menu"><li class="leaf first odd"><a href="/about/executive-director" title="Executive Director">Executive Director</a></li>
+<li class="leaf even"><a href="/policy-resources" title="Publications">Publications</a></li>
+<li class="leaf odd"><a href="/about/senior-leadership" title="Senior Leadership">Senior Leadership</a></li>
+<li class="leaf even"><a href="/partners" title="Partners">Partners</a></li>
+<li class="leaf odd"><a href="/about/corporate-information" title="Corporate Information">Corporate Information</a></li>
+<li class="leaf even"><a href="/celebrities" title="Ambassadors">Ambassadors</a></li>
+<li class="leaf odd"><a href="/funding" title="Funding">Funding</a></li>
+<li class="leaf even"><a href="/about/vacancies" title="Careers">Careers</a></li>
+<li class="leaf odd"><a href="/about/mission-statement" title="Mission Statement">Mission Statement</a></li>
+<li class="leaf even"><a href="/contact" title="Contact">Contact</a></li>
+<li class="leaf last odd"><a href="/about/strategic-plan" title="Strategic Plan">Strategic Plan</a></li>
+</ul></li>
+<li class="expanded odd"><a href="/our-work" title="Our work" class="header-bottom-ourwork header-flat">Our work</a><ul class="menu"><li class="expanded first odd"><a href="/our-work" title="Our Programmes" class="header-bottom-ourprogrammes list-parent">Our Programmes</a><ul class="menu"><li class="leaf first odd"><a href="/cash-based-transfers" title="Food assistance: cash-based and in-kind">Food assistance: cash-based and in-kind</a></li>
+<li class="leaf even"><a href="/food-assets" title="Food for work">Food for Assets</a></li>
+<li class="leaf odd"><a href="/hiv-aids" title="Fight against HIV / AIDS">HIV / AIDS</a></li>
+<li class="leaf even"><a href="/purchase-progress" title="Purchase for progress">Purchase for Progress</a></li>
+<li class="leaf odd"><a href="/school-meals" title="School Meals">School Meals</a></li>
+<li class="leaf last even"><a href="/centre-of-excellence-hunger" title="Centre of Excellence against Hunger" id="centre-excellence">Centre of Excellence</a></li>
+</ul></li>
+<li class="expanded even"><a href="/our-work/competences" title="Our Expertise" class="header-bottom-ourexpertise list-parent">Our Expertise</a><ul class="menu"><li class="leaf first even"><a href="/our-work/being-ready" title="Preparedness">Preparedness: Being Ready</a></li>
+<li class="leaf odd"><a href="/our-work/emergencies">Responding to Emergencies</a></li>
+<li class="leaf even"><a href="/food-security" title="Food Security Analysis">Food Security Analysis: Getting the Facts</a></li>
+<li class="leaf odd"><a href="/procurement" title="Procurement">Procurement: Buying the Food</a></li>
+<li class="leaf even"><a href="/nutrition" title="Nutrition">Nutrition</a></li>
+<li class="leaf odd"><a href="/logistics" title="Logistics">Logistics: Delivering the Food</a></li>
+<li class="leaf even"><a href="/social-protection" title="Social Protection and Safety Nets">Social Protection and Safety Nets</a></li>
+<li class="leaf odd"><a href="/disaster-risk-reduction" title="Disaster Risk Reduction">Disaster Risk Reduction</a></li>
+<li class="leaf even"><a href="/climate-change">Climate Change</a></li>
+<li class="leaf last odd"><a href="/country-capacity-strengthening" title="Country capacity strengthening">Country capacity strengthening</a></li>
+</ul></li>
+<li class="expanded last even"><a href="/operations" title="Our Operations" class="header-bottom-currentoperations list-parent">Our Operations</a><ul class="menu"><li class="leaf first odd"><a href="/emergencies" title="Current Emergencies">Current Emergencies</a></li>
+<li class="leaf even"><a href="/operations/emergency" title="Emergency Operations">Emergency Operations</a></li>
+<li class="leaf odd"><a href="/operations/relief" title="Relief &amp; Recovery Operations">Relief &amp; Recovery Operations</a></li>
+<li class="leaf even"><a href="/operations/special" title="Special Operations">Special Operations</a></li>
+<li class="leaf last odd"><a href="/operations/development" title="Development Operations">Development Operations</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded even"><a href="/countries" title="Where we work" class="header-bottom-countries header-grid">Where we work</a><ul class="menu"><li class="expanded first even"><a href="/countries" title="Africa" class="header-bottom-africa submenu-section">Africa</a><ul class="menu"><li class="collapsed first even"><a href="/countries/algeria" title="Algeria">Algeria</a></li>
+<li class="leaf odd"><a href="/countries/benin" title="Benin">Benin</a></li>
+<li class="leaf even"><a href="/countries/burkina-faso" title="Burkina Faso">Burkina Faso</a></li>
+<li class="leaf odd"><a href="/countries/burundi" title="Burundi">Burundi</a></li>
+<li class="leaf even"><a href="/countries/cameroon" title="Cameroon">Cameroon</a></li>
+<li class="leaf odd"><a href="/countries/central-african-republic" title="Central African Republic">Central African Republic</a></li>
+<li class="leaf even"><a href="/countries/chad" title="Chad">Chad</a></li>
+<li class="leaf odd"><a href="/countries/congo-democratic-republic" title="Congo, Democratic Republic Of">Congo, DR</a></li>
+<li class="leaf even"><a href="/countries/congo" title="Congo, Republic Of">Congo, Republic Of</a></li>
+<li class="leaf odd"><a href="/countries/cote-ivoire" title="Côte D&#039;Ivoire">Côte D&#039;Ivoire</a></li>
+<li class="leaf even"><a href="/countries/djibouti" title="Djibouti">Djibouti</a></li>
+<li class="leaf odd"><a href="/countries/egypt" title="Egypt">Egypt</a></li>
+<li class="leaf even"><a href="/countries/ethiopia" title="Ethiopia">Ethiopia</a></li>
+<li class="leaf odd"><a href="/countries/ghana" title="Ghana">Ghana</a></li>
+<li class="leaf even"><a href="/countries/guinea" title="Guinea">Guinea</a></li>
+<li class="leaf odd"><a href="/countries/guinea-bissau" title="Guinea-Bissau">Guinea-Bissau</a></li>
+<li class="leaf even"><a href="/countries/kenya" title="Kenya">Kenya</a></li>
+<li class="leaf odd"><a href="/countries/lesotho" title="Lesotho">Lesotho</a></li>
+<li class="leaf even"><a href="/countries/liberia" title="Liberia">Liberia</a></li>
+<li class="leaf odd"><a href="/countries/libya" title="Libya">Libya</a></li>
+<li class="leaf even"><a href="/countries/madagascar" title="Madagascar">Madagascar</a></li>
+<li class="leaf odd"><a href="/countries/malawi" title="Malawi">Malawi</a></li>
+<li class="leaf even"><a href="/countries/mali" title="Mali">Mali</a></li>
+<li class="leaf odd"><a href="/countries/mauritania" title="Mauritania">Mauritania</a></li>
+<li class="leaf even"><a href="/countries/mozambique" title="Mozambique">Mozambique</a></li>
+<li class="leaf odd"><a href="/countries/namibia" title="Namibia">Namibia</a></li>
+<li class="leaf even"><a href="/countries/niger" title="Niger">Niger</a></li>
+<li class="leaf odd"><a href="/countries/rwanda" title="Rwanda">Rwanda</a></li>
+<li class="leaf even"><a href="/countries/sao-tome-and-principe" title="São Tomé And Principe">São Tomé And Principe</a></li>
+<li class="leaf odd"><a href="/countries/senegal" title="Senegal">Senegal</a></li>
+<li class="leaf even"><a href="/countries/sierra-leone" title="Sierra Leone">Sierra Leone</a></li>
+<li class="leaf odd"><a href="/countries/somalia" title="Somalia">Somalia</a></li>
+<li class="leaf even"><a href="/countries/south-sudan" title="South Sudan">South Sudan</a></li>
+<li class="leaf odd"><a href="/countries/sudan" title="Sudan">Sudan</a></li>
+<li class="leaf even"><a href="/countries/swaziland" title="Swaziland">Swaziland</a></li>
+<li class="leaf odd"><a href="/countries/tanzania" title="Tanzania, United Republic Of">Tanzania, United Republic Of</a></li>
+<li class="leaf even"><a href="/countries/gambia" title="The Gambia">The Gambia</a></li>
+<li class="leaf odd"><a href="/countries/togo" title="Togo">Togo</a></li>
+<li class="leaf even"><a href="/countries/tunisia" title="Tunisia">Tunisia</a></li>
+<li class="leaf odd"><a href="/countries/uganda" title="Uganda">Uganda</a></li>
+<li class="leaf even"><a href="/countries/zambia" title="Zambia">Zambia</a></li>
+<li class="leaf last odd"><a href="/countries/zimbabwe" title="Zimbabwe">Zimbabwe</a></li>
+</ul></li>
+<li class="expanded even"><a href="/countries" title="Americas" class="header-bottom-americas submenu-section">Americas</a><ul class="menu"><li class="leaf first odd"><a href="/countries/bolivia" title="Bolivia">Bolivia</a></li>
+<li class="leaf even"><a href="/countries/colombia" title="Colombia">Colombia</a></li>
+<li class="leaf odd"><a href="/countries/cuba" title="Cuba">Cuba</a></li>
+<li class="leaf even"><a href="/countries/ecuador" title="Ecuador">Ecuador</a></li>
+<li class="leaf odd"><a href="/countries/el-salvador" title="El Salvador">El Salvador</a></li>
+<li class="leaf even"><a href="/countries/guatemala" title="Guatemala">Guatemala</a></li>
+<li class="leaf odd"><a href="/countries/haiti" title="Haiti">Haiti</a></li>
+<li class="leaf even"><a href="/countries/honduras" title="Honduras">Honduras</a></li>
+<li class="leaf odd"><a href="/countries/nicaragua" title="Nicaragua">Nicaragua</a></li>
+<li class="leaf even"><a href="/countries/paraguay" title="Paraguay">Paraguay</a></li>
+<li class="leaf last odd"><a href="/countries/peru" title="Peru">Peru</a></li>
+</ul></li>
+<li class="expanded even"><a href="/countries" title="Asia" class="header-bottom-asia submenu-section">Asia</a><ul class="menu"><li class="leaf first odd"><a href="/countries/afghanistan" title="Afghanistan">Afghanistan</a></li>
+<li class="leaf even"><a href="/countries/armenia" title="Armenia">Armenia</a></li>
+<li class="leaf odd"><a href="/countries/bangladesh" title="Bangladesh">Bangladesh</a></li>
+<li class="leaf even"><a href="/countries/bhutan" title="Bhutan">Bhutan</a></li>
+<li class="leaf odd"><a href="/countries/cambodia" title="Cambodia">Cambodia</a></li>
+<li class="leaf even"><a href="/countries/india" title="India">India</a></li>
+<li class="leaf odd"><a href="/countries/indonesia" title="Indonesia">Indonesia</a></li>
+<li class="leaf even"><a href="/countries/korea-democratic-peoples-republic" title="Korea, Democratic People&amp;#039;s Republic (DPRK)">Korea, Democratic People&#039;s Republic (DPRK)</a></li>
+<li class="leaf odd"><a href="/countries/kyrgyzstan" title="Kyrgyzstan">Kyrgyzstan</a></li>
+<li class="leaf even"><a href="/countries/lao" title="Lao PDR">Lao PDR</a></li>
+<li class="leaf odd"><a href="/countries/myanmar" title="Myanmar">Myanmar</a></li>
+<li class="leaf even"><a href="/countries/nepal" title="Nepal">Nepal</a></li>
+<li class="leaf odd"><a href="/countries/pakistan" title="Pakistan">Pakistan</a></li>
+<li class="leaf even"><a href="/countries/philippines" title="Philippines">Philippines</a></li>
+<li class="leaf odd"><a href="/countries/sri-lanka" title="Sri Lanka">Sri Lanka</a></li>
+<li class="leaf even"><a href="/countries/tajikistan" title="Tajikistan">Tajikistan</a></li>
+<li class="leaf last odd"><a href="/countries/timor-leste" title="Timor-Leste">Timor-Leste</a></li>
+</ul></li>
+<li class="expanded even"><a href="/countries" title="Europe" class="header-bottom-me submenu-section">Europe</a><ul class="menu"><li class="leaf first last odd"><a href="/countries/ukraine" title="Ukraine">Ukraine</a></li>
+</ul></li>
+<li class="expanded last odd"><a href="/countries" title="Middle East" class="header-bottom-me submenu-section">Middle East</a><ul class="menu"><li class="leaf first odd"><a href="/countries/iran" title="Iran">Iran</a></li>
+<li class="leaf even"><a href="/countries/iraq" title="Iraq">Iraq</a></li>
+<li class="leaf odd"><a href="/countries/jordan" title="Jordan">Jordan</a></li>
+<li class="leaf even"><a href="/countries/lebanon" title="Lebanon">Lebanon</a></li>
+<li class="leaf odd"><a href="/countries/state-of-palestine" title="State of Palestine">Palestine, State of </a></li>
+<li class="leaf even"><a href="/countries/syria" title="Syria">Syria</a></li>
+<li class="leaf odd"><a href="/countries/turkey" title="Turkey">Turkey</a></li>
+<li class="leaf last even"><a href="/countries/yemen" title="Yemen">Yemen</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded odd"><a href="/get-involved" title="Get Involved" class="header-bottom-getinvolved">Get Involved</a><ul class="menu"><li class="leaf first odd"><a href="/help" title="Make a donation">Make a donation</a></li>
+<li class="leaf last even"><a href="/help/spread-the-word" title="Spread the word">Spread the word</a></li>
+</ul></li>
+<li class="expanded last odd"><a href="/news" title="News &amp; Library" class="header-bottom-news">News &amp; Library</a><ul class="menu"><li class="leaf first even"><a href="/news/stories" title="Stories" name="Stories">Stories</a></li>
+<li class="leaf odd"><a href="/news/news-releases" title="News Releases">News Releases</a></li>
+<li class="leaf last even"><a href="/news/media-contacts" title="Media Contacts">Media Contacts</a></li>
+</ul></li>
+</ul>      </div>
+    </div>
+  </div>
+</div> <!-- / header -->
+
+
+<div class="clearfix">
+	<div class="panel-display 960-12-onecol" id="home-page-panel">
+  
+  
+  <div id="resources-menu-container">
+  	<div class="container-12">
+      <div class="inside"><div class="panel-pane pane-block pane-menu-menu-header-strip-links-2013 grid-12" >
+  
+      <h2 class="pane-title">Information for:</h2>
+  
+  
+  <div class="pane-content">
+    <ul class="menu"><li class="leaf first even"><a href="/government-donors" title="Government Donors" id="information-for-goverment">Government Donors</a></li>
+<li class="leaf odd"><a href="/partners/private-sector?icn=homepage-privatesector&amp;ici=homepage-link" title="Private Sector" id="information-for-private-sector">Private Sector</a></li>
+<li class="leaf even"><a href="/news?icn=homepage-news&amp;ici=homepage-link" title="Journalists" id="information-for-journalists">Journalists</a></li>
+<li class="leaf odd"><a href="/aid-professionals?icn=homepage-aid-professionals&amp;ici=homepage-link" title="Aid Professionals" id="information-for-aid-professionals">Aid Professionals</a></li>
+<li class="leaf even"><a href="/students-and-teachers/students?icn=homepage-students&amp;ici=homepage-link" title="Students" id="information-for-students">Students</a></li>
+<li class="leaf odd"><a href="/students-and-teachers/teachers?icn=homepage-teachers&amp;ici=homepage-link" title="Teachers" id="information-for-teachers">Teachers</a></li>
+<li class="leaf last even"><a href="http://executiveboard.wfp.org/">Executive Board</a></li>
+</ul>  </div>
+
+  
+  </div>
+</div>
+      <div class="clear"></div>
+  	</div> 
+  </div>
+  
+  <div id="main-feature-container" class="home-image">
+	  	<div class="inside"><div class="panel-pane pane-views-panes pane-homepage-featured-image-view-panel-pane-1" >
+  
+  
+  
+  <div class="pane-content">
+    <div class="view view-homepage-featured-image-view view-id-homepage_featured_image_view view-display-id-panel_pane_1 view-dom-id-4">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+    
+  
+    
+      <a href="https://wfp.exposure.co/exodus-from-mosul" class="homepage-featured-image"><img src="http://www.wfp.org/sites/default/files/imagecache/1182x416/2016_08_06_Homepage-banner.jpg" alt="" title=""  class="imagecache imagecache-1182x416 imagecache-default imagecache-1182x416_default" width="1182" height="416" /></a>
+  
+
+  
+    
+      <div class="hp-featured-claim"><a href="https://wfp.exposure.co/exodus-from-mosul" class="homepage-featured-image-title">Families Fleeing Mosul Seek Refuge in Debaga Camp</a><a href="https://wfp.exposure.co/exodus-from-mosul" class="homepage-featured-learn">Learn more</a></div>
+
+<div id="banner-text">
+  <a href="https://wfp.exposure.co/exodus-from-mosul">
+   <span>
+    <strong>WFP</strong>&nbsp;is the world&#39;s largest humanitarian agency fighting hunger.
+  </span>
+  <span>
+    <h3><em>WFP is funded entirely by voluntary donations</em></h3>
+  </span>
+  </a>
+</div>
+
+
+  
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>   </div>
+
+  
+  </div>
+<div class="panel-region-separator"></div><div class="panel-pane pane-custom pane-10"  id="hp-featured-claim-donate">
+  
+  
+  
+  <div class="pane-content">
+    <a href=http://cdn.wfp.org/2016/iraq/?lead_source=2016-wfp-Panorama-Debaga-camp-hp&form_tag=2016-wfp-Debaga-hp class="homepage-featured-donate">Donate</a>  </div>
+
+  
+  </div>
+</div>
+	  	<div class="clear"></div>
+  </div>
+  
+  <div id="content-1-container" class="container-12">
+	  <div class="panel-panel grid-6 left">
+	  	<div class="inside"><div class="panel-pane pane-custom pane-5" >
+  
+  
+  
+  <div class="pane-content">
+    <h2>News<span> about</span> hunger</h2>
+  </div>
+
+  
+  </div>
+<div class="panel-region-separator"></div><div class="panel-pane pane-views pane-hp-content"  id="hp-hunger-news">
+  
+  
+  
+  <div class="pane-content">
+    <div class="view view-hp-content view-id-hp_content view-display-id-block_1 view-dom-id-3">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    <div class="gallery_list_item clearfix">
+<a href="/stories/sharing-humanity-wahidas-story"><img src="http://www.wfp.org/sites/default/files/imagecache/100x70/2016_08_12_WHD_Afghanistan_600.jpg" alt="Sharing Humanity: Wahida&amp;#039;s Story" title=""  class="imagecache imagecache-100x70" width="100" height="70" /></a> <div class="created clearfix">
+  <div class="type">Story</div><!--/node type-->
+  <div class="date">12 August 2016</div><!--/date-->
+ </div>
+  <div class="title"><a href="/stories/sharing-humanity-wahidas-story">Sharing Humanity: Wahida&#039;s Story</a></div>
+</div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+    <div class="gallery_list_item clearfix">
+<a href="/news/news-release/cranes-deliver-life-saving-assistance-to-syrians-stranded-at-jordanian-border-areas%20"><img src="http://www.wfp.org/sites/default/files/imagecache/100x70/Rz%20Pic%202%20Berm%20Crnae.jpeg" alt="Cranes Deliver Life-Saving Assistance To Syrians Stranded At Jordanian Border Areas " title=""  class="imagecache imagecache-100x70" /></a> <div class="created clearfix">
+  <div class="type">News Release</div><!--/node type-->
+  <div class="date">5 August 2016</div><!--/date-->
+ </div>
+  <div class="title"><a href="/news/news-release/cranes-deliver-life-saving-assistance-to-syrians-stranded-at-jordanian-border-areas%20">Cranes Deliver Life-Saving Assistance To Syrians Stranded At Jordanian Border Areas </a></div>
+</div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+    <div class="gallery_list_item clearfix">
+ <a href=news/news-release/un-agencies-deliver-urgent-relief-to-people-stranded-at-syria-jordan-border> <img src="http://www.wfp.org/sites/default/files/imagecache/100x70/placeholder-logo-100x70.jpg" alt="" title=""  class="imagecache imagecache-100x70" width="100" height="70" /> </a>  <div class="created clearfix">
+  <div class="type">News Release</div><!--/node type-->
+  <div class="date">4 August 2016</div><!--/date-->
+ </div>
+  <div class="title"><a href="/news/news-release/un-agencies-deliver-urgent-relief-to-people-stranded-at-syria-jordan-border">UN Agencies Deliver Urgent Relief To People Stranded At Syria-Jordan Border</a></div>
+</div>
+  </div>
+  <div class="views-row views-row-4 views-row-even">
+    <div class="gallery_list_item clearfix">
+<a href="/news/news-release/wfps-share-meal-app-fundraises-school-children-affected-el-nino-drought-malawi"><img src="http://www.wfp.org/sites/default/files/imagecache/100x70/STM%20Malawi.jpeg" alt="WFP’s Share The Meal App Fundraises For School Children Affected By El Niño Drought In Malawi" title=""  class="imagecache imagecache-100x70" /></a> <div class="created clearfix">
+  <div class="type">News Release</div><!--/node type-->
+  <div class="date">3 August 2016</div><!--/date-->
+ </div>
+  <div class="title"><a href="/news/news-release/wfps-share-meal-app-fundraises-school-children-affected-el-nino-drought-malawi">WFP’s Share The Meal App Fundraises For School Children Affected By El Niño Drought In Malawi</a></div>
+</div>
+  </div>
+  <div class="views-row views-row-5 views-row-odd views-row-last">
+    <div class="gallery_list_item clearfix">
+<a href="/news/news-release/new-study-shows-undernutrition-taking-huge-toll-ghanas-economy"><img src="http://www.wfp.org/sites/default/files/imagecache/100x70/Reszie%20No%202.jpg" alt="New Study Shows Undernutrition Taking A Huge Toll On Ghana’s Economy" title=""  class="imagecache imagecache-100x70" /></a> <div class="created clearfix">
+  <div class="type">News Release</div><!--/node type-->
+  <div class="date">2 August 2016</div><!--/date-->
+ </div>
+  <div class="title"><a href="/news/news-release/new-study-shows-undernutrition-taking-huge-toll-ghanas-economy">New Study Shows Undernutrition Taking A Huge Toll On Ghana’s Economy</a></div>
+</div>
+  </div>
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <p><a href="/news">Read more news &raquo;</a></p>
+    </div>
+  
+  
+</div>   </div>
+
+  
+  </div>
+</div>
+	  </div>
+	  <div class="panel-panel grid-6 right">
+	  	<div class="panel-pane pane-custom pane-6" >
+  
+  
+  
+  <div class="pane-content">
+    <h2>You <span>against</span> hunger</h2>
+  </div>
+
+  
+  </div>
+<div class="panel-region-separator"></div><div class="panel-pane pane-block pane-webform-client-block-593896" >
+  
+  
+  
+  <div class="pane-content">
+    <form action="/content/homepage-sign"  accept-charset="UTF-8" method="post" id="webform-client-form-593896" class="webform-client-form" enctype="multipart/form-data">
+<div><div class="webform-component webform-component-markup" id="webform-component-title"><p><strong><em><span style="font-family:Georgia,serif; font-size:18px;">Sign up for the latest news about our work</span></em></strong></p></div><div id="webform-sign-up"><div class = "input-row"><div class="webform-component webform-component-textfield" id="webform-component-first-name"><div class="form-item" id="edit-submitted-first-name-wrapper">
+ <label for="edit-submitted-first-name">First name: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="128" name="submitted[first_name]" id="edit-submitted-first-name" size="60" value="" tabindex="1" class="form-text required" />
+</div>
+</div><div class="webform-component webform-component-textfield" id="webform-component-last-name"><div class="form-item" id="edit-submitted-last-name-wrapper">
+ <label for="edit-submitted-last-name">Last name: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="128" name="submitted[last_name]" id="edit-submitted-last-name" size="60" value="" tabindex="2" class="form-text required" />
+</div>
+</div></div><div class = "input-row"><div class="webform-component webform-component-email" id="webform-component-email"><div class="form-item" id="edit-submitted-email-wrapper">
+ <label for="edit-submitted-email">Email address: <span class="form-required" title="This field is required.">*</span></label>
+ <input class="form-text form-email required email" tabindex="3" type="email" id="edit-submitted-email" name="submitted[email]" size="60" />
+</div>
+</div><div class="webform-component webform-component-select" id="webform-component-country"><div class="form-item" id="edit-submitted-country-wrapper">
+ <label for="edit-submitted-country">Type your country: <span class="form-required" title="This field is required.">*</span></label>
+ <select name="submitted[country]" tabindex="4" label="country" class="form-select required" id="edit-submitted-country" ><option value="" selected="selected"></option><option value="AF">Afghanistan</option><option value="AL">Albania</option><option value="DZ">Algeria</option><option value="AS">American Samoa</option><option value="AD">Andorra</option><option value="AO">Angola</option><option value="AI">Anguilla</option><option value="AQ">Antarctica</option><option value="AG">Antigua and Barbuda</option><option value="AR">Argentina</option><option value="AM">Armenia</option><option value="AW">Aruba</option><option value="AU">Australia</option><option value="AT">Austria</option><option value="AZ">Azerbaijan</option><option value="BS">Bahamas</option><option value="BH">Bahrain</option><option value="BD">Bangladesh</option><option value="BB">Barbados</option><option value="BY">Belarus</option><option value="BE">Belgium</option><option value="BZ">Belize</option><option value="BJ">Benin</option><option value="BM">Bermuda</option><option value="BT">Bhutan</option><option value="BO">Bolivia</option><option value="BA">Bosnia and Herzegovina</option><option value="BW">Botswana</option><option value="BV">Bouvet Island</option><option value="BR">Brazil</option><option value="IO">British Indian Ocean Territory</option><option value="BN">Brunei Darussalam</option><option value="BG">Bulgaria</option><option value="BF">Burkina Faso</option><option value="BI">Burundi</option><option value="KH">Cambodia</option><option value="CM">Cameroon</option><option value="CA">Canada</option><option value="CV">Cape Verde</option><option value="KY">Cayman Islands</option><option value="CF">Central African Republic</option><option value="TD">Chad</option><option value="CL">Chile</option><option value="CN">China</option><option value="CX">Christmas Island</option><option value="CC">Cocos (Keeling) Islands</option><option value="CO">Colombia</option><option value="KM">Comoros</option><option value="CG">Congo</option><option value="CD">Congo, the Democratic Republic of the</option><option value="CK">Cook Islands</option><option value="CR">Costa Rica</option><option value="CI">Cote D&#039;Ivoire</option><option value="HR">Croatia</option><option value="CU">Cuba</option><option value="CY">Cyprus</option><option value="CZ">Czech Republic</option><option value="DK">Denmark</option><option value="DJ">Djibouti</option><option value="DM">Dominica</option><option value="DO">Dominican Republic</option><option value="EC">Ecuador</option><option value="EG">Egypt</option><option value="SV">El Salvador</option><option value="GQ">Equatorial Guinea</option><option value="ER">Eritrea</option><option value="EE">Estonia</option><option value="ET">Ethiopia</option><option value="FK">Falkland Islands (Malvinas)</option><option value="FO">Faroe Islands</option><option value="FJ">Fiji</option><option value="FI">Finland</option><option value="FR">France</option><option value="GF">French Guiana</option><option value="PF">French Polynesia</option><option value="TF">French Southern Territories</option><option value="GA">Gabon</option><option value="GM">Gambia</option><option value="GE">Georgia</option><option value="DE">Germany</option><option value="GH">Ghana</option><option value="GI">Gibraltar</option><option value="GR">Greece</option><option value="GL">Greenland</option><option value="GD">Grenada</option><option value="GP">Guadeloupe</option><option value="GU">Guam</option><option value="GT">Guatemala</option><option value="GN">Guinea</option><option value="GW">Guinea-Bissau</option><option value="GY">Guyana</option><option value="HT">Haiti</option><option value="HM">Heard Island and Mcdonald Islands</option><option value="VA">Holy See (Vatican City State)</option><option value="HN">Honduras</option><option value="HK">Hong Kong</option><option value="HU">Hungary</option><option value="IS">Iceland</option><option value="IN">India</option><option value="ID">Indonesia</option><option value="IR">Iran, Islamic Republic of</option><option value="IQ">Iraq</option><option value="IE">Ireland</option><option value="IL">Israel</option><option value="IT">Italy</option><option value="JM">Jamaica</option><option value="JP">Japan</option><option value="JO">Jordan</option><option value="KZ">Kazakhstan</option><option value="KE">Kenya</option><option value="KI">Kiribati</option><option value="KP">Korea, Democratic People&#039;s Republic of</option><option value="KR">Korea, Republic of</option><option value="KW">Kuwait</option><option value="KG">Kyrgyzstan</option><option value="LA">Lao People&#039;s Democratic Republic</option><option value="LV">Latvia</option><option value="LB">Lebanon</option><option value="LS">Lesotho</option><option value="LR">Liberia</option><option value="LY">Libya</option><option value="LI">Liechtenstein</option><option value="LT">Lithuania</option><option value="LU">Luxembourg</option><option value="MO">Macao</option><option value="MK">Macedonia, the Former Yugoslav Republic of</option><option value="MG">Madagascar</option><option value="MW">Malawi</option><option value="MY">Malaysia</option><option value="MV">Maldives</option><option value="ML">Mali</option><option value="MT">Malta</option><option value="MH">Marshall Islands</option><option value="MQ">Martinique</option><option value="MR">Mauritania</option><option value="MU">Mauritius</option><option value="YT">Mayotte</option><option value="MX">Mexico</option><option value="FM">Micronesia, Federated States of</option><option value="MD">Moldova, Republic of</option><option value="MC">Monaco</option><option value="MN">Mongolia</option><option value="ME">Montenegro</option><option value="MS">Montserrat</option><option value="MA">Morocco</option><option value="MZ">Mozambique</option><option value="MM">Myanmar</option><option value="NA">Namibia</option><option value="NR">Nauru</option><option value="NP">Nepal</option><option value="NL">Netherlands</option><option value="AN">Netherlands Antilles</option><option value="NC">New Caledonia</option><option value="NZ">New Zealand</option><option value="NI">Nicaragua</option><option value="NE">Niger</option><option value="NG">Nigeria</option><option value="NU">Niue</option><option value="NF">Norfolk Island</option><option value="MP">Northern Mariana Islands</option><option value="NO">Norway</option><option value="OM">Oman</option><option value="PK">Pakistan</option><option value="PW">Palau</option><option value="PS">Palestinian Territory, Occupied</option><option value="PA">Panama</option><option value="PG">Papua New Guinea</option><option value="PY">Paraguay</option><option value="PE">Peru</option><option value="PH">Philippines</option><option value="PN">Pitcairn</option><option value="PL">Poland</option><option value="PT">Portugal</option><option value="PR">Puerto Rico</option><option value="QA">Qatar</option><option value="RE">Reunion</option><option value="RO">Romania</option><option value="RU">Russian Federation</option><option value="RW">Rwanda</option><option value="SH">Saint Helena</option><option value="KN">Saint Kitts and Nevis</option><option value="LC">Saint Lucia</option><option value="PM">Saint Pierre and Miquelon</option><option value="VC">Saint Vincent and the Grenadines</option><option value="WS">Samoa</option><option value="SM">San Marino</option><option value="ST">Sao Tome and Principe</option><option value="SA">Saudi Arabia</option><option value="SN">Senegal</option><option value="RS">Serbia</option><option value="SC">Seychelles</option><option value="SL">Sierra Leone</option><option value="SG">Singapore</option><option value="SK">Slovakia</option><option value="SI">Slovenia</option><option value="SB">Solomon Islands</option><option value="SO">Somalia</option><option value="ZA">South Africa</option><option value="GS">South Georgia and the South Sandwich Islands</option><option value="ES">Spain</option><option value="LK">Sri Lanka</option><option value="SD">Sudan</option><option value="SR">Suriname</option><option value="SJ">Svalbard and Jan Mayen</option><option value="SZ">Swaziland</option><option value="SE">Sweden</option><option value="CH">Switzerland</option><option value="SY">Syrian Arab Republic</option><option value="TW">Taiwan, Province of China</option><option value="TJ">Tajikistan</option><option value="TZ">Tanzania, United Republic of</option><option value="TH">Thailand</option><option value="TL">Timor-Leste</option><option value="TG">Togo</option><option value="TK">Tokelau</option><option value="TO">Tonga</option><option value="TT">Trinidad and Tobago</option><option value="TN">Tunisia</option><option value="TR">Turkey</option><option value="TM">Turkmenistan</option><option value="TC">Turks and Caicos Islands</option><option value="TV">Tuvalu</option><option value="UG">Uganda</option><option value="UA">Ukraine</option><option value="AE">United Arab Emirates</option><option value="GB">United Kingdom</option><option value="US">United States</option><option value="UM">United States Minor Outlying Islands</option><option value="UY">Uruguay</option><option value="UZ">Uzbekistan</option><option value="VU">Vanuatu</option><option value="VE">Venezuela</option><option value="VN">Viet Nam</option><option value="VG">Virgin Islands, British</option><option value="VI">Virgin Islands, U.s.</option><option value="WF">Wallis and Futuna</option><option value="EH">Western Sahara</option><option value="YE">Yemen</option><option value="ZM">Zambia</option><option value="ZW">Zimbabwe</option></select>
+</div>
+</div></div><div class = "form-footer"><p>Your privacy is important to us, and your personal information will be protected. Read our <a href = '/privacy' tabindex='-1'>Privacy Policy.</a> By signing up, you are accepting our <a href='/terms' tabindex='-2'>Terms & Conditions.</a></p><input type="hidden" name="details[sid]" id="edit-details-sid" value=""  />
+<input type="hidden" name="details[page_num]" id="edit-details-page-num" value="1"  />
+<input type="hidden" name="details[page_count]" id="edit-details-page-count" value="1"  />
+<input type="hidden" name="details[finished]" id="edit-details-finished" value="0"  />
+<input type="hidden" name="form_build_id" id="form-F_y_4XrlzxoPrjIzaH5icCRtNMF5-pKuUc4qiKNBSlE" value="form-F_y_4XrlzxoPrjIzaH5icCRtNMF5-pKuUc4qiKNBSlE"  />
+<input type="hidden" name="form_id" id="edit-webform-client-form-593896" value="webform_client_form_593896"  />
+<div id="edit-actions" class="form-actions form-wrapper"><input type="submit" name="op" id="edit-submit" value="Sign Up"  tabindex="5" class="form-submit" />
+</div></div></div>
+</div></form>
+  </div>
+
+  
+  </div>
+<div class="panel-region-separator"></div><div class="panel-pane pane-custom pane-7"  id="follow-us-panel">
+  
+  
+  
+  <div class="pane-content">
+    <p><strong><em><span style="font-family:Georgia,serif; font-size:18px;">Follow us on social networks</span></em></strong></p>
+<table border="0" cellpadding="1" cellspacing="1" class="follow-us-table">
+<tbody>
+<tr>
+<td class="facebook"><fb:like href="https://www.facebook.com/WorldFoodProgramme" colorscheme="light" layout="box_count" action="like" show_faces="true"></fb:like></td>
+<td class="google">
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script><div class="g-follow" data-annotation="vertical-bubble" data-height="24" data-href="https://plus.google.com/114847020675987042570" data-rel="author">&nbsp;</div>
+</td>
+<td class="twitter"><a class="twitter-follow-button" data-lang="en" data-show-count="true" data-size="large" href="https://twitter.com/wfp">Follow @WFP</a> 
+<script type="text/javascript" charset="utf-8">
+    window.twttr = (function (d,s,id) {
+      var t, js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+      js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+      return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+    }(document, "script", "twitter-wjs"));
+  </script></td></tr>
+</tbody>
+</table>
+  </div>
+
+  
+  </div>
+	  </div>
+	  <div class="clear"></div>
+  </div>
+  
+  <div id="break-1-container">
+  	<div class="container-12">
+  	  <div class="panel-panel grid-4 left">
+  	  	<div class="panel-pane pane-custom pane-2" >
+  
+  
+  
+  <div class="pane-content">
+    <h2><span>Photo</span> galleries</h2>
+  </div>
+
+  
+  </div>
+<div class="panel-region-separator"></div><div class="panel-pane pane-views pane-hp-content"  id="photo_gallery">
+  
+  
+  
+  <div class="pane-content">
+    <div class="view view-hp-content view-id-hp_content view-display-id-block_2 view-dom-id-2">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    <div class="photo_gallery_list_item clearfix">
+
+  <a href="/photos/gallery/pledgeforparity"><img src="http://www.wfp.org/sites/default/files/imagecache/123x82/1200_A1_5525.jpg" alt="See WFP&amp;#039;s Food Assistance Projects in Gaza and the West Bank" title=""  class="imagecache imagecache-123x82" width="123" height="82" /></a>  <div class="date">5 July 2016</div><!--/date-->
+  <div class="title"><a href="/photos/gallery/pledgeforparity">See WFP&#039;s Food Assistance Projects in Gaza and the West Bank</a></div>
+</div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+    <div class="photo_gallery_list_item clearfix">
+
+  <a href="/photos/gallery/short-stories-school-meals-programme-sri-lanka"><img src="http://www.wfp.org/sites/default/files/imagecache/123x82/Picture%204_0.jpg" alt="WFP School Meals Programme in Sri Lanka - Short Stories " title=""  class="imagecache imagecache-123x82" /></a>  <div class="date">9 May 2016</div><!--/date-->
+  <div class="title"><a href="/photos/gallery/short-stories-school-meals-programme-sri-lanka">WFP School Meals Programme in Sri Lanka - Short Stories </a></div>
+</div>  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+    <div class="photo_gallery_list_item clearfix">
+
+  <a href="/photos/gallery/WFPinDPRK"><img src="http://www.wfp.org/sites/default/files/imagecache/123x82/DPRK_Russia%20Colin%20Kampschoer%20%288%201%29.jpg" alt="Meeting Nutrition Needs In DPR Korea" title=""  class="imagecache imagecache-123x82" /></a>  <div class="date">16 March 2016</div><!--/date-->
+  <div class="title"><a href="/photos/gallery/WFPinDPRK">Meeting Nutrition Needs In DPR Korea</a></div>
+</div>  </div>
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <p><a href="/photos">View more photo galleries &raquo;</a></p>
+    </div>
+  
+  
+</div>   </div>
+
+  
+  </div>
+  	  </div>
+  	  <div class="panel-panel grid-4 center latest-videos">
+  	  	<div class="panel-pane pane-custom pane-1" >
+  
+  
+  
+  <div class="pane-content">
+    <h2>Latest<span> videos</span></h2>
+  </div>
+
+  
+  </div>
+<div class="panel-region-separator"></div><div class="panel-pane pane-views pane-hp-content"  id="video-gallery">
+  
+  
+  
+  <div class="pane-content">
+    <div class="view view-hp-content view-id-hp_content view-display-id-block_3 view-dom-id-1">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    	<a href="/videos/humanitarian-convoys-reach-last-two-besieged-areas-syria-media"><img src="http://www.wfp.org/sites/default/files/imagecache/225x125/Capture_119.JPG" alt="Humanitarian Convoys Reach Last Two Besieged Areas in Syria (For The Media)" title="" class="imagecache imagecache-225x125 imagecache-default imagecache-225x125_default" width="225" height="125"></a><div class="video-footer-content">
+  <div class="date">4 July 2016</div><!--/date-->
+  <div class="title"><a href="/videos/humanitarian-convoys-reach-last-two-besieged-areas-syria-media">Humanitarian Convoys Reach Last Two Besieged Areas in Sy ...</a></div>
+</div>  </div>
+  <div class="views-row views-row-2 views-row-even views-row-last">
+    	<a href="/videos/focus-zero-hunger-syria-wfp-delivers-food-beseiged-city-modamiyeh"><img src="http://www.wfp.org/sites/default/files/imagecache/225x125/focus on syria.PNG" alt="Focus On Zero Hunger: Syria, WFP Delivers Food To Beseiged City Of Modamiyeh" title="" class="imagecache imagecache-225x125 imagecache-default imagecache-225x125_default" width="225" height="125"></a><div class="video-footer-content">
+  <div class="date">19 February 2016</div><!--/date-->
+  <div class="title"><a href="/videos/focus-zero-hunger-syria-wfp-delivers-food-beseiged-city-modamiyeh">Focus On Zero Hunger: Syria, WFP Delivers Food To Beseig ...</a></div>
+</div>  </div>
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <p><a href="/videos">Watch more videos &raquo;</a></p>
+    </div>
+  
+  
+</div>   </div>
+
+  
+  </div>
+  	  </div>
+  	  <div class="panel-panel grid-4 right">
+  	  	<div class="panel-pane pane-custom pane-3" >
+  
+  
+  
+  <div class="pane-content">
+    <h2>WFP and&nbsp;<span>Zero Hunger</span></h2>
+  </div>
+
+  
+  </div>
+<div class="panel-region-separator"></div><div class="panel-pane pane-custom pane-4" >
+  
+  
+  
+  <div class="pane-content">
+    <p><em style="color: rgb(99, 99, 99); font-family: Georgia, serif; font-size: 15px;">Hunger can be eliminated in our lifetimes. See what we&#39;re doing&nbsp;to make it happen.</em></p>
+<div style="margin-top: 32px;"><!-- VIDEO FILTER - source:  643353 --><a  href="http://content.jwplatform.com/videos/McmGnd05-owG8ISvN.mp4"  style="display:block;width:345px;height:194px;" id="video-player-50804664572d9a8b7dc965853537706d"> </a><script>function restartVideo() { flowplayer("video-player-50804664572d9a8b7dc965853537706d").getPlugin("myContent").hide(); $f("video-player-50804664572d9a8b7dc965853537706d").play(); }; $f("video-player-50804664572d9a8b7dc965853537706d", {src: "//d2z2hh3whwc4ml.cloudfront.net/libraries/flowplayer3/flowplayer.commercial-3.2.5.swf", wmode: "transparent"}, { key: "#$e68a99b28131bfd4ba2", logo: { url: "//d2z2hh3whwc4ml.cloudfront.net/libraries/flowplayer3/images/wfp.png", fullscreenOnly: true, displayTime: 2000 }, canvas: { backgroundGradient: "none", background: "#000000 url(http://www.wfp.org/sites/default/files/1in92.JPG) no-repeat 50pct 50pct" }, clip: { autoPlay: false, scaling: "scale" }, plugins: { controls: { url: "//d2z2hh3whwc4ml.cloudfront.net/libraries/flowplayer3/plugins/flowplayer.controls-3.2.3.swf", volume: false, time: false, opacity: 1.0, backgroundColor: "#221E1E", backgroundGradient: "none", scrubberBarHeightRatio: 1.0, progressColor: "#0192FF", bufferColor: "#333333", sliderBorder: "none" }, viral: { url: "//d2z2hh3whwc4ml.cloudfront.net/libraries/flowplayer3/plugins/flowplayer.viralvideos-3.2.3.swf", embed: {anchorText: "", linkUrl : "http://www.wfp.org" } }, myContent: { url: "//d2z2hh3whwc4ml.cloudfront.net/libraries/flowplayer3/plugins/flowplayer.content-3.2.0.swf", top: 0, width: 345, height: 194, borderRadius: 0, border: false, display: "none", onClick: function() { this.hide(); } }, gatracker: { url: "//d2z2hh3whwc4ml.cloudfront.net/libraries/flowplayer3/plugins/flowplayer.analytics-3.2.1.swf", labels: { start: "Start", play: "Play", pause: "Pause", resume: "Resume", seek: "Seek", stop: "Stop", finish: "Finish", mute: "Mute", unmute: "Unmute", fullscreen: "Full Screen", fullscreenexit: "Full Screen Exit" }, trackingMode: "AS3", googleId: "UA-2556524-1" } } } ).ipad(); </script></div>
+  </div>
+
+  
+  </div>
+  	  </div>
+	  <div class="clear"></div>
+  	</div>
+  </div>
+	
+  <div id="content-2-container" class="our-work container-12">
+      <div class="panel-panel grid-12 top">
+        <div class="panel-pane pane-custom pane-8" >
+  
+  
+  
+  <div class="pane-content">
+    <h2>Our<span> work</span></h2>
+  </div>
+
+  
+  </div>
+<div class="panel-region-separator"></div><div class="panel-pane pane-custom pane-9" >
+  
+  
+  
+  <div class="pane-content">
+    <div class="container-12">
+   <!-- First row -->
+  <div class="grid-16 alpha omega row-first">
+    <div class="grid-3 ourwork-col school-meals alpha omega" id="school-meals">
+      <a href="/school-meals?icn=homepage-school-meals&amp;ici=ourwork-link">
+       <span class="our-work-image"></span>
+       <span class="caption">School Meals</span>
+      </a>
+    </div>
+
+     <div class="grid-3 ourwork-col nutrition alpha omega" id="nutrition">
+      <a href="/nutrition?icn=homepage-nutrition&ici=ourwork-link">
+       <span class="our-work-image"></span>
+       <span class="caption">Nutrition</span>
+      </a>
+    </div>
+
+     <div class="grid-3 ourwork-col cash-and-vouchers alpha omega" id="cash-and-vouchers">
+      <a href="/cash-and-vouchers?icn=homepage-cash-vouchers&ici=ourwork-link">
+       <span class="our-work-image"></span>
+       <span class="caption">Cash and Vouchers</span>
+      </a>
+    </div>
+
+     <div class="grid-3 ourwork-col purchase-for-progress alpha omega" id="purchase-for-progress">
+      <a href="/purchase-progress?icn=homepage-p4p&ici=ourwork-link">
+       <span class="our-work-image"></span>
+       <span class="caption">Purchase for Progress</span>
+      </a>
+    </div>
+  </div> 
+   <!-- Last row -->
+  <div class="grid-16 alpha omega row-last">
+    <div class="grid-3 ourwork-col procurement alpha omega" id="procurement">
+      <a href="/procurement?icn=homepage-procurement&ici=ourwork-link">
+       <span class="our-work-image"></span>
+       <span class="caption">Procurement</span>
+      </a>
+    </div>
+
+     <div class="grid-3 ourwork-col focus-on-women alpha omega" id="focus-on-women">
+      <a href="/focus-on-women?icn=homepage-focus-on-women&ici=ourwork-link">
+       <span class="our-work-image"></span>
+       <span class="caption">Focus on women</span>
+      </a>
+    </div>
+
+     <div class="grid-3 ourwork-col logistics alpha omega" id="logistics">
+      <a href="/logistics?icn=homepage-logistics&ici=ourwork-link">
+       <span class="our-work-image"></span>
+       <span class="caption">Logistics</span>
+      </a>
+    </div>
+
+     <div class="grid-3 ourwork-col food-security-analysis alpha omega" id="food-security-analysis">
+      <a href="/food-security?icn=homepage-food-security&ici=ourwork-link">
+       <span class="our-work-image"></span>
+       <span class="caption">Food Security Analysis</span>
+      </a>
+    </div>
+  </div>
+   
+</div>
+  </div>
+
+  
+  </div>
+      </div>
+	  <div class="clear"></div>
+  </div>  
+  
+  <div class="clear"></div>
+       
+</div>
+</div>
+
+<div class="footer-minimal">
+  <div class="footer-top container-12 clearfix">
+    <div class="social-media float-left grid-8 clearfix">
+      <h3 class="title">Follow World Food Programme on social networks</h3>
+      <div style="font-size:1.5em;">
+        <a href="https://twitter.com/WFP" style="margin-right: 0.5em;">Twitter</a>
+        <a href="https://www.facebook.com/WorldFoodProgramme" style="margin-right: 0.5em;">Facebook</a>
+        <a href="https://www.instagram.com/worldfoodprogramme_official/" style="margin-right: 0.5em;">Instagram</a>
+        <a href="https://www.linkedin.com/company/world-food-programme" style="margin-right: 0.5em;">LinkedIn</a>
+        <a href="https://plus.google.com/+WorldFoodProgramme">Google+</a>
+      </div>
+    </div>
+    <div class="logo grid-4 float-right">
+      <p><img src="/sites/default/themes/wfp/images/logos/wfp_logo_dark.png" class="logo-dark" alt="UN World Food Programme"></p>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <div class="container-12 clearfix">
+      <div class="copyrights grid-4 float-left">2016 &copy; World Food Programme</div>
+      <div class="site-links grid-8 float-right">
+                    <ul class="inline-list">
+          <li>
+            <a href="https://www.wfp.org/donate?lead_source=2014-wfp-donatefooter&amp;form_tag=2014-wfp-donatefooter">Donate</a>            </li>
+          <li><a href="/privacy">Privacy</a></li>
+          <li><a href="/terms">Terms of Use</a></li>
+          <li><a href="http://executiveboard.wfp.org">Executive Board</a></li>
+          <li><a href="http://wfpalumni.wfp.org">WFP Alumni</a></li>
+                    	<li><a href="http://m.wfp.org/home?device=mobile" rel="nofollow">Mobile Site</a></li>
+                  </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+    <script async defer src="//survey.g.doubleclick.net/async_survey?site=mhzbo2uxx7lryt6w7yms3ca3gm"></script>
+  </body>
+</html>

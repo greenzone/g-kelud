@@ -1,0 +1,301 @@
+<html>
+  <head>
+    <title>InaTEWS ShakeMap: Estimated Instrumental Intensity</title>
+    <link rel="stylesheet" type="text/css" href="../lib/style.css">
+    <script language="javascript" src="../lib/eventmap.js"></script>
+  </head>
+  
+  <body bgcolor="white" onUnload="cleanup()">
+    
+        <!-- Begin Tab Header -->
+    <table width="100%" border="0" cellspacing="0" cellpadding="7">
+      <tr>
+	<td bgcolor="ffff99" align="center">
+	  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+	    <tr> 
+	      <td width="1%" background="../icons/header/tab-begin-lav.gif">&nbsp;</td>
+	      <td width="99%"> 
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+		  
+		</table>
+	      </td>
+	    </tr>
+	    <tr> 
+	      <td width="1%" bgcolor="#99cccc">&nbsp;</td>
+	      <td width="99%" bgcolor="#99cccc"> 
+		<table border="0" cellspacing="0" cellpadding="3" width="100%">
+		  <tr> 
+		    <td align="center"> 
+		      <div class="eventbar">EVENT ON<br>
+		        11-05-2015 22:45:09
+		      </div>		    </td>
+		    <td><img src="/gambar/arrow-loc-yellow.gif"></td>
+		    <td align="left">
+		      <table border="0" cellpadding="5">
+			<tr>
+			  
+			  <td bgcolor="#ccccff" align="center">
+			    <div class="eventbar">Instrumental<br>Intensity</div>			  </td>
+			  
+			  <td><div class="eventbar">|</div></td>
+			  
+			  <td align="center">
+			    <a href="pga.html" class="eventbar" onMouseOver="window.status='Map of Peak Ground Acceleration';return true">Peak Ground<br>Acceleration</a>			  </td>
+			  
+			  <td><div class="eventbar">|</div></td>
+			  
+			  <td align="center">
+			    <a href="pgv.html" class="eventbar" onMouseOver="window.status='Map of Peak Ground Velocity';return true">Peak Ground<br>Velocity</a>			  </td>
+			  
+			  
+			  <td><div class="eventbar">|</div></td>
+			  <td align="center">
+			    <a href="products.html" class="eventbar" onMouseOver="window.status='Download ShakeMap Products';return true">Download</a>			  </td>
+			</tr>
+		      </table>		    </td>
+		  </tr>
+		</table>
+	      </td>
+	    </tr>
+	    <tr> 
+	      <td width="1%" bgcolor="#9999cc"><spacer type="block" width="100%" height="1"></td>
+	      <td width="99%" bgcolor="#9999cc"><spacer type="block" width="100%" height="1"></td>
+	    </tr>
+	  </table>
+	</td>
+      </tr>
+    </table>
+    <!-- End Tab Header -->
+    
+
+
+    <table width="100%" border="0">
+      <tr>
+	<td align="center" valign="top"><img src="download/intensity.jpg" border="0" ismap usemap="#stations_key">
+	  <map name="stations_key">
+        <area shape="CIRCLE" 
+            coords="476,234,5"
+	    href="javascript:station('sEDW')"
+	    onMouseOver='window.status="(EDW) PGA: nan PGV: nan N34.88 W117.99"'>
+        <area shape="CIRCLE" 
+            coords="389,430,5"
+	    href="javascript:station('sSMS')"
+	    onMouseOver='window.status="(SMS) PGA: nan PGV: nan N34.01 W118.46"'>
+        <area shape="CIRCLE" 
+            coords="362,415,5"
+	    href="javascript:station('sTCF')"
+	    onMouseOver='window.status="(TCF) PGA: nan PGV: nan N34.08 W118.60"'>
+        <area shape="CIRCLE" 
+            coords="153,334,5"
+	    href="javascript:station('sSBC')"
+	    onMouseOver='window.status="(SBC) PGA: nan PGV: nan N34.44 W119.71"'>
+        <area shape="CIRCLE" 
+            coords="303,344,5"
+	    href="javascript:station('sFLL')"
+	    onMouseOver='window.status="(FLL) PGA: nan PGV: nan N34.40 W118.92"'>
+        <area shape="CIRCLE" 
+            coords="256,368,5"
+	    href="javascript:station('sSIO')"
+	    onMouseOver='window.status="(SIO) PGA: nan PGV: nan N34.29 W119.16"'>
+        <area shape="CIRCLE" 
+            coords="453,324,5"
+	    href="javascript:station('sVCS')"
+	    onMouseOver='window.status="(VCS) PGA: nan PGV: nan N34.48 W118.12"'>
+        <area shape="CIRCLE" 
+            coords="370,382,5"
+	    href="javascript:station('sNOT')"
+	    onMouseOver='window.status="(NOT) PGA: nan PGV: nan N34.23 W118.56"'>
+        <area shape="CIRCLE" 
+            coords="130,341,5"
+	    href="javascript:station('sUSB')"
+	    onMouseOver='window.status="(USB) PGA: nan PGV: nan N34.41 W119.84"'>
+        <area shape="CIRCLE" 
+            coords="418,407,5"
+	    href="javascript:station('sGR2')"
+	    onMouseOver='window.status="(GR2) PGA: nan PGV: nan N34.12 W118.30"'>
+        <area shape="CIRCLE" 
+            coords="534,434,5"
+	    href="javascript:station('sCHN')"
+	    onMouseOver='window.status="(CHN) PGA: nan PGV: nan N34.00 W117.68"'>
+        <area shape="CIRCLE" 
+            coords="460,422,5"
+	    href="javascript:station('sRUS')"
+	    onMouseOver='window.status="(RUS) PGA: nan PGV: nan N34.05 W118.08"'>
+        <area shape="CIRCLE" 
+            coords="231,344,5"
+	    href="javascript:station('sOKV')"
+	    onMouseOver='window.status="(OKV) PGA: nan PGV: nan N34.40 W119.30"'>
+        <area shape="CIRCLE" 
+            coords="421,429,5"
+	    href="javascript:station('sUSC')"
+	    onMouseOver='window.status="(USC) PGA: nan PGV: nan N34.02 W118.29"'>
+        <area shape="CIRCLE" 
+            coords="268,129,5"
+	    href="javascript:station('sBAK')"
+	    onMouseOver='window.status="(BAK) PGA: nan PGV: nan N35.34 W119.10"'>
+        <area shape="CIRCLE" 
+            coords="408,390,5"
+	    href="javascript:station('sBBA')"
+	    onMouseOver='window.status="(BBA) PGA: nan PGV: nan N34.20 W118.35"'>
+        <area shape="CIRCLE" 
+            coords="478,410,5"
+	    href="javascript:station('sRIO')"
+	    onMouseOver='window.status="(RIO) PGA: nan PGV: nan N34.10 W117.98"'>
+        <area shape="CIRCLE" 
+            coords="404,434,5"
+	    href="javascript:station('sLCG')"
+	    onMouseOver='window.status="(LCG) PGA: nan PGV: nan N34.00 W118.38"'>
+        <area shape="CIRCLE" 
+            coords="390,410,5"
+	    href="javascript:station('sDJJ')"
+	    onMouseOver='window.status="(DJJ) PGA: nan PGV: nan N34.11 W118.45"'>
+        <area shape="CIRCLE" 
+            coords="305,370,5"
+	    href="javascript:station('sMOP')"
+	    onMouseOver='window.status="(MOP) PGA: nan PGV: nan N34.28 W118.90"'>
+        <area shape="CIRCLE" 
+            coords="400,416,5"
+	    href="javascript:station('sBVH')"
+	    onMouseOver='window.status="(BVH) PGA: nan PGV: nan N34.08 W118.40"'>
+        <area shape="CIRCLE" 
+            coords="335,372,5"
+	    href="javascript:station('sSMV')"
+	    onMouseOver='window.status="(SMV) PGA: nan PGV: nan N34.27 W118.74"'>
+        <area shape="CIRCLE" 
+            coords="366,334,5"
+	    href="javascript:station('sPDE')"
+	    onMouseOver='window.status="(PDE) PGA: nan PGV: nan N34.44 W118.58"'>
+        <area shape="CIRCLE" 
+            coords="418,278,5"
+	    href="javascript:station('sALP')"
+	    onMouseOver='window.status="(ALP) PGA: nan PGV: nan N34.69 W118.30"'>
+        <area shape="CIRCLE" 
+            coords="252,365,5"
+	    href="javascript:station('sSTC')"
+	    onMouseOver='window.status="(STC) PGA: nan PGV: nan N34.30 W119.19"'>
+        <area shape="CIRCLE" 
+            coords="397,446,5"
+	    href="javascript:station('sLAX')"
+	    onMouseOver='window.status="(LAX) PGA: nan PGV: nan N33.94 W118.41"'>
+        <area shape="CIRCLE" 
+            coords="489,446,5"
+	    href="javascript:station('sOLI')"
+	    onMouseOver='window.status="(OLI) PGA: nan PGV: nan N33.95 W117.92"'>
+        <area shape="CIRCLE" 
+            coords="390,340,5"
+	    href="javascript:station('sSOT')"
+	    onMouseOver='window.status="(SOT) PGA: nan PGV: nan N34.42 W118.45"'>
+        <area shape="CIRCLE" 
+            coords="496,500,5"
+	    href="javascript:station('sSAN')"
+	    onMouseOver='window.status="(SAN) PGA: nan PGV: nan N33.70 W117.89"'>
+        <area shape="CIRCLE" 
+            coords="418,407,5"
+	    href="javascript:station('sGRF')"
+	    onMouseOver='window.status="(GRF) PGA: nan PGV: nan N34.12 W118.30"'>
+        <area shape="CIRCLE" 
+            coords="331,401,5"
+	    href="javascript:station('sAGO')"
+	    onMouseOver='window.status="(AGO) PGA: nan PGV: nan N34.15 W118.77"'>
+        <area shape="CIRCLE" 
+            coords="465,383,5"
+	    href="javascript:station('sMWC')"
+	    onMouseOver='window.status="(MWC) PGA: nan PGV: nan N34.22 W118.05"'>
+        <area shape="CIRCLE" 
+            coords="437,481,5"
+	    href="javascript:station('sSTS')"
+	    onMouseOver='window.status="(STS) PGA: nan PGV: nan N33.79 W118.20"'>
+        <area shape="CIRCLE" 
+            coords="489,462,5"
+	    href="javascript:station('sFUL')"
+	    onMouseOver='window.status="(FUL) PGA: nan PGV: nan N33.87 W117.92"'>
+        <area shape="CIRCLE" 
+            coords="456,400,5"
+	    href="javascript:station('sKIK')"
+	    onMouseOver='window.status="(KIK) PGA: nan PGV: nan N34.15 W118.10"'>
+        <area shape="CIRCLE" 
+            coords="321,398,5"
+	    href="javascript:station('sTOV')"
+	    onMouseOver='window.status="(TOV) PGA: nan PGV: nan N34.16 W118.82"'>
+        <area shape="CIRCLE" 
+            coords="514,472,5"
+	    href="javascript:station('sSRN')"
+	    onMouseOver='window.status="(SRN) PGA: nan PGV: nan N33.83 W117.79"'>
+        <area shape="CIRCLE" 
+            coords="510,420,5"
+	    href="javascript:station('sCPP')"
+	    onMouseOver='window.status="(CPP) PGA: nan PGV: nan N34.06 W117.81"'>
+        <area shape="CIRCLE" 
+            coords="275,409,5"
+	    href="javascript:station('sLGU')"
+	    onMouseOver='window.status="(LGU) PGA: nan PGV: nan N34.11 W119.07"'>
+        <area shape="CIRCLE" 
+            coords="339,295,5"
+	    href="javascript:station('sOSI')"
+	    onMouseOver='window.status="(OSI) PGA: nan PGV: nan N34.61 W118.72"'>
+        <area shape="CIRCLE" 
+            coords="535,348,5"
+	    href="javascript:station('sTA2')"
+	    onMouseOver='window.status="(TA2) PGA: nan PGV: nan N34.38 W117.68"'>
+        <area shape="CIRCLE" 
+            coords="534,98,5"
+	    href="javascript:station('sLRL')"
+	    onMouseOver='window.status="(LRL) PGA: nan PGV: nan N35.48 W117.68"'>
+        <area shape="CIRCLE" 
+            coords="443,400,5"
+	    href="javascript:station('sPAS')"
+	    onMouseOver='window.status="(PAS) PGA: nan PGV: nan N34.15 W118.17"'>
+        <area shape="CIRCLE" 
+            coords="470,358,5"
+	    href="javascript:station('sCHF')"
+	    onMouseOver='window.status="(CHF) PGA: nan PGV: nan N34.33 W118.03"'>
+        <area shape="CIRCLE" 
+            coords="367,280,5"
+	    href="javascript:station('sBTP')"
+	    onMouseOver='window.status="(BTP) PGA: nan PGV: nan N34.68 W118.57"'>
+        <area shape="CIRCLE" 
+            coords="507,295,5"
+	    href="javascript:station('sLKL')"
+	    onMouseOver='window.status="(LKL) PGA: nan PGV: nan N34.62 W117.82"'>
+        <area shape="CIRCLE" 
+            coords="385,370,5"
+	    href="javascript:station('sRIN')"
+	    onMouseOver='window.status="(RIN) PGA: nan PGV: nan N34.28 W118.48"'>
+        <area shape="CIRCLE" 
+            coords="380,364,5"
+	    href="javascript:station('sJFP')"
+	    onMouseOver='window.status="(JFP) PGA: nan PGV: nan N34.31 W118.50"'>
+        <area shape="CIRCLE" 
+            coords="504,481,5"
+	    href="javascript:station('sOGC')"
+	    onMouseOver='window.status="(OGC) PGA: nan PGV: nan N33.79 W117.84"'>
+        <area shape="CIRCLE" 
+            coords="476,316,5"
+	    href="javascript:station('sLTR')"
+	    onMouseOver='window.status="(LTR) PGA: nan PGV: nan N34.52 W117.99"'>
+        <area shape="CIRCLE" 
+            coords="484,431,5"
+	    href="javascript:station('sWLT')"
+	    onMouseOver='window.status="(WLT) PGA: nan PGV: nan N34.01 W117.95"'>
+        <area shape="CIRCLE" 
+            coords="420,295,5"
+	    href="javascript:station('sLEV')"
+	    onMouseOver='window.status="(LEV) PGA: nan PGV: nan N34.61 W118.29"'>
+        <area shape="CIRCLE" 
+            coords="399,491,5"
+	    href="javascript:station('sRPV')"
+	    onMouseOver='window.status="(RPV) PGA: nan PGV: nan N33.74 W118.40"'>
+        <area name="quake" shape="CIRCLE"
+            coords="306,307,7"
+            href="javascript:quake()"
+            onMouseOver='window.status="Epicenter: N34.56 W118.90 M=6.9"'>
+        <area name="intensity" shape="RECT" 
+           coords="45,572,548,593"
+ 	   href="http://www.abag.ca.gov/bayarea/eqmaps/doc/mmi.html"
+	   onMouseOver='window.status="About Intensities"'>
+      </map></td>
+      </tr>
+    </table>
+    
+</body>
+</html>

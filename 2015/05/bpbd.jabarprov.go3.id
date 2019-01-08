@@ -1,0 +1,1335 @@
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns#" xml:lang="en-gb" lang="en-gb" dir="ltr">
+<head>
+  <base href="http://bpbd.jabarprov.go.id/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <title>BPBD Provinsi Jawa Barat</title>
+  <link href="/index.php?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/index.php?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <link href="/templates/dailynews/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="/components/com_k2/css/k2.css" type="text/css" />
+  <link rel="stylesheet" href="http://bpbd.jabarprov.go.id//modules/mod_yj_twitter/css/stylesheet.css" type="text/css" />
+  <link rel="stylesheet" href="http://bpbd.jabarprov.go.id/modules/mod_yjme/css/stylesheet.css" type="text/css" />
+  <link rel="stylesheet" href="http://bpbd.jabarprov.go.id/modules/mod_yjnf4/css/stylesheet.css" type="text/css" />
+  <link rel="stylesheet" href="http://bpbd.jabarprov.go.id/modules/mod_yj_media_slider/css/stylesheet.css" type="text/css" />
+  <link rel="stylesheet" href="http://bpbd.jabarprov.go.id/modules/mod_yjtt30/css/stylesheet.css" type="text/css" />
+  <link rel="stylesheet" href="http://bpbd.jabarprov.go.id/modules/mod_yj_live_search/css/stylesheet.css" type="text/css" />
+  <link rel="stylesheet" href="http://bpbd.jabarprov.go.id/templates/dailynews/css_compiled/bootstrap-flame.css" type="text/css" />
+  <link rel="stylesheet" href="http://bpbd.jabarprov.go.id/templates/dailynews/css/template.css" type="text/css" />
+  <link rel="stylesheet" href="http://bpbd.jabarprov.go.id/templates/dailynews/css/flame.css" type="text/css" />
+  <link rel="stylesheet" href="http://bpbd.jabarprov.go.id/templates/dailynews/css/yjresponsive.css" type="text/css" />
+  <link rel="stylesheet" href="http://bpbd.jabarprov.go.id/templates/dailynews/css/custom_responsive.css" type="text/css" />
+  <link rel="stylesheet" href="http://bpbd.jabarprov.go.id/templates/dailynews/css/fontfacekits/SegoeUI/stylesheet.css" type="text/css" />
+  <link rel="stylesheet" href="http://bpbd.jabarprov.go.id/templates/dailynews/css/video-js.min.css" type="text/css" />
+  <style type="text/css">
+body{font-size:14px;}.horiznav li li,.horiznav ul ul a, .horiznav li ul,.YJSG_listContainer{width:200px;}.horiznav li ul ul,.subul_main.group_holder ul.subul_main ul.subul_main, .subul_main.group_holder ul.subul_main ul.subul_main ul.subul_main, .subul_main.group_holder ul.subul_main ul.subul_main ul.subul_main ul.subul_main,.horiznav li li li:hover ul.dropline{margin-top: -32px!important;margin-left:95%!important;}a,.dyjme .yjme_item a.item_title:hover,.dyjme .item_details .item_cdate,.dyjnf4 .yjnewsflashu4 div.itemdetails .itemcategory,.dyjnf4 .yjnewsflashu4 a.itemtitle:hover,.dyjme2 a.item_title:hover,.dyjme2 .yjme_item.first a.item_title:hover,.dyjme2 .items_category a:hover,.dyjme3 a.item_title:hover,.dyjme3 .yjme_item.first a.item_title:hover,.dyjme3 .items_category a:hover,.dcomments div.k2LatestCommentsBlock ul li span.lcComment:hover,.dailynews_list li a:hover,a.subCategoryMore:hover,div.catItemHeader h3.catItemTitle a:hover,.tagView div.itemHeader h2.itemTitle a:hover,.userView div.itemHeader h3.itemTitle a:hover,h2.catItemTitle a:hover,.genericView h2.itemTitle a:hover,div.k2LatestCommentsBlock ul li span.lcComment:hover,.tempalte_readmore:hover,.yj1 .module_title,.yj1 .module_title span{color:#E25B32;}.top_menu ul.subul_main li a span.yjm_desc,.top_menu ul.subul_main li.has_module .yjsquare_in,.top_menu ul.subul_main li.has_modpoz .yjsquare_in,div.itemComments ul.itemCommentsList li span.commentDate,.top_menu ul li a span.yjm_desc{color:#f2b4a2;}.dtwitter.yj4:before{color:#e87f5f;}.LiveSearchResults,.LiveSearchResults .LiveSearchResult,.top_menu ul li a:hover,.top_menu li.active a.activepath,.top_menu ul.subul_main,.top_menu ul.subul_main li a,ul.subul_main.dropline.dlevel1 li.active a,ul.subul_main.dropline.dlevel1 li:hover a,.title_out,.dmediaslider .yjmediaslider .slide .slide-details .slide-title,.dmediaslider .yjmediaout .secondary-nav ul li a:hover,.dmediaslider .yjmediaout .secondary-nav ul li a.current,.dmediaslider .yjmediaslider .slide .slide-details .buttons .play-video,.dyjme .item_category,.yj2 .module_title,.dyjnf4 .yjnewsflashu4 .itemcdate,.dyjnf4 div.yjnf4_navigation .pagination_yjn_on,.dyjnf4 div.yjnf4_navigation .pagination_yjn:hover,.dyjme2 .yjme_item.first .item_cdate,.dyjme3 .yjme_item.first .item_cdate,.dyjme3 .yjme_item.first div.item_details,.yj4,.dtags div.k2TagCloudBlock a:hover,.yj_date,ul.catItemTags li a,div.itemTagsBlock ul.itemTags li a,.posted_comments,.button,.validate,a.readon,div.itemCommentsForm form input#submitCommentButton{background:#E25B32;}.top_menu ul.subul_main li a:hover,.top_menu ul.subul_main li a.activepath,ul.subul_main.dropline.level2 li a:hover,ul.subul_main.dropline.level2 li.active a,.dmediaslider .yjmediaslider .slide .slide-details .buttons .read-more{background:#e87f5f;}.yj2 .h2_holder,.dlivesearch .yj_inputbox:hover{border-color:#E25B32;}.inputbox:hover,.inputbox:focus,form#comment-form .inputbox:hover{border-color:#E25B32!important;}.LiveSearchResults .LiveSearchResult,.dlivesearch .yj_inputbox:focus,.top_menu ul.subul_main li a,span.separator,.dtwitter div.yj_twitter_cont,div.itemComments ul.itemCommentsList li img,h3.itemCommentsCounter{border-color:#e87f5f;}.yjsgsitew{width:1200px;}.yjsgheadergw{width:29.17%;}.yjmediasliderinstance98{width:480px;}.yjmediasliderinstance99{width:480px;}.yjmediasliderinstance97{width:710px;}
+  </style>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js" type="text/javascript"></script>
+  <script src="/components/com_k2/js/k2.js?v2.6.7&amp;sitepath=/" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+  <script src="/media/jui/js/bootstrap.min.js" type="text/javascript"></script>
+  <script src="http://bpbd.jabarprov.go.id/templates/dailynews/src/yjresponsive.js" type="text/javascript"></script>
+  <script src="http://bpbd.jabarprov.go.id/templates/dailynews/src/mouseover13.js" type="text/javascript"></script>
+  <script src="http://bpbd.jabarprov.go.id/templates/dailynews/src/sitescripts.js" type="text/javascript"></script>
+  <script src="http://bpbd.jabarprov.go.id/templates/dailynews/src/video-js/video.min.js" type="text/javascript"></script>
+  <script src="http://bpbd.jabarprov.go.id/templates/dailynews/src/video-js/vimeo.js" type="text/javascript"></script>
+  <script src="http://bpbd.jabarprov.go.id/templates/dailynews/src/video-js/youtube.js" type="text/javascript"></script>
+  <script src="http://bpbd.jabarprov.go.id/templates/dailynews/src/styles.js" type="text/javascript"></script>
+  <script src="http://bpbd.jabarprov.go.id/modules/mod_yjnf4/src/yjnf412.js" type="text/javascript"></script>
+  <script src="http://bpbd.jabarprov.go.id/modules/mod_yj_media_slider/src/jquery-noconflict.js" type="text/javascript"></script>
+  <script src="http://bpbd.jabarprov.go.id/modules/mod_yj_media_slider/src/jquery.mobile.touch-events.min.js" type="text/javascript"></script>
+  <script src="http://bpbd.jabarprov.go.id/modules/mod_yj_media_slider/src/jquery-ui-1.10.3.easing.min.js" type="text/javascript"></script>
+  <script src="http://bpbd.jabarprov.go.id/modules/mod_yj_media_slider/src/mod_yj_media_slider.jquery.min.js" type="text/javascript"></script>
+  <script src="http://bpbd.jabarprov.go.id/modules/mod_yjtt30/src/titleslide.js" type="text/javascript"></script>
+  <script src="http://bpbd.jabarprov.go.id/modules/mod_yj_live_search/script/YJLiveSearch.js" type="text/javascript"></script>
+  <script type="text/javascript">
+window.addEvent('load', function() {
+				new JCaption('img.caption');
+			});
+			window.addEvent('domready', function(){
+				new YJNF4({
+					overallContainer: 'YJ_NewsFlash4101',
+					slicesClass: '.yjnewsflash_slice101',
+					slicesContainer: 'YJ_NewsFlash4_Slices101'
+				});
+			})
+		
+				;(function($){
+					
+					$(window).load(function(){
+						
+						$('.yjmediasliderinstance98').YJ_MediaSlider({
+							pauseOnHover 	: true,			
+							animationDuration : 900,
+							animationType	: 'slide', 
+							animateChildren	: false,
+							dimlights		:1,
+							dimOpacity		:0.8,
+							navholder		:'#yjmediaout98'
+						});
+						
+					});
+					
+				})(jQuery);
+				  
+			  
+				;(function($){
+					
+					$(window).load(function(){
+						
+						$('.yjmediasliderinstance99').YJ_MediaSlider({
+							pauseOnHover 	: true,			
+							animationDuration : 900,
+							animationType	: 'fade', 
+							animateChildren	: false,
+							dimlights		:1,
+							dimOpacity		:0.8,
+							navholder		:'#yjmediaout99'
+						});
+						
+					});
+					
+				})(jQuery);
+				  
+			  
+				;(function($){
+					
+					$(window).load(function(){
+						
+						$('.yjmediasliderinstance97').YJ_MediaSlider({
+							pauseOnHover 	: true,			
+							animationDuration : 900,
+							animationType	: 'slide', 
+							animateChildren	: '.slide-details',
+							dimlights		:1,
+							dimOpacity		:0.8,
+							navholder		:'#yjmediaout97'
+						});
+						
+					});
+					
+				})(jQuery);
+				  
+			  
+			  window.addEvent('domready', function(){
+					  new YJLiveSearch({
+					  inputId:'defaultfeedLiveSearch', 
+					  inputCopy:' defaultfeed',
+					  resultFeed:'http://bpbd.jabarprov.go.id/modules/mod_yj_live_search/feeds/feed.php', 
+					  noResultsMessage:'Sorry, no results for&nbsp;', 
+					  topDistance:35, 
+					  duration:500,
+					  minLenght:3,
+					  maxLenght:10,
+					  minCharTxt1:'Minimum&nbsp;',
+					  minCharTxt2:'&nbsp;characters required'
+
+				  });
+			});
+  </script>
+  <style type="text/css">
+			.LiveSearchContainer.defaultfeed,
+			.LiveSearchResults.defaultfeed {
+			width:210px;
+			}
+		</style>
+</head>
+<body id="stylef6" class="yjsgbody style_flame yjsgbr- ">
+<div id="layout_type" class=" fullwidth"> 
+	<div id="centertop">
+		<div class="centertop_in yjsgsitew">
+			 <!--header-->
+<div id="header" style="height:130px;">
+      <div id="logo" class="png" style="height:130px;width:70.83%;">
+           <a href="http://bpbd.jabarprov.go.id/" style="height:130px;"></a>
+          </div>
+    <!-- end logo -->
+   <div id="yjsgheadergrid" class="yjsg_grid yjsgheadergw"><div id="header1" class="yjsgxhtml only_mod" style="width:100.00%;"><div class="yjsquare dlivesearch">
+    <div class="yjsquare_in"><!-- http://www.Youjoomla.com  Yj Live Live Search 2.0 for Joomla 2.5 starts here -->
+<div class="yjlivecont defaultfeed">
+       <form method="get" action="http://bpbd.jabarprov.go.id/index.php">
+			<input type="text" name="searchword" id="defaultfeedLiveSearch" style="width:200px;" value="Typo your text..." onfocus="this.value='';" onblur="if(this.value==''){this.value='Typo your text...'};"  class="yj_inputbox"/>
+                        <input type="submit" value="search" class="button" />
+            <span class="icon-search"></span>
+                        <input type="hidden" name="option" value="com_search" />
+			<input type="hidden" name="searchphrase" value="all" />
+            <input type="hidden" name="Itemid" value="101" />
+		</form>
+</div>
+<!-- http://www.Youjoomla.com  Yj Live Live Search 2.0  for Joomla 2.5 ends here --></div>
+</div>
+</div></div>	<div class="yjsg-clear-all"></div>
+</div>
+  <!-- end header -->
+		</div>
+	</div>
+    <!-- end centartop-->
+	<!--top menu-->
+    <div id="topmenu_holder" class="yjsgmega">
+      <div class="top_menu yjsgsitew">
+          <div id="horiznav" class="horiznav">	<ul class="menunav">
+	<li id="current" class=" active item101 level0 first"><span class="mymarg"><a class="yjanchor  first activepath " href="/"><span class="yjm_has_none"><span class="yjm_title">Home</span></span></a></span></li><li class="haschild item337 level0"><span class="child"><a class="yjanchor " href="/"><span class="yjm_has_none"><span class="yjm_title">Profil</span></span></a></span><ul class="subul_main level1"><li class="bl"></li><li class="tl"></li><li class="tr"></li><li class="item338 level1 first"><span class="mymarg"><a class="yjanchor  first" href="#"><span class="yjm_has_none"><span class="yjm_title">Sekilas BPBD Jawa Barat</span></span></a></span></li><li class="item339 level1"><span class="mymarg"><a class="yjanchor " href="#"><span class="yjm_has_none"><span class="yjm_title">Visi dan Misi</span></span></a></span></li><li class="item340 level1"><span class="mymarg"><a class="yjanchor " href="#"><span class="yjm_has_none"><span class="yjm_title">Tujuan</span></span></a></span></li><li class="item341 level1"><span class="mymarg"><a class="yjanchor " href="#"><span class="yjm_has_none"><span class="yjm_title">Tugas dan Fungsi</span></span></a></span></li><li class="item342 level1"><span class="mymarg"><a class="yjanchor " href="#"><span class="yjm_has_none"><span class="yjm_title">Struktur Organisasi</span></span></a></span></li><li class="item343 level1 lilast"><span class="mymarg"><a class="yjanchor last" href="#"><span class="yjm_has_none"><span class="yjm_title">Daftar Nama Pejabat</span></span></a></span></li><li class="right"></li><li class="br"></li></ul></li><li class="item344 level0"><span class="mymarg"><a class="yjanchor " href="#"><span class="yjm_has_none"><span class="yjm_title">Produk Hukum</span></span></a></span></li><li class="haschild item345 level0"><span class="child"><a class="yjanchor " href="#"><span class="yjm_has_none"><span class="yjm_title">Publikasi</span></span></a></span><ul class="subul_main level1"><li class="bl"></li><li class="tl"></li><li class="tr"></li><li class="item346 level1 first"><span class="mymarg"><a class="yjanchor  first" href="#"><span class="yjm_has_none"><span class="yjm_title">Galeri</span></span></a></span></li><li class="item347 level1"><span class="mymarg"><a class="yjanchor " href="#"><span class="yjm_has_none"><span class="yjm_title">Video</span></span></a></span></li><li class="haschild item348 level1"><span class="child subparent"><a class="yjanchor  grouptitle" href="#"><span class="yjm_has_none"><span class="yjm_title">Berita</span></span></a></span><ul class="subul_main level2"><li class="bl"></li><li class="tl"></li><li class="tr"></li><li class="item350 level2 first"><span class="mymarg"><a class="yjanchor  first" href="#"><span class="yjm_has_none"><span class="yjm_title">Berita Umum</span></span></a></span></li><li class="item351 level2 lilast"><span class="mymarg"><a class="yjanchor last" href="#"><span class="yjm_has_none"><span class="yjm_title">Berita Kegiatan</span></span></a></span></li><li class="right"></li><li class="br"></li></ul></li><li class="haschild item349 level1 lilast"><span class="child subparent"><a class="yjanchor last grouptitle" href="#"><span class="yjm_has_none"><span class="yjm_title">Transparansi Anggaran</span></span></a></span><ul class="subul_main level2"><li class="bl"></li><li class="tl"></li><li class="tr"></li><li class="item352 level2 first"><span class="mymarg"><a class="yjanchor  first" href="#"><span class="yjm_has_none"><span class="yjm_title">Dokumen Pelaksana Anggaran</span></span></a></span></li><li class="item353 level2 lilast"><span class="mymarg"><a class="yjanchor last" href="#"><span class="yjm_has_none"><span class="yjm_title">Lelang Pengadaan Barang &amp; Jasa</span></span></a></span></li><li class="right"></li><li class="br"></li></ul></li><li class="right"></li><li class="br"></li></ul></li><li class="item354 level0"><span class="mymarg"><a class="yjanchor " href="#"><span class="yjm_has_none"><span class="yjm_title">BPBD Kabupaten / Kota</span></span></a></span></li><li class="haschild item355 level0"><span class="child"><a class="yjanchor " href="#"><span class="yjm_has_none"><span class="yjm_title">PUSDALOPS BPBD Jabar</span></span></a></span><ul class="subul_main level1"><li class="bl"></li><li class="tl"></li><li class="tr"></li><li class="haschild item356 level1 first"><span class="child subparent"><a class="yjanchor  first grouptitle" href="#"><span class="yjm_has_none"><span class="yjm_title">Tentang PUSDALOPS</span></span></a></span><ul class="subul_main level2"><li class="bl"></li><li class="tl"></li><li class="tr"></li><li class="item357 level2 first"><span class="mymarg"><a class="yjanchor  first" href="#"><span class="yjm_has_none"><span class="yjm_title">Profil PUSDALOPS</span></span></a></span></li><li class="item358 level2 lilast"><span class="mymarg"><a class="yjanchor last" href="#"><span class="yjm_has_none"><span class="yjm_title">Personil PUSDALOPS</span></span></a></span></li><li class="right"></li><li class="br"></li></ul></li><li class="item359 level1"><span class="mymarg"><a class="yjanchor " href="#"><span class="yjm_has_none"><span class="yjm_title">Laporan Kejadian Bencana</span></span></a></span></li><li class="item360 level1 lilast"><span class="mymarg"><a class="yjanchor last" href="/"><span class="yjm_has_none"><span class="yjm_title">Sistem Informasi Pelaporan Bencana</span></span></a></span></li><li class="right"></li><li class="br"></li></ul></li><li class="item361 level0"><span class="mymarg"><a class="yjanchor " href="#"><span class="yjm_has_none"><span class="yjm_title">FAQ</span></span></a></span></li><li class="item362 level0"><span class="mymarg"><a class="yjanchor " href="#"><span class="yjm_has_none"><span class="yjm_title">Kontak</span></span></a></span></li><li class="item292 level0"><span class="mymarg"><a class="yjanchor " href="/index.php/login"><span class="yjm_has_none"><span class="yjm_title">Login</span></span></a></span></li></ul></div>
+      </div>
+  </div>
+  <!-- end top menu -->
+	    <div class="title_out">
+    	<div class="title_in yjsgsitew">
+    		<!-- http://www.Youjoomla.com  Youjoomla YJ Title Ticker 3.0 Module for Joomla 1.6.x and UP starts here -->
+<div id="titles_holder" style="width:1168px; height:50px;">
+		<div id="title_title" style="line-height:49px; width:278px;">Laporan Bencana Jawa Barat Terkini :</div>
+		<div class="title_nav" style="height:50px;"> 
+		<a class="prev" style="height:50px;" onclick="javascript: title_slider.prev(type_slider);"><span class="icon-angle-left"></span></a> 
+		<a class="next" style="height:50px;" onclick="javascript: title_slider.next(type_slider);"><span class="icon-angle-right"></span></a> 
+	</div>
+<div id="yj_nt2" class="title_slide" style="width:850px;height:50px;">
+		<div style="width:2550px;overflow: hidden;float: left;">
+										<div class="ttick" style="width:850px; line-height:50px; text-indent:5px; height:50px;float:left;;"> <a href="/index.php/component/k2/item/16-bencana-banjir">
+            				Terjadi Bencana Banjir di Kabupaten Bandung            			</a> 
+            </div>
+						<div class="ttick" style="width:850px; line-height:50px; text-indent:5px; height:50px;float:left;;"> <a href="/index.php/component/k2/item/15-terjadi-bencana-longsor">
+            				Terjadi Bencana Tanah Longsor di Kabupaten Sukabumi            			</a> 
+            </div>
+						<div class="ttick" style="width:850px; line-height:50px; text-indent:5px; height:50px;float:left;;"> <a href="/index.php/component/k2/item/13-terjadi-bencana-angin">
+            				Terjadi Bencana Angin Puting Beliung di Kabupaten Sukabumi            			</a> 
+            </div>
+					</div>
+	</div>
+</div>
+<script type='text/javascript'>
+var  title_slider = new TitleTicker("yj_nt2",{type: "scroll", direction: "forward", auto: "loop", time: 4000, duration: 600});
+var type_slider='scroll';
+$('titles_holder').addEvent('mouseenter', function(){title_slider.pause();});
+$('titles_holder').addEvent('mouseleave', function(){title_slider.run(type_slider);});
+</script>
+		</div>
+    </div>
+        <div id="yjsg1" class="yjsg_grid yjsgsitew"><div id="top1" class="yjsgxhtml first_mod" style="width:60%;"><div class="yjsquare dmediaslider">
+    <div class="yjsquare_in"><!-- http://www.Youjoomla.com  YJ Media Slider Module for Joomla! starts here -->
+<div id="yjmediaout97" class="yjmediaout" data-countslides="4" data-autoslide="2500">
+	<div class="yjmediasliderinstance97 yjmediaslider loading">
+		<div class="slides">
+						<div class="slide">
+				<img class="poster" src="http://bpbd.jabarprov.go.id/images/upload_mediaslides/wanadri1.jpg" alt="" />
+				<div class="slide-details" style="width:70%;bottom:20px;left:20px;">	
+							
+					<h3 class="slide-title">
+						Kepala Pelaksana BPBD Jabar Menghadiri Upacara Pembukaan Pendidikan Dasar Wanadri 2016					</h3>	
+																			</div>			
+			</div>
+	
+						<div class="slide">
+				<img class="poster" src="http://bpbd.jabarprov.go.id/images/upload_mediaslides/forum-prb.jpg" alt="" />
+				<div class="slide-details" style="width:70%;bottom:20px;left:20px;">	
+							
+					<h3 class="slide-title">
+						Penguatan Forum Pengurangan Risiko Bencana Provinsi Jawa Barat Tahun 2015 - 2016					</h3>	
+																				<div class="buttons">
+																		<a href="/index.php" class="read-more">Read full article</a>
+											</div>
+									</div>			
+			</div>
+	
+						<div class="slide">
+				<img class="poster" src="http://bpbd.jabarprov.go.id/images/slide-foto/slide-bencana1.jpg" alt="" />
+				<div class="slide-details" style="width:70%;bottom:20px;left:20px;">	
+							
+					<h3 class="slide-title">
+						Longsor Kabupaten Cianjur 17 Juli 2016					</h3>	
+																			</div>			
+			</div>
+	
+						<div class="slide">
+				<img class="poster" src="http://bpbd.jabarprov.go.id/images/slide-foto/slide-fashion.jpg" alt="" />
+				<div class="slide-details" style="width:70%;bottom:20px;left:20px;">	
+							
+					<h3 class="slide-title">
+						Dharma Wanita Juara Lomba Fashion Show 2016 DPW Jawa Barat					</h3>	
+																			</div>			
+			</div>
+	
+					</div>
+		<!-- Main navigation -->
+		<div class="main-nav">
+						<a href="javascript:;" title="Previous slide" class="prev"><span class="icon-angle-left"></span></a>
+						<a href="javascript:;" title="Next slide" class="next"><span class="icon-angle-right"></span></a>
+		</div>
+		<!-- /Main navigation -->
+				<div class="video-player"><!-- empty --></div>
+	</div>
+</div></div>
+</div>
+</div><div id="top2" class="yjsgxhtml lastModule" style="width:40%;"><div class="yjsquare dmediaslider right">
+    <div class="yjsquare_in"><!-- http://www.Youjoomla.com  YJ Media Slider Module for Joomla! starts here -->
+<div id="yjmediaout98" class="yjmediaout" data-countslides="8" data-autoslide="4000">
+	<div class="yjmediasliderinstance98 yjmediaslider loading">
+		<div class="slides">
+						<div class="slide">
+				<img class="poster" src="http://bpbd.jabarprov.go.id/images/slide-gunung-api/slide-ceremai.jpg" alt="" />
+				<div class="slide-details" style="width:92%;bottom:20px;left:20px;">	
+							
+					<h3 class="slide-title">
+						Gunung Ceremai ( Level I Normal )					</h3>	
+																				<div class="buttons">
+																		<a href="/index.php/component/k2/item/16-marouane-fellaini-man-utd-midfielder-faces-six-week-absence?Itemid=228" class="read-more">Read full article</a>
+											</div>
+									</div>			
+			</div>
+	
+						<div class="slide">
+				<img class="poster" src="http://bpbd.jabarprov.go.id/images/slide-gunung-api/slide-gede.jpg" alt="" />
+				<div class="slide-details" style="width:92%;bottom:20px;left:20px;">	
+							
+					<h3 class="slide-title">
+						Gunung Gede ( Level I Normal )					</h3>	
+																				<div class="buttons">
+																		<a href="/index.php/component/k2/item/16-marouane-fellaini-man-utd-midfielder-faces-six-week-absence?Itemid=228" class="read-more">Read full article</a>
+											</div>
+									</div>			
+			</div>
+	
+						<div class="slide">
+				<img class="poster" src="http://bpbd.jabarprov.go.id/images/slide-gunung-api/slide-galunggung.jpg" alt="" />
+				<div class="slide-details" style="width:92%;bottom:20px;left:20px;">	
+							
+					<h3 class="slide-title">
+						Gunung Galunggung( Level I Normal )					</h3>	
+																				<div class="buttons">
+																		<a href="/index.php/component/k2/item/7-shares-in-apple-rise-after-iphone-deal-with-china-mobile?Itemid=226" class="read-more">Read full article</a>
+											</div>
+									</div>			
+			</div>
+	
+						<div class="slide">
+				<img class="poster" src="http://bpbd.jabarprov.go.id/images/slide-gunung-api/slide-guntur.jpg" alt="" />
+				<div class="slide-details" style="width:92%;bottom:20px;left:20px;">	
+							
+					<h3 class="slide-title">
+						Gunung Guntur ( Level I Normal )					</h3>	
+																				<div class="buttons">
+																		<a href="/index.php/component/k2/item/16-marouane-fellaini-man-utd-midfielder-faces-six-week-absence?Itemid=228" class="read-more">Read full article</a>
+											</div>
+									</div>			
+			</div>
+	
+						<div class="slide">
+				<img class="poster" src="http://bpbd.jabarprov.go.id/images/slide-gunung-api/slide-malabar.jpg" alt="" />
+				<div class="slide-details" style="width:92%;bottom:20px;left:20px;">	
+							
+					<h3 class="slide-title">
+						Gunung Malabar ( Level I Normal )					</h3>	
+																				<div class="buttons">
+																		<a href="/index.php/component/k2/item/16-marouane-fellaini-man-utd-midfielder-faces-six-week-absence?Itemid=228" class="read-more">Read full article</a>
+											</div>
+									</div>			
+			</div>
+	
+						<div class="slide">
+				<img class="poster" src="http://bpbd.jabarprov.go.id/images/slide-gunung-api/slide-papandayan.jpg" alt="" />
+				<div class="slide-details" style="width:92%;bottom:20px;left:20px;">	
+							
+					<h3 class="slide-title">
+						Gunung Papandayan ( Level II Waspada )					</h3>	
+																				<div class="buttons">
+																		<a href="/index.php/component/k2/item/16-marouane-fellaini-man-utd-midfielder-faces-six-week-absence?Itemid=228" class="read-more">Read full article</a>
+											</div>
+									</div>			
+			</div>
+	
+						<div class="slide">
+				<img class="poster" src="http://bpbd.jabarprov.go.id/images/slide-gunung-api/slide-salak.jpg" alt="" />
+				<div class="slide-details" style="width:92%;bottom:20px;left:20px;">	
+							
+					<h3 class="slide-title">
+						Gunung Salak ( Level I Normal )					</h3>	
+																				<div class="buttons">
+																		<a href="/index.php/component/k2/item/16-marouane-fellaini-man-utd-midfielder-faces-six-week-absence?Itemid=228" class="read-more">Read full article</a>
+											</div>
+									</div>			
+			</div>
+	
+						<div class="slide">
+				<img class="poster" src="http://bpbd.jabarprov.go.id/images/slide-gunung-api/slide-tangkuban-perahu.jpg" alt="" />
+				<div class="slide-details" style="width:92%;bottom:20px;left:20px;">	
+							
+					<h3 class="slide-title">
+						Gunung Tangkuban Perahu (Level I Normal)					</h3>	
+																				<div class="buttons">
+																		<a href="/index.php/component/k2/item/16-marouane-fellaini-man-utd-midfielder-faces-six-week-absence?Itemid=228" class="read-more">Read full article</a>
+											</div>
+									</div>			
+			</div>
+	
+					</div>
+		<!-- Main navigation -->
+		<div class="main-nav">
+						<a href="javascript:;" title="Previous slide" class="prev"><span class="icon-angle-left"></span></a>
+						<a href="javascript:;" title="Next slide" class="next"><span class="icon-angle-right"></span></a>
+		</div>
+		<!-- /Main navigation -->
+				<div class="video-player"><!-- empty --></div>
+	</div>
+</div></div>
+</div>
+<div class="yjsquare dmediaslider right bottom">
+    <div class="yjsquare_in"><!-- http://www.Youjoomla.com  YJ Media Slider Module for Joomla! starts here -->
+<div id="yjmediaout99" class="yjmediaout" data-countslides="2" data-autoslide="5000">
+	<div class="yjmediasliderinstance99 yjmediaslider loading">
+		<div class="slides">
+						<div class="slide">
+				<img class="poster" src="http://bpbd.jabarprov.go.id/images/upload_mediaslides/kekeringan-slide.jpg" alt="" />
+				<div class="slide-details" style="width:92%;bottom:20px;left:20px;">	
+							
+					<h3 class="slide-title">
+						Peta Hari Tanpa Hujan					</h3>	
+																			</div>			
+			</div>
+	
+						<div class="slide">
+				<img class="poster" src="http://bpbd.jabarprov.go.id/images/upload_mediaslides/kekeringan2.jpg" alt="" />
+				<div class="slide-details" style="width:92%;bottom:20px;left:20px;">	
+							
+					<h3 class="slide-title">
+						Tahun 2015 Hampir 60% Wilayah Jawa Barat Kekeringan					</h3>	
+																			</div>			
+			</div>
+	
+					</div>
+		<!-- Main navigation -->
+		<div class="main-nav">
+						<a href="javascript:;" title="Previous slide" class="prev"><span class="icon-angle-left"></span></a>
+						<a href="javascript:;" title="Next slide" class="next"><span class="icon-angle-right"></span></a>
+		</div>
+		<!-- /Main navigation -->
+				<div class="video-player"><!-- empty --></div>
+	</div>
+</div></div>
+</div>
+</div></div>	<div id="yjsg2" class="yjsg_grid yjsgsitew"><div id="adv1" class="yjsgxhtml only_mod" style="width:100.00%;"><div class="yjsquare dyjnf4 yj2">
+    <div class="h2_holder">
+    <h2 class="module_title">
+      <span>Data</span> Terkini Laporan Kejadian Bencana Per Jenis Bencana Tahun 2016    </h2>
+  </div>
+    <div class="yjsquare_in"><center><iframe style="border: 0px solid;" name="frame1" src="/sipusdalops/peta-bencana/peta.php" frameborder="yes" scrolling="auto" align="center" width="1200" height="450px"></iframe></center></div>
+</div>
+<div class="yjsquare dyjme">
+    <div class="yjsquare_in"><!-- Powered by YJ Module Engine find out more at www.youjoomla.com -->
+<div class="yjme_holder">
+    <div class="yjme_item">
+    <div class="yjme_item_in yjmeitem16">
+	  <div class="extra_holder">
+            <div class="imageholder" style="width:225px;height:150px;float:left;">
+        <a class="item_image"  style="width:225px;height:150px;" href="/index.php/component/k2/item/16-bencana-banjir" >
+        <span class="yj_hover"> 
+          <img src="http://bpbd.jabarprov.go.id/media/k2/items/cache/c9b002fe1bb0320831a8ae78670fdb6f_S.jpg" alt="Terjadi Bencana Banjir di Kabupaten Bandung" />
+        </span>
+        </a>
+      </div>
+                      <div class="item_category">
+        <a href="/index.php/component/k2/itemlist/category/2-kategori-banjir">
+          Banjir        </a>
+        </div>
+              </div>
+            <a class="item_title" href="/index.php/component/k2/item/16-bencana-banjir">
+        Terjadi Bencana Banjir di Kabupaten Bandung      </a>
+                        <p class="item_intro">
+        Tanggal 14 Maret 2016                      
+Pukul 01:00 WIB...
+      </p>
+                </div>
+  </div>
+    <div class="yjme_item">
+    <div class="yjme_item_in yjmeitem15">
+	  <div class="extra_holder">
+            <div class="imageholder" style="width:225px;height:150px;float:left;">
+        <a class="item_image"  style="width:225px;height:150px;" href="/index.php/component/k2/item/15-terjadi-bencana-longsor" >
+        <span class="yj_hover"> 
+          <img src="http://bpbd.jabarprov.go.id/media/k2/items/cache/fc1da7257992fc36032e11db3df7a664_S.jpg" alt="Terjadi Bencana Tanah Longsor di Kabupaten Sukabumi" />
+        </span>
+        </a>
+      </div>
+                      <div class="item_category">
+        <a href="/index.php/component/k2/itemlist/category/6-laporan-tanah-longsor">
+          Tanah Longsor        </a>
+        </div>
+              </div>
+            <a class="item_title" href="/index.php/component/k2/item/15-terjadi-bencana-longsor">
+        Terjadi Bencana Tanah Longsor di Kabupaten Sukabumi      </a>
+                        <p class="item_intro">
+        Tanggal 14 Maret 2016 
+              
+Pukul 10:45 WIB
+Kabu...
+      </p>
+                </div>
+  </div>
+    <div class="yjme_item">
+    <div class="yjme_item_in yjmeitem14">
+	  <div class="extra_holder">
+            <div class="imageholder" style="width:225px;height:150px;float:left;">
+        <a class="item_image"  style="width:225px;height:150px;" href="/index.php/component/k2/item/14-terjadi-bencana-kebakaran" >
+        <span class="yj_hover"> 
+          <img src="http://bpbd.jabarprov.go.id/media/k2/items/cache/fd8b0f77d767f1f6640afba6916ff67c_S.jpg" alt="Terjadi Bencana Kebakaran di Kota Bandung" />
+        </span>
+        </a>
+      </div>
+                      <div class="item_category">
+        <a href="/index.php/component/k2/itemlist/category/3-laporan-kebakaran">
+          Kebakaran        </a>
+        </div>
+              </div>
+            <a class="item_title" href="/index.php/component/k2/item/14-terjadi-bencana-kebakaran">
+        Terjadi Bencana Kebakaran di Kota Bandung      </a>
+                        <p class="item_intro">
+        Tanggal 21 Februari 2016     
+              
+Pukul 15:00 WI...
+      </p>
+                </div>
+  </div>
+    <div class="yjme_item">
+    <div class="yjme_item_in yjmeitem13">
+	  <div class="extra_holder">
+            <div class="imageholder" style="width:225px;height:150px;float:left;">
+        <a class="item_image"  style="width:225px;height:150px;" href="/index.php/component/k2/item/13-terjadi-bencana-angin" >
+        <span class="yj_hover"> 
+          <img src="http://bpbd.jabarprov.go.id/media/k2/items/cache/48ee1e8a0a8f50dce4f8cb9ab418e211_S.jpg" alt="Terjadi Bencana Angin Puting Beliung di Kabupaten Sukabumi" />
+        </span>
+        </a>
+      </div>
+                      <div class="item_category">
+        <a href="/index.php/component/k2/itemlist/category/7-laporan-angin">
+          Angin Puting Beliung        </a>
+        </div>
+              </div>
+            <a class="item_title" href="/index.php/component/k2/item/13-terjadi-bencana-angin">
+        Terjadi Bencana Angin Puting Beliung di Kabupaten Sukabumi      </a>
+                        <p class="item_intro">
+        Tanggal 13 Maret 2016     
+              
+Pukul 16:00 WIB
+...
+      </p>
+                </div>
+  </div>
+    <div class="yjme_item">
+    <div class="yjme_item_in yjmeitem12">
+	  <div class="extra_holder">
+            <div class="imageholder" style="width:225px;height:150px;float:left;">
+        <a class="item_image"  style="width:225px;height:150px;" href="/index.php/component/k2/item/12-laporan-bencana-gempa" >
+        <span class="yj_hover"> 
+          <img src="http://bpbd.jabarprov.go.id/media/k2/items/cache/3899dfe821816fbcb3db3e3b23f81585_S.jpg" alt="Terjadi Bencana Gempa Bumi 103 Barat Daya Kabupaten Garut 3,1 SR" />
+        </span>
+        </a>
+      </div>
+                      <div class="item_category">
+        <a href="/index.php/component/k2/itemlist/category/4-laporan-gempa-bumi">
+          Gempa Bumi        </a>
+        </div>
+              </div>
+            <a class="item_title" href="/index.php/component/k2/item/12-laporan-bencana-gempa">
+        Terjadi Bencana Gempa Bumi 103 Barat Daya Kabupaten Garut 3,1 SR      </a>
+                        <p class="item_intro">
+        Tanggal 25 Februari 2016     
+              
+Pukul 15:08 WI...
+      </p>
+                </div>
+  </div>
+    <div class="yjme_item">
+    <div class="yjme_item_in yjmeitem11 last">
+	  <div class="extra_holder">
+            <div class="imageholder" style="width:225px;height:150px;float:left;">
+        <a class="item_image"  style="width:225px;height:150px;" href="/index.php/component/k2/item/11-terjadi-bencana-tsunami" >
+        <span class="yj_hover"> 
+          <img src="http://bpbd.jabarprov.go.id/media/k2/items/cache/c82cc4e14a1d2c8c8ffff9840d24b558_S.jpg" alt="Terakhir Laporan Terjadi Bencana Tsunami di Pangandaran" />
+        </span>
+        </a>
+      </div>
+                      <div class="item_category">
+        <a href="/index.php/component/k2/itemlist/category/5-laporan-tsunami">
+          Tsunami        </a>
+        </div>
+              </div>
+            <a class="item_title" href="/index.php/component/k2/item/11-terjadi-bencana-tsunami">
+        Terakhir Laporan Terjadi Bencana Tsunami di Pangandaran      </a>
+                        <p class="item_intro">
+        Tanggal 17 Juli 2006             
+              
+Pukul 08:1...
+      </p>
+                </div>
+  </div>
+  </div>
+</div>
+</div>
+</div></div>	<div id="yjsg3" class="yjsg_grid yjsgsitew"><div id="user1" class="yjsgxhtml first_mod" style="width:60%;"><div class="yjsquare dyjnf4 yj2">
+    <div class="h2_holder">
+    <h2 class="module_title">
+      <span>Berita</span> Kegiatan    </h2>
+  </div>
+    <div class="yjsquare_in"><!-- http://www.Youjoomla.com  Youjoomla YJ Newsflash4 for Joomla! starts here -->
+<div class="yjnf4">
+	<div id="YJ_NewsFlash4101" class="YJ_NewsFlash4">
+		<div id="YJ_NewsFlash4_Slices101" class="YJ_NewsFlash4_Slices">
+							<div class="yjnewsflash_slice101 yjnewsflash_slice" id="yjnewsflash_slice101_0">	
+									<div class="yjnewsflashu4">
+						<div class="yjnewsflashu4_in yjnfitem57">
+							  <div class="extra_holder">
+							  							  <div class="imageholder" style="width:285px;height:190px;float:left;">
+								<a class="itemimage"  style="width:285px;height:190px;" href="/index.php/component/k2/item/57-wanadri-2016" >
+								<span class="yj_hover">     
+                                  <img src="http://bpbd.jabarprov.go.id/media/k2/items/cache/0548677e6432786dd8df61eb3aaec139_M.jpg" alt="Kepala Pelaksana BPBD Jabar Menghadiri Upacara Pembukaan Pendidikan Dasar Wanadri 2016" /> 							</span>
+								</a>
+							  </div>
+							  								                                    <div class="itemcdate">
+										03<br/><span>August</span>                                    </div>
+								                              </div>
+														<a class="itemtitle" href="/index.php/component/k2/item/57-wanadri-2016">
+								Kepala Pelaksana BPBD Jabar Menghadiri Upacara Pembukaan Pendidikan Dasar Wanadri 2016							</a>
+																												<p class="itemintro">
+								KOTA BANDUNG – Kepala Pelaksana BPBD Provinsi Jawa Barat Haryadi Wargadibrata menghadiri  upaca...
+							</p>
+																					<a class="itemreadmore" href="/index.php/component/k2/item/57-wanadri-2016">
+								<span>
+									Read full article								</span>
+							</a>
+													</div>
+					</div>
+								<div class="yjnewsflashu4">
+						<div class="yjnewsflashu4_in yjnfitem56">
+							  <div class="extra_holder">
+							  							  <div class="imageholder" style="width:285px;height:190px;float:left;">
+								<a class="itemimage"  style="width:285px;height:190px;" href="/index.php/component/k2/item/56-distribusi-logistik-2016" >
+								<span class="yj_hover">     
+                                  <img src="http://bpbd.jabarprov.go.id/media/k2/items/cache/d3b3799d6611d677944f5f86a500beb3_M.jpg" alt="Pendistribusian Bantuan Logistik Untuk  BPBD Kabupaten Cianjur Dan BPBD Kabupaten Sukabumi" /> 							</span>
+								</a>
+							  </div>
+							  								                                    <div class="itemcdate">
+										25<br/><span>July</span>                                    </div>
+								                              </div>
+														<a class="itemtitle" href="/index.php/component/k2/item/56-distribusi-logistik-2016">
+								Pendistribusian Bantuan Logistik Untuk  BPBD Kabupaten Cianjur Dan BPBD Kabupaten Sukabumi							</a>
+																												<p class="itemintro">
+								KOTA BANDUNG – BPBD Provinsi Jawa Barat mendistribusikan bantuan logistik dari BNPB tahun 2016 ...
+							</p>
+																					<a class="itemreadmore" href="/index.php/component/k2/item/56-distribusi-logistik-2016">
+								<span>
+									Read full article								</span>
+							</a>
+													</div>
+					</div>
+								<div class="yjnewsflashu4">
+						<div class="yjnewsflashu4_in yjnfitem54 last">
+							  <div class="extra_holder">
+							  							  <div class="imageholder" style="width:285px;height:190px;float:left;">
+								<a class="itemimage"  style="width:285px;height:190px;" href="/index.php/component/k2/item/54-fashion-show-jabar" >
+								<span class="yj_hover">     
+                                  <img src="/images/foto-kegiatan/fs-2.jpg" alt="Dharma Wanita BPBD Jabar Menjadi Juara Pada Lomba Fashion Show DWP Jawa Barat" /> 							</span>
+								</a>
+							  </div>
+							  								                                    <div class="itemcdate">
+										20<br/><span>July</span>                                    </div>
+								                              </div>
+														<a class="itemtitle" href="/index.php/component/k2/item/54-fashion-show-jabar">
+								Dharma Wanita BPBD Jabar Menjadi Juara Pada Lomba Fashion Show DWP Jawa Barat							</a>
+																												<p class="itemintro">
+								KOTA BANDUNG – Perwakilan BPBD Jawa Barat menjadi juara ke tiga pada perlombaan fashion show bu...
+							</p>
+																					<a class="itemreadmore" href="/index.php/component/k2/item/54-fashion-show-jabar">
+								<span>
+									Read full article								</span>
+							</a>
+													</div>
+					</div>
+						</div>	
+				<div class="yjnewsflash_slice101 yjnewsflash_slice" id="yjnewsflash_slice101_1">	
+									<div class="yjnewsflashu4">
+						<div class="yjnewsflashu4_in yjnfitem50">
+							  <div class="extra_holder">
+							  							  <div class="imageholder" style="width:285px;height:190px;float:left;">
+								<a class="itemimage"  style="width:285px;height:190px;" href="/index.php/component/k2/item/50-halal-bihalal-2016" >
+								<span class="yj_hover">     
+                                  <img src="http://bpbd.jabarprov.go.id/media/k2/items/cache/a522a6005d1cb428ea34ef1769cd7452_M.jpg" alt="Kepala Pelaksana Bpbd Jabar Menghadiri Silaturahmi Idul Fitri 1437 H Tingkat Jabar" /> 							</span>
+								</a>
+							  </div>
+							  								                                    <div class="itemcdate">
+										13<br/><span>July</span>                                    </div>
+								                              </div>
+														<a class="itemtitle" href="/index.php/component/k2/item/50-halal-bihalal-2016">
+								Kepala Pelaksana Bpbd Jabar Menghadiri Silaturahmi Idul Fitri 1437 H Tingkat Jabar							</a>
+																												<p class="itemintro">
+								KOTA BANDUNG – Kepala pelaksana BPBD Jawa Barat Haryadi Wargadibrata menghadiri silaturahim hal...
+							</p>
+																					<a class="itemreadmore" href="/index.php/component/k2/item/50-halal-bihalal-2016">
+								<span>
+									Read full article								</span>
+							</a>
+													</div>
+					</div>
+								<div class="yjnewsflashu4">
+						<div class="yjnewsflashu4_in yjnfitem47">
+							  <div class="extra_holder">
+							  							  <div class="imageholder" style="width:285px;height:190px;float:left;">
+								<a class="itemimage"  style="width:285px;height:190px;" href="/index.php/component/k2/item/47-asia-muslim-charity-foundation-amcf-jajaki-kerja-sama-aksi-tanggap-darurat-bencana-di-jabar" >
+								<span class="yj_hover">     
+                                  <img src="http://bpbd.jabarprov.go.id/media/k2/items/cache/542390225756f78888142d54f3d17e01_M.jpg" alt="Asia Muslim Charity Foundation (AMCF) Jajaki Kerja Sama Aksi Tanggap Darurat Bencana di Jabar" /> 							</span>
+								</a>
+							  </div>
+							  								                                    <div class="itemcdate">
+										09<br/><span>April</span>                                    </div>
+								                              </div>
+														<a class="itemtitle" href="/index.php/component/k2/item/47-asia-muslim-charity-foundation-amcf-jajaki-kerja-sama-aksi-tanggap-darurat-bencana-di-jabar">
+								Asia Muslim Charity Foundation (AMCF) Jajaki Kerja Sama Aksi Tanggap Darurat Bencana di Jabar							</a>
+																												<p class="itemintro">
+								Gubernur Jawa Barat, Ahmad Heryawan, siang ini dijadwalkan menerima kunjungan Jajaran Pengurus ...
+							</p>
+																					<a class="itemreadmore" href="/index.php/component/k2/item/47-asia-muslim-charity-foundation-amcf-jajaki-kerja-sama-aksi-tanggap-darurat-bencana-di-jabar">
+								<span>
+									Read full article								</span>
+							</a>
+													</div>
+					</div>
+								<div class="yjnewsflashu4">
+						<div class="yjnewsflashu4_in yjnfitem44 last">
+							  <div class="extra_holder">
+							  							  <div class="imageholder" style="width:285px;height:190px;float:left;">
+								<a class="itemimage"  style="width:285px;height:190px;" href="/index.php/component/k2/item/44-pembukaan-rapat-koordinasi-forum-organisasi-perangkat-daerah-bidang-kebencanaan-tingkat-provinsi-jawa-barat-2-4-maret-2016" >
+								<span class="yj_hover">     
+                                  <img src="/images/foto-kegiatan/11062127_990541394344554_9100321807252017342_o.jpg" alt="Pembukaan Rapat Koordinasi Forum Organisasi Perangkat Daerah Bidang Kebencanaan, Tingkat Provinsi Jawa Barat. 2-4 Maret 2016" /> 							</span>
+								</a>
+							  </div>
+							  								                                    <div class="itemcdate">
+										02<br/><span>March</span>                                    </div>
+								                              </div>
+														<a class="itemtitle" href="/index.php/component/k2/item/44-pembukaan-rapat-koordinasi-forum-organisasi-perangkat-daerah-bidang-kebencanaan-tingkat-provinsi-jawa-barat-2-4-maret-2016">
+								Pembukaan Rapat Koordinasi Forum Organisasi Perangkat Daerah Bidang Kebencanaan, Tingkat Provinsi Jawa Barat. 2-4 Maret 2016							</a>
+																												<p class="itemintro">
+								Pembukaan Rapat Koordinasi Forum Organisasi Perangkat Daerah Bidang Kebencanaan, Tingkat Provin...
+							</p>
+																					<a class="itemreadmore" href="/index.php/component/k2/item/44-pembukaan-rapat-koordinasi-forum-organisasi-perangkat-daerah-bidang-kebencanaan-tingkat-provinsi-jawa-barat-2-4-maret-2016">
+								<span>
+									Read full article								</span>
+							</a>
+													</div>
+					</div>
+						</div>	
+				<div class="yjnewsflash_slice101 yjnewsflash_slice" id="yjnewsflash_slice101_2">	
+									<div class="yjnewsflashu4">
+						<div class="yjnewsflashu4_in yjnfitem40">
+							  <div class="extra_holder">
+							  							  <div class="imageholder" style="width:285px;height:190px;float:left;">
+								<a class="itemimage"  style="width:285px;height:190px;" href="/index.php/component/k2/item/40-rapat-koordinasi-nasional-penanggulangan-bencana-seluruh-indonesia-2016" >
+								<span class="yj_hover">     
+                                  <img src="/images/foto-kegiatan/rakornas-2016/rakonas1.jpg" alt="Rapat Koordinasi Nasional Penanggulangan Bencana Seluruh Indonesia 2016" /> 							</span>
+								</a>
+							  </div>
+							  								                                    <div class="itemcdate">
+										24<br/><span>February</span>                                    </div>
+								                              </div>
+														<a class="itemtitle" href="/index.php/component/k2/item/40-rapat-koordinasi-nasional-penanggulangan-bencana-seluruh-indonesia-2016">
+								Rapat Koordinasi Nasional Penanggulangan Bencana Seluruh Indonesia 2016							</a>
+																												<p class="itemintro">
+								Rapat Koordinasi Nasinal Penanggulangan Bencana Seluruh Indonesia yang dilaksanakan Pada Tangga...
+							</p>
+																					<a class="itemreadmore" href="/index.php/component/k2/item/40-rapat-koordinasi-nasional-penanggulangan-bencana-seluruh-indonesia-2016">
+								<span>
+									Read full article								</span>
+							</a>
+													</div>
+					</div>
+								<div class="yjnewsflashu4">
+						<div class="yjnewsflashu4_in yjnfitem39">
+							  <div class="extra_holder">
+							  							  <div class="imageholder" style="width:285px;height:190px;float:left;">
+								<a class="itemimage"  style="width:285px;height:190px;" href="/index.php/component/k2/item/39-kunjungan-bpbd-kota-cimahi-dalam-rangka-koordinasi-kelembagaan-22-februari-2016" >
+								<span class="yj_hover">     
+                                  <img src="/images/BPBD2.jpg" alt="Kunjungan BPBD Kota Cimahi dalam rangka koordinasi kelembagaan 22 Februari 2016" /> 							</span>
+								</a>
+							  </div>
+							  								                                    <div class="itemcdate">
+										22<br/><span>February</span>                                    </div>
+								                              </div>
+														<a class="itemtitle" href="/index.php/component/k2/item/39-kunjungan-bpbd-kota-cimahi-dalam-rangka-koordinasi-kelembagaan-22-februari-2016">
+								Kunjungan BPBD Kota Cimahi dalam rangka koordinasi kelembagaan 22 Februari 2016							</a>
+																												<p class="itemintro">
+								Kunjungan BPBD Kota Cimahi, dalam rangka koordinasi kelembagaan. 22 Februari 2016
+
+...
+							</p>
+																					<a class="itemreadmore" href="/index.php/component/k2/item/39-kunjungan-bpbd-kota-cimahi-dalam-rangka-koordinasi-kelembagaan-22-februari-2016">
+								<span>
+									Read full article								</span>
+							</a>
+													</div>
+					</div>
+								<div class="yjnewsflashu4">
+						<div class="yjnewsflashu4_in yjnfitem29 last">
+							  <div class="extra_holder">
+							  							  <div class="imageholder" style="width:285px;height:190px;float:left;">
+								<a class="itemimage"  style="width:285px;height:190px;" href="/index.php/component/k2/item/29-arahan" >
+								<span class="yj_hover">     
+                                  <img src="http://bpbd.jabarprov.go.id/media/k2/items/cache/fc34f61d23b74be53ee07d469bd32064_M.jpg" alt="Arahan Kepala BPBD Prov. Jabar dalam Rangka Siaga Darurat Banjir &amp; Tanah Longsor 2016" /> 							</span>
+								</a>
+							  </div>
+							  								                                    <div class="itemcdate">
+										18<br/><span>January</span>                                    </div>
+								                              </div>
+														<a class="itemtitle" href="/index.php/component/k2/item/29-arahan">
+								Arahan Kepala BPBD Prov. Jabar dalam Rangka Siaga Darurat Banjir &amp; Tanah Longsor 2016							</a>
+																												<p class="itemintro">
+								Arahan kepala BPBD Prov. Jabar dalam rangka siaga darurat bencana banjir &amp; tanah longsor di...
+							</p>
+																					<a class="itemreadmore" href="/index.php/component/k2/item/29-arahan">
+								<span>
+									Read full article								</span>
+							</a>
+													</div>
+					</div>
+						</div>	
+				<div class="yjnewsflash_slice101 yjnewsflash_slice" id="yjnewsflash_slice101_3">	
+									<div class="yjnewsflashu4">
+						<div class="yjnewsflashu4_in yjnfitem26">
+							  <div class="extra_holder">
+							  							  <div class="imageholder" style="width:285px;height:190px;float:left;">
+								<a class="itemimage"  style="width:285px;height:190px;" href="/index.php/component/k2/item/26-pemantapan-manajemen-logistik-regional-v-11-13-november-2015" >
+								<span class="yj_hover">     
+                                  <img src="http://bpbd.jabarprov.go.id/media/k2/items/cache/feb4274796d93ff716e9650163a77fb8_M.jpg" alt="Pemantapan Manajemen Logistik Regional V | 11-13 November 2015" /> 							</span>
+								</a>
+							  </div>
+							  								                                    <div class="itemcdate">
+										11<br/><span>November</span>                                    </div>
+								                              </div>
+														<a class="itemtitle" href="/index.php/component/k2/item/26-pemantapan-manajemen-logistik-regional-v-11-13-november-2015">
+								Pemantapan Manajemen Logistik Regional V | 11-13 November 2015							</a>
+																												<p class="itemintro">
+								BPBD Provinsi Jawa Barat melaksanakan Kegiatan Pemantapan Manajemen Logistik Regional V yang di...
+							</p>
+																					<a class="itemreadmore" href="/index.php/component/k2/item/26-pemantapan-manajemen-logistik-regional-v-11-13-november-2015">
+								<span>
+									Read full article								</span>
+							</a>
+													</div>
+					</div>
+								<div class="yjnewsflashu4">
+						<div class="yjnewsflashu4_in yjnfitem20">
+							  <div class="extra_holder">
+							  							  <div class="imageholder" style="width:285px;height:190px;float:left;">
+								<a class="itemimage"  style="width:285px;height:190px;" href="/index.php/component/k2/item/20-kegiatan-pelatihan-penyusunan-rencana-induk-dan-rencana-kontijensi-tsunami-di-jawa-barat" >
+								<span class="yj_hover">     
+                                  <img src="http://bpbd.jabarprov.go.id/media/k2/items/cache/c889234799e865bbe90cee71f6cd2e53_M.jpg" alt="Kegiatan Pelatihan Penyusunan Rencana Induk dan Rencana Kontijensi Tsunami di Jawa Barat" /> 							</span>
+								</a>
+							  </div>
+							  								                                    <div class="itemcdate">
+										12<br/><span>October</span>                                    </div>
+								                              </div>
+														<a class="itemtitle" href="/index.php/component/k2/item/20-kegiatan-pelatihan-penyusunan-rencana-induk-dan-rencana-kontijensi-tsunami-di-jawa-barat">
+								Kegiatan Pelatihan Penyusunan Rencana Induk dan Rencana Kontijensi Tsunami di Jawa Barat							</a>
+																												<p class="itemintro">
+								Terlaksananya kegiatan Pelatihan Penyusunan Rencana Induk (masterplan) dan Rencana Kontinjensi ...
+							</p>
+																					<a class="itemreadmore" href="/index.php/component/k2/item/20-kegiatan-pelatihan-penyusunan-rencana-induk-dan-rencana-kontijensi-tsunami-di-jawa-barat">
+								<span>
+									Read full article								</span>
+							</a>
+													</div>
+					</div>
+								<div class="yjnewsflashu4">
+						<div class="yjnewsflashu4_in yjnfitem19 last">
+							  <div class="extra_holder">
+							  							  <div class="imageholder" style="width:285px;height:190px;float:left;">
+								<a class="itemimage"  style="width:285px;height:190px;" href="/index.php/component/k2/item/19-kegiatan-mitigasi-daerah-rawan-bencana-banjir-jawa-barat" >
+								<span class="yj_hover">     
+                                  <img src="http://bpbd.jabarprov.go.id/media/k2/items/cache/f4b6dca0e2911082f0eb6e1df1a0e11d_M.jpg" alt="Kegiatan Mitigasi Daerah Rawan Bencana Banjir Jawa Barat" /> 							</span>
+								</a>
+							  </div>
+							  								                                    <div class="itemcdate">
+										06<br/><span>October</span>                                    </div>
+								                              </div>
+														<a class="itemtitle" href="/index.php/component/k2/item/19-kegiatan-mitigasi-daerah-rawan-bencana-banjir-jawa-barat">
+								Kegiatan Mitigasi Daerah Rawan Bencana Banjir Jawa Barat							</a>
+																												<p class="itemintro">
+								Terlaksananya kegiatan sosialisasi Mitigasi Daerah Rawan Banjir di Jawa Barat bagi Satuan Tugas...
+							</p>
+																					<a class="itemreadmore" href="/index.php/component/k2/item/19-kegiatan-mitigasi-daerah-rawan-bencana-banjir-jawa-barat">
+								<span>
+									Read full article								</span>
+							</a>
+													</div>
+					</div>
+						</div>	
+            <div class="yjnf_title">
+            	<span>More</span> <br/>Berita Kegiatan            </div>
+		</div>
+	</div>
+</div></div>
+</div>
+</div><div id="user2" class="yjsgxhtml lastModule" style="width:40%;"><div class="yjsquare dyjme2 yj2">
+    <div class="h2_holder">
+    <h2 class="module_title">
+      <span>Berita</span> Umum    </h2>
+  </div>
+    <div class="yjsquare_in"><!-- Powered by YJ Module Engine find out more at www.youjoomla.com -->
+<div class="yjme_holder">
+    <div class="yjme_item first">
+    <div class="yjme_item_in yjmeitem55">
+     <div class="extra_holder">
+            <div class="imageholder" style="width:110px;height:70px;float:left;">
+        <a class="item_image"  style="width:110px;height:70px;" href="/index.php/component/k2/item/55-longsor-cianjur-juli-2016" >
+        <span class="yj_hover">   
+          <img src="/images/foto-bencana/longsor-cianjur-17-7-2016/longsor.jpeg" alt="Longsor di Kec. Cempaka Mulya Kab. Cianjur Mengakibatkan Banyak Rumah Rusak Berat" />
+        </span>
+        </a>
+      </div>
+                  <a class="item_title" href="/index.php/component/k2/item/55-longsor-cianjur-juli-2016">
+        Longsor di Kec. Cempaka Mulya Kab. Cianjur Mengakibatkan Banyak Rumah Rusak Berat      </a>
+                          <div class="item_cdate">
+			23<br/><span> July</span>            </div>
+        	  </div>
+                      </div>
+  </div>
+    <div class="yjme_item">
+    <div class="yjme_item_in yjmeitem52">
+     <div class="extra_holder">
+            <div class="imageholder" style="width:110px;height:70px;float:left;">
+        <a class="item_image"  style="width:110px;height:70px;" href="/index.php/component/k2/item/52-longsor-tasikmalaya" >
+        <span class="yj_hover">   
+          <img src="http://bpbd.jabarprov.go.id/media/k2/items/cache/22c02097e4438bd2f2f3fe4a6a3ab0e1_L.jpg" alt="Leuwisari Ditimpa Longsor, Satu Rumah Rusak Berat" />
+        </span>
+        </a>
+      </div>
+                  <a class="item_title" href="/index.php/component/k2/item/52-longsor-tasikmalaya">
+        Leuwisari Ditimpa Longsor, Satu Rumah Rusak Berat      </a>
+                          <div class="item_cdate">
+			18<br/><span> July</span>            </div>
+        	  </div>
+                      </div>
+  </div>
+    <div class="yjme_item">
+    <div class="yjme_item_in yjmeitem49">
+     <div class="extra_holder">
+            <div class="imageholder" style="width:110px;height:70px;float:left;">
+        <a class="item_image"  style="width:110px;height:70px;" href="/index.php/component/k2/item/49-posko-kesiapsiagaan-1437h" >
+        <span class="yj_hover">   
+          <img src="http://bpbd.jabarprov.go.id/media/k2/items/cache/620466077c427f141effa294382f5fba_L.jpg" alt="Posko Kesiapsiagaan Penanggulangan Bencana Provinsi Jawa Barat Pada Jalur Mudik Balik Lebaran 1437 H / 2016" />
+        </span>
+        </a>
+      </div>
+                  <a class="item_title" href="/index.php/component/k2/item/49-posko-kesiapsiagaan-1437h">
+        Posko Kesiapsiagaan Penanggulangan Bencana Provinsi Jawa Barat Pada Jalur Mudik Balik Lebaran 1437 H / 2016      </a>
+                          <div class="item_cdate">
+			05<br/><span> July</span>            </div>
+        	  </div>
+                      </div>
+  </div>
+    <div class="yjme_item">
+    <div class="yjme_item_in yjmeitem48">
+     <div class="extra_holder">
+            <div class="imageholder" style="width:110px;height:70px;float:left;">
+        <a class="item_image"  style="width:110px;height:70px;" href="/index.php/component/k2/item/48-banjir-bandang-kabupaten-subang" >
+        <span class="yj_hover">   
+          <img src="http://bpbd.jabarprov.go.id/media/k2/items/cache/c1572c59821062c96d0fc33ad32a2983_L.jpg" alt="Banjir Bandang Kabupaten Subang" />
+        </span>
+        </a>
+      </div>
+                  <a class="item_title" href="/index.php/component/k2/item/48-banjir-bandang-kabupaten-subang">
+        Banjir Bandang Kabupaten Subang      </a>
+                          <div class="item_cdate">
+			24<br/><span> May</span>            </div>
+        	  </div>
+                      </div>
+  </div>
+    <div class="yjme_item">
+    <div class="yjme_item_in yjmeitem46 last">
+     <div class="extra_holder">
+            <div class="imageholder" style="width:110px;height:70px;float:left;">
+        <a class="item_image"  style="width:110px;height:70px;" href="/index.php/component/k2/item/46-beberapa-kecamatan-di-kabupaten-bandung-sudah-seminggu-lebih-terendam-banjir" >
+        <span class="yj_hover">   
+          <img src="http://bpbd.jabarprov.go.id/media/k2/items/cache/64d93d666355a43c4a86679a030d35b6_L.jpg" alt="Beberapa Kecamatan di Kabupaten Bandung Sudah Seminggu Lebih Terendam Banjir" />
+        </span>
+        </a>
+      </div>
+                  <a class="item_title" href="/index.php/component/k2/item/46-beberapa-kecamatan-di-kabupaten-bandung-sudah-seminggu-lebih-terendam-banjir">
+        Beberapa Kecamatan di Kabupaten Bandung Sudah Seminggu Lebih Terendam Banjir      </a>
+                          <div class="item_cdate">
+			15<br/><span> March</span>            </div>
+        	  </div>
+                      </div>
+  </div>
+  		<div class="items_category">
+    <a href="/index.php/component/k2/itemlist/category/10-kategori-berita-umum">
+		<span class="cat_title">
+            <span>More</span><br/>Berita Umum        </span>
+		<span class="cat_link">
+			<span class="icon-angle-right"></span>
+		</span>
+    </a>     
+	</div>
+	</div></div>
+</div>
+</div></div>	<div id="yjsg4" class="yjsg_grid yjsgsitew"><div id="user6" class="yjsgxhtml first_mod" style="width:60%;"><div class="yjsquare dyjme3 yj2">
+    <div class="h2_holder">
+    <h2 class="module_title">
+      <span>Artikel</span>    </h2>
+  </div>
+    <div class="yjsquare_in"><!-- Powered by YJ Module Engine find out more at www.youjoomla.com -->
+<div class="yjme_holder">
+    <div class="yjme_item first">
+    <div class="yjme_item_in yjmeitem53">
+     <div class="extra_holder">
+            <div class="imageholder" style="width:110px;height:70px;float:left;">
+        <a class="item_image"  style="width:110px;height:70px;" href="/index.php/component/k2/item/53-siapkah-kita-menghadapi-longsor" >
+        <span class="yj_hover">   
+          <img src="http://bpbd.jabarprov.go.id/media/k2/items/cache/90701d02ae3da0e5a21abbd900c25748_M.jpg" alt="Siapkah Kita Menghadapi Longsor?" />
+        </span>
+        </a>
+      </div>
+                  <a class="item_title" href="/index.php/component/k2/item/53-siapkah-kita-menghadapi-longsor">
+        Siapkah Kita Menghadapi Longsor?      </a>
+                          <div class="item_cdate">
+			19<br/><span> July</span>            </div>
+        	  </div>
+                  <p class="item_intro">
+        BANDUNG - Secara Statistik bencana tanah longsor di Indonesia dalam kurun waktu 2005 hingga 2014 mencapai 2.278 peristiwa. Berdasarkan ...
+      </p>
+                  <a class="item_readmore" href="/index.php/component/k2/item/53-siapkah-kita-menghadapi-longsor">
+        <span>
+          Read full article        </span>
+      </a>
+          </div>
+  </div>
+    <div class="yjme_item">
+    <div class="yjme_item_in yjmeitem51">
+     <div class="extra_holder">
+            <div class="imageholder" style="width:110px;height:70px;float:left;">
+        <a class="item_image"  style="width:110px;height:70px;" href="/index.php/component/k2/item/51-cegah-siaga-gempa" >
+        <span class="yj_hover">   
+          <img src="http://bpbd.jabarprov.go.id/media/k2/items/cache/eb6c7c01c4e98e1f2578f9959463b973_M.jpg" alt="Apa Yang Harus Dilakukan Ketika Gempa Terjadi ?" />
+        </span>
+        </a>
+      </div>
+                  <a class="item_title" href="/index.php/component/k2/item/51-cegah-siaga-gempa">
+        Apa Yang Harus Dilakukan Ketika Gempa Terjadi ?      </a>
+                          <div class="item_cdate">
+			18<br/><span> July</span>            </div>
+        	  </div>
+                  <p class="item_intro">
+        BANDUNG – Indonesia secara geologis berada pada jalur Ring of Fire, Ring of Fire atau lingkaran api pasifik merupakan jalur patahan lem...
+      </p>
+                  <a class="item_readmore" href="/index.php/component/k2/item/51-cegah-siaga-gempa">
+        <span>
+          Read full article        </span>
+      </a>
+          </div>
+  </div>
+    <div class="yjme_item">
+    <div class="yjme_item_in yjmeitem41">
+     <div class="extra_holder">
+            <div class="imageholder" style="width:110px;height:70px;float:left;">
+        <a class="item_image"  style="width:110px;height:70px;" href="/index.php/component/k2/item/41-wagub-libatkan-masyarakat-dalam-mitigasi-bencana" >
+        <span class="yj_hover">   
+          <img src="/images/foto-kegiatan/Aq5FmOBExavVp-NndrVDFrnUzXYqhZ_plrCt5FRVuVSF.jpg" alt="Wagub: Libatkan Masyarakat Dalam Mitigasi Bencana" />
+        </span>
+        </a>
+      </div>
+                  <a class="item_title" href="/index.php/component/k2/item/41-wagub-libatkan-masyarakat-dalam-mitigasi-bencana">
+        Wagub: Libatkan Masyarakat Dalam Mitigasi Bencana      </a>
+                          <div class="item_cdate">
+			25<br/><span> February</span>            </div>
+        	  </div>
+                  <p class="item_intro">
+        JAKARTA–Sebagai daerah dengan rawan bencana tertinggi di Indonesia, Provinsi Jawa Barat perlu melibatkan semua pihak termasuk komunitas...
+      </p>
+                  <a class="item_readmore" href="/index.php/component/k2/item/41-wagub-libatkan-masyarakat-dalam-mitigasi-bencana">
+        <span>
+          Read full article        </span>
+      </a>
+          </div>
+  </div>
+    <div class="yjme_item">
+    <div class="yjme_item_in yjmeitem38">
+     <div class="extra_holder">
+            <div class="imageholder" style="width:110px;height:70px;float:left;">
+        <a class="item_image"  style="width:110px;height:70px;" href="/index.php/component/k2/item/38-cincin-api-pasifik" >
+        <span class="yj_hover">   
+          <img src="/images/foto-bencana/cincin-api.jpg" alt="Apa itu Cincin Api Pasifik |  Ring of Fire?" />
+        </span>
+        </a>
+      </div>
+                  <a class="item_title" href="/index.php/component/k2/item/38-cincin-api-pasifik">
+        Apa itu Cincin Api Pasifik |  Ring of Fire?      </a>
+                          <div class="item_cdate">
+			22<br/><span> February</span>            </div>
+        	  </div>
+                  <p class="item_intro">
+        Cincin Api Pasifik atau Ring of Fire adalah daerah yang sering mengalami gempa bumi dan letusan gunung berapi yang mengelilingi cekunga...
+      </p>
+                  <a class="item_readmore" href="/index.php/component/k2/item/38-cincin-api-pasifik">
+        <span>
+          Read full article        </span>
+      </a>
+          </div>
+  </div>
+    <div class="yjme_item">
+    <div class="yjme_item_in yjmeitem35">
+     <div class="extra_holder">
+            <div class="imageholder" style="width:110px;height:70px;float:left;">
+        <a class="item_image"  style="width:110px;height:70px;" href="/index.php/component/k2/item/35-kebakaran-jaya-plaza-21-2-2016" >
+        <span class="yj_hover">   
+          <img src="/images/foto-bencana/21-2-2016/e44d5b4c-47a8-47cf-88eb-5019ca6b9529.jpg" alt="Si Jago Merah Melahap Gedung Jaya Plaza Kota Bandung" />
+        </span>
+        </a>
+      </div>
+                  <a class="item_title" href="/index.php/component/k2/item/35-kebakaran-jaya-plaza-21-2-2016">
+        Si Jago Merah Melahap Gedung Jaya Plaza Kota Bandung      </a>
+                          <div class="item_cdate">
+			21<br/><span> February</span>            </div>
+        	  </div>
+                  <p class="item_intro">
+        Telah terjadi kebakaran pada jam 15.30 wib di jl. A.Yani (Jaya Plaza kota Bandung).
+ 
+Dampak :
+Gedung perbelanjaan elektronik terbak...
+      </p>
+                  <a class="item_readmore" href="/index.php/component/k2/item/35-kebakaran-jaya-plaza-21-2-2016">
+        <span>
+          Read full article        </span>
+      </a>
+          </div>
+  </div>
+    <div class="yjme_item">
+    <div class="yjme_item_in yjmeitem37 last">
+     <div class="extra_holder">
+            <div class="imageholder" style="width:110px;height:70px;float:left;">
+        <a class="item_image"  style="width:110px;height:70px;" href="/index.php/component/k2/item/37-angin-puting-beliung-kabupaten-ciamis-mengakibatkan-pohon-tumbang-menutup-jalan" >
+        <span class="yj_hover">   
+          <img src="http://bpbd.jabarprov.go.id/media/k2/items/cache/39eee751af30032eeece2f48de2de4ba_M.jpg" alt="Angin Puting Beliung Kabupaten Ciamis Mengakibatkan Pohon Tumbang Menutup Jalan" />
+        </span>
+        </a>
+      </div>
+                  <a class="item_title" href="/index.php/component/k2/item/37-angin-puting-beliung-kabupaten-ciamis-mengakibatkan-pohon-tumbang-menutup-jalan">
+        Angin Puting Beliung Kabupaten Ciamis Mengakibatkan Pohon Tumbang Menutup Jalan      </a>
+                          <div class="item_cdate">
+			21<br/><span> February</span>            </div>
+        	  </div>
+                  <p class="item_intro">
+        Tgl.21/02/2016. Pkl.16.00 wib.
+Terjadi pohon tumbang 
+Lokasi : di tanjakan alin ayin blok galian dkt gerbang icakan kab.ciamis.
+Akib...
+      </p>
+                  <a class="item_readmore" href="/index.php/component/k2/item/37-angin-puting-beliung-kabupaten-ciamis-mengakibatkan-pohon-tumbang-menutup-jalan">
+        <span>
+          Read full article        </span>
+      </a>
+          </div>
+  </div>
+  		<div class="items_category">
+    <a href="/index.php/component/k2/itemlist/category/11-kategori-artikel">
+		<span class="cat_title">
+            <span>More</span><br/>Artikel        </span>
+		<span class="cat_link">
+			<span class="icon-angle-right"></span>
+		</span>
+    </a>     
+	</div>
+	</div></div>
+</div>
+</div><div id="user7" class="yjsgxhtml lastModule" style="width:40%;"><div class="yjsquare dyjme2 yj2">
+    <div class="h2_holder">
+    <h2 class="module_title">
+      <span>Gempa</span> Bumi Terkini    </h2>
+  </div>
+    <div class="yjsquare_in"><!-- Powered by YJ Module Engine find out more at www.youjoomla.com -->
+<div class="yjme_holder">
+    <div class="yjme_item first">
+    <div class="yjme_item_in yjmeitem33 last">
+     <div class="extra_holder">
+            <div class="imageholder" style="width:110px;height:70px;float:left;">
+        <a class="item_image"  style="width:110px;height:70px;" href="/index.php/component/k2/item/33-gempa-4-5sr-48-km-tenggara-kota-sukabumi-jabar" >
+        <span class="yj_hover">   
+          <img src="http://bpbd.jabarprov.go.id/media/k2/items/cache/f7a0a54c92471ac4480e727e4ccf93df_L.jpg" alt="Gempa 4,6 SR 48 Km Tenggara Kota Sukabumi - Jabar" />
+        </span>
+        </a>
+      </div>
+                  <a class="item_title" href="/index.php/component/k2/item/33-gempa-4-5sr-48-km-tenggara-kota-sukabumi-jabar">
+        Gempa 4,6 SR 48 Km Tenggara Kota Sukabumi - Jabar      </a>
+                          <div class="item_cdate">
+			16<br/><span> February</span>            </div>
+        	  </div>
+                      </div>
+  </div>
+  		<div class="items_category">
+    <a href="/index.php/component/k2/itemlist/category/9-kategori-lokasi-gempa-bumi">
+		<span class="cat_title">
+            <span>More</span><br/>Gempa Bumi Terkini        </span>
+		<span class="cat_link">
+			<span class="icon-angle-right"></span>
+		</span>
+    </a>     
+	</div>
+	</div></div>
+</div>
+</div></div>	        <div id="centerbottom" class="yjsgsitew">
+			<!--MAIN LAYOUT HOLDER -->
+<div id="holder2">
+  <!-- messages -->
+  
+<div id="system-message-container">
+</div>
+  <!-- end messages -->
+  <!-- MID BLOCK -->
+  <div id="midblock" style="width:100%;">
+    <div class="insidem">
+                  <!-- component -->
+      <div class="yjsg-newsitems">
+	<div class="yjsg-blog_f">
+				
+		
+		
+				
+			</div>
+</div>
+      <!-- end component -->
+            	  <div class="clearm"></div>
+    </div>
+    <!-- end mid block insidem class -->
+  </div>
+  <!-- end mid block div -->
+
+    
+       </div>
+<!-- end holder div -->
+                     </div>
+	    <!-- end centerbottom-->
+		    <div class="bottom_out">
+		<div id="yjsg7" class="yjsg_grid yjsgsitew"><div id="user21" class="yjsgxhtml first_mod" style="width:25.88%;"><div class="yjsquare ">
+    <div class="h2_holder">
+    <h2 class="module_title">
+      <span>Alamat</span> BPBD Jabar    </h2>
+  </div>
+    <div class="yjsquare_in"><ul>
+<li>Jalan Soekarno Hatta No. 629, Bandung</li>
+<li>Telp. 022 -7313267 | 022 - 7310952</li>
+<li>Fax. 022 - 7315274</li>
+<li>Email: bpbdprovjabar@gmail.com</li>
+</ul>
+<center>
+<p><strong>Peta Lokasi BPBD Provinsi Jawa Barat</strong></p>
+<iframe style="border: 0px solid;" name="frame1" src="/sipusdalops/peta-bencana/lokasi-bpbd.php" frameborder="yes" scrolling="auto" align="center" width="300" height="290px"></iframe></center></div>
+</div>
+</div><div id="user22" class="yjsgxhtml" style="width:17.65%;"><div class="yjsquare ">
+    <div class="h2_holder">
+    <h2 class="module_title">
+      <span>PUSDALOPS</span>    </h2>
+  </div>
+    <div class="yjsquare_in"><ul>
+<li>Telp: 022 -7315274</li>
+<li>Fax: 022 -7315274</li>
+<li>Email: bpbdprovjabar@gmail.com</li>
+</ul>
+<!--
+<center>
+<p><strong>Aplikasi Lapor Bencana</strong></p>
+</center><center><iframe style="border: 0px solid;" name="frame1" src="/sipusdalops/peta-bencana/lokasi-bpbd.php" frameborder="yes" scrolling="auto" align="center" width="200" height="200px"></iframe></center>--></div>
+</div>
+</div><div id="user24" class="yjsgxhtml yjsgclearrow" style="width:21.18%;"><div class="yjsquare ">
+    <div class="h2_holder">
+    <h2 class="module_title">
+      <span>Pengunjung</span> Website    </h2>
+  </div>
+    <div class="yjsquare_in"><center>
+<p><iframe style="border: 0px solid;" name="frame1" src="/sipusdalops/visitor/index.php" frameborder="yes" scrolling="auto" align="center" width="250" height="300px"></iframe></p>
+</center></div>
+</div>
+</div><div id="user25" class="yjsgxhtml lastModule" style="width:35.29%;"><div class="yjsquare dsocials">
+    <div class="h2_holder">
+    <h2 class="module_title">
+      <span>Media</span> Sosial    </h2>
+  </div>
+    <div class="yjsquare_in"><p>Update Info kami di media sosial</p>
+<p><a href="https://www.facebook.com/" target="_blank">Facebook</a> <a class="yj_twitter" href="https://twitter.com/" target="_blank">Twitter</a> <a class="yj_googleplus" href="https://plus.google.com/" target="_blank">GPlus</a> <a class="yj_instagram" href="http://instagram.com/" target="_blank">Instagram</a></p>
+<p><a class="yj_youtube" href="https://www.youtube.com/" target="_blank">Youtube</a> <br /><br /></p></div>
+</div>
+<div class="yjsquare dtwitter yj4">
+    <div class="h2_holder">
+    <h2 class="module_title">
+      <span>Tweet</span> BPBD Jabar    </h2>
+  </div>
+    <div class="yjsquare_in">Could not authenticate you.</div>
+</div>
+</div></div>        
+
+<!-- footer -->
+<div id="footer" class="yjsgsitew">
+  <div id="youjoomla">
+        	<div id="cp">
+		<div class="validators"><a href="http://jigsaw.w3.org/css-validator/check/referer?profile=css3" target="_blank" title="CSS Validity"></a><a href="http://validator.w3.org/check/referer" target="_blank" title="XHTML Validity"></a><a class="yjscroll" href="#stylef6"></a></div><div class="yjsgcp">Copyright &copy; <span><a href="http://www.facebook.com/zhamarks" target="_blank" title="Rezha Ranmark">PUSDALOPS</a> - BPBD Provinsi Jawa Barat</span> 2016 All rights reserved.</div>						<div align="center">
+			 <a href="http://bpbd.jabarprov.go.id"><img src="http://localhost/v3/templates/dailynews/layouts/minilogo.png" width="50" height="50" style=”float:right;/>
+			 </a>
+			 </div>
+			<!--
+                <a class="yjsglogo png" href="http://yjsimplegrid.com/" target="_blank">
+					<span>YJSimpleGrid Joomla! Templates Framework official website</span>
+                </a> -->
+			       </div>
+  </div>
+</div>
+<!-- end footer -->
+	<script type="text/javascript">
+		var YJSG_topmenu_font = '14px';
+		window.addEvent('load', function(){
+			new SmoothDrop({
+				'container':'horiznav',	
+				contpoz:0,
+				horizLeftOffset: 20, // submenus, left offset
+				horizRightOffset: -20, // submenus opening into the opposite direction
+				horizTopOffset: 20, // submenus, top offset
+				verticalTopOffset:53, // main menus top offset
+				verticalLeftOffset: 10, // main menus, left offset
+				maxOutside: 50
+			});
+		});
+	  var logo_w = 850;var site_w = 1200;var site_f = '14px';var sp='http://bpbd.jabarprov.go.id/';var tp ='dailynews';var compileme =0;var fontc ='dailynews_256551393407284';
+	</script>
+	</div>
+		<div id="mmenu_holder">
+  <span class="yjmm_select" id="yjmm_selectid">Home</span>
+  <select id="mmenu" class="yjstyled">
+            <option value="/" selected="selected">&nbsp;Home</option>
+            <option value="">&nbsp;Profil</option>
+            <option value="#">&nbsp;--Sekilas BPBD Jawa Barat</option>
+            <option value="#">&nbsp;--Visi dan Misi</option>
+            <option value="#">&nbsp;--Tujuan</option>
+            <option value="#">&nbsp;--Tugas dan Fungsi</option>
+            <option value="#">&nbsp;--Struktur Organisasi</option>
+            <option value="#">&nbsp;--Daftar Nama Pejabat</option>
+            <option value="#">&nbsp;Produk Hukum</option>
+            <option value="#">&nbsp;Publikasi</option>
+            <option value="#">&nbsp;--Galeri</option>
+            <option value="#">&nbsp;--Video</option>
+            <option value="#">&nbsp;--Berita</option>
+            <option value="#">&nbsp;---Berita Umum</option>
+            <option value="#">&nbsp;---Berita Kegiatan</option>
+            <option value="#">&nbsp;--Transparansi Anggaran</option>
+            <option value="#">&nbsp;---Dokumen Pelaksana Anggaran</option>
+            <option value="#">&nbsp;---Lelang Pengadaan Barang &amp; Jasa</option>
+            <option value="#">&nbsp;BPBD Kabupaten / Kota</option>
+            <option value="#">&nbsp;PUSDALOPS BPBD Jabar</option>
+            <option value="#">&nbsp;--Tentang PUSDALOPS</option>
+            <option value="#">&nbsp;---Profil PUSDALOPS</option>
+            <option value="#">&nbsp;---Personil PUSDALOPS</option>
+            <option value="#">&nbsp;--Laporan Kejadian Bencana</option>
+            <option value="">&nbsp;--Sistem Informasi Pelaporan Bencana</option>
+            <option value="#">&nbsp;FAQ</option>
+            <option value="#">&nbsp;Kontak</option>
+            <option value="/index.php/login">&nbsp;Login</option>
+        </select>
+</div>	</div>    
+</body>
+</html>

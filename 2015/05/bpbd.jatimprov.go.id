@@ -1,0 +1,881 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" 
+	  xmlns:og="http://ogp.me/ns#" 
+	  xmlns:fb="http://www.facebook.com/2008/fbml" 
+	  xml:lang="pl" lang="pl">
+<head>
+        <meta http-equiv="X-UA-Compatible" content="IE=9" />
+    
+      <base href="http://bpbd.jatimprov.go.id/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="BPBD Jatim, BPBD, Badan Penanggulangan Bencana Daerah Provinsi Jawa Timur, BPBD Prov Jatim, BPBD Provinsi Jawa Timur, bpbd, bencana, Penanggulangan Bencana" />
+  <meta name="description" content="Situs Resmi Badan Penanggulangan Bencana Daerah Provinsi Jawa Timur" />
+  <meta name="generator" content="Joomla! 1.7 - Open Source Content Management" />
+  <title>Halaman Depan</title>
+  <link href="/index.php?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/index.php?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <link href="http://bpbd.jatimprov.go.id/templates/gk_finance_business/images/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link href="http://bpbd.jatimprov.go.id/index.php/component/search/?format=opensearch" rel="search" title="Search Badan Penanggulangan Bencana Daerah Provinsi Jawa Timur | BPBD Jatim" type="application/opensearchdescription+xml" />
+  <link rel="stylesheet" href="/media/system/css/modal.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/gk_finance_business/css/k2.css" type="text/css" />
+  <link rel="stylesheet" href="http://bpbd.jatimprov.go.id/templates/gk_finance_business/css/menu.gkmenu.css" type="text/css" />
+  <link rel="stylesheet" href="http://bpbd.jatimprov.go.id/templates/gk_finance_business/css/reset/meyer.css" type="text/css" />
+  <link rel="stylesheet" href="http://bpbd.jatimprov.go.id/templates/gk_finance_business/css/layout.css" type="text/css" />
+  <link rel="stylesheet" href="http://bpbd.jatimprov.go.id/templates/gk_finance_business/css/joomla.css" type="text/css" />
+  <link rel="stylesheet" href="http://bpbd.jatimprov.go.id/templates/gk_finance_business/css/template.css" type="text/css" />
+  <link rel="stylesheet" href="http://bpbd.jatimprov.go.id/templates/gk_finance_business/css/menu.css" type="text/css" />
+  <link rel="stylesheet" href="http://bpbd.jatimprov.go.id/templates/gk_finance_business/css/gk.stuff.css" type="text/css" />
+  <link rel="stylesheet" href="http://bpbd.jatimprov.go.id/templates/gk_finance_business/css/typography.style3.css" type="text/css" />
+  <link rel="stylesheet" href="http://bpbd.jatimprov.go.id/templates/gk_finance_business/css/typography.iconset.1.css" type="text/css" />
+  <link rel="stylesheet" href="http://bpbd.jatimprov.go.id/templates/gk_finance_business/css/typography.iconset.2.css" type="text/css" />
+  <link rel="stylesheet" href="http://bpbd.jatimprov.go.id/templates/gk_finance_business/css/typography.iconset.3.css" type="text/css" />
+  <link rel="stylesheet" href="http://bpbd.jatimprov.go.id/templates/gk_finance_business/css/style3.css" type="text/css" />
+  <link rel="stylesheet" href="http://bpbd.jatimprov.go.id/modules/mod_news_pro_gk4/interface/css/style.portal.mode.3.css" type="text/css" />
+  <link rel="stylesheet" href="http://bpbd.jatimprov.go.id/modules/mod_news_pro_gk4/interface/css/style.portal.mode.1.css" type="text/css" />
+  <link rel="stylesheet" href="http://bpbd.jatimprov.go.id/modules/mod_image_show_gk4/styles/gk_financial_business/style.css" type="text/css" />
+  <style type="text/css">
+#gkHeaderModule1 { width: 75%; }#gkHeaderModule2 { width: 25%; }#gkRight { width: 23%; }#gkContent { width: 77%; }#gkWrap1, #gkWrap2, #gkWrap3 { width: 1002px; }body,
+div.gk-menu .level0 > li li,
+#gkWrap2 .box_text .banneritem,
+#gkWrap2 .box_text .bannerfooter,
+#gkWrap2 .box.color1 > h3, 
+#gkWrap2 .box_menu.color1 > h3, 
+#gkWrap2 .box_text.color1 > h3, 
+#gkWrap2 .box.color2 > h3, 
+#gkWrap2 .box_menu.color2 > h3, 
+#gkWrap2 .box_text.color2 > h3, 
+#gkWrap2 .box.color3 > h3, 
+#gkWrap2 .box_menu.color3 > h3, 
+#gkWrap2 .box_text.color3 > h3, 
+#gkWrap2 .box.color4 > h3, 
+#gkWrap2 .box_menu.color4 > h3, 
+#gkWrap2 .box_text.color4 > h3,
+.nspMainPortalMode2 .nspBotInterface .nspArtHeadline .nspHeadline h4, 
+.nspMainPortalMode1 .nspHeader { font-family: Arial, Helvetica, sans-serif; }
+h1,
+h2,
+h3,
+h4,
+h5,
+div.gk-menu > ul.level0 > li,
+div#gkDropMain > ul > li,
+#gkWrap2 .box_text .bannergroup_text,
+.search-results dt.result-title a,
+.nspMainPortalMode3 .nspTitleTab .nspTitle,
+.registration legend,
+.gkIsTextTitle a { font-family: BebasNeue, Arial, sans-serif; }
+#gkButtons a,
+.button, button, 
+button.button, 
+a.readon, 
+ .moduleItemReadMore, 
+ .latestItemReadMore a.k2ReadMore, 
+ .userItemReadMore a.k2ReadMore, 
+ .catItemReadMore a.k2ReadMore, 
+ .k2ReadMore,
+ .subCategoryMore, 
+ .readmore-link, 
+ .comments-link,
+#gkWrap2 .box.font2 > h3, 
+#gkWrap2 .box_menu.font2 > h3, 
+#gkWrap2 .box_text.font2 > h3  { font-family: Tahoma, Geneva, sans-serif; }
+#gkContentMainbody { margin-right:20px; }#gkuseruser1 { width: 33.33%; }#gkuseruser2 { width: 33.33%; }#gkuseruser4 { width: 33.33%; }#gkbottombottom2 { width: 20%; }#gkbottombottom3 { width: 20%; }#gkbottombottom4 { width: 20%; }#gkbottombottom5 { width: 20%; }#gkbottombottom6 { width: 20%; }
+  </style>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="/media/system/js/modal.js" type="text/javascript"></script>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6/jquery.min.js" type="text/javascript"></script>
+  <script src="/components/com_k2/js/k2.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="http://bpbd.jatimprov.go.id/templates/gk_finance_business/js/menu.gkmenu.js" type="text/javascript"></script>
+  <script src="http://bpbd.jatimprov.go.id/templates/gk_finance_business/js/gk.scripts.js" type="text/javascript"></script>
+  <script src="/media/system/js/validate.js" type="text/javascript"></script>
+  <script src="http://bpbd.jatimprov.go.id/modules/mod_news_pro_gk4/interface/scripts/engine.portal.mode.1.js" type="t" defer="defer" async="async"></script>
+  <script src="http://bpbd.jatimprov.go.id/modules/mod_image_show_gk4/styles/gk_financial_business/engine.js" type="text/javascript"></script>
+  <script type="text/javascript">
+
+		window.addEvent('domready', function() {
+
+			SqueezeBox.initialize({});
+			SqueezeBox.assign($$('a.modal'), {
+				parse: 'rel'
+			});
+		});var K2SitePath = '/'; $GKMenu = { height:true, width:true, duration: 250 };$GK_TMPL_URL = "http://bpbd.jatimprov.go.id/templates/gk_finance_business";function keepAlive() {	var myAjax = new Request({method: "get", url: "index.php"}).send();} window.addEvent("domready", function(){ keepAlive.periodical(840000); });
+		window.addEvent('domready', function() {
+			$$('.hasTip').each(function(el) {
+				var title = el.get('title');
+				if (title) {
+					var parts = title.split('::', 2);
+					el.store('tip:title', parts[0]);
+					el.store('tip:text', parts[1]);
+				}
+			});
+			var JTooltips = new Tips($$('.hasTip'), { maxTitleChars: 50, fixed: false});
+		});try {$Gavick;}catch(e){$Gavick = {};};$Gavick["gkIs-gk-is-118"] = { "anim_speed": 500, "anim_interval": 5000, "autoanim": 1, "anim_type": "opacity","slide_links": 1 };
+  </script>
+
+	<meta property="og:title" content="Badan Penanggulangan Bencana Provinsi Jawa Timur" />
+     	<meta property="og:site_name" content="BPBD Jatim">
+	<meta property="og:url" content="http://bpbd.jatimprov.go.id">
+	<meta property="og:description" content="BPBD Provinsi Jawa Timur merupakan badan pemerintah di lingkungan Pemerintah Provinsi Jawa Timur yang bertugas untuk berkoordinasi dalam penanggulangan bencana khususnya di wilayah Jawa Timur dan sekitarnya bila diperlukan." />
+    <link href="http://bpbd.jatimprov.go.id/templates/gk_finance_business/fonts/BebasNeue/stylesheet.css" rel="stylesheet" type="text/css" />	<!--[if IE 8.0]><link rel="stylesheet" href="http://bpbd.jatimprov.go.id/templates/gk_finance_business/css/ie8.css" type="text/css" /><![endif]-->
+	<!--[if IE 7.0]><link rel="stylesheet" href="http://bpbd.jatimprov.go.id/templates/gk_finance_business/css/ie7.css" type="text/css" /><![endif]-->
+</head>
+<body>
+		
+		
+	
+	<div id="gkBg">   
+		<div id="gkWrap1">
+			
+<div id="gkPageTop" class="gkMain ">
+          <h1 id="gkLogo">
+          <a href="/./" class="cssLogo"></a>
+     </h1>
+     
+
+             <div id="gkButtons">
+						<a href="http://bpbd.jatimprov.go.id/index.php?option=com_users&amp;view=login" id="btnLogin">Login</a>
+						
+						<a href="http://bpbd.jatimprov.go.id/index.php?option=com_users&amp;view=registration" id="btnRegister">Register</a>
+			        </div>
+        	<div id="gkMenu">
+		<div class="gk-menu">
+<ul class="gkmenu level0"><li  class="first active"><a href="http://bpbd.jatimprov.go.id/"  class=" first active" id="menu101" title="Halaman Depan"><span class="menu-title">Halaman Depan</span></a></li><li  class="haschild"><a href="/index.php/profil"  class=" haschild" id="menu261" title="Profil"><span class="menu-title">Profil</span></a><div class="childcontent" style="width: 202px;">
+<div class="childcontent-inner" style="width: 200px;">
+<div class="gkcol  first" style="width: 200px;"><ul class="gkmenu level1"><li  class="first"><a href="/index.php/profil/kedudukan-a-alamat"  class=" first" id="menu298" title="Kedudukan &amp; Alamat"><span class="menu-title">Kedudukan &amp; Alamat</span></a></li><li ><a href="/index.php/profil/visi"  id="menu262" title="Visi"><span class="menu-title">Visi</span></a></li><li ><a href="/index.php/profil/misi"  id="menu263" title="Misi"><span class="menu-title">Misi</span></a></li><li ><a href="/index.php/profil/tujuan"  id="menu273" title="Tujuan"><span class="menu-title">Tujuan</span></a></li><li ><a href="/index.php/profil/fungsi-dan-tugas"  id="menu272" title="Fungsi dan Tugas"><span class="menu-title">Fungsi dan Tugas</span></a></li><li ><a href="/index.php/profil/struktur-organisasi"  id="menu264" title="Struktur Organisasi"><span class="menu-title">Struktur Organisasi</span></a></li><li ><a href="/index.php/profil/daftar-nama-pejabat"  id="menu277" title="Daftar Nama Pejabat"><span class="menu-title">Daftar Nama Pejabat</span></a></li><li  class="last"><a href="/index.php/profil/jumlah-pegawai"  class=" last" id="menu283" title="Jumlah Pegawai"><span class="menu-title">Jumlah Pegawai</span></a></li></ul></div>
+</div>
+</div></li><li ><a href="/index.php/bpbd-kab--kota"  id="menu265" title="BPBD Kab. / Kota"><span class="menu-title">BPBD Kab. / Kota</span></a></li><li  class="haschild"><a href="/index.php/info-bencana"  class=" haschild" id="menu266" title="Info Bencana"><span class="menu-title">Info Bencana</span></a><div class="childcontent" style="width: 202px;">
+<div class="childcontent-inner" style="width: 200px;">
+<div class="gkcol  first" style="width: 200px;"><ul class="gkmenu level1"><li  class="first"><a href="/index.php/info-bencana/status-gunung"  class=" first" id="menu284" title="Status Gunung"><span class="menu-title">Status Gunung</span></a></li></ul></div>
+</div>
+</div></li><li  class="haschild"><a href="/index.php/berita"  class=" haschild" id="menu267" title="Berita"><span class="menu-title">Berita</span></a><div class="childcontent" style="width: 202px;">
+<div class="childcontent-inner" style="width: 200px;">
+<div class="gkcol  first" style="width: 200px;"><ul class="gkmenu level1"><li  class="first"><a href="/index.php/berita/sekretariat"  class=" first" id="menu286" title="Sekretariat"><span class="menu-title">Sekretariat</span></a></li><li ><a href="/index.php/berita/pencegahan-dan-kesiapsiagaan"  id="menu287" title="Pencegahan dan Kesiapsiagaan"><span class="menu-title">Pencegahan dan Kesiapsiagaan</span></a></li><li ><a href="/index.php/berita/kedaruratan-dan-logistik"  id="menu288" title="Kedaruratan dan Logistik"><span class="menu-title">Kedaruratan dan Logistik</span></a></li><li  class="last"><a href="/index.php/berita/rehabilitasi-dan-rekonstruksi"  class=" last" id="menu289" title="Rehabilitasi dan Rekonstruksi"><span class="menu-title">Rehabilitasi dan Rekonstruksi</span></a></li></ul></div>
+</div>
+</div></li><li ><a href="/index.php/hubungi-kami"  id="menu268" title="Hubungi Kami"><span class="menu-title">Hubungi Kami</span></a></li><li ><a href="http://ppid.bpbd.jatimprov.go.id" target="_blank"  id="menu278" title="PPID"><span class="menu-title">PPID</span></a></li><li  class="last"><a href="http://lpse.jatimprov.go.id/" target="_blank"  class=" last" id="menu299" title="LPSE"><span class="menu-title">LPSE</span></a></li></ul>
+</div>	</div>
+    
+</div>
+			
+			
+<div id="system-message-container">
+</div>
+<div id="gkBanner1" class="clear clearfix">
+      <!-- BEGIN: Custom advanced (www.pluginaria.com) -->
+<div class="warning">Tidak ada peringatan dini &nbsp;<a href=#>x</a></div><!-- END: Custom advanced (www.pluginaria.com) -->
+
+</div>
+
+<div id="gkHeader" class="gkMain">
+		<div id="gkHeaderModule1">
+		<div class="box"><div class="content">
+<div id="gkIs-gk-is-118" class="gkIsWrapper-gk_financial_business">
+	<div class="gkIsPreloader"></div>
+	
+	<div class="gkIsImage" style="height: 310px;">
+																												
+				<div class="gkIsSlide" style="z-index: 4;" title="Gotong Royong Menanggulangi Bencana">http://bpbd.jatimprov.go.id/modules/mod_image_show_gk4/cache/depan01gk-is-118.jpg<a href="/">link</a></div>
+																
+				<div class="gkIsSlide" style="z-index: 5;" title="Posko Penanggulangan Bencana Jawa Timur">http://bpbd.jatimprov.go.id/modules/mod_image_show_gk4/cache/depan02gk-is-118.jpg<a href="http://bpbd.jatimprov.go.id/v1/index.php/hubungi-kami">link</a></div>
+																
+				<div class="gkIsSlide" style="z-index: 6;" title="Gotong Royong Menanggulangi Bencana">http://bpbd.jatimprov.go.id/modules/mod_image_show_gk4/cache/kelud2gk-is-118.jpg<a href="/">link</a></div>
+																
+				<div class="gkIsSlide" style="z-index: 7;" title="Gotong Royong Menanggulangi Bencana">http://bpbd.jatimprov.go.id/modules/mod_image_show_gk4/cache/kelud3gk-is-118.jpg<a href="/">link</a></div>
+												
+	</div>
+	
+	<div class="gkIsText">
+		<div class="gkIsTextTitle"></div>
+		
+				<div class="gkIsTextInterface">
+						<span>0</span>
+						<span>1</span>
+						<span>2</span>
+						<span>3</span>
+						<span>4</span>
+						<span>5</span>
+						<span>6</span>
+						<span>7</span>
+					</div>
+				
+		<div class="gkIsTimeline">
+			<div class="gkIsProgress">Progress bar</div>
+		</div>
+	</div>
+	
+		
+	<div class="gkIsTextData">
+																							
+					
+			<div class="gkIsTextItem">
+				<span>15-08-2016</span><a href="/">Gotong Royong Menanggulangi Bencana</a>
+			</div>
+											
+					
+			<div class="gkIsTextItem">
+				<span>15-08-2016</span><a href="http://bpbd.jatimprov.go.id/v1/index.php/hubungi-kami">Posko Penanggulangan Bencana Jawa Timur</a>
+			</div>
+											
+					
+			<div class="gkIsTextItem">
+				<span>15-08-2016</span><a href="/">Gotong Royong Menanggulangi Bencana</a>
+			</div>
+											
+					
+			<div class="gkIsTextItem">
+				<span>15-08-2016</span><a href="/">Gotong Royong Menanggulangi Bencana</a>
+			</div>
+											</div>
+</div></div></div>
+	</div>
+		
+		<div id="gkHeaderModule2">
+		<div class="box"><h3 class="header"><span>Info</span> Bencana</h3><div class="content">
+
+
+<div class="nspMainPortalMode1 nspFs100" id="nsp-nsp_153" style="width:100%;">
+	
+	<div class="nspTopInterface">
+		<span class="nspPrev">Prev</span>
+		<span class="nspNext">Next</span>
+	</div>
+
+	<div class="nspArts" style="height:320px;">
+		
+			<div class="nspArt">
+				<div style="padding:5px 20px 20px 5px">
+					<h4 class="nspHeader tleft fnone"><a href="/index.php/informasi-bencana/358-waspada-bromo-juni-2016" title="Waspada Bromo Juni 2016">Waspada Bromo Juni 2016</a></h4><p class="nspText tleft fleft">#Laporan Gn. Bromo 17/06/2016.
+*Visual: Cuaca cerah-mendung, angin tenang-kencang, suhu 11-20°C. G.Bromo jelas-kabut 0III. Asap kawah...</p><a class="readon  fright" href="/index.php/informasi-bencana/358-waspada-bromo-juni-2016">Read more</a>
+				</div>
+			</div>
+		
+			<div class="nspArt">
+				<div style="padding:5px 20px 20px 5px">
+					<h4 class="nspHeader tleft fnone"><a href="/index.php/informasi-bencana/355-waspada-bromo-maret-2015" title="Waspada Bromo Mei 2016">Waspada Bromo Mei 2016</a></h4><p class="nspText tleft fleft">
+#Laporan Gn. Bromo 31/05/2016
+ 
+*I.Visual:* Cuaca cerah-mendung, angin tenang, suhu 12-16°C. Hujan gerimis-deras (18 mm). G.Bromo...</p><a class="readon  fright" href="/index.php/informasi-bencana/355-waspada-bromo-maret-2015">Read more</a>
+				</div>
+			</div>
+		
+			<div class="nspArt">
+				<div style="padding:5px 20px 20px 5px">
+					<h4 class="nspHeader tleft fnone"><a href="/index.php/informasi-bencana/354-waspada-bromo-maret-2016" title="Waspada Bromo April 2016">Waspada Bromo April 2016</a></h4><p class="nspText tleft fleft">#Laporan Gn. Bromo 30/04/2016
+I. Visual: Cuaca cerah-mendung, angin tenang, suhu 10-20°C. G.Bromo jelas-kabut 0-III. Asap...</p><a class="readon  fright" href="/index.php/informasi-bencana/354-waspada-bromo-maret-2016">Read more</a>
+				</div>
+			</div>
+		
+			<div class="nspArt">
+				<div style="padding:5px 20px 20px 5px">
+					<h4 class="nspHeader tleft fnone"><a href="/index.php/informasi-bencana/335-siaga-gunung-bromo-februari-2016" title="Siaga Gunung Bromo Feb 2016">Siaga Gunung Bromo Feb 2016</a></h4><p class="nspText tleft fleft">#Laporan Bromo 26/2/2016 pkl.06.00-12.00
+I.Visual : Cuaca cerah-mendung, 
+angin tenang, suhu 11-20°C.  G.Bromo jelas-kabut 0-III. Asap kawah...</p><a class="readon  fright" href="/index.php/informasi-bencana/335-siaga-gunung-bromo-februari-2016">Read more</a>
+				</div>
+			</div>
+		
+			<div class="nspArt">
+				<div style="padding:5px 20px 20px 5px">
+					<h4 class="nspHeader tleft fnone"><a href="/index.php/informasi-bencana/333-bpbd-jatim-bantu-korban-banjir-dan-tanah-longsor-di-bondowoso" title="BPBD Jatim Bantu Korban Banjir dan Tanah Longsor di Bondowoso">BPBD Jatim Bantu Korban Banjir dan Tanah Longsor d&hellip;</a></h4><a href="/index.php/informasi-bencana/333-bpbd-jatim-bantu-korban-banjir-dan-tanah-longsor-di-bondowoso"><img class="nspImage tleft fleft" src="/images/untitled-5.jpg" alt="BPBD Jatim Bantu Korban Banjir dan Tanah Longsor di Bondowoso" style="width:160px;height:120px;margin:6px 14px 0 0;"  /></a><p class="nspText tleft fleft">Puluhan rumah warga dan sawah di Desa Wonoboyo Kecamatan Klabang, Kabupaten Bondowoso, Jawa Timur, Minggu...</p><a class="readon  fright" href="/index.php/informasi-bencana/333-bpbd-jatim-bantu-korban-banjir-dan-tanah-longsor-di-bondowoso">Read more</a>
+				</div>
+			</div>
+		
+			<div class="nspArt">
+				<div style="padding:5px 20px 20px 5px">
+					<h4 class="nspHeader tleft fnone"><a href="/index.php/informasi-bencana/332-banjir-bandang-terjang-situbondo-bpbd-jatim-turun-tangan" title="Banjir Bandang Terjang Situbondo, BPBD Jatim Turun Tangan ">Banjir Bandang Terjang Situbondo, BPBD Jatim Turun&hellip;</a></h4><a href="/index.php/informasi-bencana/332-banjir-bandang-terjang-situbondo-bpbd-jatim-turun-tangan"><img class="nspImage tleft fleft" src="/images/untitled-4.jpg" alt="Banjir Bandang Terjang Situbondo, BPBD Jatim Turun Tangan " style="width:160px;height:120px;margin:6px 14px 0 0;"  /></a><p class="nspText tleft fleft">Akibat hujan deras yang melanda Situbondo, Jawa Timur. Sungai Silowogo tidak mampu menampung air hujan...</p><a class="readon  fright" href="/index.php/informasi-bencana/332-banjir-bandang-terjang-situbondo-bpbd-jatim-turun-tangan">Read more</a>
+				</div>
+			</div>
+		
+			<div class="nspArt">
+				<div style="padding:5px 20px 20px 5px">
+					<h4 class="nspHeader tleft fnone"><a href="/index.php/informasi-bencana/327-siaga-gunung-bromo-2016" title="Siaga Gunung Bromo Januari 2016">Siaga Gunung Bromo Januari 2016</a></h4><p class="nspText tleft fleft">#Laporan RUTIN BROMO 26/2/2016 pkl.00.00-06.00 WIB
+I.Visual : Cuaca cerah-mendung, 
+angin tenang, suhu 11-12°C.  G.Bromo jelas-kabut 0-III....</p><a class="readon  fright" href="/index.php/informasi-bencana/327-siaga-gunung-bromo-2016">Read more</a>
+				</div>
+			</div>
+		
+			<div class="nspArt">
+				<div style="padding:5px 20px 20px 5px">
+					<h4 class="nspHeader tleft fnone"><a href="/index.php/informasi-bencana/326-siaga-gunung-bromo" title="Siaga Gunung Bromo 2015">Siaga Gunung Bromo 2015</a></h4><p class="nspText tleft fleft"># Laporan Gunung Bromo 05/01/2016 06.00-12.00 WIB
+I.Visual : Cuaca cerah, angin tenang, suhu 11-28°C, Gn....</p><a class="readon  fright" href="/index.php/informasi-bencana/326-siaga-gunung-bromo">Read more</a>
+				</div>
+			</div>
+		
+			<div class="nspArt">
+				<div style="padding:5px 20px 20px 5px">
+					<h4 class="nspHeader tleft fnone"><a href="/index.php/informasi-bencana/322-informasi-data-korban-akibat-kebakaran-hutan-di-gunung-lawu-4" title="Kebakaran Hutan di Gunung Lawu">Kebakaran Hutan di Gunung Lawu</a></h4><p class="nspText tleft fleft">Tim SAR Gabungan masih terus melakukan operasi di jalur pendakiaan Gunung Lawu. Sore ini, 15...</p><a class="readon  fright" href="/index.php/informasi-bencana/322-informasi-data-korban-akibat-kebakaran-hutan-di-gunung-lawu-4">Read more</a>
+				</div>
+			</div>
+		
+			<div class="nspArt">
+				<div style="padding:5px 20px 20px 5px">
+					<h4 class="nspHeader tleft fnone"><a href="/index.php/informasi-bencana/321-informasi-data-korban-akibat-kebakaran-hutan-di-gunung-lawu-3" title="Kebakaran Hutan di Gunung Lawu">Kebakaran Hutan di Gunung Lawu</a></h4><p class="nspText tleft fleft">Hingga siang ini Selasa (20/10) operasi SAR Gabungan Gunung Lawu masih terus dilakukan. Rencana pembagian...</p><a class="readon  fright" href="/index.php/informasi-bencana/321-informasi-data-korban-akibat-kebakaran-hutan-di-gunung-lawu-3">Read more</a>
+				</div>
+			</div>
+			
+	</div>
+	
+</div>
+
+
+
+
+<script type="text/javascript" src="http://bpbd.jatimprov.go.id/modules/mod_news_pro_gk4/interface/scripts/engine.portal.mode.1.js"></script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+try {$Gavick;}catch(e){$Gavick = {};};
+$Gavick["nsp-nsp_153"] = {
+	"animation_speed": 400,
+	"animation_interval": 5000
+};
+//]]>
+</script>	</div></div>
+	</div>
+	</div>
+
+		</div>
+    </div>
+    
+        
+    <div id="gkWrap2">	
+    	
+
+    	
+    	
+<div id="gkMain">
+	<div id="gkMainBlock" class="gkMain">
+		
+
+	
+				<div id="gkContent" class="gkMain gkCol gkPaddingTBLR">
+						
+						<div id="gkContentMainbody" class="gkMain gkPaddingTBLR">
+							
+				
+														
+				<div id="gkComponentWrap" class="gkMain  ">	
+										<div id="gkMainbodyTop" class="gkMain gkPaddingTBLR">
+						<div class="box"><div class="content">
+
+<div class="custom"  >
+	<p><a href="/files/bnpb/Poster%20Lomba%20TA%202016.pdf"><img class="null" src="/images/banner-lomba1.jpg" border="0" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p></div>
+</div></div>
+					</div>
+						
+					
+					                    <div>
+					<div class="box clean"><div class="content">
+
+
+<div class="nspMainPortalMode3 nspFs100" id="nsp-nsp_114">
+	
+	<div class="nspTitles">
+		
+		<div class="nspTitleBlock">	
+			<div class="nspTitleTab"><div class="nspDate">08-06-2016</div><div class="nspTitle">BMKG : Prakiraan Cuaca Bulan Juli 2016 Jawa Timur</div></div><div class="nspArtMore unvisible"><div class="nspArtMain"><p class="nspText tleft fleft">Berikut ini kami sampaikan tentang prakiraan kondisi cuaca pada bulan Juli 2016 di Jawa Timur. Pada bulan Juli 2016 Jawa Timur memasuki musim kemarau Tahun 2016. Diprakirakan terjadi La Nina yang akan aktif pada Juni – Oktober 2016. Pada saat terjadi La Nina jumlah curah hujan cenderung meningkat dibandingkan dengan jumlah normalnya. Detil informasi dapat diunduh melalui link berikut &gt;&gt;klik...</p><a class="readon  fright" href="/index.php/berita-terkini/356-bmkg--prakiraan-cuaca-bulan-juli-2016-jawa-timur">Read more</a></div></div>
+		</div>
+		
+		<div class="nspTitleBlock">	
+			<div class="nspTitleTab"><div class="nspDate">15-04-2016</div><div class="nspTitle">Prakiraan Musim Kemarau 2016</div></div><div class="nspArtMore unvisible"><div class="nspArtMain"><p class="nspText tleft fleft">Berikut ini kami sampaikan tentang prakiraan kondisi cuaca pada bulan April 2016 dan prakiraan musim kemarau 2016 di Jawa Timur dari BMKG. Pada bulan April 2016 di wilayah Jawa Timur diprakirakan memasuki masa peralihan dari musim penghujan menuju musim kemarau. Pada saat masa peralihan harap diwaspadai berbagai cuaca ekstrim seperti hujan lebat yang disertai angin kencang sesaat yang bersifat merusak....</p><a class="readon  fright" href="/index.php/berita-terkini/353-prakiraan-musim-kemarau-2016">Read more</a></div></div>
+		</div>
+		
+		<div class="nspTitleBlock">	
+			<div class="nspTitleTab"><div class="nspDate">22-03-2016</div><div class="nspTitle">BPBD Jatim Gelar Kesiapsiagaan Relawan PB Jawa Timur </div></div><div class="nspArtMore unvisible"><div class="nspArtMain"><img class="nspImage tleft fleft" src="http://bpbd.jatimprov.go.id/modules/mod_news_pro_gk4/cache/untitled-18nsp_114.jpg" alt="BPBD Jatim Gelar Kesiapsiagaan Relawan PB Jawa Timur " style="margin:7px 20px 10px 0;" /><p class="nspText tleft fleft">BPBD Jatim menggelar acara Kesiapsiagaan Relawan Penanggulangan Bencana (PB) di Jawa Timur, Selasa (22/3) di ruang rapat kantor BPBD Jatim, Sidoarjo. Kepala Pelaksana BPBD Jatim Drs. Ec. Sudarmawan, MM memimpin langsung kegiatan tersebut. Tujuan dari acara tersebut untuk mengoptimalisasi fungsi relawan penanggulangan bencana di Jawa Timur.
+
+ Kalaksa BPBD Jatim pimpin acara Gelar Kesiapsiagaan Relawan PB Jatim di kantor BPBD Jatim, Selasa...</p><a class="readon  fright" href="/index.php/berita-terkini/351-bpbd-jatim-gelar-kesiapsiagaan-relawan-pb-jawa-timur">Read more</a></div></div>
+		</div>
+		
+		<div class="nspTitleBlock">	
+			<div class="nspTitleTab"><div class="nspDate">22-03-2016</div><div class="nspTitle">BPBD Jatim Gelar Upacara HUT Damkar Ke-97 </div></div><div class="nspArtMore unvisible"><div class="nspArtMain"><img class="nspImage tleft fleft" src="http://bpbd.jatimprov.go.id/modules/mod_news_pro_gk4/cache/untitled-17nsp_114.jpg" alt="BPBD Jatim Gelar Upacara HUT Damkar Ke-97 " style="margin:7px 20px 10px 0;" /><p class="nspText tleft fleft">BPBD Jatim menggelar upacara HUT Damkar Ke-97 Tahun 2016 Tingkat Provinsi        Jawa Timur, Selasa (22/3) di halaman kantor BPBD Jatim, Sidoarjo. Bertindak sebagai inspektur upacara, Asisten Kesejahteraan Masyarakat Pemprov Jatim DR. H. Shofwan, SH., M.Si.
+
+ 
+Upacara HUT Damkar Ke-97 di halaman kantor BPBD Jatim, Selasa (22/3).
+Dalam sambutan Menteri Dalam Negeri Tjahjo Kumolo yang dibacakan Asisten Kesejahteraan Masyarakat Pemprov Jatim, Shofwan, mengatakan,...</p><a class="readon  fright" href="/index.php/berita-terkini/350-bpbd-jatim-gelar-upacara-hut-damkar-ke-97">Read more</a></div></div>
+		</div>
+		
+		<div class="nspTitleBlock">	
+			<div class="nspTitleTab"><div class="nspDate">16-03-2016</div><div class="nspTitle">BPBD Jatim Terima Kunjungan Dompet Dhuafa Jatim </div></div><div class="nspArtMore unvisible"><div class="nspArtMain"><img class="nspImage tleft fleft" src="http://bpbd.jatimprov.go.id/modules/mod_news_pro_gk4/cache/untitled-16nsp_114.jpg" alt="BPBD Jatim Terima Kunjungan Dompet Dhuafa Jatim " style="margin:7px 20px 10px 0;" /><p class="nspText tleft fleft">BPBD Jatim menerima kunjungan Dompet Dhuafa Jatim di kantor BPBD Jatim, Sidoarjo, Rabu (16/3). Rombongan Dompet Dhuafa, tiba pukul 09.00 WIB, langsung disambut Sekretaris BPBD Jatim Lucianingsih, SH., MM di ruang rapat Kalaksa BPBD Jatim.
+ 
+
+Sekretaris BPBD Jatim, Lucianingsih saat menerima kunjungan Dompet Dhuafa Jatim di kantor BPBD Jatim, Rabu (16/3).
+Pertemuan yang digelar di ruang rapat Kalaksa BPBD Jatim pada Rabu...</p><a class="readon  fright" href="/index.php/berita-terkini/349-bpbd-jatim-terima-kunjungan-dompet-dhuafa-jatim">Read more</a></div></div>
+		</div>
+		
+		<div class="nspTitleBlock">	
+			<div class="nspTitleTab"><div class="nspDate">10-03-2016</div><div class="nspTitle">Prakicu Maret - April 2016</div></div><div class="nspArtMore unvisible"><div class="nspArtMain"><p class="nspText tleft fleft">Berdasarkan surat BMKG Nomer KT.304/267/MJUD/III/2016 tanggal 8 Maret 2016, disampaikan tentang prakiraan kondisi cuaca di Jawa Timur pada bulan Maret – April 2016 dan ringkasan kejadian La Nina dan El Nino tahun 2012-2015. Lebih lengkap &gt;&gt; klik disini &lt;&lt;</p><a class="readon  fright" href="/index.php/berita-terkini/348-prakicu-maret-april-2016">Read more</a></div></div>
+		</div>
+		
+		<div class="nspTitleBlock">	
+			<div class="nspTitleTab"><div class="nspDate">07-03-2016</div><div class="nspTitle">Gus Ipul Sambangi Korban Banjir di Lamongan</div></div><div class="nspArtMore unvisible"><div class="nspArtMain"><img class="nspImage tleft fleft" src="http://bpbd.jatimprov.go.id/modules/mod_news_pro_gk4/cache/untitled-15nsp_114.jpg" alt="Gus Ipul Sambangi Korban Banjir di Lamongan" style="margin:7px 20px 10px 0;" /><p class="nspText tleft fleft">Tersumbatnya drainase dan tingginya permukaan air sungai daripada jalan raya serta curah hujan yang tinggi di wilayah Kabupaten Lamongan, Jawa Timur, mengakibatkan terjadinya genangan. Sejak Jumat (26/2) hingga saat ini air masih menggenangi wilayah Kecamatan Babat dan sekitarnya. Pengaktifan pompa penyedot air berkapasitas 1.350 liter per detik belum efektif mengatasi banjir karena curah hujan yang tinggi.
+
+ Wakil Gubernur Jawa Timur, Gus...</p><a class="readon  fright" href="/index.php/berita-terkini/347-gus-ipul-sambangi-korban-banjir-di-lamongan">Read more</a></div></div>
+		</div>
+		
+		<div class="nspTitleBlock">	
+			<div class="nspTitleTab"><div class="nspDate">02-03-2016</div><div class="nspTitle">Curah Hujan Jawa Timur 2016</div></div><div class="nspArtMore unvisible"><div class="nspArtMain"><p class="nspText tleft fleft">Disampaikan informasi curah hujan untuk wilayah Jawa Timur selama periode dasarian kedua Februari 2016, berdasarkan : A. Monitoring hari berturut-turut tanpa hujan  B. Anomali curah hujan dasarian (nilai curah hujan yang terjadi dikurangi rata-rata dalam periode yang sama)  C. Frekuensi kejadian curah hujan harian lebih dari 50 mm dalam 1 dasarian
+</p><a class="readon  fright" href="/index.php/berita-terkini/346-curah-hujan-jawa-timur-2016">Read more</a></div></div>
+		</div>
+		
+		<div class="nspTitleBlock">	
+			<div class="nspTitleTab"><div class="nspDate">29-02-2016</div><div class="nspTitle">Kepala BNPB Tinjau Banjir Sampang</div></div><div class="nspArtMore unvisible"><div class="nspArtMain"><img class="nspImage tleft fleft" src="http://bpbd.jatimprov.go.id/modules/mod_news_pro_gk4/cache/untitled-14nsp_114.jpg" alt="Kepala BNPB Tinjau Banjir Sampang" style="margin:7px 20px 10px 0;" /><p class="nspText tleft fleft">Curah hujan yang tinggi di wilayah Kabupaten Sampang, Jawa Timur, mengakibatkan meluapnya sungai Kemoning dan menggenangi wilayah Kecamatan Sampang dan sekitarnya. Sejak Jumat (26/2) Pukul 13.30 WIB hingga saat ini air masih menggenangi wilayah tersebut. 
+
+ 
+Kepala BNPB Laksda TNI Willem Rampangilei di dampingi Kepala Pelaksana BPBD Jatim saat meninjau banjir di Kabupaten Sampang (29/2).
+Hingga Senin (29/2) Pukul 07.00 WIB banjir...</p><a class="readon  fright" href="/index.php/berita-terkini/345-kepala-bnpb-tinjau-banjir-sampang">Read more</a></div></div>
+		</div>
+		
+		<div class="nspTitleBlock">	
+			<div class="nspTitleTab"><div class="nspDate">26-02-2016</div><div class="nspTitle">BNPB Gelar RAKORNAS Penanggulangan Bencana</div></div><div class="nspArtMore unvisible"><div class="nspArtMain"><img class="nspImage tleft fleft" src="http://bpbd.jatimprov.go.id/modules/mod_news_pro_gk4/cache/untitled-13nsp_114.jpg" alt="BNPB Gelar RAKORNAS Penanggulangan Bencana" style="margin:7px 20px 10px 0;" /><p class="nspText tleft fleft">Badan Nasional Penanggulangan Bencana (BNPB) menggelar Rapat Koordinasi Nasional (Rakornas) Penanggulangan Bencana Tahun 2016, yang bertempat di Hotel Bidakara, Jakarta. Rakornas kali ini mengusung tema “Pengurangan Resiko Bencana Melalui Peningkatan Kapasitas Berbasis Masyarakat”.
+
+ 
+Laksda TNI Willem Rampangilei saat memberikan sambutan pada acara Rakornas PB Tahun 2016
+Kepala BNPB Willem Rampangilei menjelaskan, tema tersebut memiliki tiga kata kunci yang menjadi pegangan dalam penanggulangan...</p><a class="readon  fright" href="/index.php/berita-terkini/344-bnpb-gelar-rakornas-penanggulangan-bencana">Read more</a></div></div>
+		</div>
+			
+	</div>
+	
+</div>
+
+
+
+
+<script type="text/javascript" src="http://bpbd.jatimprov.go.id/modules/mod_news_pro_gk4/interface/scripts/engine.portal.mode.3.js"></script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+try {$Gavick;}catch(e){$Gavick = {};};
+$Gavick["nsp-nsp_114"] = {
+	"animation_speed": 400,
+	"open_first": 1
+};
+//]]>
+</script>	</div></div>
+                    </div>
+										
+										
+										
+									</div>
+									
+					
+			</div>
+						
+					</div>
+			
+		
+
+<div id="gkRight" class="gkMain gkCol gkPaddingTBLR">
+	
+		
+
+		<div id="gkRightBottom" class="gkMain gkPaddingTBLR">
+		<div class="box"><div class="content">
+
+<div class="custom"  >
+	<p><a href="http://bpbd.tv" target="_blank"><img src="/images/bpbd-tv.jpg" border="0" alt="" /></a> <br /><img src="/images/icon-whatsapp.png" border="0" /><br /><a href="/laphar/index.php?dir=&amp;sort=date&amp;order=desc"><img src="/images/icon-laporanharian.png" border="0" /> </a><br /> <a href="/prakicu/index.php?dir=&amp;sort=date&amp;order=desc"><img src="/images/icon-prakicu.png" border="0" />  </a><br /> <a href="/index.php/info-bencana/status-gunung"><img src="/images/icon-gunung.png" border="0" /> </a></p>
+<table cellpadding="5px">
+<tbody>
+<tr>
+<td>
+<p><img src="/images/stories/alert/led_yellow.gif" border="0" /></p>
+</td>
+<td>
+<p>G. Bromo</p>
+</td>
+<td>
+<p>WASPADA</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><img src="/images/stories/alert/led_yellow.gif" border="0" /></p>
+</td>
+<td>
+<p>G. Semeru</p>
+</td>
+<td>
+<p>WASPADA</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><img src="/images/stories/alert/led_yellow.gif" border="0" /></p>
+</td>
+<td>
+<p>G. Raung</p>
+</td>
+<td>
+<p>WASPADA</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><br /><br /><a href="/files/index.php?dir=lagu%2F"><img src="/images/icon-song.png" border="0" /> </a></p></div>
+</div></div>
+	</div>
+		
+</div>
+	</div>
+</div>
+    	
+    	
+<div id="gkUser1" class="gkMain ">
+			
+	<div id="gkuseruser1" class="gkCol gkColLeft">
+		        <div class="gkBoxWrap">
+		<div class="box_text"><h3 class="header"><span>Link</span> Terkait</h3><div class="content"><div class="bannergroup_text">
+
+	<div class="banneritem">
+										<a href="/index.php/component/banners/click/1" target="_blank">BNPB</a>
+<br/>
+Situs Resmi Badan Nasional Penanggulangan Bencana.				<div class="clr"></div>
+	</div>
+	<div class="banneritem">
+										<a href="/index.php/component/banners/click/2" target="_blank">BMKG</a>
+<br/>
+Situs Resmi Badan Meteorologi, Klimatologi, dan Geofisika.				<div class="clr"></div>
+	</div>
+	<div class="banneritem">
+										<a href="/index.php/component/banners/click/4" target="_blank">PVMBG</a>
+<br/>
+Situs Resmi Pusat vulkanologi dan Mitigasi Bencana Geologi.				<div class="clr"></div>
+	</div>
+
+</div>
+</div></div>
+        </div>
+	</div>
+				
+	<div id="gkuseruser2" class="gkCol gkColCenter">
+		        <div class="gkBoxWrap">
+		<div class="box"><h3 class="header"><span>Gempa</span> Terkini</h3><div class="content"><!-- BEGIN: Custom advanced (www.pluginaria.com) -->
+<img src=http://dataweb.bmkg.go.id/INATEWS/eqmap.gif width=240px><!-- END: Custom advanced (www.pluginaria.com) -->
+</div></div>
+        </div>
+	</div>
+				
+	<div id="gkuseruser4" class="gkCol gkColRight">
+		        <div class="gkBoxWrap">
+		<div class="box"><div class="content"><!-- BEGIN: Custom advanced (www.pluginaria.com) -->
+<a class="twitter-timeline"  href="https://twitter.com/bpbd_jatim" data-widget-id="664597735559958529"
+height="300"
+data-chrome="nofooter noborders"
+lang="en"
+>Tweets by @bpbd_jatim</a>
+
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+          
+<center><a href="https://twitter.com/bpbd_jatim" class="twitter-follow-button" data-show-count="false" lang="en">Follow @bpbd_jatim</a></center><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script><!-- END: Custom advanced (www.pluginaria.com) -->
+</div></div>
+        </div>
+	</div>
+		</div>
+
+    </div>
+    
+    <div id="gkWrap3">
+             <div id="gkBottomWrap">
+              <div id="gkMiddleBar">
+           						<div id="gkSocialIcons">
+                	
+				<a href="http://www.facebook.com/bpbdjatim" id="gkIconsFacebook" target="_blank">Facebook</a>
+									
+				<a href="#" id="gkIconsVimeo" target="_blank">Vimeo</a>
+				                	
+				<a href="http://twitter.com/bpbd_jatim" id="gkIconsTwitter" target="_blank">Twitter</a>
+							</div>
+			            	                <div id="gkSearch">
+	               <form action="/index.php" method="post">
+	<div class="search">
+		<input name="searchword" id="mod-search-searchword" maxlength="20"  class="inputbox" type="text" size="20" value="Search..."  onblur="if (this.value=='') this.value='Search...';" onfocus="if (this.value=='Search...') this.value='';" />	<input type="hidden" name="task" value="search" />
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="9999" />
+	</div>
+</form>
+
+	           </div>
+                    </div>    
+    	
+<div id="gkBottom1" class="gkMain ">
+			
+	<div id="gkbottombottom2" class="gkCol gkColLeft">
+				<div class="box"><h3 class="header"><span>Statistik</span></h3><div class="content"><dl class="stats-module">
+	<dt>Visitors</dt>
+	<dd>11</dd>
+	<dt>Articles</dt>
+	<dd>300</dd>
+	<dt>Web Links</dt>
+	<dd>1</dd>
+	<dt>Articles View Hits</dt>
+	<dd>1009286</dd>
+</dl>
+</div></div><div class="box"><div class="content"><!-- BEGIN: Custom advanced (www.pluginaria.com) -->
+<a href="http://bpbd.jatimprov.go.id/vstats/"><img src="/images/bar-chart-graphic-stats-icon.png" border="0" /></a><!-- END: Custom advanced (www.pluginaria.com) -->
+</div></div>
+	</div>
+				
+	<div id="gkbottombottom3" class="gkCol gkColCenter">
+				<div class="box"><h3 class="header"><span>Kegiatan</span></h3><div class="content">
+
+<div class="custom"  >
+	<ul>
+<li><a href="/index.php/berita/kedaruratan-dan-logistik">KL</a></li>
+<li><a href="/index.php/berita/pencegahan-dan-kesiapsiagaan">PK</a></li>
+<li><a href="/index.php/berita/rehabilitasi-dan-rekonstruksi">RR</a></li>
+<li><a href="/index.php/berita/sekretariat">Sekretariat</a></li>
+</ul></div>
+</div></div>
+	</div>
+				
+	<div id="gkbottombottom4" class="gkCol gkColCenter">
+				<div class="box"><h3 class="header"><span>Produk</span> Hukum</h3><div class="content">
+
+<div class="custom"  >
+	<ul>
+<li><a href="/index.php/component/content/article?id=49" title="Peraturan Kepala BNPB">PERKA BNPB</a></li>
+<li><a href="/index.php/component/content/article?id=186" title="Peraturan Gubernur">PERGUB</a></li>
+<li><a href="/index.php/component/content/article?id=187" title="Peraturan Daerah">PERDA</a></li>
+</ul></div>
+</div></div><div class="box"><h3 class="header"><span>Publikasi</span></h3><div class="content">
+
+<div class="custom"  >
+	<ul>
+<li>Jurnal</li>
+<li><a href="/index.php/component/content/article?id=264">Laporan</a></li>
+<li>Kajian</li>
+<li>Galeri</li>
+</ul></div>
+</div></div>
+	</div>
+				
+	<div id="gkbottombottom5" class="gkCol gkColCenter">
+				<div class="box"><h3 class="header"><span>Aplikasi</span></h3><div class="content">
+
+<div class="custom"  >
+	<ul>
+<li><a href="/map">Geospasial</a></li>
+<li><a href="/app/mtsat-cloud.html">Citra Satelit</a></li>
+<li><a href="http://dibi.bnpb.go.id" target="_self" title="DIBI BNPB">Data Informasi Bencana</a></li>
+<li><a href="http://118.97.222.173/bpbdsms">SMS Gateway</a></li>
+<li><a href="http://earthquake.usgs.gov/earthquakes/catalogs/eqs7day-M5.xml" target="_self" title="Gempa Skala 5+">Gempa Terkini</a></li>
+<li><a href="http://ptwc.weather.gov/?region=1" target="_self" title="Tsunami Bulletin">Tsunami Bulletin</a></li>
+<li><a href="/app/cctv.html">CCTV Gunung Api</a></li>
+<li><a href="/app/gunungapi.php">Status Gunung Api</a></li>
+</ul></div>
+</div></div>
+	</div>
+				
+	<div id="gkbottombottom6" class="gkCol gkColRight">
+				<div class="box"><h3 class="header"><span>Media</span> Sosial</h3><div class="content">
+
+<div class="custom"  >
+	<ul>
+<li><a href="http://facebook.com/bpbdjatim" target="_blank" title="BPBD Jatim Facebook Profile">Facebook</a></li>
+<li><a href="http://twitter.com/bpbd_jatim" target="_blank" title="Official Twitter BPBD Jatim">Twitter</a></li>
+</ul></div>
+</div></div>
+	</div>
+		</div>
+
+        </div>
+        <div id="gkFooterWrap">    
+    	
+<div id="gkFooter" class="gkMain">
+		<div id="gkFooterNav">
+		
+	</div>
+		
+		<p id="gkStyleArea">
+		<a href="#" id="gkStyle1">blue</a>
+		<a href="#" id="gkStyle2">green</a>
+		<a href="#" id="gkStyle3">orange</a>
+        <a href="#" id="gkStyle4">red</a>
+	</p>
+		
+		<p id="gkCopyrights">
+		Hak Cipta BPBD Jatim, 2011. Resolusi Terbaik 1920 x 1080px. Mod by <a href=http://dino.web.id>dino</a>.
+
+	</p>
+		
+	</div>
+
+
+        </div>
+    </div>
+    
+     	
+    
+	    	    <div id="gkPopupLogin">	
+	    	<div class="gkPopupWrap">
+	    		
+		
+<div id="loginForm">
+	<h3>Login</h3>
+	<div class="box"><div class="content"><form action="/index.php" method="post" id="login-form" >
+      <div class="pretext">
+            Log in to your account or                         <a href="/index.php/component/users/?view=registration">
+                  Create an account</a>
+                  </div>
+      <fieldset class="userdata">
+            <p id="form-login-username">
+                  <label for="modlgn-username">User Name</label>
+                  <input id="modlgn-username" type="text" name="username" class="inputbox"  size="42" />
+            </p>
+            <p id="form-login-password">
+                  <label for="modlgn-passwd">Password</label>
+                  <input id="modlgn-passwd" type="password" name="password" class="inputbox" size="42"  />
+            </p>
+            <input type="hidden" name="option" value="com_users" />
+            <input type="hidden" name="task" value="user.login" />
+            <input type="hidden" name="return" value="aW5kZXgucGhwP0l0ZW1pZD0xMDE=" />
+            <input type="hidden" name="8e2e4acb5c7961016d791d9180036b86" value="1" />                        <p id="form-login-remember">
+                  <input id="modlgn-remember" type="checkbox" name="remember" class="inputbox" value="yes"/>
+                  <label for="modlgn-remember">Remember Me</label>
+            </p>
+            <div class="buttons">
+             <input type="submit" name="Submit" class="button" value="Log in" />
+             
+            </div>
+                  </fieldset>
+      <ul>
+            <li>
+                  <a href="/index.php/component/users/?view=reset">
+                        Forgot your password?</a>
+            </li>
+            <li>
+                  <a href="/index.php/component/users/?view=remind">
+                        Forgot your username?</a>
+            </li>
+      </ul>
+      <div class="posttext">
+                  </div>
+</form>
+</div></div>
+</div>
+		    	</div>
+	    </div>
+	    	    
+	    	    <div id="gkPopupRegister">	
+	    	<div class="gkPopupWrap">
+	    		
+	
+<div id="registerForm">		
+	<h3>Register</h3>
+	
+<div class="gkRegistration">
+	<form id="member-registration" action="/index.php/component/users/?task=registration.register" method="post" class="form-validate">
+												<fieldset>
+									<legend>User Registration</legend>
+									<dl>
+															<dt>
+						<span class="spacer"><span class="before"></span><span class="text"><label id="jform_spacer-lbl" class=""><strong class="red">*</strong> Required field</label></span><span class="after"></span></span>												</dt>
+						<dd> </dd>
+																				<dt>
+						<label id="jform_name-lbl" for="jform_name" class="hasTip required" title="Name::Enter your full name">Name:<span class="star">&#160;*</span></label>												</dt>
+						<dd><input type="text" name="jform[name]" id="jform_name" value="" class="required" size="30"/></dd>
+																				<dt>
+						<label id="jform_username-lbl" for="jform_username" class="hasTip required" title="Username::Enter your desired user name">Username:<span class="star">&#160;*</span></label>												</dt>
+						<dd><input type="text" name="jform[username]" id="jform_username" value="" class="validate-username required" size="30"/></dd>
+																				<dt>
+						<label id="jform_password1-lbl" for="jform_password1" class="hasTip required" title="Password::Enter your desired password - Enter a minimum of 4 characters">Password:<span class="star">&#160;*</span></label>												</dt>
+						<dd><input type="password" name="jform[password1]" id="jform_password1" value="" autocomplete="off" class="validate-password required" size="30"/></dd>
+																				<dt>
+						<label id="jform_password2-lbl" for="jform_password2" class="hasTip required" title="Confirm Password::Confirm your password">Confirm Password:<span class="star">&#160;*</span></label>												</dt>
+						<dd><input type="password" name="jform[password2]" id="jform_password2" value="" autocomplete="off" class="validate-password required" size="30"/></dd>
+																				<dt>
+						<label id="jform_email1-lbl" for="jform_email1" class="hasTip required" title="Email Address::Enter your email address">Email Address:<span class="star">&#160;*</span></label>												</dt>
+						<dd><input type="text" name="jform[email1]" class="validate-email required" id="jform_email1" value="" size="30"/></dd>
+																				<dt>
+						<label id="jform_email2-lbl" for="jform_email2" class="hasTip required" title="Confirm email Address::Confirm your email address">Confirm email Address:<span class="star">&#160;*</span></label>												</dt>
+						<dd><input type="text" name="jform[email2]" class="validate-email required" id="jform_email2" value="" size="30"/></dd>
+														</dl>
+				</fieldset>
+							
+		
+		
+		<div>
+			<button type="submit" class="validate">Register</button>
+			or			<a href="/" title="Cancel">Cancel</a>
+			<input type="hidden" name="option" value="com_users" />
+			<input type="hidden" name="task" value="registration.register" />
+			<input type="hidden" name="8e2e4acb5c7961016d791d9180036b86" value="1" />		</div>
+	</form>
+</div>
+</div>		
+					</div>
+		</div>
+			    
+    <div id="gkPopupOverlay"></div>
+        
+	
+
+<div id="fb-root"></div>
+<script type="text/javascript">
+    //<![CDATA[
+   	window.fbAsyncInit = function(){
+    	FB.init({appId: '314573328699868', status: true, cookie: true, xfbml: true});
+        // IE fix
+        FB.UIServer.setLoadedNode = function (a, b) {
+        FB.UIServer._loadedNodes[a.id] = b;
+        };
+    	    	$gkFBLoginClicked = false;
+    	
+    	FB.Event.subscribe('auth.sessionChange', function(response) {
+    		if (response.session && $gkFBLoginClicked) {
+    			if($('login-form')){
+    				$('modlgn-username').set('value','Facebook');
+    				$('modlgn-passwd').set('value','Facebook');
+    				$('login-form').submit();
+    			}
+    		}
+    	});
+    	
+    	var fbtimer = (function(){
+             if($$('.fb_button.fb_button_medium')[0]){
+                $clear(fbtimer);
+                $$('.fb_button.fb_button_medium')[0].addEvent('click', function(){
+             if($('login-form')){
+                 FB.getLoginStatus(function(response) {
+             if (response.session) {
+                $('modlgn-username').set('value','Facebook');
+                $('modlgn-passwd').set('value','Facebook');
+                $('login-form').submit();
+             }
+             });
+             } else if($('com-login-form')) {
+                FB.getLoginStatus(function(response) {
+             if (response.session) {
+                $('username').set('value','Facebook');
+                $('password').set('value','Facebook');
+                $('com-login-form').submit();
+             }
+             });
+             }            
+             $gkFBLoginClicked = true;
+             });
+             }
+        }).periodical(500);
+    	    };
+      
+    window.addEvent('load', function(){
+    	(function(){
+    		var e = document.createElement('script');
+    		e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+    		e.async = true;
+    		document.getElementById('fb-root').appendChild(e);
+    	}()); 
+    }); 
+    //]]>
+</script>
+
+
+
+
+	
+	
+</body>
+</html>

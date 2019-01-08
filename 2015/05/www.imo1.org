@@ -1,0 +1,1183 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html dir="ltr" class="ms-isBot" lang="en-US">
+    
+    <head><meta http-equiv="X-UA-Compatible" content="IE=10" /><meta name="GENERATOR" content="Microsoft SharePoint" /><meta http-equiv="Content-type" content="text/html; charset=utf-8" /><meta http-equiv="Expires" content="0" /><meta name="viewport" content="width=974" /><meta name="msapplication-TileImage" content="/_layouts/15/images/SharePointMetroAppTile.png" /><meta name="msapplication-TileColor" content="#0072C6" /><title>
+	International Maritime Organization
+</title><link rel="stylesheet" type="text/css" href="/_layouts/15/1033/styles/Themable/corev15.css?rev=uQ%2B9LAvshSac0WO40inVmw%3D%3D"/>
+<link rel="stylesheet" type="text/css" href="/_layouts/15/1033/styles/IMOBranding2013/Styles.css?rev=%2B9d43omITNyndqjoSkW%2BQw%3D%3D"/>
+<link rel="stylesheet" type="text/css" href="/Style%20Library/en-US/Themable/Core%20Styles/controls15.css"/>
+<link rel="stylesheet" type="text/css" href="/_layouts/15/1033/STYLES/IMOBranding2013/Styles.css?ver=0.1"/>
+<link rel="stylesheet" type="text/css" href="/_layouts/15/1033/STYLES/IMOBranding/Styles.css?ver=0.1"/>
+<link rel="stylesheet" type="text/css" href="/_layouts/15/1033/STYLES/IMOBranding2013/IMOHome.css"/>
+<link rel="stylesheet" type="text/css" href="/_layouts/15/1033/STYLES/IMOBranding/jquery.fastconfirm.css"/>
+<script type="text/javascript" src="/_layouts/15/init.debug.js?rev=hd6vYIlQjxmYnM%2F9RloMJA%3D%3D"></script>
+<script type="text/javascript" src="/_layouts/15/metalogix.fluent/js/fluentribbonui.js"></script>
+<script type="text/javascript" src="/ScriptResource.axd?d=8WYEYK9hcURzE49BIg5msHRrAar5pdDcXvkz-JInmYFaOR1d7VYRWTDMYJkFtdqPZnniw7CRv2RyJS6hQxAZJb1eV6Qmw2BwOq5W9L4ezJer4eK-veKFrTnUdetVoR_aXf0HWnet6WXPHoqittP0mrzTpjJOU3jIQguccTg4NkCK57vtFZrRDp3mI5VYpqZO0&amp;t=42a7acab"></script>
+<script type="text/javascript" src="/_layouts/15/blank.js?rev=ZaOXZEobVwykPO9g8hq%2F8A%3D%3D"></script>
+<script type="text/javascript">RegisterSod("initstrings.js", "\u002f_layouts\u002f15\u002f1033\u002finitstrings.debug.js?rev=IIoPxKZWcEH3tvoiS3G2kw\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("strings.js", "\u002f_layouts\u002f15\u002f1033\u002fstrings.debug.js?rev=LGWOhqyzXO1d5NtWjqNSdg\u00253D\u00253D");RegisterSodDep("strings.js", "initstrings.js");</script>
+<script type="text/javascript">RegisterSod("sp.init.js", "\u002f_layouts\u002f15\u002fsp.init.debug.js?rev=I0HjXe8jNoV0TuC6ujkb8A\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("sp.res.resx", "\u002f_layouts\u002f15\u002fScriptResx.ashx?culture=en\u00252Dus\u0026name=SP\u00252ERes\u0026rev=yNk\u00252FhRzgBn40LJVP\u00252BqfgdQ\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("sp.ui.dialog.js", "\u002f_layouts\u002f15\u002fsp.ui.dialog.debug.js?rev=EmVQKmKF\u00252BmjLtrcRjI3zww\u00253D\u00253D");RegisterSodDep("sp.ui.dialog.js", "sp.init.js");RegisterSodDep("sp.ui.dialog.js", "sp.res.resx");</script>
+<script type="text/javascript">RegisterSod("core.js", "\u002f_layouts\u002f15\u002fcore.debug.js?rev=6cHZHsYwanSXQ4VBzz3fTw\u00253D\u00253D");RegisterSodDep("core.js", "strings.js");</script>
+<script type="text/javascript">RegisterSod("menu.js", "\u002f_layouts\u002f15\u002fmenu.debug.js?rev=rjLJPh65IwQMJQOxEMjt\u00252Bw\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("mQuery.js", "\u002f_layouts\u002f15\u002fmquery.debug.js?rev=eg22Wtb4UOCtZAR\u00252BS9foWQ\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("callout.js", "\u002f_layouts\u002f15\u002fcallout.debug.js?rev=IF6FsxpN89rIqqbAN4WzEA\u00253D\u00253D");RegisterSodDep("callout.js", "strings.js");RegisterSodDep("callout.js", "mQuery.js");RegisterSodDep("callout.js", "core.js");</script>
+<script type="text/javascript">RegisterSod("clienttemplates.js", "\u002f_layouts\u002f15\u002fclienttemplates.debug.js?rev=jBu7SqOda9QWmtPF76JlyQ\u00253D\u00253D");RegisterSodDep("clienttemplates.js", "initstrings.js");</script>
+<script type="text/javascript">RegisterSod("sharing.js", "\u002f_layouts\u002f15\u002fsharing.debug.js?rev=14jeOqFrpI3Dfn9hekaCcg\u00253D\u00253D");RegisterSodDep("sharing.js", "strings.js");RegisterSodDep("sharing.js", "mQuery.js");RegisterSodDep("sharing.js", "clienttemplates.js");RegisterSodDep("sharing.js", "core.js");</script>
+<script type="text/javascript">RegisterSod("suitelinks.js", "\u002f_layouts\u002f15\u002fsuitelinks.debug.js?rev=VKhUS5QW\u00252BpGo7XNBO7ijNw\u00253D\u00253D");RegisterSodDep("suitelinks.js", "strings.js");RegisterSodDep("suitelinks.js", "core.js");</script>
+<script type="text/javascript">RegisterSod("clientrenderer.js", "\u002f_layouts\u002f15\u002fclientrenderer.debug.js?rev=hsvY\u00252Bt8T3xTjM1fwzNXCNA\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("srch.resources.resx", "\u002f_layouts\u002f15\u002fScriptResx.ashx?culture=en\u00252Dus\u0026name=Srch\u00252EResources\u0026rev=T\u00252BEc8BFdsTQbQuVAobKatQ\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("search.clientcontrols.js", "\u002f_layouts\u002f15\u002fsearch.clientcontrols.debug.js?rev=Qzl178QtxSVbongKzb5v8Q\u00253D\u00253D");RegisterSodDep("search.clientcontrols.js", "sp.init.js");RegisterSodDep("search.clientcontrols.js", "clientrenderer.js");RegisterSodDep("search.clientcontrols.js", "srch.resources.resx");</script>
+<script type="text/javascript">RegisterSod("sp.runtime.js", "\u002f_layouts\u002f15\u002fsp.runtime.debug.js?rev=VFkBZgkYpbAZS6abSrBqIg\u00253D\u00253D");RegisterSodDep("sp.runtime.js", "sp.res.resx");</script>
+<script type="text/javascript">RegisterSod("sp.search.js", "\u002f_layouts\u002f15\u002fsp.search.debug.js?rev=Jnfa1WZadHQ7o\u00252BgUodlBJA\u00253D\u00253D");RegisterSodDep("sp.search.js", "sp.init.js");RegisterSodDep("sp.search.js", "sp.runtime.js");</script>
+<script type="text/javascript">RegisterSod("ajaxtoolkit.js", "\u002f_layouts\u002f15\u002fajaxtoolkit.debug.js?rev=9uFh6KyUXBR0baaNuMdlIg\u00253D\u00253D");RegisterSodDep("ajaxtoolkit.js", "search.clientcontrols.js");</script>
+<script type="text/javascript">RegisterSod("sp.js", "\u002f_layouts\u002f15\u002fsp.debug.js?rev=O8NxT20yGkIrj1MNA8nUMA\u00253D\u00253D");RegisterSodDep("sp.js", "sp.runtime.js");RegisterSodDep("sp.js", "sp.ui.dialog.js");RegisterSodDep("sp.js", "sp.res.resx");</script>
+<script type="text/javascript">RegisterSod("userprofile", "\u002f_layouts\u002f15\u002fsp.userprofiles.debug.js?rev=yGQRrKn6\u00252FQJgxsSxMiTF2A\u00253D\u00253D");RegisterSodDep("userprofile", "sp.runtime.js");</script>
+<script type="text/javascript">RegisterSod("followingcommon.js", "\u002f_layouts\u002f15\u002ffollowingcommon.debug.js?rev=QlAqfMuxiHOMCoHCTvpncg\u00253D\u00253D");RegisterSodDep("followingcommon.js", "strings.js");RegisterSodDep("followingcommon.js", "sp.js");RegisterSodDep("followingcommon.js", "userprofile");RegisterSodDep("followingcommon.js", "core.js");RegisterSodDep("followingcommon.js", "mQuery.js");</script>
+<script type="text/javascript">RegisterSod("profilebrowserscriptres.resx", "\u002f_layouts\u002f15\u002fScriptResx.ashx?culture=en\u00252Dus\u0026name=ProfileBrowserScriptRes\u0026rev=J5HzNnB\u00252FO1Id\u00252FGI18rpRcw\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("sp.ui.mysitecommon.js", "\u002f_layouts\u002f15\u002fsp.ui.mysitecommon.debug.js?rev=CPyRijUHjdx\u00252Fq\u00252BHVt4wjuA\u00253D\u00253D");RegisterSodDep("sp.ui.mysitecommon.js", "sp.init.js");RegisterSodDep("sp.ui.mysitecommon.js", "sp.runtime.js");RegisterSodDep("sp.ui.mysitecommon.js", "userprofile");RegisterSodDep("sp.ui.mysitecommon.js", "profilebrowserscriptres.resx");</script>
+<script type="text/javascript">RegisterSod("browserScript", "\u002f_layouts\u002f15\u002fnon_ie.debug.js?rev=h0Yow\u00252F0gcrUeziQC6Ut8BA\u00253D\u00253D");RegisterSodDep("browserScript", "strings.js");</script>
+<script type="text/javascript">RegisterSod("inplview", "\u002f_layouts\u002f15\u002finplview.debug.js?rev=Q51aPFKFtYSmYXim5g9dmg\u00253D\u00253D");RegisterSodDep("inplview", "strings.js");RegisterSodDep("inplview", "core.js");RegisterSodDep("inplview", "sp.js");</script>
+<script type="text/javascript">RegisterSod("datepicker.js", "\u002f_layouts\u002f15\u002fdatepicker.debug.js?rev=8rSc4RrjVafCCifd81Lv5w\u00253D\u00253D");RegisterSodDep("datepicker.js", "strings.js");</script>
+<script type="text/javascript">RegisterSod("sp.publishing.resources.resx", "\u002f_layouts\u002f15\u002fScriptResx.ashx?culture=en\u00252Dus\u0026name=SP\u00252EPublishing\u00252EResources\u0026rev=GGzheobKQRsxiF6yBwAfZA\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("mediaplayer.js", "\u002f_layouts\u002f15\u002fmediaplayer.js?rev=YyqTLoWJZuIG93N00x4YTw\u00253D\u00253D");RegisterSodDep("mediaplayer.js", "sp.publishing.resources.resx");</script>
+<script type="text/javascript">RegisterSod("sp.core.js", "\u002f_layouts\u002f15\u002fsp.core.debug.js?rev=Yua\u00252F7rIVS5vyY72z2i\u00252FX9Q\u00253D\u00253D");RegisterSodDep("sp.core.js", "strings.js");RegisterSodDep("sp.core.js", "sp.init.js");RegisterSodDep("sp.core.js", "core.js");</script>
+<script type="text/javascript">RegisterSod("dragdrop.js", "\u002f_layouts\u002f15\u002fdragdrop.debug.js?rev=kgSUGf2QyTpUKg4lgQFZMQ\u00253D\u00253D");RegisterSodDep("dragdrop.js", "strings.js");</script>
+<script type="text/javascript">RegisterSod("quicklaunch.js", "\u002f_layouts\u002f15\u002fquicklaunch.debug.js?rev=npiMXsEC8a8IQB5YZE13jQ\u00253D\u00253D");RegisterSodDep("quicklaunch.js", "strings.js");RegisterSodDep("quicklaunch.js", "dragdrop.js");</script>
+<link type="text/xml" rel="alternate" href="/en/_vti_bin/spsdisco.aspx" />
+        
+            
+            
+            
+            
+            
+            
+        
+        
+<script type="text/javascript">
+    var _showClassifyRibbon = false;
+</script>
+
+
+<link rel="canonical" href="http://www.imo.org:80/en/Pages/Default.aspx" /><meta name="description" content="The United Nations specialized agency with responsibility for the safety and security of shipping and the prevention of marine pollution by ships." /><meta name="keywords" content="Maritime News, Maritime Publications, Maritime Knowledge, Circulars, Meetings" />
+        
+        <!--[if IE 9]>
+			<style type="text/css">//<![CDATA[
+			.ms-core-animation-transparent {
+				opacity: 0;
+			}
+			.ms-isBot .ms-core-animation-transparent {
+				opacity: 1;
+			}
+			//]]></style>
+		<![endif]-->
+        <!--[if lte IE 8]>
+			 <style type="text/css">//<![CDATA[
+			.ms-core-animation-transparent,
+			.ms-core-animation-transparent img
+			{
+			   -ms-filter:"alpha(opacity=0)";
+			}
+			.ms-isBot .ms-core-animation-transparent,
+			.ms-isBot .ms-core-animation-transparent img
+			{
+			   -ms-filter:"";
+			}
+			//]]></style>
+		<![endif]-->
+        <script type="text/javascript">//<![CDATA[
+	    var g_pageLoadAnimationParams = { elementSlideIn: "sideNavBox", elementSlideInPhase2: "contentBox" };
+	    
+        
+        
+        
+        
+        //]]></script>
+        
+        
+        <!-- IMO Branding -->
+        <!-- favicon -->
+        <link rel="shortcut icon" href="/_layouts/15/1033/STYLES/IMOBranding/favicon.ico" type="image/vnd.microsoft.icon" id="favicon" />
+        <!--[if lte IE 6]>
+        <script type="text/javascript">//<![CDATA[
+          document.write('<span style="font-size:14px;font-weight:bolder;color:red;">Sorry, your browser is not supported. Please use IE 7+, Firefox, Chrome, Safari or Opera to view this site.</span>');
+        //]]></script>
+        <![endif]-->
+        <!--jQuery-->
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js">//<![CDATA[
+        
+        
+        
+        
+        //]]></script>
+        <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/themes/smoothness/jquery-ui.css" />
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/jquery-ui.min.js">//<![CDATA[
+    
+
+    
+        
+        
+        //]]></script>
+        <!--jQuery plugins-->
+        <script type="text/javascript" language="javascript" src="/_layouts/15/1033/STYLES/IMOBranding/jquery.corner.js">//<![CDATA[
+		
+        
+        
+        
+        //]]></script>
+        <script type="text/javascript" language="javascript" src="/_layouts/15/1033/STYLES/IMOBranding/flowplayer-3.2.4.min.js">//<![CDATA[
+		
+        
+        
+        
+        //]]></script>
+        <script type="text/javascript" language="javascript" src="/_layouts/15/1033/STYLES/IMOBranding/jquery.fastconfirm.js">//<![CDATA[
+		
+        
+        
+        
+        //]]></script>
+        <!-- IMO JavaScripts -->
+        <script type="text/javascript" language="javascript" src="/_layouts/15/1033/STYLES/IMOBranding2013/multilingual.js">//<![CDATA[
+		
+		
+        
+        
+        //]]></script>
+        <!--jQuery plugins-->
+        <script type="text/javascript" language="javascript" src="/_layouts/15/1033/STYLES/IMOBranding2013/WebPartTitleLinks.js">//<![CDATA[
+		
+		
+        
+        
+        
+        //]]></script>
+        <!--Custom styles-->
+        <span>
+            <script type="text/javascript">//<![CDATA[		
+			//disable ActiveX IM markers
+			function ProcessImn(){}
+			function ProcessImnMarkers(){}
+		
+            
+            
+            //]]></script>
+            </span></head>
+            <body onhashchange="if (typeof(_spBodyOnHashChange) != 'undefined') _spBodyOnHashChange();"><form method="post" action="Default.aspx" id="aspnetForm">
+<input type="hidden" name="_wpcmWpid" id="_wpcmWpid" value="" />
+<input type="hidden" name="wpcmVal" id="wpcmVal" value="" />
+<input type="hidden" name="MSOWebPartPage_PostbackSource" id="MSOWebPartPage_PostbackSource" value="" />
+<input type="hidden" name="MSOTlPn_SelectedWpId" id="MSOTlPn_SelectedWpId" value="" />
+<input type="hidden" name="MSOTlPn_View" id="MSOTlPn_View" value="0" />
+<input type="hidden" name="MSOTlPn_ShowSettings" id="MSOTlPn_ShowSettings" value="False" />
+<input type="hidden" name="MSOGallery_SelectedLibrary" id="MSOGallery_SelectedLibrary" value="" />
+<input type="hidden" name="MSOGallery_FilterString" id="MSOGallery_FilterString" value="" />
+<input type="hidden" name="MSOTlPn_Button" id="MSOTlPn_Button" value="none" />
+<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="0xE175DE72ACAD800EC6FE6DD02B3B759BF97A4A99E8F1918DD70B2CEB12539E86A769C0B4FDE6805055D587F07F49A862D38ED2C946117E9430B85542DA811193,15 Aug 2016 00:22:27 -0000" />
+<input type="hidden" name="MSOSPWebPartManager_DisplayModeName" id="MSOSPWebPartManager_DisplayModeName" value="Browse" />
+<input type="hidden" name="MSOSPWebPartManager_ExitingDesignMode" id="MSOSPWebPartManager_ExitingDesignMode" value="false" />
+<input type="hidden" name="MSOWebPartPage_Shared" id="MSOWebPartPage_Shared" value="" />
+<input type="hidden" name="MSOLayout_LayoutChanges" id="MSOLayout_LayoutChanges" value="" />
+<input type="hidden" name="MSOLayout_InDesignMode" id="MSOLayout_InDesignMode" value="" />
+<input type="hidden" name="_wpSelected" id="_wpSelected" value="" />
+<input type="hidden" name="_wzSelected" id="_wzSelected" value="" />
+<input type="hidden" name="MSOSPWebPartManager_OldDisplayModeName" id="MSOSPWebPartManager_OldDisplayModeName" value="Browse" />
+<input type="hidden" name="MSOSPWebPartManager_StartWebPartEditingName" id="MSOSPWebPartManager_StartWebPartEditingName" value="false" />
+<input type="hidden" name="MSOSPWebPartManager_EndWebPartEditing" id="MSOSPWebPartManager_EndWebPartEditing" value="false" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUBMA9kFgJmD2QWAgIBD2QWBAIBD2QWBAIHD2QWAmYPZBYCAgEPFgIeE1ByZXZpb3VzQ29udHJvbE1vZGULKYgBTWljcm9zb2Z0LlNoYXJlUG9pbnQuV2ViQ29udHJvbHMuU1BDb250cm9sTW9kZSwgTWljcm9zb2Z0LlNoYXJlUG9pbnQsIFZlcnNpb249MTUuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49NzFlOWJjZTExMWU5NDI5YwFkAhYPZBYCAgMPZBYCAgEPZBYCZg88KwAGAGQCAw9kFgoCBw9kFhQFJmdfYzAxZmJiMTBfMmE4M180M2E5Xzk4ZmJfZjYyODg2OWVjYjg1Dw9kZGQFJmdfNDk5ZDYwMmVfYTdmN180MGE0XzkxNjFfZjRhNTcxYjJlZGZkD2QWAmYPZBYCZg9kFgJmD2QWAgIBDxYCHgRUZXh0Bf0fPGxpPjxkaXYgY2xhc3M9J2pjYXJvdXNlbC1uZXdzLXNsaWRlJz4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9J2pjYXJvdXNlbC1uZXdzLWltYWdlJz48aW1nIHNyYz0iL2VuL01lZGlhQ2VudHJlL1ByZXNzQnJpZWZpbmdzL1B1Ymxpc2hpbmdJbWFnZXMvMjAxNiUyMGltYWdlcyUyMGZvciUyMGJyaWVmaW5ncy9JbnRlcm5hdGlvbmFsJTIwTWFyaXRpbWUlMjBQcml6ZV9kb2xwaGluXzEyMDB4Mzc1LmpwZyIgYWx0PSIiLz48L2Rpdj4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9J2pjYXJvdXNlbC1uZXdzLXRpdGxlLWRlc2MnPg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9J2pjYXJvdXNlbC1uZXdzLXRpdGxlJz48YSBocmVmPScvZW4vTWVkaWFDZW50cmUvUHJlc3NCcmllZmluZ3MvUGFnZXMvMTktaW50ZXJuYXRpb25hbC1tYXJpdG1lLXByaXplLmFzcHgnPk1hcml0aW1lIGxhd3llciBEci4gRnJhbmsgV2lzd2FsbCB0byByZWNlaXZlIDIwMTUgSW50ZXJuYXRpb25hbCBNYXJpdGltZSBQcml6ZTwvYT48L2Rpdj4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSdqY2Fyb3VzZWwtbmV3cy1kZXNjJz5Qcml6ZSB3aWxsIHJlY29nbml6ZSB0aGUgY29udHJpYnV0aW9uIG9mIERyLiBXaXN3YWxsLCBmb3JtZXIgQ2hhaXIgb2YgdGhlIElNTyBMZWdhbCBDb21taXR0ZWUgYW5kIFZpY2UtUHJlc2lkZW50IChIb25vcmlzIENhdXNhKSBDb21pdMOpIE1hcml0aW1lIEludGVybmF0aW9uYWwgKENNSSkuICA8YSBocmVmPScvZW4vTWVkaWFDZW50cmUvUHJlc3NCcmllZmluZ3MvUGFnZXMvMTktaW50ZXJuYXRpb25hbC1tYXJpdG1lLXByaXplLmFzcHgnPjxzcGFuIGNsYXNzPSd0cmFuc2xhdGUnPm1vcmU8L3NwYW4+Li4uPC9hPjwvZGl2Pg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvbGk+PGxpPjxkaXYgY2xhc3M9J2pjYXJvdXNlbC1uZXdzLXNsaWRlJz4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9J2pjYXJvdXNlbC1uZXdzLWltYWdlJz48aW1nIHNyYz0iL2VuL01lZGlhQ2VudHJlL1ByZXNzQnJpZWZpbmdzL1B1Ymxpc2hpbmdJbWFnZXMvMjAxNiUyMGltYWdlcyUyMGZvciUyMGJyaWVmaW5ncy9XTUQlMjAyMDE3JTIwdGhlbWVfYmFubmVyX3NodXR0ZXJzdG9ja18xMjU4NzQwNjVfYmx1ZS5qcGciIGFsdD0iIi8+PC9kaXY+DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSdqY2Fyb3VzZWwtbmV3cy10aXRsZS1kZXNjJz4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSdqY2Fyb3VzZWwtbmV3cy10aXRsZSc+PGEgaHJlZj0nL2VuL01lZGlhQ2VudHJlL1ByZXNzQnJpZWZpbmdzL1BhZ2VzLzIwLVdNRC10aGVtZS0yMDE3LmFzcHgnPldvcmxkIE1hcml0aW1lIERheSB0aGVtZSBmb3IgMjAxNzogIkNvbm5lY3RpbmcgU2hpcHMsIFBvcnRzIGFuZCBQZW9wbGUiPC9hPjwvZGl2Pg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9J2pjYXJvdXNlbC1uZXdzLWRlc2MnPjIwMTcgdGhlbWUgd2lsbCBmb2N1cyBvbiBzaGlwcGluZywgcG9ydHMgYW5kIHRoZSBwZW9wbGUgdGhhdCBvcGVyYXRlIHRoZW0gYWxvbmdzaWRlIGpvaW5lZC11cCBtYXJpdGltZSBzdHJhdGVnaWVzLiAgICA8YSBocmVmPScvZW4vTWVkaWFDZW50cmUvUHJlc3NCcmllZmluZ3MvUGFnZXMvMjAtV01ELXRoZW1lLTIwMTcuYXNweCc+PHNwYW4gY2xhc3M9J3RyYW5zbGF0ZSc+bW9yZTwvc3Bhbj4uLi48L2E+PC9kaXY+DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9saT48bGk+PGRpdiBjbGFzcz0namNhcm91c2VsLW5ld3Mtc2xpZGUnPg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0namNhcm91c2VsLW5ld3MtaW1hZ2UnPjxpbWcgc3JjPSIvZW4vTWVkaWFDZW50cmUvUHJlc3NCcmllZmluZ3MvUHVibGlzaGluZ0ltYWdlcy8yMDE2JTIwaW1hZ2VzJTIwZm9yJTIwYnJpZWZpbmdzL0JyYXZlcnklMjBBd2FyZF8xMjAweDM3NSUyMCgyKS5qcGciIGFsdD0iIi8+PC9kaXY+DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSdqY2Fyb3VzZWwtbmV3cy10aXRsZS1kZXNjJz4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSdqY2Fyb3VzZWwtbmV3cy10aXRsZSc+PGEgaHJlZj0nL2VuL01lZGlhQ2VudHJlL1ByZXNzQnJpZWZpbmdzL1BhZ2VzLzIxLUJyYXZlcnktQXdhcmQtMjAxNi5hc3B4Jz5JbmRpYW4gdGFua2VyIGNhcHRhaW4gdG8gcmVjZWl2ZSAyMDE2IElNTyBBd2FyZCBmb3IgRXhjZXB0aW9uYWwgQnJhdmVyeSBhdCBTZWE8L2E+PC9kaXY+DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0namNhcm91c2VsLW5ld3MtZGVzYyc+Q2FwdGFpbiBSYWRoaWthIE1lbm9uLCBNYXN0ZXIgb2YgU2FtcHVybmEgU3dhcmFqeWEsIGlzIHRvIHJlY2VpdmUgdGhlIEF3YXJkIGZvciBoZXIgcm9sZSBpbiB0aGUgZHJhbWF0aWMgcmVzY3VlIG9mIHNldmVuIGZpc2hlcm1lbi4gICA8YSBocmVmPScvZW4vTWVkaWFDZW50cmUvUHJlc3NCcmllZmluZ3MvUGFnZXMvMjEtQnJhdmVyeS1Bd2FyZC0yMDE2LmFzcHgnPjxzcGFuIGNsYXNzPSd0cmFuc2xhdGUnPm1vcmU8L3NwYW4+Li4uPC9hPjwvZGl2Pg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvbGk+PGxpPjxkaXYgY2xhc3M9J2pjYXJvdXNlbC1uZXdzLXNsaWRlJz4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9J2pjYXJvdXNlbC1uZXdzLWltYWdlJz48aW1nIHNyYz0iL2ZyL01lZGlhQ2VudHJlL1B1Ymxpc2hpbmdJbWFnZXMvZ2FzJTIwdGVzdGluZy5qcGciIGFsdD0iIi8+PC9kaXY+DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSdqY2Fyb3VzZWwtbmV3cy10aXRsZS1kZXNjJz4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSdqY2Fyb3VzZWwtbmV3cy10aXRsZSc+PGEgaHJlZj0nL2VuL01lZGlhQ2VudHJlL1ByZXNzQnJpZWZpbmdzL1BhZ2VzL0VuY2xvc2VkLXNwYWNlLXNoaXAtc2FmZXR5LXJ1bGUtZW50ZXJzLWludG8tZm9yY2UuYXNweCc+RW5jbG9zZWQgc3BhY2Ugc2hpcCBzYWZldHkgcnVsZSBlbnRlcnMgaW50byBmb3JjZTwvYT48L2Rpdj4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSdqY2Fyb3VzZWwtbmV3cy1kZXNjJz5OZXcgU09MQVMgcmVndWxhdGlvbiByZXF1aXJlcyBzaGlwcyB0byBjYXJyeSBwb3J0YWJsZSBhdG1vc3BoZXJlIHRlc3RpbmcgZXF1aXBtZW50IG9uIGJvYXJkLiA8YSBocmVmPScvZW4vTWVkaWFDZW50cmUvUHJlc3NCcmllZmluZ3MvUGFnZXMvRW5jbG9zZWQtc3BhY2Utc2hpcC1zYWZldHktcnVsZS1lbnRlcnMtaW50by1mb3JjZS5hc3B4Jz48c3BhbiBjbGFzcz0ndHJhbnNsYXRlJz5tb3JlPC9zcGFuPi4uLjwvYT48L2Rpdj4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2xpPmQFJmdfYzYyYzIzMThfODkzOV80YTUwXzg2MmJfNTQ0NzA0NWRkZDYyDw9kZGQFJmdfNzJlMjIxNjRfMmI1N180NTUzXzg0OGFfNWNhOTFhYzg0MDUwDw9kZGQFJmdfOGE2ODMxYWJfYmNhNl80Njc1Xzk4ZmNfNGMyMGE1YTRjMjNhDw9kZGQFJmdfODdlM2VlZmVfNDdhYV80MzQwX2E3YWVfMGVkZWEzMzNiNjJkD2QWBGYPFgIeB1Zpc2libGVoZAIBDxYCHwJoZAUmZ180Y2VjMWQ1MF9jNzhjXzQ2OGZfODFiOF83ZGZmNTE1YWQyMzkPZBYEZg8WAh8CaGQCAQ8WAh8CaGQFJmdfYWY0NGI2NjlfNWUzNV80NzAwX2E1ZmVfNWVmN2ZhZTk2ZGM0D2QWBGYPFgIfAmhkAgEPFgIfAmhkBSZnXzVlY2VhMGIwXzU4OWRfNGQ0OV9iY2M1XzI1MTJjMmRjN2Q5OA9kFgRmDxYCHwJoZAIBDxYCHwJoZAUmZ180NmQxMjk5OF82MzAzXzQ4YzZfOTg4OV9jYWJjMWVlMWZiNTIPZBYEZg8WAh8CaGQCAQ8WAh8CaGQCFw9kFgICAQ9kFgICAg9kFgICBQ9kFgICAw8WAh8CaBYCZg9kFgQCAg9kFgYCAQ8WAh8CaGQCAw8WAh8CaGQCBQ8WAh8CaGQCAw8PFgIeCUFjY2Vzc0tleQUBL2RkAhsPZBYCAgEPDxYEHgtOYXZpZ2F0ZVVybAUDL2VuHgdUb29sVGlwBQdFbmdsaXNoZGQCJQ9kFgICAQ9kFgQCAQ88KwAFAQAPFgIeFVBhcmVudExldmVsc0Rpc3BsYXllZGZkZAIDDxYCHwALKwQBZAIpD2QWAgIBD2QWAgIDDw8WAh8CaGQWAgIDD2QWAgIDD2QWAgIBDzwrAAkBAA8WAh4NTmV2ZXJFeHBhbmRlZGdkZBgDBTtjdGwwMCRjdGw0NiRnXzQ5OWQ2MDJlX2E3ZjdfNDBhNF85MTYxX2Y0YTU3MWIyZWRmZCRjdGwwMCRtdg8PZGZkBS1jdGwwMCRQbGFjZUhvbGRlckxlZnROYXZCYXIkVjRRdWlja0xhdW5jaE1lbnUPD2QFB0VuZ2xpc2hkBSxjdGwwMCRQbGFjZUhvbGRlclRvcE5hdkJhciRUb3BOYXZpZ2F0aW9uTWVudQ8PZAUHRW5nbGlzaGQwdfidmzONGpRPGE/5LPonyh0hPp3Hn+HJUZyfa21TKg==" />
+
+
+<script type="text/javascript">
+//<![CDATA[
+var MSOWebPartPageFormName = 'aspnetForm';
+var g_presenceEnabled = true;
+var g_wsaEnabled = false;
+var g_wsaQoSEnabled = false;
+var g_wsaQoSDataPoints = [];
+var g_wsaLCID = 1033;
+var g_wsaListTemplateId = 850;
+var g_wsaSiteTemplateId = 'CMSPUBLISHING#0';
+var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002fen", webAbsoluteUrl: "http:\u002f\u002fwww.imo.org\u002fen", siteAbsoluteUrl: "http:\u002f\u002fwww.imo.org", serverRequestPath: "\u002fen\u002fPages\u002fDefault.aspx", layoutsUrl: "_layouts\u002f15", webTitle: "English", webTemplate: "39", tenantAppVersion: "0", isAppWeb: false, webLogoUrl: "_layouts\u002f15\u002fimages\u002fsiteicon.png", webLanguage: 1033, currentLanguage: 1033, currentUICultureName: "en-US", currentCultureName: "en-US", clientServerTimeDelta: new Date("2016-08-15T00:22:27.7394817Z") - new Date(), siteClientTag: "2335$$15.0.4701.1000", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:16,Low:196705},pageListId:"{5db78539-3eaf-4b45-a747-88fe79af07bd}",pageItemId:2, pagePersonalizationScope:1, alertsEnabled:true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True'};
+                            function DoCallBack(filterText)
+                            {WebForm_DoCallback('ctl00$ctl46$g_c01fbb10_2a83_43a9_98fb_f628869ecb85',filterText,UpdateFilterCallback,0,CallBackError,true)
+                            }
+                            function CallBackError(result, clientsideString)
+                            {                
+                            }
+                        document.onreadystatechange=fnRemoveAllStatus; function fnRemoveAllStatus(){removeAllStatus(true)};
+function _spNavigateHierarchy(nodeDiv, dataSourceId, dataPath, url, listInContext, type) {
+
+    CoreInvoke('ProcessDefaultNavigateHierarchy', nodeDiv, dataSourceId, dataPath, url, listInContext, type, document.forms.aspnetForm, "", "\u002fen\u002fPages\u002fDefault.aspx");
+
+}
+var _spWebPartComponents = new Object();//]]>
+</script>
+
+<script src="/_layouts/15/blank.js?rev=ZaOXZEobVwykPO9g8hq%2F8A%3D%3D" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+(function(){
+
+        if (typeof(_spBodyOnLoadFunctions) === 'undefined' || _spBodyOnLoadFunctions === null) {
+            return;
+        }
+        _spBodyOnLoadFunctions.push(function() {
+
+            if (typeof(SPClientTemplates) === 'undefined' || SPClientTemplates === null || (typeof(APD_InAssetPicker) === 'function' && APD_InAssetPicker())) {
+                return;
+            }
+
+            var renderFollowFooter = function(renderCtx,  calloutActionMenu)
+            {
+                if (renderCtx.ListTemplateType == 700) 
+                    myDocsActionsMenuPopulator(renderCtx, calloutActionMenu);
+                else
+                    CalloutOnPostRenderTemplate(renderCtx, calloutActionMenu);
+
+                var listItem = renderCtx.CurrentItem;
+                if (typeof(listItem) === 'undefined' || listItem === null) {
+                    return;
+                }
+                if (listItem.FSObjType == 0) {
+                    calloutActionMenu.addAction(new CalloutAction({
+                        text: Strings.STS.L_CalloutFollowAction,
+                        tooltip: Strings.STS.L_CalloutFollowAction_Tooltip,
+                        onClickCallback: function (calloutActionClickEvent, calloutAction) {
+                            var callout = GetCalloutFromRenderCtx(renderCtx);
+                            if (!(typeof(callout) === 'undefined' || callout === null))
+                                callout.close();
+                            SP.SOD.executeFunc('followingcommon.js', 'FollowSelectedDocument', function() { FollowSelectedDocument(renderCtx); });
+                        }
+                    }));
+                }
+            };
+
+            var registerOverride = function(id) {
+                var followingOverridePostRenderCtx = {};
+                followingOverridePostRenderCtx.BaseViewID = 'Callout';
+                followingOverridePostRenderCtx.ListTemplateType = id;
+                followingOverridePostRenderCtx.Templates = {};
+                followingOverridePostRenderCtx.Templates.Footer = function(renderCtx) {
+                    var  renderECB;
+                    if (typeof(isSharedWithMeView) === 'undefined' || isSharedWithMeView === null) {
+                        renderECB = true;
+                    } else {
+                        var viewCtx = getViewCtxFromCalloutCtx(renderCtx);
+                        renderECB = !isSharedWithMeView(viewCtx);
+                    }
+                    return CalloutRenderFooterTemplate(renderCtx, renderFollowFooter, renderECB);
+                };
+                SPClientTemplates.TemplateManager.RegisterTemplateOverrides(followingOverridePostRenderCtx);
+            }
+            registerOverride(101);
+            registerOverride(700);
+        });
+    })();(function(){
+
+        if (typeof(_spBodyOnLoadFunctions) === 'undefined' || _spBodyOnLoadFunctions === null) {
+            return;
+        }
+        _spBodyOnLoadFunctions.push(function() 
+        {
+          ExecuteOrDelayUntilScriptLoaded(
+            function()
+            {
+              var pairs = SP.ScriptHelpers.getDocumentQueryPairs();
+              var followDoc, itemId, listId, docName;
+              for (var key in pairs)
+              {
+                if(key.toLowerCase() == 'followdocument') 
+                  followDoc = pairs[key];
+                else if(key.toLowerCase() == 'itemid') 
+                  itemId = pairs[key];
+                else if(key.toLowerCase() == 'listid') 
+                  listId = pairs[key];
+                else if(key.toLowerCase() == 'docname') 
+                  docName = decodeURI(pairs[key]);
+              } 
+
+              if(followDoc != null && followDoc == '1' && listId!=null && itemId != null && docName != null)
+              {
+                SP.SOD.executeFunc('followingcommon.js', 'FollowDocumentFromEmail', function() 
+                { 
+                  FollowDocumentFromEmail(itemId, listId, docName);
+                });
+              }
+
+            }, 'SP.init.js');
+
+        });
+    })();if (typeof(DeferWebFormInitCallback) == 'function') DeferWebFormInitCallback();//]]>
+</script>
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BAB98CB3" />
+                <div id="imgPrefetch" style="display:none">
+<img src="/_layouts/15/1033/STYLES/IMOBranding/favicon.ico?rev=23" />
+<img src="/_layouts/15/images/spcommon.png?rev=23" />
+<img src="/_layouts/15/images/siteIcon.png?rev=23" />
+</div>
+
+                <noscript><div class='noindex'>You may be trying to access this site from a secured browser on the server. Please enable scripts and reload this page.</div></noscript>
+                
+                <script type="text/javascript">//<![CDATA[                     var submitHook = function () { return false; }; theForm._spOldSubmit = theForm.submit; theForm.submit = function () { if (!submitHook()) { this._spOldSubmit(); } }; 
+        
+        
+                
+                
+                //]]></script>
+                
+                
+                <div id="TurnOnAccessibility" style="display:none" class="s4-notdlg noindex">
+                    <a id="linkTurnOnAcc" href="#" class="ms-TurnOnAcc" onclick="SetIsAccessibilityFeatureEnabled(true);UpdateAccessibilityUI();document.getElementById('linkTurnOffAcc').focus();return false;">
+                        Turn on more accessible mode
+                    </a>
+                </div>
+                <div id="TurnOffAccessibility" style="display:none" class="s4-notdlg noindex">
+                    <a id="linkTurnOffAcc" href="#" class="ms-TurnOffAcc" onclick="SetIsAccessibilityFeatureEnabled(false);UpdateAccessibilityUI();document.getElementById('linkTurnOnAcc').focus();return false;">
+                        Turn off more accessible mode
+                    </a>
+                </div>
+                <div class="s4-notdlg s4-skipribbonshortcut noindex">
+                    <a href="javascript:;" onclick="document.getElementById(&#39;startNavigation&#39;).focus();" class="ms-SkiptoNavigation" accesskey="Y">
+                        Skip Ribbon Commands
+                    </a>
+                </div>
+                <div class="s4-notdlg noindex">
+                    <a href="javascript:;" onclick="document.getElementById(&#39;mainContent&#39;).focus();" class="ms-SkiptoMainContent" accesskey="X">
+                        Skip to main content
+                    </a>
+                </div>
+                <div id="TurnOffAnimation" style="display:none;" class="s4-notdlg noindex">
+                    <a id="linkTurnOffAnimation" href="#" class="ms-accessible ms-acc-button" onclick="ToggleAnimationStatus();return false;">
+                        Turn off Animations
+                    </a>
+                </div>
+                <div id="TurnOnAnimation" style="display:none;" class="s4-notdlg noindex">
+                    <a id="linkTurnOnAnimation" href="#" class="ms-accessible ms-acc-button" onclick="ToggleAnimationStatus();return false;">
+                        Turn on Animations
+                    </a>
+                </div>
+                <a id="HiddenAnchor" href="javascript:;" style="display:none;">
+                </a>
+                <div id="ms-designer-ribbon">
+                    <div id="Div1">
+                        
+                            </div>
+                        </div>
+                        
+                        <div id="s4-workspace">
+                            <div id="s4-bodyContainer">
+                                <div id="s4-titlerow">
+                                    <div id="titleAreaBox">
+                                        <div id="siteIcon">
+                                            
+                                            <div id="DeltaSiteLogo">
+	
+                                                <a id="ctl00_onetidProjectPropertyTitleGraphic" title="English" class="ms-siteicon-a" href="/en"><img id="ctl00_onetidHeadbnnr2" class="ms-siteicon-img" name="onetidHeadbnnr0" src="/_layouts/15/images/siteIcon.png?rev=23" alt="English" /></a>
+                                            
+</div>
+                                            
+                                        </div>
+                                        <div id="topright">
+                                            <div id="toprightlinks">
+                                                <div id="quicklinks" style="display:none;">
+                                                    <a href='/en/About/Careers'>Careers at IMO</a> | <a href='/en/About/Pages/SiteIndex.aspx'>Site Index</a> | <a href='/en/About/Pages/Fraud-Alert.aspx'>Fraud Alert</a> | <a href='/en/About/Pages/ContactUs.aspx'>Contact Us</a>
+                                                </div>
+                                                <div id="langselect">
+                                                    
+                                                    <a href='/en/Pages/Default.aspx'>English</a>   <a href='/fr/Pages/Default.aspx'>Français</a>   <a href='/es/paginas/default.aspx'>Español</a>
+                                                </div>
+                                            </div>
+                                            <div id="searchInputBox">
+                                                <div class="ms-webpart-chrome ms-webpart-chrome-fullWidth ">
+	<div WebPartID="00000000-0000-0000-0000-000000000000" HasPers="true" id="WebPartWPQ1" width="100%" class="ms-WPBody noindex " OnlyForMePart="true" allowDelete="false" style="" ><div componentid="ctl00_SmallSearchInputBox1_csr" id="ctl00_SmallSearchInputBox1_csr"><div id="SearchBox" name="Control"><div class="ms-srch-sb ms-srch-sb-border" id="ctl00_SmallSearchInputBox1_csr_sboxdiv"><input type="text" value="Search this site" maxlength="2048" accessKey="S" title="Search this site" id="ctl00_SmallSearchInputBox1_csr_sbox" autocomplete="off" autocorrect="off" onkeypress="EnsureScriptFunc('Search.ClientControls.js', 'Srch.U', function() {if (Srch.U.isEnterKey(String.fromCharCode(event.keyCode))) {$find('ctl00_SmallSearchInputBox1_csr').search($get('ctl00_SmallSearchInputBox1_csr_sbox').value);return Srch.U.cancelEvent(event);}})" onkeydown="EnsureScriptFunc('Search.ClientControls.js', 'Srch.U', function() {var ctl = $find('ctl00_SmallSearchInputBox1_csr');ctl.activateDefaultQuerySuggestionBehavior();})" onfocus="EnsureScriptFunc('Search.ClientControls.js', 'Srch.U', function() {var ctl = $find('ctl00_SmallSearchInputBox1_csr');ctl.hidePrompt();ctl.setBorder(true);})" onblur="EnsureScriptFunc('Search.ClientControls.js', 'Srch.U', function() {var ctl = $find('ctl00_SmallSearchInputBox1_csr'); if (ctl){ ctl.showPrompt(); ctl.setBorder(false);}})" class="ms-textSmall ms-srch-sb-prompt ms-helperText"/><a title="Search" class="ms-srch-sb-searchLink" id="ctl00_SmallSearchInputBox1_csr_SearchLink" onclick="EnsureScriptFunc('Search.ClientControls.js', 'Srch.U', function() {$find('ctl00_SmallSearchInputBox1_csr').search($get('ctl00_SmallSearchInputBox1_csr_sbox').value);})" href="javascript: {}" ><img src="/_layouts/15/images/searchresultui.png?rev=23" class="ms-srch-sb-searchImg" id="searchImg" alt="Search" /></a><div class="ms-qSuggest-container ms-shadow" id="AutoCompContainer"><div id="ctl00_SmallSearchInputBox1_csr_AutoCompList"></div></div></div></div></div><noscript><div id="ctl00_SmallSearchInputBox1_noscript">It looks like your browser does not have JavaScript enabled. Please turn on JavaScript and try again.</div></noscript><div id="ctl00_SmallSearchInputBox1">
+
+	</div><div class="ms-clear"></div></div>
+</div>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div id="titleAreaRow">
+                                        <div class="ms-breadcrumb-box ms-verticalAlignTop">
+                                            <div class="ms-breadcrumb-top">
+                                                <div id="imo-navbarleft">
+                                                    <a href="/" onmouseover="document.getElementById('home-icon').src='/_layouts/15/1033/STYLES/IMOBranding/home-hover.png'" onmouseout="document.getElementById('home-icon').src='/_layouts/15/1033/STYLES/IMOBranding/home.png'">
+                                                        <img id="home-icon" src="/_layouts/15/1033/STYLES/IMOBranding/home.png" />
+                                                    </a>
+                                                </div>
+                                                <div id="DeltaTopNavigation" class="ms-displayInline">
+	
+                                                
+                                                
+            <div id="zz1_TopNavigationMenu" class=" noindex ms-core-listMenu-horizontalBox">
+		<ul id="zz2_RootAspMenu" class="root ms-core-listMenu-root static">
+			<li class="static selected"><a class="static selected menu-item ms-core-listMenu-item ms-displayInline ms-core-listMenu-selected ms-navedit-linkNode" tabindex="0" href="/en/Pages/Default.aspx" accesskey="1"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">English</span><span class="ms-hidden">Currently selected</span></span></a><ul class="static">
+				<li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/en/About/Pages/Default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">About IMO</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/en/MediaCentre/Pages/Default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Media Centre</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/en/OurWork/Pages/Home.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Our Work</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/en/Publications/Pages/Home.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Publications</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/en/KnowledgeCentre/Pages/Default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Knowledge Centre</span></span></a></li>
+			</ul></li>
+		</ul>
+	</div>
+            
+        
+                                                
+</div>
+                                            </div>
+                                            <h1 id="pageTitle" class="ms-core-pageTitle">
+                                                <span id="DeltaPlaceHolderPageTitleInTitleArea">
+                                                
+            <span><a href="#ctl00_PlaceHolderPageTitleInTitleArea_ctl00_SkipLink"><img alt="Skip Navigation Links" src="/WebResource.axd?d=rw8Uf-unUf7GdrkJtCQlaCJwQSjYYU1-u9myEzBW-5K9YH-DpPhP1Agu2nGVW7ZHOXUvV9vIiaaCo0MbC3lYBarOCTN09HRR-mfol-YjwYs1&amp;t=635328563960000000" width="0" height="0" border="0" /></a><span><a href="/en/Pages/Default.aspx">Default</a></span><a id="ctl00_PlaceHolderPageTitleInTitleArea_ctl00_SkipLink"></a></span>
+            
+            
+            International Maritime Organization
+            
+        
+                                                </span>
+                                                <div id="DeltaPlaceHolderPageDescription" class="ms-displayInlineBlock ms-normalWrap">
+	
+                                                <a href="javascript:;" id="ms-pageDescriptionDiv" style="display:none">
+                                                    <span id="ms-pageDescriptionImage">
+                                                    </span>
+                                                </a>
+                                                <span class="ms-accessible" id="ms-pageDescription">
+                                                    
+                                                </span>
+                                                <script type="text/javascript">// <![CDATA[ 
+
+
+                                                _spBodyOnLoadFunctionNames.push("setupPageDescriptionCallout");
+                                                // ]]>
+</script>
+                                                
+</div>
+                                            </h1>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div id="contentRow">
+                                    <div id="carouselPlaceHolder">
+                                    </div>
+                                    <div id="sideNavBox" class="ms-dialogHidden ms-forceWrap ms-noList">
+                                        <div id="DeltaPlaceHolderLeftNavBar" class="ms-core-navigation" role="navigation">
+	
+                                        
+            <a id="startNavigation" name="startNavigation" tabindex="-1">
+            </a>
+            <div>
+            </div>
+            <div>
+            </div>
+            <div>
+            </div>
+            <div>
+            </div>
+            <div>
+            </div>
+            <div class="ms-core-sideNavBox-removeLeftMargin">
+                <div id="ctl00_PlaceHolderLeftNavBar_QuickLaunchNavigationManager">
+		
+                
+                <div id="zz3_V4QuickLaunchMenu" class=" noindex ms-core-listMenu-verticalBox">
+			<ul id="zz4_RootAspMenu" class="root ms-core-listMenu-root static">
+				<li class="static selected"><a class="static selected menu-item ms-core-listMenu-item ms-displayInline ms-core-listMenu-selected ms-navedit-linkNode" tabindex="0" href="/en/Pages/Default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">English</span><span class="ms-hidden">Currently selected</span></span></a><ul class="static">
+					<li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/en/About/Pages/Default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">About IMO</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/en/KnowledgeCentre/Pages/Default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Knowledge Centre</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/en/MediaCentre/Pages/Default.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Media Centre</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/en/OurWork/Pages/Home.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Our Work</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" tabindex="0" href="/en/Publications/Pages/Home.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Publications</span></span></a></li>
+				</ul></li>
+			</ul>
+		</div>
+                
+	</div>
+                
+                <div>
+                    <div class="ms-core-listMenu-verticalBox">
+                        
+                        
+                    </div>
+                </div>
+            </div>
+        
+                                        
+</div>
+                                    </div>
+                                    <div id="content">
+                                        <table style="width:95%;margin:0 auto;">
+                                            <tr>
+                                                <td valign="top" id="tdLeftNav">
+                                                    <div id="imo-leftnav">
+                                                        <div id="imo-leftnavtop">
+                                                        </div>
+                                                        
+                                                        <ul>
+</ul>
+                                                        <div id="imo-leftnavbottom">
+                                                        </div>
+                                                    </div>
+                                                    <div id="imo-belowleftnav">
+                                                        
+                                                    </div>
+                                                </td>
+                                                <td valign="top" width="100%">
+                                                    <div class="imo-pagecontent">
+                                                        
+                                                        
+                                                        <div id="contentBox" aria-live="polite" aria-relevant="all">
+                                                            <div id="notificationArea" class="ms-notif-box">
+                                                            </div>
+                                                            <div id="DeltaPlaceHolderMain">
+	
+                                                            <a id="mainContent" name="mainContent" tabindex="-1">
+                                                            </a>
+                                                            
+            <script type="text/javascript">//<![CDATA[
+        $(document).ready(function () {
+            hideLeftNav();
+        });
+    
+            
+            
+            //]]></script>
+            <div>
+                
+                
+                
+                
+                
+            </div>
+            <div id="imo-homepage">
+                <div data-name="WebPartZone">
+                    
+                    
+                    <div>
+                        <div class="ms-webpart-zone ms-fullWidth">
+		<div id="MSOZoneCell_WebPartWPQ3" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical ms-fullWidth ">
+			<div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">
+				<div WebPartID="1a4631d0-9a1a-495c-bdcc-10949e9673dc" HasPers="false" id="WebPartWPQ3" width="100%" class="ms-WPBody ms-WPBorderBorderOnly noindex " allowDelete="false" style="" ><div id="ctl00_ctl46_g_499d602e_a7f7_40a4_9161_f4a571b2edfd">
+					
+        <script type="text/javascript" src="/_layouts/15/IMOSocialMedia/jquery.jcarousel.min.js"></script>
+        <link rel="stylesheet" type="text/css" href="/_layouts/15/IMOSocialMedia/jcarousel.css"/>
+        <script type="text/javascript" src="/_layouts/15/IMOSocialMedia/jCarousel.js"></script>
+
+        <div class="jcarousel-news-wrapper">
+            <div class="jcarousel-news-heading"><span class="translate">Top Stories</span></div>
+            <p class="jcarousel-news-pagination"></p>
+            <div class="jcarousel-news">
+                <ul>
+                    <li><div class='jcarousel-news-slide'>
+                                    <div class='jcarousel-news-image'><img src="/en/MediaCentre/PressBriefings/PublishingImages/2016%20images%20for%20briefings/International%20Maritime%20Prize_dolphin_1200x375.jpg" alt=""/></div>
+                                    <div class='jcarousel-news-title-desc'>
+                                        <div class='jcarousel-news-title'><a href='/en/MediaCentre/PressBriefings/Pages/19-international-maritme-prize.aspx'>Maritime lawyer Dr. Frank Wiswall to receive 2015 International Maritime Prize</a></div>
+                                        <div class='jcarousel-news-desc'>Prize will recognize the contribution of Dr. Wiswall, former Chair of the IMO Legal Committee and Vice-President (Honoris Causa) Comité Maritime International (CMI).  <a href='/en/MediaCentre/PressBriefings/Pages/19-international-maritme-prize.aspx'><span class='translate'>more</span>...</a></div>
+                                    </div>
+                                    </div>
+                                    </li><li><div class='jcarousel-news-slide'>
+                                    <div class='jcarousel-news-image'><img src="/en/MediaCentre/PressBriefings/PublishingImages/2016%20images%20for%20briefings/WMD%202017%20theme_banner_shutterstock_125874065_blue.jpg" alt=""/></div>
+                                    <div class='jcarousel-news-title-desc'>
+                                        <div class='jcarousel-news-title'><a href='/en/MediaCentre/PressBriefings/Pages/20-WMD-theme-2017.aspx'>World Maritime Day theme for 2017: "Connecting Ships, Ports and People"</a></div>
+                                        <div class='jcarousel-news-desc'>2017 theme will focus on shipping, ports and the people that operate them alongside joined-up maritime strategies.    <a href='/en/MediaCentre/PressBriefings/Pages/20-WMD-theme-2017.aspx'><span class='translate'>more</span>...</a></div>
+                                    </div>
+                                    </div>
+                                    </li><li><div class='jcarousel-news-slide'>
+                                    <div class='jcarousel-news-image'><img src="/en/MediaCentre/PressBriefings/PublishingImages/2016%20images%20for%20briefings/Bravery%20Award_1200x375%20(2).jpg" alt=""/></div>
+                                    <div class='jcarousel-news-title-desc'>
+                                        <div class='jcarousel-news-title'><a href='/en/MediaCentre/PressBriefings/Pages/21-Bravery-Award-2016.aspx'>Indian tanker captain to receive 2016 IMO Award for Exceptional Bravery at Sea</a></div>
+                                        <div class='jcarousel-news-desc'>Captain Radhika Menon, Master of Sampurna Swarajya, is to receive the Award for her role in the dramatic rescue of seven fishermen.   <a href='/en/MediaCentre/PressBriefings/Pages/21-Bravery-Award-2016.aspx'><span class='translate'>more</span>...</a></div>
+                                    </div>
+                                    </div>
+                                    </li><li><div class='jcarousel-news-slide'>
+                                    <div class='jcarousel-news-image'><img src="/fr/MediaCentre/PublishingImages/gas%20testing.jpg" alt=""/></div>
+                                    <div class='jcarousel-news-title-desc'>
+                                        <div class='jcarousel-news-title'><a href='/en/MediaCentre/PressBriefings/Pages/Enclosed-space-ship-safety-rule-enters-into-force.aspx'>Enclosed space ship safety rule enters into force</a></div>
+                                        <div class='jcarousel-news-desc'>New SOLAS regulation requires ships to carry portable atmosphere testing equipment on board. <a href='/en/MediaCentre/PressBriefings/Pages/Enclosed-space-ship-safety-rule-enters-into-force.aspx'><span class='translate'>more</span>...</a></div>
+                                    </div>
+                                    </div>
+                                    </li>
+                </ul>
+            </div>
+        </div>
+    
+
+				</div><div class="ms-clear"></div></div>
+			</div>
+		</div>
+	</div>
+                    </div>
+                    
+                </div>
+                <table cellpadding="6" cellspacing="0" border="0" style="width:100%;">
+                    <tr>
+                        <td name="_invisibleIfEmpty" valign="top" style="width:32%;padding-right:16px!important; padding-left:12px;" class="homepageCols">
+                            <div data-name="WebPartZone">
+                                
+                                
+                                <div>
+                                    <div class="ms-webpart-zone ms-fullWidth">
+		<div id="MSOZoneCell_WebPartWPQ11" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical ms-fullWidth ">
+			<div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">
+				<div class="ms-webpart-chrome-title" id="WebPartWPQ11_ChromeTitle">
+					<span title="Hot Topics - Use to display a dynamic view of content from your site on a web page" id="WebPartTitleWPQ11" class="js-webpart-titleCell"><h2 style="text-align:justify;" class="ms-webpart-titleText">&nbsp;<span>Hot Topics</span><span id="WebPartCaptionWPQ11"></span></h2></span>
+				</div><div WebPartID="e56e21b3-ac7c-406b-83d7-db24d5a43238" HasPers="false" id="WebPartWPQ11" width="100%" class="ms-WPBody noindex ms-wpContentDivSpace " allowDelete="false" style="" ><table id="cbqwp" cellspacing="0" cellpadding="0" class="cbq-layout-main"><tr><td id="column" width="100%" valign="top"><div style="display:inline-block;margin-bottom:6px;width:100%;padding:3px;border-bottom:1px dashed #ccc;" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime"><div style="float:left;width:153px;padding:3px;"><a href="http://www.imo.org/en/About/Events/dayoftheseafarer/Pages/Day-of-the-Seafarer-2016.aspx" target="" style="font-family:Verdana;font-size:1em;"><img style="width:150px;" src="/en/MediaCentre/IMOEvents/PublishingImages/DOSF-Banner.jpg" alt=""></a></div><div style="font-size:13px;font-weight:bold"><a href="http://www.imo.org/en/About/Events/dayoftheseafarer/Pages/Day-of-the-Seafarer-2016.aspx" target="" title="" style="font-family:Verdana;font-size:1em;">Day of the Seafarer - 25 June #AtSeaForAll</a></div></div><div style="display:inline-block;margin-bottom:6px;width:100%;padding:3px;border-bottom:1px dashed #ccc;" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime"><div style="float:left;width:153px;padding:3px;"><a href="http://www.imo.org/en/MediaCentre/HotTopics/container/Pages/default.aspx" target="" style="font-family:Verdana;font-size:1em;"><img style="width:150px;" src="/en/MediaCentre/HotTopics/container/PublishingImages/VGM%20in%20focus_thumbnail.jpg" alt=""></a></div><div style="font-size:13px;font-weight:bold"><a href="http://www.imo.org/en/MediaCentre/HotTopics/container/Pages/default.aspx" target="" title="" style="font-family:Verdana;font-size:1em;">SOLAS container mass verification requirements</a></div></div><div style="display:inline-block;margin-bottom:6px;width:100%;padding:3px;border-bottom:1px dashed #ccc;" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime"><div style="float:left;width:153px;padding:3px;"><a href="http://www.un.org/sustainabledevelopment/" target="" style="font-family:Verdana;font-size:1em;"><img style="width:150px;" src="/fr/MediaCentre/PublishingImages/capacitySDGs.jpg" alt=""></a></div><div style="font-size:13px;font-weight:bold"><a href="http://www.un.org/sustainabledevelopment/" target="" title="" style="font-family:Verdana;font-size:1em;">UN Sustainable Development Goals </a></div></div><div style="display:inline-block;margin-bottom:6px;width:100%;padding:3px;border-bottom:1px dashed #ccc;" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime"><div style="float:left;width:153px;padding:3px;"><a href="http://www.imo.org/en/About/Events/WorldMaritimeDay/Pages/WMD-2016.aspx" target="" style="font-family:Verdana;font-size:1em;"><img style="width:150px;" src="/en/About/Events/WorldMaritimeDay/PublishingImages/2016%20WMD%20images/WMD%202016homepage.jpg" alt=""></a></div><div style="font-size:13px;font-weight:bold"><a href="http://www.imo.org/en/About/Events/WorldMaritimeDay/Pages/WMD-2016.aspx" target="" title="" style="font-family:Verdana;font-size:1em;">World Maritime Day 2016: "Shipping: indispensable to the world"</a></div></div><div id="footer"></div></td ></tr></table><div class="ms-clear"></div></div>
+			</div><div class="ms-PartSpacingVertical"></div>
+		</div><div id="MSOZoneCell_WebPartWPQ8" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical ms-fullWidth ">
+			<div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">
+				<div class="ms-webpart-chrome-title" id="WebPartWPQ8_ChromeTitle">
+					<span title="Resources - Use for formatted text, tables, and images." id="WebPartTitleWPQ8" class="js-webpart-titleCell"><h2 style="text-align:justify;" class="ms-webpart-titleText">&nbsp;<span>Resources</span><span id="WebPartCaptionWPQ8"></span></h2></span>
+				</div><div WebPartID="c17f46e5-305d-4bcc-a10e-eed2e4d7dc59" HasPers="false" id="WebPartWPQ8" width="100%" class="ms-WPBody ms-WPBorder noindex ms-wpContentDivSpace " allowDelete="false" style="" ><div class="ms-rtestate-field"><p class="imo-bullet"><a href="http://gisis.imo.org/" target="blank">Global Integrated Shipping Information System (GISIS)</a></p>
+<p class="imo-bullet"><a href="/en/OurWork/Pages/Summary-of-Internal-Audit-Activities-and-Reports.aspx">Summary of Internal Audit Activities and Reports for the reporting year ending 31 December 2015</a></p>
+<p class="imo-bullet"><a href="/en/OurWork/Pages/Financial-Statements.aspx">IMO Financial Statements</a></p>
+<p class="imo-bullet"><a href="/en/OurWork/Documents/Code%20of%20Ethics%20for%20IMO%20Personnel.pdf">IMO Code of Ethics <img style="margin-right: 3px; vertical-align: middle;" src="/_layouts/15/images/icpdf.png"/></a></p>
+<p class="imo-bullet"><a href="../MediaCentre/MaritimeNewsMagazine">IMO News Magazine</a></p>
+<p class="imo-bullet"><a href="../OurWork/MSAS/Casualties/Pages/Lessons-learned.aspx">Lessons Learned from Marine Casualties</a></p>
+<p class="imo-bullet"><a href="../MediaCentre/Multimedia">Multimedia</a></p>
+
+
+</div><div class="ms-clear"></div></div>
+			</div><div class="ms-PartSpacingVertical"></div>
+		</div><div id="MSOZoneCell_WebPartWPQ14" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical ms-fullWidth ">
+			<div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">
+				<div class="ms-webpart-chrome-title" id="WebPartWPQ14_ChromeTitle">
+					<span title="Visits to IMO" id="WebPartTitleWPQ14" class="js-webpart-titleCell"><h2 style="text-align:justify;" class="ms-webpart-titleText"><a accesskey="W" href="https://www.flickr.com/photos/imo-un/albums/72157660581382037">&nbsp;<span>Visits to IMO</span><span id="WebPartCaptionWPQ14"></span></a></h2></span>
+				</div><div WebPartID="46d12998-6303-48c6-9889-cabc1ee1fb52" HasPers="false" id="WebPartWPQ14" width="100%" class="ms-WPBody noindex ms-wpContentDivSpace " allowDelete="false" style="" ><div class="ms-rtestate-field"><script type="text/javascript" language="javascript">
+function jsonFlickrApi(rsp) {
+	if (rsp.stat != "ok"){
+		// If this executes, something broke!
+		return;
+	}
+	photos = rsp.photoset;
+	for(var i=0;i < photos.photo.length; i++)
+	{
+		 photo = photos.photo[i];
+		 if(photo.isprimary == "1")
+		 {
+			 img_url = 'https://farm' + photo.farm + '.staticflickr.com/' + photo.server + '/' + photo.id + '_' + photo.secret + '.jpg';
+			 link_url = 'https://www.flickr.com/photos/imo-un/albums/72157660581382037';
+			 s = '<div style="float:left; padding:6px;"><a href="' + link_url + '" target="_blank"><img src="' + img_url + '" style="width:180px;" alt="" /></a></div>';
+			 s += '<p><strong><a href="' + link_url + '" target="_blank">Photo gallery</a></strong><br/></p>';
+			 //s += '<p><strong><a href="http://www.imo.org/en/MediaCentre/IMOMediaAccreditation/Pages/29th-IMO-Assembly---Media-information.aspx">Media information</a></strong></p>';
+			 document.writeln(s);
+		 }
+	}
+}
+</script>
+<script type="text/javascript" language="javascript" src="https://api.flickr.com/services/rest/?format=json&sort=random&method=flickr.photosets.getPhotos&photoset_id=72157660581382037&api_key=443d63048937f5d2ab74964933ce657c">
+</script></div><div class="ms-clear"></div></div>
+			</div>
+		</div>
+	</div>
+                                </div>
+                                
+                            </div>
+                        </td>
+                        <td name="_invisibleIfEmpty" valign="top" style="width:50%;padding-right:28px!important; padding-left:20px !important;min-width:250px" class="homepageCols">
+                            <div data-name="WebPartZone" style="background-color:#F2F7FC;padding-left:10px!important;padding-right:0px!important">
+                                
+                                
+                                <div>
+                                    <div class="ms-webpart-zone ms-fullWidth">
+		<div id="MSOZoneCell_WebPartWPQ12" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical ms-fullWidth ">
+			<div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">
+				<div class="ms-webpart-chrome-title" id="WebPartWPQ12_ChromeTitle">
+					<span title="What&#39;s New - Use to display a dynamic view of content from your site on a web page" id="WebPartTitleWPQ12" class="js-webpart-titleCell"><h2 style="text-align:justify;" class="ms-webpart-titleText">&nbsp;<span>What&#39;s New</span><span id="WebPartCaptionWPQ12"></span></h2></span>
+				</div><div WebPartID="75564055-8e8a-47de-ad2e-0a56b7805e7a" HasPers="false" id="WebPartWPQ12" width="100%" class="ms-WPBody ms-WPBorder noindex ms-wpContentDivSpace " allowDelete="false" style="" ><table id="cbqwp" cellspacing="0" cellpadding="0" class="cbq-layout-main"><tr><td id="column" width="100%" valign="top"><div class="image-area-left" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime"><img style="width:150px;margin-right:3px;" src="/en/MediaCentre/Homepage%20pictures/WhatsNewimages/EdK_Madagascar_smaller.jpg" alt="2016-08-12 15:00:00"></div><div class="imo-news-title" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime"><a href="../MediaCentre/WhatsNew" target="" title="">Madagascar workshop promotes dumping of wastes at sea regulations</a></div><div class="imo-news-summary" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime"><em style="font-family:Verdana;font-size:11px;color:#808080;">12/08/2016</em>&nbsp;<div class="ExternalClassDFCB75B0C718422CA742D36EB5E2427B"><p>​<span><span>A national workshop promoting the treaty covering dumping of wastes at sea, the <a href="/en/OurWork/Environment/LCLP/Documents/22780LDC%20Leaflet%20without%2040%20Anniv%20logo2012Web1.pdf">London Protocol</a>,
+ is being held in Antananarivo, Madagascar (11-12 August). The workshop,
+ the first of its kind held in the country, is raising awareness of the 
+regulatory framework provided by the Protocol. It is thereby supporting 
+Madagascar in protecting its marine environment from the dumping of 
+wastes and other matter at sea.&#160;<a href="/en/Pages/Default.aspx">more...</a> </span></span></p></div>&nbsp;</div><hr xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime"><div class="image-area-left" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime"><img style="width:150px;margin-right:3px;" src="/en/MediaCentre/Homepage%20pictures/WhatsNewimages/Glomeep%20website_smaller.jpg" alt="2016-08-04 18:00:00"></div><div class="imo-news-title" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime"><a href="../MediaCentre/WhatsNew" target="" title="">Website launched for GloMEEP energy efficiency project</a></div><div class="imo-news-summary" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime"><em style="font-family:Verdana;font-size:11px;color:#808080;">04/08/2016</em>&nbsp;<div class="ExternalClass26F30357699B486BACEE2BE88909C581"><p>​<span><span>IMO’s continuing efforts to
+promote environmentally sound shipping received a boost today with the launch
+of <a href="http&#58;//glomeep.imo.org/">Glomeep.imo.org</a>. The new website provides important information and updates
+on the Global Maritime Energy Eﬀiciency Partnerships (GloMEEP) project – a
+GEF-UNDP-IMO initiative that supports the uptake and implementation of energy efficiency
+measures for shipping, thereby reducing the industry’s greenhouse gas
+emissions. A key feature of the site is an <a href="http&#58;//glomeep.imo.org/resources/energy-efficiency-techologies-information-portal/">information
+portal</a> on energy efficiency technologies – covering areas such as
+machinery, propulsion and hull improvements, and energy recovery. <a href="/en/Mediacentre/WhatsNew/Pages/default.aspx">more...</a> </span></span></p></div>&nbsp;</div><hr xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime"><div class="image-area-left" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime"><img style="width:150px;margin-right:3px;" src="/en/MediaCentre/Homepage%20pictures/WhatsNewimages/Chris%20on%20Sky.jpg" alt="2016-08-03 12:00:00"></div><div class="imo-news-title" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime"><a href="../MediaCentre/WhatsNew" target="" title="">IMO’s maritime security work highlighted</a></div><div class="imo-news-summary" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime"><em style="font-family:Verdana;font-size:11px;color:#808080;">03/08/2016</em>&nbsp;<div class="ExternalClass7F5E2F9645964CA6906F43EA1F5987BB"><p>​<span><span>Recent security exercises in the English Channel involving
+military personnel on board ships have sparked heightened media interest in maritime
+security in the region. As a result, IMO’s work in this field has been
+highlighted on the UK news channel Sky News (2 August) by Chris Trelawny, IMO
+Special Advisor on Maritime Security and Facilitation. Asked about ferry
+security in the context of terrorism, Mr. Trelawny told the programme that “IMO
+has developed a range of guidance and measures to protect shipping, and to
+protect the ports serving shipping – including the International Ship and Port
+Facility Security Code”. Watch extended clips of the interview <a href="https&#58;//twitter.com/SkyNewsTonight/status/760553013463224320">here</a>
+and <a href="https&#58;//twitter.com/SkyNewsTonight/status/760553879754776577">here</a>.</span></span> <a href="/en/Mediacentre/WhatsNew/Pages/default.aspx">more...</a><br></p></div>&nbsp;</div><hr xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">
+ 
+<a href="../MediaCentre/WhatsNew" style="font-family:Verdana;font-size:11px;">
+<span class="translate">More</span>...</a>
+
+      <div id="footer"></div></td ></tr></table><div class="ms-clear"></div></div>
+			</div>
+		</div>
+	</div>
+                                </div>
+                                
+                            </div>
+                        </td>
+                        <td name="_invisibleIfEmpty" valign="top" style="width:18%;padding-left:8px; padding-right:0px;max-width:180px;" class="homepageCols">
+                            <div data-name="WebPartZone">
+                                
+                                
+                                <div>
+                                    <div class="ms-webpart-zone ms-fullWidth">
+		<div id="MSOZoneCell_WebPartWPQ7" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical ms-fullWidth ">
+			<div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">
+				<div class="ms-webpart-chrome-title" id="WebPartWPQ7_ChromeTitle">
+					<span title="Secretary-General - Use for formatted text, tables, and images." id="WebPartTitleWPQ7" class="js-webpart-titleCell"><h2 style="text-align:justify;" class="ms-webpart-titleText">&nbsp;<span>Secretary-General</span><span id="WebPartCaptionWPQ7"></span></h2></span>
+				</div><div WebPartID="6143bed6-bdc2-48fd-b2a5-37514bf4734e" HasPers="false" id="WebPartWPQ7" width="100%" class="ms-WPBody noindex ms-wpContentDivSpace " allowDelete="false" style="" ><div class="ms-rtestate-field"><div style="text-align: center; margin-left: 10px;"> 
+   <div style="text-align: center;"> 
+      <a href="/en/MediaCentre/SecretaryGeneral/Pages/Default.aspx"><img src="/en/MediaCentre/PressBriefings/PublishingImages/2015%20images%20briefings/Ki-tack%20LIM.jpg" _moz_resizing="true" alt="" style="margin: 0px 0px 0px -5px; width: 180px;"/></a><!--<div><br/>
+         <p class="imo-bullet">
+            <a href="http://imosgblog.tumblr.com/">Secretary-General&#39;s blog</a></p>
+   </div> -->&#160;</div> &#160;</div></div><div class="ms-clear"></div></div>
+			</div><div class="ms-PartSpacingVertical"></div>
+		</div><div id="MSOZoneCell_WebPartWPQ10" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical ms-fullWidth ">
+			<div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">
+				<div class="ms-webpart-chrome-title" id="WebPartWPQ10_ChromeTitle">
+					<span title="IMO Meetings" id="WebPartTitleWPQ10" class="js-webpart-titleCell"><h2 style="text-align:justify;" class="ms-webpart-titleText">&nbsp;<span>IMO Meetings</span><span id="WebPartCaptionWPQ10"></span></h2></span>
+				</div><div WebPartID="fc4c380e-b69f-4071-91b2-122c0e8444cc" HasPers="false" id="WebPartWPQ10" width="100%" class="ms-WPBody ms-WPBorder noindex ms-wpContentDivSpace " allowDelete="false" style="" ><table id="cbqwp" cellspacing="0" cellpadding="0" class="cbq-layout-main"><tr><td id="column" width="100%" valign="top"><div class="imo-nextmeeting-item" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Sub-Committee on Carriage of Cargoes and Containers (CCC)<span class="imo-nextmeeting-dates">
+      (05/09/2016
+      -
+      09/09/2016)
+      </span></div><div class="imo-nextmeeting-item" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">38th Consultative Meeting of Contracting Parties (London Convention 1972) and 11th Meeting of Contracting Parties (London Protocol 1996) <span class="imo-nextmeeting-dates">
+      (19/09/2016
+      -
+      23/09/2016)
+      </span></div><div class="imo-nextmeeting-item" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Technical Cooperation Committee (TCC)<span class="imo-nextmeeting-dates">
+      (10/10/2016
+      -
+      12/10/2016)
+      </span></div>
+ 
+<a href="../MediaCentre/MeetingSummaries" style="font-family:Verdana;font-size:11px;">
+<span class="translate">More Meetings</span>...</a>
+<div style="border-top:1px dashed #ccc; border-bottom:1px dashed #ccc;">
+<a href="../About/Pages/DocumentsResources.aspx" style="font-family:Verdana;font-size:11px;"><span class="translate">IMO Documents</span> (IMODOCS)</a>
+</div>
+
+      <div id="footer"></div></td ></tr></table><div class="ms-clear"></div></div>
+			</div><div class="ms-PartSpacingVertical"></div>
+		</div><div id="MSOZoneCell_WebPartWPQ9" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical ms-fullWidth ">
+			<div class="ms-webpart-chrome ms-webpart-chrome-vertical " style="width:200px">
+				<div class="ms-webpart-chrome-title" id="WebPartWPQ9_ChromeTitle">
+					<span title="IMO Twitter - Allows authors to enter rich text content." id="WebPartTitleWPQ9" class="js-webpart-titleCell"><h2 style="text-align:justify;" class="ms-webpart-titleText">&nbsp;<span>IMO Twitter</span><span id="WebPartCaptionWPQ9"></span></h2></span>
+				</div><div WebPartID="47713995-69cc-4cc7-9b73-ab1c6c8fccb0" HasPers="false" id="WebPartWPQ9" class="ms-WPBody ms-WPBorder noindex ms-wpContentDivSpace " allowDelete="false" style="width:200px;overflow:auto;" ><div class="ms-rtestate-field"><a class="twitter-timeline" height="230" data-dnt="true" href="https://twitter.com/IMOHQ" data-widget-id="410101006995697664" data-chrome="noheader nofooter transparent">Tweets by @IMOHQ</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div><div class="ms-clear"></div></div>
+			</div><div class="ms-PartSpacingVertical"></div>
+		</div><div id="MSOZoneCell_WebPartWPQ13" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical ms-fullWidth ">
+			<div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">
+				<div WebPartID="5ecea0b0-589d-4d49-bcc5-2512c2dc7d98" HasPers="false" id="WebPartWPQ13" width="100%" class="ms-WPBody noindex " allowDelete="false" style="" ><div class="ms-rtestate-field"><div style="text-align:left;">
+<span style="display:block;text-align:center;width:200px;padding:0px;">
+<a id="facebook" style="cursor:pointer">
+<img border="0" src="/PublishingImages/facebook-icon.png" width='28px' alt="Facebook" title="Facebook"/></a>
+<a id="twitter" style="cursor:pointer">
+<img border="0" src="/PublishingImages/twitter-icon.png" width='28px' alt="Twitter" title="Twitter"/></a>
+<a id="youtube" style="cursor:pointer">
+<img border="0" src="/PublishingImages/youtube-icon.png" width='28px'alt="YouTube" title="YouTube"/></a>
+<a id="flickr" style="cursor:pointer">
+<img border="0" src="/PublishingImages/flickr-icon.png" width='28px' alt="Flickr" title="Flickr"/></a>
+<!--<a id="tumblr" style="cursor:pointer">
+<img border="0" src="/siteassets/tumblr.gif" alt="Tumblr" width='28px' title="Tumblr"/></a>-->
+<a href="/en/About/Pages/RSS.aspx">
+<img border="0" src="/PublishingImages/rss-icon.png" width='28px' alt="RSS Feed" title="RSS Feed"/></a>
+</span>
+</div>
+
+<script type="text/javascript">
+  $(function() {
+  $('#facebook').click(function() {
+  $(this).fastConfirm({
+  position: "left",
+  unique: true,
+  questionText: "<strong>Disclaimer</strong><br/>IMO is not responsible for the content of external websites.<br/> Do you want to continue?",
+  onProceed: function(trigger) {
+  window.open("http://www.facebook.com/pages/International-Maritime-Organization/107878965934354", "_blank");
+  },
+  onCancel: function(trigger) {
+  $(trigger).fastConfirm('close');
+  }
+  });
+  });
+
+  $('#twitter').click(function() {
+  $(this).fastConfirm({
+  position: "left",
+  unique: true,
+  questionText: "<strong>Disclaimer</strong><br/>IMO is not responsible for the content of external websites.<br/> Do you want to continue?",
+  onProceed: function(trigger) {
+  window.open("http://twitter.com/imohq", "_blank");
+  },
+  onCancel: function(trigger) {
+  $(trigger).fastConfirm('close');
+  }
+  });
+  });
+
+  $('#youtube').click(function() {
+  $(this).fastConfirm({
+  position: "left",
+  unique: true,
+  questionText: "<strong>Disclaimer</strong><br/>IMO is not responsible for the content of external websites.<br/> Do you want to continue?",
+  onProceed: function(trigger) {
+  window.open("http://www.youtube.com/user/IMOHQ", "_blank");
+  },
+  onCancel: function(trigger) {
+  $(trigger).fastConfirm('close');
+  }
+  });
+  });
+
+  $('#flickr').click(function() {
+  $(this).fastConfirm({
+  position: "left",
+  unique: true,
+  questionText: "<strong>Disclaimer</strong><br/>IMO is not responsible for the content of external websites.<br/> Do you want to continue?",
+  onProceed: function(trigger) {
+  window.open("http://www.flickr.com/photos/imo-un/collections/", "_blank");
+  },
+  onCancel: function(trigger) {
+  $(trigger).fastConfirm('close');
+  }
+  });
+  });
+
+  $('#tumblr').click(function() {
+  $(this).fastConfirm({
+  position: "left",
+  unique: true,
+  questionText: "<strong>Disclaimer</strong><br/>IMO is not responsible for the content of external websites.<br/> Do you want to continue?",
+  onProceed: function(trigger) {
+  window.open("http://imosgblog.tumblr.com", "_blank");
+  },
+  onCancel: function(trigger) {
+  $(trigger).fastConfirm('close');
+  }
+  });
+  });
+
+  });
+</script>
+</div><div class="ms-clear"></div></div>
+			</div>
+		</div>
+	</div>
+                                </div>
+                                
+                            
+                                
+                                
+                                <div>
+                                    <menu class="ms-hide">
+		<ie:menuitem id="MSOMenu_Help" iconsrc="/_layouts/15/images/HelpIcon.gif" onmenuclick="MSOWebPartPage_SetNewWindowLocation(MenuWebPart.getAttribute('helpLink'), MenuWebPart.getAttribute('helpMode'))" text="Help" type="option" style="display:none">
+
+		</ie:menuitem>
+	</menu>
+                                </div>
+                                
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="3">
+                            <div class="rounded" style="background: #f0f0f0;">
+                                <table width="100%">
+                                    <tr>
+                                        <td id="Td5" name="_invisibleIfEmpty" valign="top" height="100%" width="25%">
+                                            <div data-name="WebPartZone">
+                                                
+                                                
+                                                <div>
+                                                    <div class="ms-webpart-zone ms-fullWidth">
+		<div id="MSOZoneCell_WebPartWPQ4" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical ms-fullWidth ">
+			<div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">
+				<div WebPartID="0aaa0a3e-7372-4c35-b1a1-88e8e8a4a895" HasPers="false" id="WebPartWPQ4" width="100%" class="ms-WPBody noindex " allowDelete="false" style="" ><div id="slwp_ctl00_ctl46_g_c62c2318_8939_4a50_862b_5447045ddd62" class="slm-layout-main slwpmarker" xmlns:pcm="urn:PageContentManager"><div class="dfwp-column" style="width:100%" ><div class="slm-layout-main groupmarker"><ul class="dfwp-list"><li><div class="item"><div class="link-item"><a href="/en/KnowledgeCentre/IMOAndTheUnitedNations/Pages/default.aspx" title="">IMO in the UN</a><div class="description"></div></div></div></li ><li><div class="item"><div class="link-item"><a href="/en/About/Membership/Pages/MemberStates.aspx" title="">Member States</a><div class="description"></div></div></div></li ><li><div class="item"><div class="link-item"><a href="/en/About/Pages/Affiliated-Bodies-and-Programmes.aspx" title="">Affiliated Bodies and Programs</a><div class="description"></div></div></div></li ><li><div class="item"><div class="link-item"><a href="/en/OurWork/Circulars/Pages/Home.aspx" title="">Circulars</a><div class="description"></div></div></div></li ><li><div class="item"><div class="link-item"><a href="/en/About/Conventions/Pages/Home.aspx" title="">Conventions</a><div class="description"></div></div></div></li ></ul><div class="footermarker"><!--empty--></div></div></div></div><div class="ms-clear"></div></div>
+			</div>
+		</div>
+	</div>
+                                                </div>
+                                                
+                                            </div>
+                                        </td>
+                                        <td id="Td6" name="_invisibleIfEmpty" valign="top" height="100%" width="25%">
+                                            <div data-name="WebPartZone">
+                                                
+                                                
+                                                <div>
+                                                    <div class="ms-webpart-zone ms-fullWidth">
+		<div id="MSOZoneCell_WebPartWPQ5" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical ms-fullWidth ">
+			<div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">
+				<div WebPartID="6934a186-6db5-498f-8d27-9d35f5d1694a" HasPers="false" id="WebPartWPQ5" width="100%" class="ms-WPBody noindex " allowDelete="false" style="" ><div id="slwp_ctl00_ctl46_g_72e22164_2b57_4553_848a_5ca91ac84050" class="slm-layout-main slwpmarker" xmlns:pcm="urn:PageContentManager"><div class="dfwp-column" style="width:100%" ><div class="slm-layout-main groupmarker"><ul class="dfwp-list"><li><div class="item"><div class="link-item"><a href="/en/About/Pages/FAQs.aspx" title="">IMO FAQ</a><div class="description"></div></div></div></li ><li><div class="item"><div class="link-item"><a href="/en/About/Careers/Pages/Home.aspx" title="">Careers at IMO</a><div class="description"></div></div></div></li ><li><div class="item"><div class="link-item"><a href="/en/About/Careers/Internship/Pages/Default.aspx" title="">Internships</a><div class="description"></div></div></div></li ><li><div class="item"><div class="link-item"><a href="/en/OurWork/MSAS/Casualties/Pages/Default.aspx" title="">Casualties</a><div class="description"></div></div></div></li ><li><div class="item"><div class="link-item"><a href="/en/OurWork/Circulars/Pages/CP.aspx" title="">National Contacts</a><div class="description"></div></div></div></li ></ul><div class="footermarker"><!--empty--></div></div></div></div><div class="ms-clear"></div></div>
+			</div>
+		</div>
+	</div>
+                                                </div>
+                                                
+                                            </div>
+                                        </td>
+                                        <td id="Td7" name="_invisibleIfEmpty" valign="top" height="100%" width="25%">
+                                            <div data-name="WebPartZone">
+                                                
+                                                
+                                                <div>
+                                                    <div class="ms-webpart-zone ms-fullWidth">
+		<div id="MSOZoneCell_WebPartWPQ6" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical ms-fullWidth ">
+			<div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">
+				<div WebPartID="6a68b12d-c336-46d2-a8da-92f784f73bf5" HasPers="false" id="WebPartWPQ6" width="100%" class="ms-WPBody noindex " allowDelete="false" style="" ><div id="slwp_ctl00_ctl46_g_8a6831ab_bca6_4675_98fc_4c20a5a4c23a" class="slm-layout-main slwpmarker" xmlns:pcm="urn:PageContentManager"><div class="dfwp-column" style="width:100%" ><div class="slm-layout-main groupmarker"><ul class="dfwp-list"><li><div class="item"><div class="link-item"><a href="http://vp.imo.org/shop" title="" onclick="javascript:this.target=&quot;_blank&quot;">Publications Online Ordering</a><div class="description"></div></div></div></li ><li><div class="item"><div class="link-item"><a href="/en/OurWork/HumanElement/TrainingCertification/Pages/CertificateVerification.aspx" title="">Certificate Verification</a><div class="description"></div></div></div></li ><li><div class="item"><div class="link-item"><a href="/en/OurWork/Safety/Navigation/Pages/LRIT.aspx" title="">LRIT</a><div class="description"></div></div></div></li ><li><div class="item"><div class="link-item"><a href="/en/KnowledgeCentre/Pages/SearchTheOnlineCatalogueSeaLibrary.aspx" title="">SeaLibrary Online</a><div class="description"></div></div></div></li ><li><div class="item"><div class="link-item"><a href="https://webaccounts.imo.org" title="IMO Web Accounts">IMO Web Accounts</a><div class="description"></div></div></div></li ></ul><div class="footermarker"><!--empty--></div></div></div></div><div class="ms-clear"></div></div>
+			</div>
+		</div>
+	</div>
+                                                </div>
+                                                
+                                            </div>
+                                        </td>
+                                        <td id="Td8" name="_invisibleIfEmpty" valign="top" height="100%" width="25%">
+                                            <div data-name="WebPartZone">
+                                                
+                                                
+                                                <div>
+                                                    <div class="ms-webpart-zone ms-fullWidth">
+		<div id="MSOZoneCell_WebPartWPQ2" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical ms-fullWidth ">
+			<div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">
+				<div WebPartID="4130c574-aee0-4ff1-968e-a40720af1d7c" HasPers="false" id="WebPartWPQ2" width="100%" class="ms-WPBody noindex " allowDelete="false" style="" ><div id="slwp_ctl00_ctl46_g_c01fbb10_2a83_43a9_98fb_f628869ecb85" class="slm-layout-main slwpmarker" xmlns:pcm="urn:PageContentManager"><div class="dfwp-column" style="width:100%" ><div class="slm-layout-main groupmarker"><ul class="dfwp-list"><li><div class="item"><div class="link-item"><a href="/en/About/Pages/DocumentsResources.aspx" title="">Documents and Resources</a><div class="description"></div></div></div></li ><li><div class="item"><div class="link-item"><a href="/en/About/Pages/Fraud-Alert.aspx" title="">Fraud Alert</a><div class="description"></div></div></div></li ><li><div class="item"><div class="link-item"><a href="/en/About/Pages/SiteIndex.aspx" title="">Site Index</a><div class="description"></div></div></div></li ><li><div class="item"><div class="link-item"><a href="/en/About/Pages/ContactUs.aspx" title="">Contact Us</a><div class="description"></div></div></div></li ><li><div class="item"><div class="link-item"><a href="/en/KnowledgeCentre/Pages/IMOLinksDirectory.aspx" title="">Links Directory</a><div class="description"></div></div></div></li ></ul><div class="footermarker"><!--empty--></div></div></div></div><div class="ms-clear"></div></div>
+			</div>
+		</div>
+	</div>
+                                                </div>
+                                                
+                                            </div>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        <div style='display:none' id='hidZone'></div>
+                                                            
+</div>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </div>
+                                    <div id="DeltaFormDigest">
+	
+                                    
+                                    <script type="text/javascript">//<![CDATA[
+        var formDigestElement = document.getElementsByName('__REQUESTDIGEST')[0];
+        if (!((formDigestElement == null) || (formDigestElement.tagName.toLowerCase() != 'input') || (formDigestElement.type.toLowerCase() != 'hidden') ||
+            (formDigestElement.value == null) || (formDigestElement.value.length <= 0)))
+        {
+            formDigestElement.value = '0x294963CEE1263B016D04E6469607BE122EBBF8D24F643A9709379C3511D6A099DB9675FC8D68F761CC11E0943F1051E04845BFEE7C3E762AB85A4597D03FDA23,15 Aug 2016 00:22:28 -0000';
+            g_updateFormDigestPageLoaded = new Date();
+        }
+        //]]>
+        </script>
+                                    
+                                    
+</div>
+                                    <div class="ms-hide">
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                    </div>
+                                    <div id="imo-footer">
+                                        
+                                        © Copyright 2016 International Maritime Organization (IMO) <a href="/en/About/Pages/PrivacyPolicy.aspx">Privacy Policy</a><br/><b>Disclaimer</b>: IMO has endeavoured to make the information on this website as accurate as possible but cannot take responsibility for any errors.<br/>
+The official languages of IMO are Arabic, Chinese, English, French, Russian and Spanish.  The working languages are English, French and Spanish.  <br/><div style='align:left'>Some content on this site is available in all official languages. The majority is presented in the working languages.</div>
+<br/>
+                                    </div>
+                                </div>
+                                <!-- ContentRow End -->
+                            </div>
+                        </div>
+                        <script type="text/javascript">// <![CDATA[ 
+
+
+                        var g_Workspace = "s4-workspace";
+                        // ]]>
+</script>
+                        <script type="text/javascript">//<![CDATA[
+                    function isEmptyTag(element) {
+                        if ($(this).children().length) {
+                            $(this).children().each(function () {
+                                if (!isEmptyTag($(this)))
+                                    return false;
+                            });
+                        }
+                        else {
+                            text = element.text().replace("Page Content", "").replace("&#160;", "").replace("&nbsp;", "").replace(" ", "").replace("\n", "").replace("\r", "");
+                            return $.trim(text).length <= 2 || $(this).children("menu").length;
+                        }
+                    }
+					
+					function hideLeftNav() {
+						$('#tdLeftNav').hide();
+					}
+
+                    function fixSize() {
+                        //fix scroll problem and hide for public view
+                        var header = '#ms-designer-ribbon';
+                        var width = $(window).width();
+                        var height;
+						if (window.location.href.toLowerCase().indexOf("http://www.") >= 0 || window.location.href.toLowerCase().indexOf("http://www2013.") >= 0)
+						{
+							//public site
+							$('.ms-signInLink').hide();
+							if ($(header).length) {
+								$(header).hide();
+								height = $(window).height() - $(header).height();
+							}
+							else {
+								height = $(window).height();
+							}
+						}
+                        $('#s4-workspace').width(width).height(height);
+                    }
+
+                    $(document).ready(function () {
+                        // replace MSOLayout_MakeInvisibleIfEmpty
+                        $('[name="_invisibleIfEmpty"]').filter(function () {
+                            return isEmptyTag($(this));
+                        }).hide();
+						
+						// hide leftnav in some sites
+						if(window.location.href.toLowerCase().indexOf("/_layouts/") >= 0) {
+							hideLeftNav();
+						}
+                        fixSize();
+                    });
+
+                    $(window).resize(function () {
+                        fixSize();
+                    });
+                
+                
+                        
+                        
+                        //]]></script>
+                        <script>//<![CDATA[
+					  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+					  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+					  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+					  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+					  ga('create', 'UA-465405-9', 'auto');
+					  ga('send', 'pageview');
+				
+                        
+                        
+                        //]]></script>
+                    
+
+<script type="text/javascript">
+//<![CDATA[
+var _spFormDigestRefreshInterval = 1440000;window.g_updateFormDigestPageLoaded = new Date(); window.g_updateFormDigestPageLoaded.setDate(window.g_updateFormDigestPageLoaded.getDate() -5);var _fV4UI = true;
+function _RegisterWebPartPageCUI()
+{
+    var initInfo = {editable: false,isEditMode: false,allowWebPartAdder: false,listId: "{5db78539-3eaf-4b45-a747-88fe79af07bd}",itemId: 2,recycleBinEnabled: true,enableMinorVersioning: true,enableModeration: true,forceCheckout: true,rootFolderUrl: "\u002fen\u002fPages",itemPermissions:{High:16,Low:196705}};
+    SP.Ribbon.WebPartComponent.registerWithPageManager(initInfo);
+    var wpcomp = SP.Ribbon.WebPartComponent.get_instance();
+    var hid;
+    hid = document.getElementById("_wpSelected");
+    if (hid != null)
+    {
+        var wpid = hid.value;
+        if (wpid.length > 0)
+        {
+            var zc = document.getElementById(wpid);
+            if (zc != null)
+                wpcomp.selectWebPart(zc, false);
+        }
+    }
+    hid = document.getElementById("_wzSelected");
+    if (hid != null)
+    {
+        var wzid = hid.value;
+        if (wzid.length > 0)
+        {
+            wpcomp.selectWebPartZone(null, wzid);
+        }
+    }
+};
+function __RegisterWebPartPageCUI() {
+ExecuteOrDelayUntilScriptLoaded(_RegisterWebPartPageCUI, "sp.ribbon.js");}
+_spBodyOnLoadFunctionNames.push("__RegisterWebPartPageCUI");var __wpmExportWarning='This Web Part Page has been personalized. As a result, one or more Web Part properties may contain confidential information. Make sure the properties contain information that is safe for others to read. After exporting this Web Part, view properties in the Web Part description file (.WebPart) by using a text editor such as Microsoft Notepad.';var __wpmCloseProviderWarning='You are about to close this Web Part.  It is currently providing data to other Web Parts, and these connections will be deleted if this Web Part is closed.  To close this Web Part, click OK.  To keep this Web Part, click Cancel.';var __wpmDeleteWarning='You are about to permanently delete this Web Part.  Are you sure you want to do this?  To delete this Web Part, click OK.  To keep this Web Part, click Cancel.';function ctl00_ctl46_g_fc4c380e_b69f_4071_91b2_122c0e8444cc_init() {
+    EnsureScript('mediaplayer.js', 
+        typeof(mediaPlayer) != 'undefined' ? typeof(mediaPlayer.attachToMediaLinks) : 'undefined');
+    ExecuteOrDelayUntilScriptLoaded(
+        function() {
+            if (Silverlight.isInstalled('2.0')) {
+                mediaPlayer.createOverlayPlayer();
+                mediaPlayer.attachToMediaLinks(document.getElementById('cbqwpctl00_ctl46_g_fc4c380e_b69f_4071_91b2_122c0e8444cc'), ["wmv","wma","avi","mpg","mp3","mp4","asf","ogg","ogv","oga","webm"],'');
+            }
+        }, 'mediaplayer.js');
+}
+if (_spBodyOnLoadFunctionNames != null) { _spBodyOnLoadFunctionNames.push('ctl00_ctl46_g_fc4c380e_b69f_4071_91b2_122c0e8444cc_init'); }
+function ctl00_ctl46_g_e56e21b3_ac7c_406b_83d7_db24d5a43238_init() {
+    EnsureScript('mediaplayer.js', 
+        typeof(mediaPlayer) != 'undefined' ? typeof(mediaPlayer.attachToMediaLinks) : 'undefined');
+    ExecuteOrDelayUntilScriptLoaded(
+        function() {
+            if (Silverlight.isInstalled('2.0')) {
+                mediaPlayer.createOverlayPlayer();
+                mediaPlayer.attachToMediaLinks(document.getElementById('cbqwpctl00_ctl46_g_e56e21b3_ac7c_406b_83d7_db24d5a43238'), ["wmv","wma","avi","mpg","mp3","mp4","asf","ogg","ogv","oga","webm"],'');
+            }
+        }, 'mediaplayer.js');
+}
+if (_spBodyOnLoadFunctionNames != null) { _spBodyOnLoadFunctionNames.push('ctl00_ctl46_g_e56e21b3_ac7c_406b_83d7_db24d5a43238_init'); }
+function ctl00_ctl46_g_75564055_8e8a_47de_ad2e_0a56b7805e7a_init() {
+    EnsureScript('mediaplayer.js', 
+        typeof(mediaPlayer) != 'undefined' ? typeof(mediaPlayer.attachToMediaLinks) : 'undefined');
+    ExecuteOrDelayUntilScriptLoaded(
+        function() {
+            if (Silverlight.isInstalled('2.0')) {
+                mediaPlayer.createOverlayPlayer();
+                mediaPlayer.attachToMediaLinks(document.getElementById('cbqwpctl00_ctl46_g_75564055_8e8a_47de_ad2e_0a56b7805e7a'), ["wmv","wma","avi","mpg","mp3","mp4","asf","ogg","ogv","oga","webm"],'');
+            }
+        }, 'mediaplayer.js');
+}
+if (_spBodyOnLoadFunctionNames != null) { _spBodyOnLoadFunctionNames.push('ctl00_ctl46_g_75564055_8e8a_47de_ad2e_0a56b7805e7a_init'); }
+var slNavUrl = '\u002fen';_spBodyOnLoadFunctionNames.push('_cUpdonetidProjectPropertyTitleGraphic');function _cUpdonetidProjectPropertyTitleGraphic(){var myd = null; if (typeof(dataonetidProjectPropertyTitleGraphic) != 'undefined') {myd = dataonetidProjectPropertyTitleGraphic;} var myc = document.getElementById('ctl00_onetidProjectPropertyTitleGraphic');_cUpdconetidProjectPropertyTitleGraphic(myd, myc);}function _cUpdconetidProjectPropertyTitleGraphic(data, ctrl){ctrl.href = slNavUrl;}function _cUpdonetidHeadbnnr2(){var myd = null; if (typeof(dataonetidHeadbnnr2) != 'undefined') {myd = dataonetidHeadbnnr2;} var myc = document.getElementById('ctl00_onetidHeadbnnr2');_cUpdconetidHeadbnnr2(myd, myc);}function _cUpdconetidHeadbnnr2(data, ctrl){SiteLogoImagePageUpdate(ctrl, data);}
+            ExecuteOrDelayUntilScriptLoaded(
+                function() 
+                {                    
+                    Srch.ScriptApplicationManager.get_current().states = {"webUILanguageName":"en-US","webDefaultLanguageName":"en-US","contextUrl":"http://www.imo.org/en","contextTitle":"English","supportedLanguages":[{"id":1025,"label":"Arabic"},{"id":1093,"label":"Bengali"},{"id":1026,"label":"Bulgarian"},{"id":1027,"label":"Catalan"},{"id":2052,"label":"Chinese (Simplified)"},{"id":1028,"label":"Chinese (Traditional)"},{"id":1050,"label":"Croatian"},{"id":1029,"label":"Czech"},{"id":1030,"label":"Danish"},{"id":1043,"label":"Dutch"},{"id":1033,"label":"English"},{"id":1035,"label":"Finnish"},{"id":1036,"label":"French"},{"id":1031,"label":"German"},{"id":1032,"label":"Greek"},{"id":1095,"label":"Gujarati"},{"id":1037,"label":"Hebrew"},{"id":1081,"label":"Hindi"},{"id":1038,"label":"Hungarian"},{"id":1039,"label":"Icelandic"},{"id":1057,"label":"Indonesian"},{"id":1040,"label":"Italian"},{"id":1041,"label":"Japanese"},{"id":1099,"label":"Kannada"},{"id":1042,"label":"Korean"},{"id":1062,"label":"Latvian"},{"id":1063,"label":"Lithuanian"},{"id":1086,"label":"Malay"},{"id":1100,"label":"Malayalam"},{"id":1102,"label":"Marathi"},{"id":1044,"label":"Norwegian"},{"id":1045,"label":"Polish"},{"id":1046,"label":"Portuguese (Brazil)"},{"id":2070,"label":"Portuguese (Portugal)"},{"id":1094,"label":"Punjabi"},{"id":1048,"label":"Romanian"},{"id":1049,"label":"Russian"},{"id":3098,"label":"Serbian (Cyrillic)"},{"id":2074,"label":"Serbian (Latin)"},{"id":1051,"label":"Slovak"},{"id":1060,"label":"Slovenian"},{"id":3082,"label":"Spanish (Spain)"},{"id":2058,"label":"Spanish (Mexico)"},{"id":1053,"label":"Swedish"},{"id":1097,"label":"Tamil"},{"id":1098,"label":"Telugu"},{"id":1054,"label":"Thai"},{"id":1055,"label":"Turkish"},{"id":1058,"label":"Ukrainian"},{"id":1056,"label":"Urdu"},{"id":1066,"label":"Vietnamese"}],"navigationNodes":[{"id":0,"name":"This Site","url":"~site/_layouts/15/osssearchresults.aspx?u={contexturl}","promptString":"Search this site"}],"showAdminDetails":false,"defaultPagesListName":"Pages","isSPFSKU":false,"userAdvancedLanguageSettingsUrl":"?ShowAdvLang=1","defaultQueryProperties":{"culture":1033,"uiLanguage":1033,"summaryLength":180,"desiredSnippetLength":90,"enableStemming":true,"enablePhonetic":false,"enableNicknames":false,"trimDuplicates":true,"bypassResultTypes":false,"enableInterleaving":true,"enableQueryRules":true,"processBestBets":true,"enableOrderingHitHighlightedProperty":false,"hitHighlightedMultivaluePropertyLimit":-1,"processPersonalFavorites":true}};
+                    Srch.U.trace(null, 'SerializeToClient', 'ScriptApplicationManager state initialized.');
+                }, 'Search.ClientControls.js');var g_clientIdDeltaPlaceHolderMain = "DeltaPlaceHolderMain";
+var g_clientIdDeltaPlaceHolderPageTitleInTitleArea = "DeltaPlaceHolderPageTitleInTitleArea";
+var g_clientIdDeltaPlaceHolderUtilityContent = "DeltaPlaceHolderUtilityContent";
+
+                    ExecuteOrDelayUntilScriptLoaded(
+                        function() 
+                        {
+                            if ($isNull($find('ctl00_SmallSearchInputBox1_csr')))
+                            {
+                                var sb = $create(Srch.SearchBox, {"delayLoadTemplateScripts":true,"initialPrompt":"Search this site","messages":[],"navigationNodes":[{"id":0,"name":"This Site","url":"~site/_layouts/15/osssearchresults.aspx?u={contexturl}","promptString":"Search this site"}],"queryGroupNames":["MasterPage"],"renderTemplateId":"~sitecollection/_catalogs/masterpage/Display Templates/Search/Control_SearchBox_Compact.js","resultsPageAddress":"~site/_layouts/15/osssearchresults.aspx?u={contexturl}","serverInitialRender":true,"showDataErrors":true,"showNavigation":true,"states":{},"tryInplaceQuery":false}, null, null, $get("ctl00_SmallSearchInputBox1_csr"));
+                                sb.activate('Search this site', 'ctl00_SmallSearchInputBox1_csr_sbox', 'ctl00_SmallSearchInputBox1_csr_sboxdiv', 'ctl00_SmallSearchInputBox1_csr_NavButton', 'ctl00_SmallSearchInputBox1_csr_AutoCompList', 'ctl00_SmallSearchInputBox1_csr_NavDropdownList', 'ctl00_SmallSearchInputBox1_csr_SearchLink', 'ms-srch-sbprogress', 'ms-srch-sb-prompt ms-helperText');
+                            }
+                        }, 'Search.ClientControls.js');g_QuickLaunchControlIds.push("zz1_TopNavigationMenu");_spBodyOnLoadFunctionNames.push('QuickLaunchInitDroppable'); var g_zz1_TopNavigationMenu = null; function init_zz1_TopNavigationMenu() { if (g_zz1_TopNavigationMenu == null) g_zz1_TopNavigationMenu = $create(SP.UI.AspMenu, null, null, null, $get('zz1_TopNavigationMenu')); } ExecuteOrDelayUntilScriptLoaded(init_zz1_TopNavigationMenu, 'SP.Core.js');
+g_QuickLaunchControlIds.push("zz3_V4QuickLaunchMenu");_spBodyOnLoadFunctionNames.push('QuickLaunchInitDroppable'); var g_zz3_V4QuickLaunchMenu = null; function init_zz3_V4QuickLaunchMenu() { if (g_zz3_V4QuickLaunchMenu == null) g_zz3_V4QuickLaunchMenu = $create(SP.UI.AspMenu, null, null, null, $get('zz3_V4QuickLaunchMenu')); } ExecuteOrDelayUntilScriptLoaded(init_zz3_V4QuickLaunchMenu, 'SP.Core.js');
+//]]>
+</script>
+</form><span id="DeltaPlaceHolderUtilityContent"></span></body>
+                </html>

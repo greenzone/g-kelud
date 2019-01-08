@@ -1,0 +1,3351 @@
+<!doctype html>
+<html xml:lang="en-gb" lang="en-gb" >
+<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	      <base href="http://www.bppt.go.id/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <title>BADAN PENGKAJIAN DAN PENERAPAN TEKNOLOGI - Halaman Muka</title>
+  <link href="/?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <link href="/templates/ts_dotcom/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="/components/com_jcomments/tpl/default/style.css?v=3002" type="text/css" />
+  <link rel="stylesheet" href="/media/sliders/css/style.min.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/system/rokbox/themes/light/rokbox-style.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/ts_dotcom/css-compiled/menu-50a84a8c2195c483c5dbec4f43ddaff2.css" type="text/css" />
+  <link rel="stylesheet" href="/libraries/gantry/css/grid-responsive.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/ts_dotcom/css-compiled/bootstrap.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/ts_dotcom/css-compiled/master-7f154d36fc61858d075b62822fa4e939.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/ts_dotcom/css-compiled/mediaqueries.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/ts_dotcom/css/ts_dotcom-custom.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.bppt.go.id/media/mod_ninja_simple_icon_menu/css/style.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_nice_social_bookmark/css/nsb.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_rokajaxsearch/css/rokajaxsearch.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_rokajaxsearch/themes/blue/rokajaxsearch-theme.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_lofarticlesslideshow/assets/jstyle.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/ts_dotcom/roksprocket/layouts/mosaic/themes/default/mosaic.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.bppt.go.id/plugins/content/mgthumbnails/fancybox/jquery.fancybox-1.3.4.css" type="text/css" />
+  <style type="text/css">
+a, ul.menu li .separator {color:#378ddb;}.button, .readon, .readmore, button.validate, #member-profile a, #member-registration a, .formelm-buttons button, .btn-primary {border-color:#1a5992;}.button, .readon, .readmore, button.validate, #member-profile a, #member-registration a, .formelm-buttons button, .btn-primary {background-color: #4897de; #4897de}
+.button:hover, .readon:hover, .readmore:hover, button.validate:hover, #member-profile a:hover, #member-registration a:hover, .formelm-buttons button:hover, .btn-primary:hover {background-color: #62a6e3; #62a6e3}
+.button:active, .readon:active, .readmore:active, button.validate:active, #member-profile a:active, #member-registration a:active, .formelm-buttons button:active, .btn-primary:active {background-color: #2e88d9; #2e88d9}
+.rh-item { clear:both;padding-right:20px;text-align:justify;text-transform:capitalize; }
+.rh-item-image { float: left; margin:0 7px 5px 0; }
+.rh-item-title{ /*display:block;*/ }.nsi-container div {margin-top: 0px}td a img:hover {
+    zoom: 95%;
+}
+
+.tbl tr td {
+padding : 5px;
+}
+
+#tdl {
+
+#border-right-style:solid;
+border-width:1px;
+#padding-right: 18px;
+
+}
+#tdr {
+
+padding-left: 18px;
+
+}
+
+
+/////////// FLAG COUNTER //////
+
+#aa {
+float : right;
+position : relative;
+left: 28px;
+bottom: 0px;
+}
+
+#flag {
+float: right;
+position : relative;
+//left : 26px;
+right : 39px;
+//bottom : 19px;
+bottom : 23px;
+width : 148px;
+height : 17px;
+background-color: white;
+border-top:solid #dddd;
+color: black;
+text-align : right;
+padding-right: 7px;
+padding-top: 1px;
+font-size: 11px;
+vertical-align: bottom;
+}.nsb_container a.icons{
+	padding:px; float:left; display:inline-block;
+}#plusone{padding:px !important;}
+	#aihgallery342 {
+	margin-left: 0px;
+	width: 180px;
+	background: white !important;
+	
+	display: block;
+	overflow: hidden;
+	}
+	
+	#aihgallery342 .aihboxgrid  {
+	width: 163px;
+	height: 218px;
+	margin-top: 1px;
+	margin-left: 1px;
+	
+	float: left;
+	overflow: hidden;
+	position: relative;
+	}
+	
+	#aihgallery342 .aihboxgrid_bottom  {
+	margin-bottom: 1px;
+	}
+	
+	#aihgallery342 .aihboxgrid img {
+	position: absolute;
+	top: 0;
+	left: 0;
+	border: 0;
+	}
+	
+	#aihgallery343 {
+	margin-left: 0px;
+	width: 180px;
+	background: white !important;
+	
+	display: block;
+	overflow: hidden;
+	}
+	
+	#aihgallery343 .aihboxgrid  {
+	width: 163px;
+	height: 218px;
+	margin-top: 1px;
+	margin-left: 1px;
+	
+	float: left;
+	overflow: hidden;
+	position: relative;
+	}
+	
+	#aihgallery343 .aihboxgrid_bottom  {
+	margin-bottom: 1px;
+	}
+	
+	#aihgallery343 .aihboxgrid img {
+	position: absolute;
+	top: 0;
+	left: 0;
+	border: 0;
+	}
+	
+	#aihgallery341 {
+	margin-left: 0px;
+	width: 180px;
+	background: white !important;
+	
+	display: block;
+	overflow: hidden;
+	}
+	
+	#aihgallery341 .aihboxgrid  {
+	width: 163px;
+	height: 218px;
+	margin-top: 1px;
+	margin-left: 1px;
+	
+	float: left;
+	overflow: hidden;
+	position: relative;
+	}
+	
+	#aihgallery341 .aihboxgrid_bottom  {
+	margin-bottom: 1px;
+	}
+	
+	#aihgallery341 .aihboxgrid img {
+	position: absolute;
+	top: 0;
+	left: 0;
+	border: 0;
+	}
+	
+	#aihgallery340 {
+	margin-left: 0px;
+	width: 180px;
+	background: white !important;
+	
+	display: block;
+	overflow: hidden;
+	}
+	
+	#aihgallery340 .aihboxgrid  {
+	width: 163px;
+	height: 218px;
+	margin-top: 1px;
+	margin-left: 1px;
+	
+	float: left;
+	overflow: hidden;
+	position: relative;
+	}
+	
+	#aihgallery340 .aihboxgrid_bottom  {
+	margin-bottom: 1px;
+	}
+	
+	#aihgallery340 .aihboxgrid img {
+	position: absolute;
+	top: 0;
+	left: 0;
+	border: 0;
+	}
+	
+	#aihgallery339 {
+	margin-left: 0px;
+	width: 180px;
+	background: white !important;
+	
+	display: block;
+	overflow: hidden;
+	}
+	
+	#aihgallery339 .aihboxgrid  {
+	width: 163px;
+	height: 218px;
+	margin-top: 1px;
+	margin-left: 1px;
+	
+	float: left;
+	overflow: hidden;
+	position: relative;
+	}
+	
+	#aihgallery339 .aihboxgrid_bottom  {
+	margin-bottom: 1px;
+	}
+	
+	#aihgallery339 .aihboxgrid img {
+	position: absolute;
+	top: 0;
+	left: 0;
+	border: 0;
+	}
+	
+	#aihgallery338 {
+	margin-left: 0px;
+	width: 180px;
+	background: white !important;
+	
+	display: block;
+	overflow: hidden;
+	}
+	
+	#aihgallery338 .aihboxgrid  {
+	width: 163px;
+	height: 218px;
+	margin-top: 1px;
+	margin-left: 1px;
+	
+	float: left;
+	overflow: hidden;
+	position: relative;
+	}
+	
+	#aihgallery338 .aihboxgrid_bottom  {
+	margin-bottom: 1px;
+	}
+	
+	#aihgallery338 .aihboxgrid img {
+	position: absolute;
+	top: 0;
+	left: 0;
+	border: 0;
+	}
+	table.hrf a:hover {
+
+  color: #07508f;
+
+}
+
+  </style>
+  <script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/media/jui/js/bootstrap.min.js" type="text/javascript"></script>
+  <script src="/media/sliders/js/script.min.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="/plugins/system/rokbox/rokbox.js" type="text/javascript"></script>
+  <script src="/plugins/system/rokbox/themes/light/rokbox-config.js" type="text/javascript"></script>
+  <script src="/libraries/gantry/js/gantry-totop.js" type="text/javascript"></script>
+  <script src="/libraries/gantry/js/browser-engines.js" type="text/javascript"></script>
+  <script src="/templates/ts_dotcom/js/rokmediaqueries.js" type="text/javascript"></script>
+  <script src="/templates/ts_dotcom/js/fixed-header.js" type="text/javascript"></script>
+  <script src="/modules/mod_roknavmenu/themes/default/js/rokmediaqueries.js" type="text/javascript"></script>
+  <script src="/modules/mod_roknavmenu/themes/default/js/responsive.js" type="text/javascript"></script>
+  <script src="/modules/mod_imgscrawler/crawler.js" type="text/javascript"></script>
+  <script src="/modules/mod_rokajaxsearch/js/rokajaxsearch.js" type="text/javascript"></script>
+  <script src="/modules/mod_lofarticlesslideshow/assets/jscript.js" type="text/javascript"></script>
+  <script src="/components/com_roksprocket/assets/js/mootools-mobile.js" type="text/javascript"></script>
+  <script src="/components/com_roksprocket/assets/js/rokmediaqueries.js" type="text/javascript"></script>
+  <script src="/components/com_roksprocket/assets/js/roksprocket.js" type="text/javascript"></script>
+  <script src="/components/com_roksprocket/assets/js/moofx.js" type="text/javascript"></script>
+  <script src="/components/com_roksprocket/assets/js/roksprocket.request.js" type="text/javascript"></script>
+  <script src="/templates/ts_dotcom/roksprocket/layouts/mosaic/themes/default/mosaic.js" type="text/javascript"></script>
+  <script src="/plugins/content/mgthumbnails/fancybox/jquery-1.7.1.min.js" type="text/javascript"></script>
+  <script src="http://www.bppt.go.id/plugins/content/mgthumbnails/fancybox/jquery.fancybox-1.3.4.pack.js" type="text/javascript"></script>
+  <script type="text/javascript">
+    
+					var mgThumbnails = jQuery.noConflict();  
+					mgThumbnails(document).ready(function() {
+			      mgThumbnails("a.mgthumbnails[rel=group_57b10b7bbe9c6]").fancybox({
+																										        			'padding'				: 0,
+																										        			'overlayOpacity': 0.9,
+																										        			'overlayColor'	: '#777777',
+																										        			'autoScale'			: true,
+																										        			'transitionIn'	: 'fade',
+																										        			'transitionOut'	: 'fade',
+																										        			'showNavArrows'	: true,
+																										        			'titleShow'			: true,
+																										        			'type'					: 'image',
+																										        			'cyclic'				: true,
+																										        		});
+		    	});    
+					var mgThumbnails = jQuery.noConflict();  
+					mgThumbnails(document).ready(function() {
+			      mgThumbnails("a.mgthumbnails[rel=group_57b10b7bbf009]").fancybox({
+																										        			'padding'				: 0,
+																										        			'overlayOpacity': 0.9,
+																										        			'overlayColor'	: '#777777',
+																										        			'autoScale'			: true,
+																										        			'transitionIn'	: 'fade',
+																										        			'transitionOut'	: 'fade',
+																										        			'showNavArrows'	: true,
+																										        			'titleShow'			: true,
+																										        			'type'					: 'image',
+																										        			'cyclic'				: true,
+																										        		});
+		    	});    
+					var mgThumbnails = jQuery.noConflict();  
+					mgThumbnails(document).ready(function() {
+			      mgThumbnails("a.mgthumbnails[rel=group_57b10b7bbf680]").fancybox({
+																										        			'padding'				: 0,
+																										        			'overlayOpacity': 0.9,
+																										        			'overlayColor'	: '#777777',
+																										        			'autoScale'			: true,
+																										        			'transitionIn'	: 'fade',
+																										        			'transitionOut'	: 'fade',
+																										        			'showNavArrows'	: true,
+																										        			'titleShow'			: true,
+																										        			'type'					: 'image',
+																										        			'cyclic'				: true,
+																										        		});
+		    	});    
+					var mgThumbnails = jQuery.noConflict();  
+					mgThumbnails(document).ready(function() {
+			      mgThumbnails("a.mgthumbnails[rel=group_57b10b7bbfcff]").fancybox({
+																										        			'padding'				: 0,
+																										        			'overlayOpacity': 0.9,
+																										        			'overlayColor'	: '#777777',
+																										        			'autoScale'			: true,
+																										        			'transitionIn'	: 'fade',
+																										        			'transitionOut'	: 'fade',
+																										        			'showNavArrows'	: true,
+																										        			'titleShow'			: true,
+																										        			'type'					: 'image',
+																										        			'cyclic'				: true,
+																										        		});
+		    	});    
+					var mgThumbnails = jQuery.noConflict();  
+					mgThumbnails(document).ready(function() {
+			      mgThumbnails("a.mgthumbnails[rel=group_57b10b7bc0375]").fancybox({
+																										        			'padding'				: 0,
+																										        			'overlayOpacity': 0.9,
+																										        			'overlayColor'	: '#777777',
+																										        			'autoScale'			: true,
+																										        			'transitionIn'	: 'fade',
+																										        			'transitionOut'	: 'fade',
+																										        			'showNavArrows'	: true,
+																										        			'titleShow'			: true,
+																										        			'type'					: 'image',
+																										        			'cyclic'				: true,
+																										        		});
+		    	});    
+					var mgThumbnails = jQuery.noConflict();  
+					mgThumbnails(document).ready(function() {
+			      mgThumbnails("a.mgthumbnails[rel=group_57b10b7bc09e3]").fancybox({
+																										        			'padding'				: 0,
+																										        			'overlayOpacity': 0.9,
+																										        			'overlayColor'	: '#777777',
+																										        			'autoScale'			: true,
+																										        			'transitionIn'	: 'fade',
+																										        			'transitionOut'	: 'fade',
+																										        			'showNavArrows'	: true,
+																										        			'titleShow'			: true,
+																										        			'type'					: 'image',
+																										        			'cyclic'				: true,
+																										        		});
+		    	});jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});jQuery(document).ready(function(){
+	jQuery('.hasTooltip').tooltip({"html": true,"container": "body"});
+});
+var nn_sliders_urlscroll = 0; var nn_sliders_use_hash = 1;
+var rokboxPath = '/plugins/system/rokbox/';    
+					var mgThumbnails = jQuery.noConflict();  
+					mgThumbnails(document).ready(function() {
+			      mgThumbnails("a.mgthumbnails[rel=group_57b10b7c20588]").fancybox({
+																										        			'padding'				: 0,
+																										        			'overlayOpacity': 0.9,
+																										        			'overlayColor'	: '#777777',
+																										        			'autoScale'			: true,
+																										        			'transitionIn'	: 'fade',
+																										        			'transitionOut'	: 'fade',
+																										        			'showNavArrows'	: true,
+																										        			'titleShow'			: true,
+																										        			'type'					: 'image',
+																										        			'cyclic'				: true,
+																										        		});
+		    	});
+window.addEventListener('load', function () {
+    marqueeInit({
+        uniqueid: 'myimgscrawler-1',
+        style: {
+            'width':'100%','height':'110px'
+        },
+        inc: 1,
+        mouse: 'pause',
+        direction: 'left',
+        moveatleast: 1,
+        neutral: 50,
+        savedirection: true
+    });
+},false);
+window.addEvent((window.webkit) ? 'load' : 'domready', function() {
+				window.rokajaxsearch = new RokAjaxSearch({
+					'results': 'Results',
+					'close': '',
+					'websearch': 0,
+					'blogsearch': 0,
+					'imagesearch': 0,
+					'videosearch': 0,
+					'imagesize': 'MEDIUM',
+					'safesearch': 'MODERATE',
+					'search': 'Search...',
+					'readmore': 'Read more...',
+					'noresults': 'No results',
+					'advsearch': 'Advanced search',
+					'page': 'Page',
+					'page_of': 'of',
+					'searchlink': 'http://www.bppt.go.id/index.php?option=com_search&amp;view=search&amp;tmpl=component',
+					'advsearchlink': 'http://www.bppt.go.id/index.php?option=com_search&amp;view=search',
+					'uribase': 'http://www.bppt.go.id/',
+					'limit': '10',
+					'perpage': '3',
+					'ordering': 'newest',
+					'phrase': 'any',
+					'hidedivs': '',
+					'includelink': 1,
+					'viewall': 'View all results',
+					'estimated': 'estimated',
+					'showestimated': 1,
+					'showpagination': 1,
+					'showcategory': 1,
+					'showreadmore': 1,
+					'showdescription': 1
+				});
+			});    
+					var mgThumbnails = jQuery.noConflict();  
+					mgThumbnails(document).ready(function() {
+			      mgThumbnails("a.mgthumbnails[rel=group_57b10b7c2c4aa]").fancybox({
+																										        			'padding'				: 0,
+																										        			'overlayOpacity': 0.9,
+																										        			'overlayColor'	: '#777777',
+																										        			'autoScale'			: true,
+																										        			'transitionIn'	: 'fade',
+																										        			'transitionOut'	: 'fade',
+																										        			'showNavArrows'	: true,
+																										        			'titleShow'			: true,
+																										        			'type'					: 'image',
+																										        			'cyclic'				: true,
+																										        		});
+		    	});    
+					var mgThumbnails = jQuery.noConflict();  
+					mgThumbnails(document).ready(function() {
+			      mgThumbnails("a.mgthumbnails[rel=group_57b10b7c2c893]").fancybox({
+																										        			'padding'				: 0,
+																										        			'overlayOpacity': 0.9,
+																										        			'overlayColor'	: '#777777',
+																										        			'autoScale'			: true,
+																										        			'transitionIn'	: 'fade',
+																										        			'transitionOut'	: 'fade',
+																										        			'showNavArrows'	: true,
+																										        			'titleShow'			: true,
+																										        			'type'					: 'image',
+																										        			'cyclic'				: true,
+																										        		});
+		    	});window.addEvent((window.webkit) ? 'load' : 'domready', function() {
+				window.rokajaxsearch = new RokAjaxSearch({
+					'results': 'Results',
+					'close': '',
+					'websearch': 0,
+					'blogsearch': 0,
+					'imagesearch': 0,
+					'videosearch': 0,
+					'imagesize': 'MEDIUM',
+					'safesearch': 'MODERATE',
+					'search': 'Search...',
+					'readmore': 'Read more...',
+					'noresults': 'No results',
+					'advsearch': 'Advanced search',
+					'page': 'Page',
+					'page_of': 'of',
+					'searchlink': 'http://www.bppt.go.id/index.php?option=com_search&amp;view=search&amp;tmpl=component',
+					'advsearchlink': 'http://www.bppt.go.id/index.php?option=com_search&amp;view=search',
+					'uribase': 'http://www.bppt.go.id/',
+					'limit': '10',
+					'perpage': '3',
+					'ordering': 'newest',
+					'phrase': 'any',
+					'hidedivs': '',
+					'includelink': 1,
+					'viewall': 'View all results',
+					'estimated': 'estimated',
+					'showestimated': 1,
+					'showpagination': 1,
+					'showcategory': 1,
+					'showreadmore': 1,
+					'showdescription': 1
+				});
+			});if (typeof RokSprocket == 'undefined') RokSprocket = {};
+Object.merge(RokSprocket, {
+	SiteURL: 'http://www.bppt.go.id/',
+	CurrentURL: 'http://www.bppt.go.id/',
+	AjaxURL: 'http://www.bppt.go.id/index.php?option=com_roksprocket&amp;task=ajax&amp;format=raw&amp;ItemId=101'
+});
+window.addEvent('domready', function(){
+		RokSprocket.instances.mosaic = new RokSprocket.Mosaic();
+});
+window.addEvent('domready', function(){
+	RokSprocket.instances.mosaic.attach(254, '{"pages":2,"animations":["fade","scale","rotate","flip"],"displayed":[1092,1093,1094,1095,1097,1098,1101,1100]}');
+});
+
+  </script>
+</head>
+<body  class="logo-type-gantry mainstyle-preset1 font-family-geneva font-size-is-default menu-type-dropdownmenu layout-mode-responsive col12 option-com-content menu-home ">
+        <header id="rt-top-surround">
+				<div id="rt-top" >
+			<div class="rt-container">
+				<div class="rt-grid-2 rt-alpha">
+               <div class="rt-block  top-social">
+           	<div class="module-surround">
+	           		                	<div class="module-content">
+	                		
+
+<div class="custom top-social"  >
+	<div class="clearfix"><a class="topSocial fb" href="http://facebook.com/profile.php?id=100003949512618" target="_blank"><span class="icon-facebook"> </span></a> <a class="topSocial twt" href="https://twitter.com/bppt_humas" target="_blank"><span class="icon-twitter"> </span></a></div></div>
+	                	</div>
+                	</div>
+           </div>
+	
+</div>
+<div class="rt-grid-2">
+               <div class="rt-block ">
+           	<div class="module-surround">
+	           		                	<div class="module-content">
+	                		<form name="rokajaxsearch" id="rokajaxsearch" class="blue" action="http://www.bppt.go.id/" method="get">
+<div class="rokajaxsearch ">
+	<div class="roksearch-wrapper">
+		<input id="roksearch_search_str" name="searchword" type="text" class="inputbox" placeholder="Search..." />
+	</div>
+	<input type="hidden" name="searchphrase" value="any"/>
+	<input type="hidden" name="limit" value="20" />
+	<input type="hidden" name="ordering" value="newest" />
+	<input type="hidden" name="view" value="search" />
+	<input type="hidden" name="option" value="com_search" />
+
+	
+	<div id="roksearch_results"></div>
+</div>
+<div id="rokajaxsearch_tmp" style="visibility:hidden;display:none;"></div>
+</form>
+	                	</div>
+                	</div>
+           </div>
+	
+</div>
+<div class="rt-grid-8 rt-omega">
+               <div class="rt-block   top-info">
+           	<div class="module-surround">
+	           		                	<div class="module-content">
+	                		
+
+<div class="custom  top-info"  >
+	<p><span class="icon-phone"> Tel</span>: (021) 316 8200   <span class="icon-envelope-alt"> EMail: humas@bppt.go.id</span></p></div>
+	                	</div>
+                	</div>
+           </div>
+	
+</div>
+				<div class="clear"></div>
+			</div>
+		</div>
+						<div id="rt-header">
+			<div class="rt-container">
+				<div class="rt-grid-12 rt-alpha rt-omega">
+    	<div class="rt-block menu-block">
+		<div class="gf-menu-device-container"></div>
+<ul class="gf-menu l1 " >
+                    <li class="item101 active last" >
+
+            <a class="item" href="/"  >
+
+                                Halaman Muka                            </a>
+
+
+                    </li>
+                            <li class="item116 parent" >
+
+            <a class="item" href="#"  >
+
+                                Profil                                <span class="border-fixer"></span>
+                            </a>
+
+
+            
+                                    <div class="dropdown columns-1 " style="width:180px;">
+                                                <div class="column col1"  style="width:180px;">
+                            <ul class="l2">
+                                                                                                                    <li class="item385" >
+
+            <a class="item" href="/profil/kata-pengantar-dari-kepala"  >
+
+                                Kata Pengantar                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item692" >
+
+            <a class="item" href="http://repositori.bppt.go.id/index.php?action=download&amp;dir=_data%2FDownload%2FPADUAN+IDENTITAS+LOGO+BPPT&amp;item=Panduan+Identitas+BPPT.pdf&amp;order=name&amp;srt=yes&amp;lang=en"  >
+
+                                Panduan Identitas BPPT                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item120" >
+
+            <a class="item" href="/profil/sejarah"  >
+
+                                Sejarah                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item121 parent" >
+
+            <a class="item" href="/profil/tugas-dan-fungsi"  >
+
+                                Tugas &amp; Fungsi                                <span class="border-fixer"></span>
+                            </a>
+
+
+            
+                                    <div class="dropdown flyout columns-1 " style="width:180px;">
+                                                <div class="column col1"  style="width:180px;">
+                            <ul class="l3">
+                                                                                                                    <li class="item641" >
+
+            <a class="item" href="/profil/tugas-dan-fungsi/visi-dan-misi"  >
+
+                                Visi &amp; Misi                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item644" >
+
+            <a class="item" href="/profil/tugas-dan-fungsi/peran-dan-ruang-lingkup"  >
+
+                                Peran dan Ruang Lingkup                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item645" >
+
+            <a class="item" href="/profil/tugas-dan-fungsi/positioning-bppt"  >
+
+                                Positioning                            </a>
+
+
+                    </li>
+                                                                                                        </ul>
+                        </div>
+                                            </div>
+
+                                    </li>
+                                                                                                                                                                <li class="item117 parent" >
+
+            <a class="item" href="/profil/organisasi"  >
+
+                                Struktur Organisasi                                <span class="border-fixer"></span>
+                            </a>
+
+
+            
+                                    <div class="dropdown flyout columns-1 " style="width:180px;">
+                                                <div class="column col1"  style="width:180px;">
+                            <ul class="l3">
+                                                                                                                    <li class="item123" >
+
+            <a class="item" href="/profil/organisasi/kepalabppt"  >
+
+                                Kepala BPPT                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item124" >
+
+            <a class="item" href="/profil/organisasi/sekretaris-utama"  >
+
+                                Sekretaris Utama                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item125" >
+
+            <a class="item" href="/profil/organisasi/deputi-pkt"  >
+
+                                Deputi PKT                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item126" >
+
+            <a class="item" href="/profil/organisasi/deputi-tpsa"  >
+
+                                Deputi TPSA                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item127" >
+
+            <a class="item" href="/profil/organisasi/deputi-tab"  >
+
+                                Deputi TAB                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item128" >
+
+            <a class="item" href="/profil/organisasi/deputi-tiem"  >
+
+                                Deputi TIEM                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item129" >
+
+            <a class="item" href="/profil/organisasi/deputi-tirbr"  >
+
+                                Deputi TIRBR                            </a>
+
+
+                    </li>
+                                                                                                        </ul>
+                        </div>
+                                            </div>
+
+                                    </li>
+                                                                                                                                                                <li class="item224 parent" >
+
+            <a class="item" href="/index.php/unduh?view=category&amp;id=11"  >
+
+                                Kinerja (Laporan Tahunan)                                <span class="border-fixer"></span>
+                            </a>
+
+
+            
+                                    <div class="dropdown flyout columns-1 " style="width:180px;">
+                                                <div class="column col1"  style="width:180px;">
+                            <ul class="l3">
+                                                                                                                    <li class="item646" >
+
+            <a class="item" href="/profil/laporan-tahunan/penyerapan-anggaran"  >
+
+                                Penyerapan Anggaran                            </a>
+
+
+                    </li>
+                                                                                                        </ul>
+                        </div>
+                                            </div>
+
+                                    </li>
+                                                                                                        </ul>
+                        </div>
+                                            </div>
+
+                                    </li>
+                            <li class="item629 parent" >
+
+            <a class="item" href="#"  >
+
+                                Berita                                <span class="border-fixer"></span>
+                            </a>
+
+
+            
+                                    <div class="dropdown columns-1 " style="width:180px;">
+                                                <div class="column col1"  style="width:180px;">
+                            <ul class="l2">
+                                                                                                                    <li class="item878" >
+
+            <a class="item" href="/berita/berita-bppt"  >
+
+                                Berita BPPT                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item633 parent" >
+
+            <a class="item" href="#"  >
+
+                                Press Release                                <span class="border-fixer"></span>
+                            </a>
+
+
+            
+                                    <div class="dropdown flyout columns-1 " style="width:180px;">
+                                                <div class="column col1"  style="width:180px;">
+                            <ul class="l3">
+                                                                                                                    <li class="item634" >
+
+            <a class="item" href="/berita/press-release/press-release-2010"  >
+
+                                Press Release 2010                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item635" >
+
+            <a class="item" href="/berita/press-release/press-release-2011"  >
+
+                                Press Release 2011                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item636" >
+
+            <a class="item" href="/berita/press-release/press-release-2012"  >
+
+                                Press Release 2012                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item747" >
+
+            <a class="item" href="/berita/press-release/press-release-2013"  >
+
+                                Press Release 2013                            </a>
+
+
+                    </li>
+                                                                                                        </ul>
+                        </div>
+                                            </div>
+
+                                    </li>
+                                                                                                                                                                <li class="item650 parent" >
+
+            <a class="item" href="#"  >
+
+                                Kliping                                <span class="border-fixer"></span>
+                            </a>
+
+
+            
+                                    <div class="dropdown flyout columns-1 " style="width:180px;">
+                                                <div class="column col1"  style="width:180px;">
+                            <ul class="l3">
+                                                                                                                    <li class="item652" >
+
+            <a class="item" href="/berita/kliping/kliping-2012"  >
+
+                                Kliping 2012                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item726" >
+
+            <a class="item" href="/berita/kliping/kliping-2013"  >
+
+                                Kliping 2013                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item993" >
+
+            <a class="item" href="/berita/kliping/kliping-2014"  >
+
+                                Kliping 2014                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item994" >
+
+            <a class="item" href="/berita/kliping/kliping-2015"  >
+
+                                Kliping 2015                            </a>
+
+
+                    </li>
+                                                                                                        </ul>
+                        </div>
+                                            </div>
+
+                                    </li>
+                                                                                                        </ul>
+                        </div>
+                                            </div>
+
+                                    </li>
+                            <li class="item407 parent" >
+
+            <a class="item" href="#"  >
+
+                                SDM                                <span class="border-fixer"></span>
+                            </a>
+
+
+            
+                                    <div class="dropdown columns-1 " style="width:180px;">
+                                                <div class="column col1"  style="width:180px;">
+                            <ul class="l2">
+                                                                                                                    <li class="item535" >
+
+            <a class="item" href="/sdm/tenaga-ahli"  >
+
+                                Kompetensi SDM                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item536" >
+
+            <a class="item" href="/sdm/sdm-berprestasi"  >
+
+                                SDM Berprestasi                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item537" >
+
+            <a class="item" href="/sdm/dipekerjakan-di-instansi-lain"  >
+
+                                SDM di Instansi Lain                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item617" >
+
+            <a class="item" href="/sdm/perekayasa-kehormatan"  >
+
+                                Perekayasa Kehormatan                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item649" >
+
+            <a class="item" href="/sdm/penghargaan-bjht"  >
+
+                                Penghargaan BJHT                            </a>
+
+
+                    </li>
+                                                                                                        </ul>
+                        </div>
+                                            </div>
+
+                                    </li>
+                            <li class="item539 parent" >
+
+            <a class="item" href="#"  >
+
+                                Output                                <span class="border-fixer"></span>
+                            </a>
+
+
+            
+                                    <div class="dropdown columns-1 " style="width:180px;">
+                                                <div class="column col1"  style="width:180px;">
+                            <ul class="l2">
+                                                                                                                    <li class="item387 parent" >
+
+            <a class="item" href="#"  >
+
+                                Produk                                <span class="border-fixer"></span>
+                            </a>
+
+
+            
+                                    <div class="dropdown flyout columns-1 " style="width:180px;">
+                                                <div class="column col1"  style="width:180px;">
+                            <ul class="l3">
+                                                                                                                    <li class="item388" >
+
+            <a class="item" href="http://kip.bppt.go.id/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=266"  >
+
+                                Rekomendasi                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item389" >
+
+            <a class="item" href="http://kip.bppt.go.id/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=262"  >
+
+                                Advokasi                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item457" >
+
+            <a class="item" href="http://kip.bppt.go.id/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=263"  >
+
+                                Alih Teknologi                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item392" >
+
+            <a class="item" href="http://kip.bppt.go.id/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=264"  >
+
+                                Pengujian                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item393" >
+
+            <a class="item" href="http://kip.bppt.go.id/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=265"  >
+
+                                Konsultasi                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item397" >
+
+            <a class="item" href="http://kip.bppt.go.id/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=267"  >
+
+                                Jasa Operasional                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item391" >
+
+            <a class="item" href="http://kip.bppt.go.id/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=268"  >
+
+                                Survei                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item394" >
+
+            <a class="item" href="http://kip.bppt.go.id/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=269"  >
+
+                                Pilot Project                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item395" >
+
+            <a class="item" href="http://kip.bppt.go.id/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=270"  >
+
+                                Pilot Plan                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item396" >
+
+            <a class="item" href="http://kip.bppt.go.id/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=271"  >
+
+                                Prototipe                            </a>
+
+
+                    </li>
+                                                                                                        </ul>
+                        </div>
+                                            </div>
+
+                                    </li>
+                                                                                                                                                                <li class="item642" >
+
+            <a class="item" href="/output/capaian-hki"  >
+
+                                HKI                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item638" >
+
+            <a class="item" href="/output/kerjasama"  >
+
+                                Kerjasama                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item205 parent" >
+
+            <a class="item" href="/output/hasil-kegiatan-bidang"  >
+
+                                Produk Unggulan                                <span class="border-fixer"></span>
+                            </a>
+
+
+            
+                                    <div class="dropdown flyout columns-1 " style="width:180px;">
+                                                <div class="column col1"  style="width:180px;">
+                            <ul class="l3">
+                                                                                                                    <li class="item398" >
+
+            <a class="item" href="/output/hasil-kegiatan-bidang/pangan"  >
+
+                                Pangan                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item399" >
+
+            <a class="item" href="/output/hasil-kegiatan-bidang/kesehatan"  >
+
+                                Kesehatan                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item400" >
+
+            <a class="item" href="/output/hasil-kegiatan-bidang/energi"  >
+
+                                Energi                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item401" >
+
+            <a class="item" href="/output/hasil-kegiatan-bidang/informasi"  >
+
+                                Informasi dan Komunikasi                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item402" >
+
+            <a class="item" href="/output/hasil-kegiatan-bidang/transportasi"  >
+
+                                Transportasi                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item403" >
+
+            <a class="item" href="/output/hasil-kegiatan-bidang/hankam"  >
+
+                                Hankam                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item404" >
+
+            <a class="item" href="/output/hasil-kegiatan-bidang/material"  >
+
+                                Material                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item405" >
+
+            <a class="item" href="/output/hasil-kegiatan-bidang/manufaktur"  >
+
+                                Manufaktur                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item701" >
+
+            <a class="item" href="/output/hasil-kegiatan-bidang/lingkungan-dan-kebumian"  >
+
+                                Linkungan dan Kebumian                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item702" >
+
+            <a class="item" href="/output/hasil-kegiatan-bidang/kebijakan"  >
+
+                                Kebijakan                            </a>
+
+
+                    </li>
+                                                                                                        </ul>
+                        </div>
+                                            </div>
+
+                                    </li>
+                                                                                                                                                                <li class="item758 parent" >
+
+            <a class="item" href="#"  >
+
+                                E-Jurnal                                <span class="border-fixer"></span>
+                            </a>
+
+
+            
+                                    <div class="dropdown flyout columns-1 " style="width:180px;">
+                                                <div class="column col1"  style="width:180px;">
+                            <ul class="l3">
+                                                                                                                    <li class="item759" >
+
+            <a class="item" href="http://ejurnal.bppt.go.id/index.php/JA/issue/archive"  >
+
+                                Jurnal Alami                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item760" >
+
+            <a class="item" href="http://ejurnal.bppt.go.id/index.php/MKK/issue/archive"  >
+
+                                Material, Komponen dan Konstruksi                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item761" >
+
+            <a class="item" href="http://ejurnal.bppt.go.id/index.php/JITE/issue/archive"  >
+
+                                Jurnal Ilmiah Teknologi Energi                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item762" >
+
+            <a class="item" href="http://ejurnal.bppt.go.id/index.php/JSI/issue/archive"  >
+
+                                Jurnal Sistem Inovasi                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item763" >
+
+            <a class="item" href="http://ejurnal.bppt.go.id/index.php/IJG/issue/archive"  >
+
+                                IJ-Geostech                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item764" >
+
+            <a class="item" href="http://ejurnal.bppt.go.id/index.php/jsti/issue/archive"  >
+
+                                Jurnal Sains dan Teknologi Indonesia                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item765" >
+
+            <a class="item" href="http://ejurnal.bppt.go.id/index.php/JAI"  >
+
+                                Jurnal Air Indonesia                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item766" >
+
+            <a class="item" href="http://ejurnal.bppt.go.id/index.php/JHI"  >
+
+                                Jurnal Hidrosfir Indonesia                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item767" >
+
+            <a class="item" href="http://ejurnal.bppt.go.id/index.php/JTL"  >
+
+                                Jurnal Teknologi Lingkungan                            </a>
+
+
+                    </li>
+                                                                                                        </ul>
+                        </div>
+                                            </div>
+
+                                    </li>
+                                                                                                                                                                <li class="item768 parent" >
+
+            <a class="item" href="#"  >
+
+                                E-Paper                                <span class="border-fixer"></span>
+                            </a>
+
+
+            
+                                    <div class="dropdown flyout columns-1 " style="width:180px;">
+                                                <div class="column col1"  style="width:180px;">
+                            <ul class="l3">
+                                                                                                                    <li class="item769" >
+
+            <a class="item" href="http://digilib.bppt.go.id/epaper/index.php/ASETAMA/issue/view/3"  >
+
+                                Artikel Ilmiah Bidang Informasi Publik                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item770" >
+
+            <a class="item" href="http://digilib.bppt.go.id/epaper/index.php/ATIRBR/article/view"  >
+
+                                Artikel Ilmiah Bidang Teknologi Industri Rancang Bangun Dan Rekayasa                             </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item771" >
+
+            <a class="item" href="http://digilib.bppt.go.id/epaper/index.php/ATIEM/article/view"  >
+
+                                Artikel Ilmiah Bidang Teknologi Informasi Energi Dan Material                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item772" >
+
+            <a class="item" href="http://perpustakaan.bppt.go.id/epaper/index.php/ATAB/article/view"  >
+
+                                Artikel Ilmiah Bidang  Teknologi Agroindustri Dan Bioteknologi                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item773" >
+
+            <a class="item" href="http://digilib.bppt.go.id/epaper/index.php/ATPSA/article/view"  >
+
+                                Artikel Ilmiah Bidang  Teknologi Pengembangan Sumber Daya Alam                             </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item774" >
+
+            <a class="item" href="http://digilib.bppt.go.id/epaper/index.php/APKT/article/view/"  >
+
+                                Artikel Ilmiah Bidang Kebijakan Teknologi                            </a>
+
+
+                    </li>
+                                                                                                        </ul>
+                        </div>
+                                            </div>
+
+                                    </li>
+                                                                                                        </ul>
+                        </div>
+                                            </div>
+
+                                    </li>
+                            <li class="item104" >
+
+            <a class="item" href="https://intranet.bppt.go.id/cloud"  >
+
+                                Intranet                            </a>
+
+
+                    </li>
+                            <li class="item211 parent" >
+
+            <a class="item" href="/unduh"  >
+
+                                Unduh                                <span class="border-fixer"></span>
+                            </a>
+
+
+            
+                                    <div class="dropdown columns-1 " style="width:180px;">
+                                                <div class="column col1"  style="width:180px;">
+                            <ul class="l2">
+                                                                                                                    <li class="item305" >
+
+            <a class="item" href="/unduh/lakip-bppt"  >
+
+                                Lakip                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item542" >
+
+            <a class="item" href="/unduh/renstra"  >
+
+                                Renstra                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item1013" >
+
+            <a class="item" href="/unduh/laporan-tahunan-annual-report"  >
+
+                                Laporan Tahunan / Annual Report                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item1014" >
+
+            <a class="item" href="/unduh/outlook-energi"  >
+
+                                Outlook Energi                            </a>
+
+
+                    </li>
+                                                                                                        </ul>
+                        </div>
+                                            </div>
+
+                                    </li>
+                            <li class="item246" >
+
+            <a class="item" href="/agenda-kegiatan"  >
+
+                                Agenda                            </a>
+
+
+                    </li>
+                            <li class="item119 parent" >
+
+            <a class="item" href="#"  >
+
+                                Kontak                                <span class="border-fixer"></span>
+                            </a>
+
+
+            
+                                    <div class="dropdown columns-1 " style="width:180px;">
+                                                <div class="column col1"  style="width:180px;">
+                            <ul class="l2">
+                                                                                                                    <li class="item637" >
+
+            <a class="item" href="/kontak-kami/kontak-kami"  >
+
+                                Kontak Kami                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item408" >
+
+            <a class="item" href="/kontak-kami/unit-kerja"  >
+
+                                Unit Kerja                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item615" >
+
+            <a class="item" href="/kontak-kami/form-mengisi-saran"  >
+
+                                Saran Perbaikan Website Baru BPPT                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item208" >
+
+            <a class="item" href="/kontak-kami/buku-tamu"  >
+
+                                Buku Tamu                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item1016" >
+
+            <a class="item" href="/component/jmap/?Itemid=1016"  >
+
+                                Sitemap                            </a>
+
+
+                    </li>
+                                                                                                        </ul>
+                        </div>
+                                            </div>
+
+                                    </li>
+                            <li class="item355" >
+
+            <a class="item" href="http://bppt.go.id/english/"  >
+
+                                English                            </a>
+
+
+                    </li>
+            </ul>		<div class="clear"></div>
+	</div>
+	
+</div>
+				<div class="clear"></div>
+			</div>
+		</div>
+			</header>
+		    <div id="rt-drawer">
+        <div class="rt-container">
+                        <div class="clear"></div>
+        </div>
+    </div>
+    
+	    <div id="ts-fullscreen">
+            <div class="rt-grid-12 rt-alpha rt-omega">
+               <div class="rt-block ">
+           	<div class="module-surround">
+	           		                	<div class="module-content">
+	                		
+
+<div class="custom"  >
+	<p><img src="/images/atas.jpg" alt="" /></p></div>
+	                	</div>
+                	</div>
+           </div>
+	           <div class="rt-block ">
+           	<div class="module-surround">
+	           		                	<div class="module-content">
+	                		
+
+<div class="custom"  >
+	<p><img style="display: block; margin-left: auto; margin-right: auto;" src="/images/banners/bppt-header.jpg" alt="" /></p></div>
+	                	</div>
+                	</div>
+           </div>
+	           <div class="rt-block hidden-desktop">
+           	<div class="module-surround">
+	           		                	<div class="module-content">
+	                		<form name="rokajaxsearch" id="rokajaxsearch" class="blue" action="http://www.bppt.go.id/" method="get">
+<div class="rokajaxsearch hidden-desktop">
+	<div class="roksearch-wrapper">
+		<input id="roksearch_search_str" name="searchword" type="text" class="inputbox" placeholder="Search..." />
+	</div>
+	<input type="hidden" name="searchphrase" value="any"/>
+	<input type="hidden" name="limit" value="20" />
+	<input type="hidden" name="ordering" value="newest" />
+	<input type="hidden" name="view" value="search" />
+	<input type="hidden" name="option" value="com_search" />
+
+	
+	<div id="roksearch_results"></div>
+</div>
+<div id="rokajaxsearch_tmp" style="visibility:hidden;display:none;"></div>
+</form>
+	                	</div>
+                	</div>
+           </div>
+	           <div class="rt-block ">
+           	<div class="module-surround">
+	           		                	<div class="module-content">
+	                		<!------------------------------------- THE CONTENT ------------------------------------------------->
+<div id="lofass331" class="lof-ass " style="height:auto; width:auto">
+<div class="lofass-container  lof-css3 blue lof-snright">
+    
+        <div class="preload"><div></div></div>
+             
+     <!-- MAIN CONTENT --> 
+      <div class="lof-main-wapper" style="height:425px;width:978px;">
+      	
+                      <div class="lof-main-item ">
+                              
+                                <a target="_parent" title="HAKTEKNAS 2016: BPPT Raih Dua Penghargaan Anugerah IPTEK 2016" href="/layanan-informasi-publik/2690-hakteknas-2016-bppt-raih-dua-penghargaan-anugerah-iptek-2016">
+               		<img src="http://www.bppt.go.id/cache/lofthumbs/978x425-default.jpg" title="HAKTEKNAS 2016: BPPT Raih Dua Penghargaan Anugerah IPTEK 2016" width="978" alt="HAKTEKNAS 2016: BPPT Raih Dua Penghargaan Anugerah IPTEK 2016" >                </a>
+                				
+                 
+                     
+                 <div class="lof-description">
+                    <h4><a target="_parent" title="HAKTEKNAS 2016: BPPT Raih Dua Penghargaan Anugerah IPTEK 2016" href="/layanan-informasi-publik/2690-hakteknas-2016-bppt-raih-dua-penghargaan-anugerah-iptek-2016">HAKTEKNAS 2016: BPPT Raih Dua Penghargaan Anugerah IPTEK 2016</a></h4>
+                                        <p> 
+Puncak Perayaan Hari Kebangkitan Teknologi Nasional (HAKTEKNAS) ke-21 digelar di Stadion...</p>
+                                     </div>
+                                              </div> 
+                        <div class="lof-main-item">
+                              
+                                <a target="_parent" title="Sidang Tahunan MPR, Sesjen Ma'ruf: Akuntabilitas Lembaga Negara Akan Disampaikan Dalam Forum Tersebut" href="/layanan-informasi-publik/2689-sidang-tahunan-mpr-sesjen-ma-ruf-akuntabilitas-lembaga-negara-akan-disampaikan-dalam-forum-tersebut">
+               		<img src="http://www.bppt.go.id/cache/lofthumbs/978x425-default.jpg" title="Sidang Tahunan MPR, Sesjen Ma'ruf: Akuntabilitas Lembaga Negara Akan Disampaikan Dalam Forum Tersebut" width="978" alt="Sidang Tahunan MPR, Sesjen Ma'ruf: Akuntabilitas Lembaga Negara Akan Disampaikan Dalam Forum Tersebut" >                </a>
+                				
+                 
+                     
+                 <div class="lof-description">
+                    <h4><a target="_parent" title="Sidang Tahunan MPR, Sesjen Ma'ruf: Akuntabilitas Lembaga Negara Akan Disampaikan Dalam Forum Tersebut" href="/layanan-informasi-publik/2689-sidang-tahunan-mpr-sesjen-ma-ruf-akuntabilitas-lembaga-negara-akan-disampaikan-dalam-forum-tersebut">Sidang Tahunan MPR, Sesjen Ma'ruf: Akuntabilitas Lembaga Negara Akan Disampaikan Dalam Forum Tersebut</a></h4>
+                                        <p>"Tidak semata mempunyai peran besar dalam mengkomunikasikan kebijakan pro kerakyatan dari...</p>
+                                     </div>
+                                              </div> 
+                        <div class="lof-main-item">
+                              
+                                <a target="_parent" title="BPPT DORONG PEKALONGAN MENUJU SMART CITY" href="/kebijakan-teknologi/2688-bppt-dorong-pekalongan-menuju-smart-city">
+               		<img src="http://www.bppt.go.id/cache/lofthumbs/978x425-default.jpg" title="BPPT DORONG PEKALONGAN MENUJU SMART CITY" width="978" alt="BPPT DORONG PEKALONGAN MENUJU SMART CITY" >                </a>
+                				
+                 
+                     
+                 <div class="lof-description">
+                    <h4><a target="_parent" title="BPPT DORONG PEKALONGAN MENUJU SMART CITY" href="/kebijakan-teknologi/2688-bppt-dorong-pekalongan-menuju-smart-city">BPPT DORONG PEKALONGAN MENUJU SMART CITY</a></h4>
+                                        <p> 
+Badan Pengkajian dan Penerapan Teknologi (BPPT) terus dampingi Kota Pekalongan mewujudkan...</p>
+                                     </div>
+                                              </div> 
+                        <div class="lof-main-item">
+                              
+                                <a target="_parent" title="Ramson Komisi VII DPR : SALUT Untuk BPPT Atas Inisiasi Teknopark Perikanan Pekalongan" href="/kebijakan-teknologi/2687-ramson-komisi-vii-dpr-salut-untuk-bppt-atas-inisiasi-teknopark-perikanan-pekalongan">
+               		<img src="http://www.bppt.go.id/cache/lofthumbs/978x425-20160808-Pekalongan.jpg" title="Ramson Komisi VII DPR : SALUT Untuk BPPT Atas Inisiasi Teknopark Perikanan Pekalongan" width="978" alt="Ramson Komisi VII DPR : SALUT Untuk BPPT Atas Inisiasi Teknopark Perikanan Pekalongan" >                </a>
+                				
+                 
+                     
+                 <div class="lof-description">
+                    <h4><a target="_parent" title="Ramson Komisi VII DPR : SALUT Untuk BPPT Atas Inisiasi Teknopark Perikanan Pekalongan" href="/kebijakan-teknologi/2687-ramson-komisi-vii-dpr-salut-untuk-bppt-atas-inisiasi-teknopark-perikanan-pekalongan">Ramson Komisi VII DPR : SALUT Untuk BPPT Atas Inisiasi Teknopark Perikanan Pekalongan</a></h4>
+                                        <p>Berawal dari mencari solusi agar sawah yang biasa tidak produktif akibat terendam rob di...</p>
+                                     </div>
+                                              </div> 
+                        <div class="lof-main-item">
+                              
+                                <a target="_parent" title="Tugas Berat BPPT Sebagai Percontohan Nasional Gedung Hemat Energi" href="/layanan-informasi-publik/2686-tugas-berat-bppt-sebagai-percontohan-nasional-gedung-hemat-energi">
+               		<img src="http://www.bppt.go.id/cache/lofthumbs/978x425-20160805peen.jpg" title="Tugas Berat BPPT Sebagai Percontohan Nasional Gedung Hemat Energi" width="978" alt="Tugas Berat BPPT Sebagai Percontohan Nasional Gedung Hemat Energi" >                </a>
+                				
+                 
+                     
+                 <div class="lof-description">
+                    <h4><a target="_parent" title="Tugas Berat BPPT Sebagai Percontohan Nasional Gedung Hemat Energi" href="/layanan-informasi-publik/2686-tugas-berat-bppt-sebagai-percontohan-nasional-gedung-hemat-energi">Tugas Berat BPPT Sebagai Percontohan Nasional Gedung Hemat Energi</a></h4>
+                                        <p> 
+
+bppt.go.id - Komitmen BPPT dalam hal efisiensi energi dan air membuahkan hasil. Gedung BPPT...</p>
+                                     </div>
+                                              </div> 
+                    
+      </div>
+      <!-- END MAIN CONTENT --> 
+        <!-- NAVIGATOR -->
+                      <div class="lof-buttons-control">
+                  <a href="/" onclick="return false;" class="lof-previous">Previous</a>
+                  <a href="/" class="lof-next"  onclick="return false;">Next</a>
+                </div>
+                        
+              <div class="lof-navigator-outer">
+                    <ul class="lof-navigator">
+                                            <li>
+                            <div>
+                                                                 <img src="http://www.bppt.go.id/cache/lofthumbs/75x60-default.jpg" title="HAKTEKNAS 2016: BPPT Raih Dua Penghargaan Anugerah IPTEK 2016" width="75" alt="HAKTEKNAS 2016: BPPT Raih Dua Penghargaan Anugerah IPTEK 2016" > 
+                                                                                                  <h4>HAKTEKNAS 2016: BPPT Raih Dua Penghargaan Anugerah IPTEK 2016</h4>
+                                                                                                                            </div>    
+                        </li>
+                                             <li>
+                            <div>
+                                                                 <img src="http://www.bppt.go.id/cache/lofthumbs/75x60-default.jpg" title="Sidang Tahunan MPR, Sesjen Ma'ruf: Akuntabilitas Lembaga Negara Akan Disampaikan Dalam Forum Tersebut" width="75" alt="Sidang Tahunan MPR, Sesjen Ma'ruf: Akuntabilitas Lembaga Negara Akan Disampaikan Dalam Forum Tersebut" > 
+                                                                                                  <h4>Sidang Tahunan MPR, Sesjen Ma'ruf: Akuntabilitas Lembaga Negara Akan Disampaikan Dalam Forum...</h4>
+                                                                                                                            </div>    
+                        </li>
+                                             <li>
+                            <div>
+                                                                 <img src="http://www.bppt.go.id/cache/lofthumbs/75x60-default.jpg" title="BPPT DORONG PEKALONGAN MENUJU SMART CITY" width="75" alt="BPPT DORONG PEKALONGAN MENUJU SMART CITY" > 
+                                                                                                  <h4>BPPT DORONG PEKALONGAN MENUJU SMART CITY</h4>
+                                                                                                                            </div>    
+                        </li>
+                                             <li>
+                            <div>
+                                                                 <img src="http://www.bppt.go.id/cache/lofthumbs/75x60-20160808-Pekalongan.jpg" title="Ramson Komisi VII DPR : SALUT Untuk BPPT Atas Inisiasi Teknopark Perikanan Pekalongan" width="75" alt="Ramson Komisi VII DPR : SALUT Untuk BPPT Atas Inisiasi Teknopark Perikanan Pekalongan" > 
+                                                                                                  <h4>Ramson Komisi VII DPR : SALUT Untuk BPPT Atas Inisiasi Teknopark Perikanan Pekalongan</h4>
+                                                                                                                            </div>    
+                        </li>
+                                             <li>
+                            <div>
+                                                                 <img src="http://www.bppt.go.id/cache/lofthumbs/75x60-20160805peen.jpg" title="Tugas Berat BPPT Sebagai Percontohan Nasional Gedung Hemat Energi" width="75" alt="Tugas Berat BPPT Sebagai Percontohan Nasional Gedung Hemat Energi" > 
+                                                                                                  <h4>Tugas Berat BPPT Sebagai Percontohan Nasional Gedung Hemat Energi</h4>
+                                                                                                                            </div>    
+                        </li>
+                          
+                    </ul>
+              </div>
+              
+  </div>
+ </div> <script type="text/javascript">
+
+  var _lofmain =  $('lofass331'); 
+   var object = new LofArticleSlideshow( _lofmain,
+                  { 
+                    fxObject:{
+                    transition:Fx.Transitions.Quad.easeOut,  
+                    duration:500                    },
+                    startItem:0,
+                    interval:5000,
+                    direction :'hrright', 
+                    navItemHeight:85,
+                    navItemWidth:380,
+                    navItemsDisplay:5,
+                    navPos:'right',
+					autoStart:1,
+					descOpacity:1                  } );
+      object.registerButtonsControl( 'click', {next:_lofmain.getElement('.lof-next'),
+                         previous:_lofmain.getElement('.lof-previous')} );
+  
+</script>
+
+	                	</div>
+                	</div>
+           </div>
+	
+</div>
+            <div class="clear"></div>
+    </div>
+    
+	
+	
+			<div id="ts-title">
+			<div class="rt-container">
+				<div class="rt-grid-12 rt-alpha rt-omega">
+    <!-- BEGIN: Custom advanced (www.pluginaria.com) -->
+<table width="100%" class="hrf"><tbody><tr><td width="30%" style="padding-right: 0px;">
+
+                                                            <marquee scrollamount="4" onmouseover="this.setAttribute('scrollamount', 0, 0);" onmouseout="this.setAttribute('scrollamount', 4, 0);"> <font color="red">
+
+
+															
+																				
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="http://bppt.go.id/index.php/unduh?view=category&id=105"><b> "PERKA Organisasi dan Tata Kerja BPPT" </b></a>                                                      
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+								   
+                                                            </font></marquee>
+                                 </td></tr></tbody></table><!-- END: Custom advanced (www.pluginaria.com) -->
+           <div class="rt-block ">
+           	<div class="module-surround">
+	           		                	<div class="module-content"><div class="custom"  >
+
+<div class="nn_sliders accordion panel-group" id="set-nn_sliders-1"><a name="nn_sliders-scrollto_1" class="anchor nn_sliders-scroll"></a>
+<div class="accordion-group panel nn_sliders-group active">
+<a name="nn_sliders-scrollto_slider" class="anchor nn_sliders-scroll"></a>
+<div class="accordion-heading panel-heading">
+<a href="http://www.bppt.go.id/#slider" class="accordion-toggle nn_sliders-toggle" data-toggle="collapse" data-id="slider" data-parent="#set-nn_sliders-1"><span class="nn_sliders-toggle-inner">
+
+</span></a>
+</div>
+<div class="accordion-body nn_sliders-body collapse in" id="slider">
+<div class="accordion-inner panel-body">
+<h2 class="nn_sliders-title"></h2>
+<p style="line-height: 15.808px; text-align: center;"><img src="/images/banners/71th-indonesia.gif" alt="" /></p>
+</div></div></div></div></div></div>
+                	</div>
+           </div>
+	           <div class="rt-block visible-desktop">
+           	<div class="module-surround">
+	           		                	<div class="module-content">
+	                		
+
+<div class="customvisible-desktop"  >
+	<div class="Section1">
+<table class="MsoTableGrid" style="border-collapse: collapse; border: none;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+
+<tr><td style="width: 560pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="490">
+<div class="nn_sliders accordion panel-group" id="set-nn_sliders-2"><a name="nn_sliders-scrollto_2" class="anchor nn_sliders-scroll"></a>
+<div class="accordion-group panel nn_sliders-group active">
+<a name="nn_sliders-scrollto_selamat-datang" class="anchor nn_sliders-scroll"></a>
+<div class="accordion-heading panel-heading">
+<a href="http://www.bppt.go.id/#selamat-datang" class="accordion-toggle nn_sliders-toggle" data-toggle="collapse" data-id="selamat-datang" data-parent="#set-nn_sliders-2"><span class="nn_sliders-toggle-inner">
+SELAMAT DATANG
+</span></a>
+</div>
+<div class="accordion-body nn_sliders-body collapse in" id="selamat-datang">
+<div class="accordion-inner panel-body">
+<h2 class="nn_sliders-title">SELAMAT DATANG</h2>
+<p><a href="/index.php/profil/kata-pengantar-dari-kepala"><img style="float: left;" src="/images/banners/unggul-priyanto.jpg" alt="" /></a> </p>
+<p class="MsoNormal" style="text-align: center;" align="center"><span style="line-height: 1.3em;"><span style="font-family: 'Cambria Math', serif; font-size: 14pt; line-height: 115%;">"Bagi BPPT, Reformasi Birokrasi merupakan perubahan mendasar, mendesak dan menjadi keharusan yang melibatkan seluruh pegawai."</span> </span></p>
+<p style="line-height: 15.808px;"> </p>
+<p style="line-height: 15.808px;"> </p>
+</div></div></div></div></td>
+
+<td style="width: 335pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="350">
+<div class="nn_sliders accordion panel-group" id="set-nn_sliders-3"><a name="nn_sliders-scrollto_3" class="anchor nn_sliders-scroll"></a>
+<div class="accordion-group panel nn_sliders-group active">
+<a name="nn_sliders-scrollto_layanan-kami" class="anchor nn_sliders-scroll"></a>
+<div class="accordion-heading panel-heading">
+<a href="http://www.bppt.go.id/#layanan-kami" class="accordion-toggle nn_sliders-toggle" data-toggle="collapse" data-id="layanan-kami" data-parent="#set-nn_sliders-3"><span class="nn_sliders-toggle-inner">
+LAYANAN KAMI
+</span></a>
+</div>
+<div class="accordion-body nn_sliders-body collapse in" id="layanan-kami">
+<div class="accordion-inner panel-body">
+<h2 class="nn_sliders-title">LAYANAN KAMI</h2>
+<div class="button-group clearfix" style="line-height: 15.808px;"><a class="btn btn-large tour" href="http://layanan.bppt.go.id/" target="_blank">Layanan Informasi Teknologi Terpadu</a> <br /><a class="btn btn-large tour" href="http://pengaduan.bppt.go.id/" target="_blank">Pengaduan BPPT</a> <br /><a class="btn btn-large tour" href="/index.php/survei-layanan-informasi-publik" target="_blank">Survei Layanan Informasi</a> <br /><a class="btn btn-large tour" href="http://kip.bppt.go.id/" target="_blank">Informasi Publik BPPT</a></div>
+<div class="button-group clearfix" style="line-height: 15.808px;"> </div>
+</div></div></div></div></td>
+
+<td style="width: 170pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="180">
+<div class="nn_sliders accordion panel-group" id="set-nn_sliders-4"><a name="nn_sliders-scrollto_4" class="anchor nn_sliders-scroll"></a>
+<div class="accordion-group panel nn_sliders-group active">
+<a name="nn_sliders-scrollto_layanan-teknologi" class="anchor nn_sliders-scroll"></a>
+<div class="accordion-heading panel-heading">
+<a href="http://www.bppt.go.id/#layanan-teknologi" class="accordion-toggle nn_sliders-toggle" data-toggle="collapse" data-id="layanan-teknologi" data-parent="#set-nn_sliders-4"><span class="nn_sliders-toggle-inner">
+LAYANAN TEKNOLOGI
+</span></a>
+</div>
+<div class="accordion-body nn_sliders-body collapse in" id="layanan-teknologi">
+<div class="accordion-inner panel-body">
+<h2 class="nn_sliders-title">LAYANAN TEKNOLOGI</h2>
+<div class="button-group clearfix" style="line-height: 15.808px;"><a href="#layananteknologi"><img style="display: block; margin-left: auto; margin-right: auto;" src="/images/banners/layananteknologi.gif" alt="" /></a></div>
+</div></div></div></div>
+
+
+<div class="nn_sliders accordion panel-group" id="set-nn_sliders-5"><a name="nn_sliders-scrollto_5" class="anchor nn_sliders-scroll"></a>
+<div class="accordion-group panel nn_sliders-group active">
+<a name="nn_sliders-scrollto_produk-unggulan" class="anchor nn_sliders-scroll"></a>
+<div class="accordion-heading panel-heading">
+<a href="http://www.bppt.go.id/#produk-unggulan" class="accordion-toggle nn_sliders-toggle" data-toggle="collapse" data-id="produk-unggulan" data-parent="#set-nn_sliders-5"><span class="nn_sliders-toggle-inner">
+PRODUK UNGGULAN
+</span></a>
+</div>
+<div class="accordion-body nn_sliders-body collapse in" id="produk-unggulan">
+<div class="accordion-inner panel-body">
+<h2 class="nn_sliders-title">PRODUK UNGGULAN</h2>
+<div class="button-group clearfix" style="line-height: 15.808px;"><a href="#produkunggulan"><img style="display: block; margin-left: auto; margin-right: auto;" src="/images/banners/produk_unggulan.gif" alt="" /></a></div>
+</div></div></div></div><p class="MsoNormal" style="margin-bottom: .0001pt; line-height: normal;"><span style="line-height: 15.808px;"> </span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class="MsoNormal"> </p>
+</div></div>
+	                	</div>
+                	</div>
+           </div>
+	           <div class="rt-block hidden-desktop">
+           	<div class="module-surround">
+	           		                	<div class="module-content"><div class="customhidden-desktop"  >
+
+<div class="nn_sliders accordion panel-group" id="set-nn_sliders-6"><a name="nn_sliders-scrollto_6" class="anchor nn_sliders-scroll"></a>
+<div class="accordion-group panel nn_sliders-group active">
+<a name="nn_sliders-scrollto_selamat-datang-2" class="anchor nn_sliders-scroll"></a>
+<div class="accordion-heading panel-heading">
+<a href="http://www.bppt.go.id/#selamat-datang-2" class="accordion-toggle nn_sliders-toggle" data-toggle="collapse" data-id="selamat-datang-2" data-parent="#set-nn_sliders-6"><span class="nn_sliders-toggle-inner">
+SELAMAT DATANG
+</span></a>
+</div>
+<div class="accordion-body nn_sliders-body collapse in" id="selamat-datang-2">
+<div class="accordion-inner panel-body">
+<h2 class="nn_sliders-title">SELAMAT DATANG</h2>
+<p style="text-align: center;"><a href="/index.php/profil/kata-pengantar-dari-kepala"><img style="display: block; margin-left: auto; margin-right: auto;" src="/images/mobile/unggul-priyanto-bppt.jpg" alt="" /></a></p>
+<p style="text-align: center;">"Bagi BPPT, Reformasi Birokrasi merupakan perubahan mendasar, mendesak dan menjadi keharusan yang melibatkan seluruh pegawai."</p>
+</div></div></div></div>
+
+
+<div class="nn_sliders accordion panel-group" id="set-nn_sliders-7"><a name="nn_sliders-scrollto_7" class="anchor nn_sliders-scroll"></a>
+<div class="accordion-group panel nn_sliders-group active">
+<a name="nn_sliders-scrollto_layanan-kami-2" class="anchor nn_sliders-scroll"></a>
+<div class="accordion-heading panel-heading">
+<a href="http://www.bppt.go.id/#layanan-kami-2" class="accordion-toggle nn_sliders-toggle" data-toggle="collapse" data-id="layanan-kami-2" data-parent="#set-nn_sliders-7"><span class="nn_sliders-toggle-inner">
+LAYANAN KAMI
+</span></a>
+</div>
+<div class="accordion-body nn_sliders-body collapse in" id="layanan-kami-2">
+<div class="accordion-inner panel-body">
+<h2 class="nn_sliders-title">LAYANAN KAMI</h2>
+<p style="text-align: center;"><a href="http://layanan.bppt.go.id/" target="_blank"><img src="/images/mobile/LITT.jpg" alt="" /></a></p>
+<p style="text-align: center;"><a href="http://pengaduan.bppt.go.id/" target="_blank"><img src="/images/mobile/PENGADUAN.jpg" alt="" /></a></p>
+<p style="text-align: center;"><a href="/survei-layanan-informasi-publik" target="_blank"><img src="/images/mobile/SURVEI.jpg" alt="" /></a></p>
+<p style="text-align: center;"><a href="http://kip.bppt.go.id/" target="_blank"><img src="/images/mobile/INFORMASI.jpg" alt="" /></a></p>
+</div></div></div></div>
+
+
+<div class="nn_sliders accordion panel-group" id="set-nn_sliders-8"><a name="nn_sliders-scrollto_8" class="anchor nn_sliders-scroll"></a>
+<div class="accordion-group panel nn_sliders-group active">
+<a name="nn_sliders-scrollto_layanan-teknologi-2" class="anchor nn_sliders-scroll"></a>
+<div class="accordion-heading panel-heading">
+<a href="http://www.bppt.go.id/#layanan-teknologi-2" class="accordion-toggle nn_sliders-toggle" data-toggle="collapse" data-id="layanan-teknologi-2" data-parent="#set-nn_sliders-8"><span class="nn_sliders-toggle-inner">
+LAYANAN TEKNOLOGI
+</span></a>
+</div>
+<div class="accordion-body nn_sliders-body collapse in" id="layanan-teknologi-2">
+<div class="accordion-inner panel-body">
+<h2 class="nn_sliders-title">LAYANAN TEKNOLOGI</h2>
+<p style="text-align: justify;"><a href="#layananteknologi"><img style="display: block; margin-left: auto; margin-right: auto;" src="/images/banners/layananteknologi.gif" alt="" /></a></p>
+</div></div></div></div>
+
+
+<div class="nn_sliders accordion panel-group" id="set-nn_sliders-9"><a name="nn_sliders-scrollto_9" class="anchor nn_sliders-scroll"></a>
+<div class="accordion-group panel nn_sliders-group active">
+<a name="nn_sliders-scrollto_produk-unggulan-2" class="anchor nn_sliders-scroll"></a>
+<div class="accordion-heading panel-heading">
+<a href="http://www.bppt.go.id/#produk-unggulan-2" class="accordion-toggle nn_sliders-toggle" data-toggle="collapse" data-id="produk-unggulan-2" data-parent="#set-nn_sliders-9"><span class="nn_sliders-toggle-inner">
+PRODUK UNGGULAN
+</span></a>
+</div>
+<div class="accordion-body nn_sliders-body collapse in" id="produk-unggulan-2">
+<div class="accordion-inner panel-body">
+<h2 class="nn_sliders-title">PRODUK UNGGULAN</h2>
+<p style="text-align: justify;"><a href="#produkunggulan"><img style="display: block; margin-left: auto; margin-right: auto;" src="/images/banners/produk_unggulan.gif" alt="" /></a></p>
+</div></div></div></div>
+
+
+<div class="nn_sliders accordion panel-group" id="set-nn_sliders-10"><a name="nn_sliders-scrollto_10" class="anchor nn_sliders-scroll"></a>
+<div class="accordion-group panel nn_sliders-group active">
+<a name="nn_sliders-scrollto_kedeputian" class="anchor nn_sliders-scroll"></a>
+<div class="accordion-heading panel-heading">
+<a href="http://www.bppt.go.id/#kedeputian" class="accordion-toggle nn_sliders-toggle" data-toggle="collapse" data-id="kedeputian" data-parent="#set-nn_sliders-10"><span class="nn_sliders-toggle-inner">
+KEDEPUTIAN
+</span></a>
+</div>
+<div class="accordion-body nn_sliders-body collapse in" id="kedeputian">
+<div class="accordion-inner panel-body">
+<h2 class="nn_sliders-title">KEDEPUTIAN</h2>
+<p style="text-align: center;"><a href="/kata-pengantar-setama"><img src="/images/mobile/SETAMA.jpg" alt="" width="102" height="125" /></a> <a href="/kata-pengantar-pkt"><img src="/images/mobile/PKT.jpg" alt="" width="102" height="125" /></a></p>
+<p style="text-align: center;"> <a href="/kata-pengantar-tpsa"><img src="/images/mobile/TPSA.jpg" alt="" width="102" height="125" /></a> <a href="/kata-pengantar-tab"><img src="/images/mobile/TAB.jpg" alt="" width="102" height="125" /></a></p>
+<p style="text-align: center;"><a href="/kata-pengantar-tiem"><img src="/images/mobile/TIEM.jpg" alt="" width="102" height="125" /></a> <a href="/kata-pengantar-tirbr"><img src="/images/mobile/TIRBR.jpg" alt="" width="102" height="125" /></a></p>
+</div></div></div></div></div>
+	                	</div>
+                	</div>
+           </div>
+	           <div class="rt-block visible-desktop">
+           	<div class="module-surround">
+	           		                	<div class="module-content">
+	                		
+
+<div class="customvisible-desktop"  >
+	<p style="text-align: center;"><img src="/images/banners/header-teks-KEDEPUTIAN.gif" alt="" /></p></div>
+	                	</div>
+                	</div>
+           </div>
+	
+</div>
+				<div class="clear"></div>
+			</div>
+		</div>
+	
+			
+	<div id="rt-transition">
+		<div id="rt-mainbody-surround">
+						<div id="rt-feature">
+				<div class="rt-container">
+					<div class="rt-grid-2 rt-alpha">
+               <div class="rt-block visible-desktop">
+           	<div class="module-surround">
+	           		                	<div class="module-content">
+	                				<script type="text/javascript">
+        jQuery.noConflict();
+		jQuery(document).ready(function($)
+		{
+			$('#aihgallery338 .aihboxgrid.aih_vertical').hover(function(){
+				$(".cover", this).stop().animate({top:'218px'},{queue:false,duration:500});
+			}, function() {
+				$(".cover", this).stop().animate({top:'0px'},{queue:false,duration:500});
+			});
+		});
+		</script>
+
+<div id="aihgallery338">
+			  <!--galleryEntry 1 -->
+						<div class="aihboxgrid aih_vertical aihboxgrid_bottom">
+												<a href="/kata-pengantar-setama" target="_self">
+							<img src="http://www.bppt.go.id//images/banners/setama-ket.jpg" title="" alt="" /></a>
+						<img class="cover" src="http://www.bppt.go.id//images/banners/setama.jpg" title="" alt="" />
+								</div>
+			
+</div> 
+<div style="clear:both;"></div>
+
+	                	</div>
+                	</div>
+           </div>
+	
+</div>
+<div class="rt-grid-2">
+               <div class="rt-block visible-desktop">
+           	<div class="module-surround">
+	           		                	<div class="module-content">
+	                				<script type="text/javascript">
+        jQuery.noConflict();
+		jQuery(document).ready(function($)
+		{
+			$('#aihgallery339 .aihboxgrid.aih_horizontal').hover(function(){
+				$(".cover", this).stop().animate({left:'163px'},{queue:false,duration:500});
+			}, function() {
+				$(".cover", this).stop().animate({left:'0px'},{queue:false,duration:500});
+			});
+		});
+		</script>
+		
+<div id="aihgallery339">
+			  <!--galleryEntry 1 -->
+						<div class="aihboxgrid aih_horizontal aihboxgrid_bottom">
+												<a href="/kata-pengantar-pkt" target="_self">
+							<img src="http://www.bppt.go.id//images/banners/pkt-ket.jpg" title="" alt="" /></a>
+						<img class="cover" src="http://www.bppt.go.id//images/banners/pkt.jpg" title="" alt="" />
+								</div>
+			
+</div> 
+<div style="clear:both;"></div>
+
+	                	</div>
+                	</div>
+           </div>
+	
+</div>
+<div class="rt-grid-2">
+               <div class="rt-block visible-desktop">
+           	<div class="module-surround">
+	           		                	<div class="module-content">
+	                				<script type="text/javascript">
+        jQuery.noConflict();
+		jQuery(document).ready(function($)
+		{
+			$('#aihgallery340 .aihboxgrid.aih_vertical').hover(function(){
+				$(".cover", this).stop().animate({top:'218px'},{queue:false,duration:500});
+			}, function() {
+				$(".cover", this).stop().animate({top:'0px'},{queue:false,duration:500});
+			});
+		});
+		</script>
+
+<div id="aihgallery340">
+			  <!--galleryEntry 1 -->
+						<div class="aihboxgrid aih_vertical aihboxgrid_bottom">
+												<a href="/kata-pengantar-tpsa" target="_self">
+							<img src="http://www.bppt.go.id//images/banners/tpsa-ket.jpg" title="" alt="" /></a>
+						<img class="cover" src="http://www.bppt.go.id//images/banners/tpsa.jpg" title="" alt="" />
+								</div>
+			
+</div> 
+<div style="clear:both;"></div>
+
+	                	</div>
+                	</div>
+           </div>
+	
+</div>
+<div class="rt-grid-2">
+               <div class="rt-block visible-desktop">
+           	<div class="module-surround">
+	           		                	<div class="module-content">
+	                				<script type="text/javascript">
+        jQuery.noConflict();
+		jQuery(document).ready(function($)
+		{
+			$('#aihgallery341 .aihboxgrid.aih_horizontal').hover(function(){
+				$(".cover", this).stop().animate({left:'163px'},{queue:false,duration:500});
+			}, function() {
+				$(".cover", this).stop().animate({left:'0px'},{queue:false,duration:500});
+			});
+		});
+		</script>
+		
+<div id="aihgallery341">
+			  <!--galleryEntry 1 -->
+						<div class="aihboxgrid aih_horizontal aihboxgrid_bottom">
+												<a href="/kata-pengantar-tab" target="_self">
+							<img src="http://www.bppt.go.id//images/banners/tab-ket.jpg" title="" alt="" /></a>
+						<img class="cover" src="http://www.bppt.go.id//images/banners/tab.jpg" title="" alt="" />
+								</div>
+			
+</div> 
+<div style="clear:both;"></div>
+
+	                	</div>
+                	</div>
+           </div>
+	
+</div>
+<div class="rt-grid-2">
+               <div class="rt-block visible-desktop">
+           	<div class="module-surround">
+	           		                	<div class="module-content">
+	                				<script type="text/javascript">
+        jQuery.noConflict();
+		jQuery(document).ready(function($)
+		{
+			$('#aihgallery343 .aihboxgrid.aih_vertical').hover(function(){
+				$(".cover", this).stop().animate({top:'218px'},{queue:false,duration:500});
+			}, function() {
+				$(".cover", this).stop().animate({top:'0px'},{queue:false,duration:500});
+			});
+		});
+		</script>
+
+<div id="aihgallery343">
+			  <!--galleryEntry 1 -->
+						<div class="aihboxgrid aih_vertical aihboxgrid_bottom">
+												<a href="/kata-pengantar-tiem" target="_self">
+							<img src="http://www.bppt.go.id//images/banners/tiem-ket.jpg" title="" alt="" /></a>
+						<img class="cover" src="http://www.bppt.go.id//images/banners/tiem.jpg" title="" alt="" />
+								</div>
+			
+</div> 
+<div style="clear:both;"></div>
+
+	                	</div>
+                	</div>
+           </div>
+	
+</div>
+<div class="rt-grid-2 rt-omega">
+               <div class="rt-block visible-desktop">
+           	<div class="module-surround">
+	           		                	<div class="module-content">
+	                				<script type="text/javascript">
+        jQuery.noConflict();
+		jQuery(document).ready(function($)
+		{
+			$('#aihgallery342 .aihboxgrid.aih_horizontal').hover(function(){
+				$(".cover", this).stop().animate({left:'163px'},{queue:false,duration:500});
+			}, function() {
+				$(".cover", this).stop().animate({left:'0px'},{queue:false,duration:500});
+			});
+		});
+		</script>
+		
+<div id="aihgallery342">
+			  <!--galleryEntry 1 -->
+						<div class="aihboxgrid aih_horizontal aihboxgrid_bottom">
+												<a href="/kata-pengantar-tirbr" target="_self">
+							<img src="http://www.bppt.go.id//images/banners/tirbr-ket.jpg" title="" alt="" /></a>
+						<img class="cover" src="http://www.bppt.go.id//images/banners/tirbr.jpg" title="" alt="" />
+								</div>
+			
+</div> 
+<div style="clear:both;"></div>
+
+	                	</div>
+                	</div>
+           </div>
+	
+</div>
+					<div class="clear"></div>
+				</div>
+			</div>
+			
+	
+			
+			
+
+			
+
+			
+
+						<div class="rt-container">
+		    		          
+<div id="rt-main" class="mb8-sa4">
+                <div class="rt-container">
+                    <div class="rt-grid-8 ">
+                                                						<div class="rt-block">
+	                        <div id="rt-mainbody">
+								<div class="component-content">
+	                            	
+<section class="blog-featured">
+<div class="items-leading">
+			<article class="leading-0">
+			
+	<h2>
+					<a href="/layanan-informasi-publik/2690-hakteknas-2016-bppt-raih-dua-penghargaan-anugerah-iptek-2016">
+			HAKTEKNAS 2016: BPPT Raih Dua Penghargaan Anugerah IPTEK 2016</a>
+			</h2>
+
+
+
+
+
+ <dl class="article-info">
+ <dt class="article-info-term">Details</dt>
+		<dd class="category-name">
+										Category: <a href="/layanan-informasi-publik">Berita Layanan Info Publik </a>						</dd>
+		<dd class="published">
+		Published: Thursday, 11 August 2016 13:37		</dd>
+		<dd class="hits">
+		Hits: 175		</dd>
+ </dl>
+
+
+<p style="text-align: justify;"> </p>
+<p style="text-align: justify;"><strong>Puncak Perayaan Hari Kebangkitan Teknologi Nasional (HAKTEKNAS) ke-21 digelar di Stadion Manahan, Kota Solo. Peringatan HAKTEKNAS yang jatuh pada 10 Agustus, kali ini mengusung tema “Inovasi untuk Kemandirian dan Daya Saing Bangsa”.</strong></p>
+<p style="text-align: justify;"> </p>
+<p style="text-align: justify;"><strong>Menteri Riset Teknologi dan Pendidikan Tinggi,  Mohammad Nasir menyampaikan bahwa kementerian-nya telah berhasil meng-golkan beberapa aturan baru untuk mendorong tumbuh kembangnya inovator handal.</strong></p>
+<p style="text-align: justify;"> </p>
+<div class="jcomments-links"><a class="readmore-link" href="/layanan-informasi-publik/2690-hakteknas-2016-bppt-raih-dua-penghargaan-anugerah-iptek-2016" title="HAKTEKNAS 2016: BPPT Raih Dua Penghargaan Anugerah IPTEK 2016">Read more: HAKTEKNAS 2016: BPPT Raih Dua Penghargaan Anugerah IPTEK 2016</a>  </div>
+
+
+
+<div class="item-separator"></div>
+		</article>
+			</div>
+
+	<div class="items-more">
+	
+<h3>More Articles ...</h3>
+
+<ol class="links">
+	<li>
+		<a href="/layanan-informasi-publik/2689-sidang-tahunan-mpr-sesjen-ma-ruf-akuntabilitas-lembaga-negara-akan-disampaikan-dalam-forum-tersebut">
+			Sidang Tahunan MPR, Sesjen Ma'ruf: Akuntabilitas Lembaga Negara Akan Disampaikan Dalam Forum Tersebut</a>
+	</li>
+	<li>
+		<a href="/kebijakan-teknologi/2688-bppt-dorong-pekalongan-menuju-smart-city">
+			BPPT DORONG PEKALONGAN MENUJU SMART CITY</a>
+	</li>
+	<li>
+		<a href="/kebijakan-teknologi/2687-ramson-komisi-vii-dpr-salut-untuk-bppt-atas-inisiasi-teknopark-perikanan-pekalongan">
+			Ramson Komisi VII DPR : SALUT Untuk BPPT Atas Inisiasi Teknopark Perikanan Pekalongan</a>
+	</li>
+	<li>
+		<a href="/layanan-informasi-publik/2686-tugas-berat-bppt-sebagai-percontohan-nasional-gedung-hemat-energi">
+			Tugas Berat BPPT Sebagai Percontohan Nasional Gedung Hemat Energi</a>
+	</li>
+	<li>
+		<a href="/layanan-informasi-publik/2685-penghargaan-efisiensi-energi-nasional-esdm-2016-bppt-raih-peringkat-pertama-hemat-energi-dan-air">
+			Penghargaan Efisiensi Energi Nasional ESDM 2016: BPPT Raih Peringkat Pertama Hemat Energi dan Air </a>
+	</li>
+	<li>
+		<a href="/layanan-informasi-publik/2684-kala-itu-iptek-kita-disegani-dunia">
+			"Kala Itu, IPTEK Kita Disegani Dunia"</a>
+	</li>
+	<li>
+		<a href="/layanan-informasi-publik/2683-indroyono-soesilo-proyek-nasional-harus-miliki-tingkat-kandungan-dalam-negeri-tkdn-yang-tinggi">
+			Indroyono Soesilo:  Proyek Nasional Harus Miliki Tingkat Kandungan Dalam Negeri (TKDN) yang Tinggi</a>
+	</li>
+	<li>
+		<a href="/layanan-informasi-publik/2682-anugerahi-indroyono-perekayasa-utama-kehormatan-bidang-maritim-kepala-bppt-inovasinya-sangat-bermanfaat-bagi-kemaritiman-indonesia">
+			Anugerahi Indroyono Perekayasa Utama Kehormatan Bidang Maritim, Kepala BPPT: Inovasinya Sangat Bermanfaat Bagi Kemaritiman Indonesia</a>
+	</li>
+	<li>
+		<a href="/layanan-informasi-publik/2681-bppt-kukuhkan-indroyono-soesilo-sebagai-perekayasa-utama-kehormatan-bidang-teknologi-maritim">
+			BPPT Kukuhkan Indroyono Soesilo sebagai PEREKAYASA UTAMA KEHORMATAN Bidang Teknologi Maritim</a>
+	</li>
+	<li>
+		<a href="/layanan-informasi-publik/2680-kongres-teknologi-nasional-2016-teknologi-untuk-wujudkan-ketahanan-energi-nasional">
+			KONGRES TEKNOLOGI NASIONAL 2016 : Teknologi untuk Wujudkan Ketahanan Energi Nasional </a>
+	</li>
+</ol>
+
+	</div>
+
+	<div class="pagination">
+
+						<ul><li class="pagination-start"><span class="pagenav">Start</span></li><li class="pagination-prev"><span class="pagenav">Prev</span></li><li><span class="pagenav">1</span></li><li><a href="/?start=1" class="pagenav">2</a></li><li><a href="/?start=2" class="pagenav">3</a></li><li><a href="/?start=3" class="pagenav">4</a></li><li><a href="/?start=4" class="pagenav">5</a></li><li><a href="/?start=5" class="pagenav">6</a></li><li><a href="/?start=6" class="pagenav">7</a></li><li><a href="/?start=7" class="pagenav">8</a></li><li><a href="/?start=8" class="pagenav">9</a></li><li><a href="/?start=9" class="pagenav">10</a></li><li class="pagination-next"><a title="Next" href="/?start=1" class="hasTooltip pagenav">Next</a></li><li class="pagination-end"><a title="End" href="/?start=581" class="hasTooltip pagenav">End</a></li></ul>	</div>
+</section>
+
+
+
+								</div>
+	                        </div>
+						</div>
+                                                                        <div id="rt-content-bottom">
+                            <div class="rt-grid-8 rt-alpha rt-omega">
+               <div class="rt-block ">
+           	<div class="module-surround">
+	           		                	<div class="module-content">
+	                		<div class="nsb_container"><a id="l1" class="icons" target="_blank" href="http://www.facebook.com/sharer.php?u=http://www.bppt.go.id/&amp;title=BADAN+PENGKAJIAN+DAN+PENERAPAN+TEKNOLOGI+-+Halaman+Muka"><img title="Facebook" src="/modules/mod_nice_social_bookmark/icons/facebook_aqu_32.png" alt="Facebook" /></a><a id="l3" class="icons" target="_blank" href="http://twitter.com/home?status=http://www.bppt.go.id/&amp;title=BADAN+PENGKAJIAN+DAN+PENERAPAN+TEKNOLOGI+-+Halaman+Muka"><img title="Twitter" src="/modules/mod_nice_social_bookmark/icons/twitter_aqu_32.png" alt="Twitter" /></a><a id="l11" class="icons" target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://www.bppt.go.id/&amp;summary=%5B..%5D&amp;source="><img title="linkedin" src="/modules/mod_nice_social_bookmark/icons/linkedin_aqu_32.png" alt="Linkedin" /></a></div><div style="clear:both;"></div>	                	</div>
+                	</div>
+           </div>
+	
+</div>
+                        </div>
+                                            </div>
+                                <div class="rt-grid-4 ">
+                <div id="rt-sidebar-c">
+                               <div class="rt-block ">
+           	<div class="module-surround">
+	           		                	<div class="module-content">
+	                		<!-- BEGIN: Custom advanced (www.pluginaria.com) -->
+
+
+<div class="nn_sliders accordion panel-group" id="set-nn_sliders-11"><a name="nn_sliders-scrollto_11" class="anchor nn_sliders-scroll"></a>
+<div class="accordion-group panel nn_sliders-group active">
+<a name="nn_sliders-scrollto_banner" class="anchor nn_sliders-scroll"></a>
+<div class="accordion-heading panel-heading">
+<a href="http://www.bppt.go.id/#banner" class="accordion-toggle nn_sliders-toggle" data-toggle="collapse" data-id="banner" data-parent="#set-nn_sliders-11"><span class="nn_sliders-toggle-inner">
+BANNER
+</span></a>
+</div>
+<div class="accordion-body nn_sliders-body collapse in" id="banner">
+<div class="accordion-inner panel-body">
+<h2 class="nn_sliders-title">BANNER</h2>
+<table class="tbl">
+<tbody>
+<tr>
+<td id="tdl"><!-- Baris kiri 1 -->
+<p style="text-align: center;"><a title="BPPT TV" href="http://iptv.bppt.go.id"target="_blank"><img src="/images/banners/bppt-tv.jpg" alt="" width="145px" border="0" /></a></p>
+<!-- Baris kiri 2 -->
+<p style="text-align: center;"><a title="Penerimaan Negara Bukan Pajak" href="http://pnbp.bppt.go.id" target="_blank"><img src="/images/banners/pnbp.jpg" alt="" width="145px" border="0" /></a></p>
+<!-- Baris kiri 3 -->
+<p style="text-align: center;"><a title="Perekayasa Utama Kehormatan" href="http://puk.bppt.go.id/" target="_blank"><img src="/images/banners/puk-2016.jpg" alt="" width="145px" border="0" /></a></p>
+<!-- Baris kiri 4 -->
+<p style="text-align: center;"><a title="Portal Telusur Inovasi" href="http://inovasi.iptek.net.id/" target="_blank"><img src="/images/banners/potensi.jpg" alt="" width="145px" border="0" /></a></p>
+<!-- Baris kiri 5 -->
+<p style="text-align: center;"><a title="Dokumen Perekayasa BPPT" href="/index.php/unduh?view=category&amp;id=13" target="_blank"><img src="/images/banners/dokumen.jpg" alt="" width="145px" border="0" /></a></p>
+<!-- Baris kiri 6 -->
+<p style="text-align: center;"><a title="SIDADU" href="http://sidadu.bppt.go.id/" target="_blank"><img src="/images/banners/sidadu.jpg" alt="" width="145px" border="0" /></a></p>
+<!-- Baris kiri 7 --> <!-- Baris kanan 1 --></td>
+<td id="tdr" style="text-align: center;"><!-- Baris kanan 1 -->
+<p><a title="Pusbindiklat" href="http://pusbindiklat.bppt.go.id/" target="_blank"><img src="/images/banners/perekayasa.jpg" alt="" width="145px" border="0" /></a></p>
+<!-- Baris kanan 2 -->
+<p><a title="BJHTA 2015" href="http://bjhta.bppt.go.id/" target="_blank"><img src="/images/banners/bjhta.jpg" alt="" width="145px" border="0" /></a></p>
+<!-- Baris kanan 3 -->
+<p><a title="Survey Layanan Informasi Publik" href="/index.php/survei-layanan-informasi-publik" target="_blank"><img src="/images/banners/survei.jpg" alt="" width="145px" border="0" /></a></p>
+<!-- Baris kanan 4 -->
+<p><a title="e-Proc BPPT" href="http://lpse.bppt.go.id" target="_blank"><img src="/images/banners/lelang.jpg" alt="" width="145px" border="0" /></a></p>
+<!-- Baris kanan 5 -->
+<p><a title="Microturbine Cogeneration Technology Application Project" href="http://www.mctap-bppt.com/" target="_blank"><img src="/images/banners/mctap.jpg" alt="" width="145px" border="0" /></a></p>
+<!-- Baris kanan 6 -->
+<p><a title="Perpustakaan Digital BPPT" href="http://digilib.bppt.go.id/opac/" target="_blank"><img src="/images/banners/perpus.jpg" alt="" width="145px" border="0" /></a></p>
+<!-- Baris kanan 7 --></td>
+</tr>
+</tbody>
+</table>
+</div></div></div></div>
+
+
+<div class="nn_sliders accordion panel-group" id="set-nn_sliders-12"><a name="nn_sliders-scrollto_12" class="anchor nn_sliders-scroll"></a>
+<div class="accordion-group panel nn_sliders-group active">
+<a name="nn_sliders-scrollto_jumlah-pengunjung" class="anchor nn_sliders-scroll"></a>
+<div class="accordion-heading panel-heading">
+<a href="http://www.bppt.go.id/#jumlah-pengunjung" class="accordion-toggle nn_sliders-toggle" data-toggle="collapse" data-id="jumlah-pengunjung" data-parent="#set-nn_sliders-12"><span class="nn_sliders-toggle-inner">
+JUMLAH PENGUNJUNG
+</span></a>
+</div>
+<div class="accordion-body nn_sliders-body collapse in" id="jumlah-pengunjung">
+<div class="accordion-inner panel-body">
+<h2 class="nn_sliders-title">JUMLAH PENGUNJUNG</h2>
+<p><a href="http://s05.flagcounter.com/more/8MP"><img style="display: block; margin-left: auto; margin-right: auto;" src="http://s05.flagcounter.com/count/8MP/bg_EDF0F2/txt_000000/border_EDF0F2/columns_4/maxflags_12/viewers_Pengunjung/labels_0/pageviews_0/flags_0/" alt="Free counters!" width="310px" border="0" /></a></p>
+</div></div></div></div>
+
+
+<div class="nn_sliders accordion panel-group" id="set-nn_sliders-13"><a name="nn_sliders-scrollto_13" class="anchor nn_sliders-scroll"></a>
+<div class="accordion-group panel nn_sliders-group active">
+<a name="nn_sliders-scrollto_galeri-video" class="anchor nn_sliders-scroll"></a>
+<div class="accordion-heading panel-heading">
+<a href="http://www.bppt.go.id/#galeri-video" class="accordion-toggle nn_sliders-toggle" data-toggle="collapse" data-id="galeri-video" data-parent="#set-nn_sliders-13"><span class="nn_sliders-toggle-inner">
+GALERI VIDEO
+</span></a>
+</div>
+<div class="accordion-body nn_sliders-body collapse in" id="galeri-video">
+<div class="accordion-inner panel-body">
+<h2 class="nn_sliders-title">GALERI VIDEO</h2>
+<table>
+<tbody>
+<tr>
+<td><a href="/video/video/bppt"><img style="display: block; margin-left: auto; margin-right: auto;" src="/images/banners/video_2016.jpg" alt="" /></a></td>
+</tr>
+<tr>
+<td style="text-left: right;"><a href="/video/video/fasilitas"><img style="float: left;" src="/images/banners/video-setama.png" alt="" width="40" height="50" /></a>     <a href="/video/video/pusat-audit-teknologi"><img src="/images/banners/video-pkt.png" alt="" width="40" height="50" /></a>     <a href="/video/category/tpsa"><img src="/images/banners/video-tpsa.png" alt="" width="40" height="50" /></a>     <a href="/video/category/tab"><img src="/images/banners/video-tab.png" alt="" width="40" height="50" /></a>     <a href="/video/category/tiem"><img src="/images/banners/video-tiem.png" alt="" width="40" height="50" /></a>     <a href="/video/category/tirbr"><img src="/images/banners/video-tirbr.png" alt="" width="40" height="50" /></a></td>
+</tr>
+</tbody>
+</table>
+</div></div></div></div>
+
+
+<div class="nn_sliders accordion panel-group" id="set-nn_sliders-14"><a name="nn_sliders-scrollto_14" class="anchor nn_sliders-scroll"></a>
+<div class="accordion-group panel nn_sliders-group active">
+<a name="nn_sliders-scrollto_galeri-foto" class="anchor nn_sliders-scroll"></a>
+<div class="accordion-heading panel-heading">
+<a href="http://www.bppt.go.id/#galeri-foto" class="accordion-toggle nn_sliders-toggle" data-toggle="collapse" data-id="galeri-foto" data-parent="#set-nn_sliders-14"><span class="nn_sliders-toggle-inner">
+GALERI FOTO
+</span></a>
+</div>
+<div class="accordion-body nn_sliders-body collapse in" id="galeri-foto">
+<div class="accordion-inner panel-body">
+<h2 class="nn_sliders-title">GALERI FOTO</h2>
+<div class="Section1">
+<div align="center">
+<table class="MsoTableGrid" style="border-collapse: collapse; border: none;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="width: 5.0cm; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="189">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/foto/category/110-pelantikan-pejabat-tinggi-pratama-20160107"><img src="/images/galeri_foto/pelantikan-pejabat.jpg" alt="" /></a></p>
+</td>
+<td style="width: 5.0cm; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="189">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/foto/category/116-20160201-pameran-rakernas-kemenristekdikti-2016"><img src="/images/galeri_foto/pameran-kemenristekdikti.jpg" alt="" /></a></p>
+</td>
+</tr>
+<tr>
+<td style="width: 5.0cm; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="189">
+<h6 class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/foto/category/110-pelantikan-pejabat-tinggi-pratama-20160107">Pelantikan Pejabat Tinggi Pratama</a></h6>
+</td>
+<td style="width: 5.0cm; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="189">
+<h6 class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/foto/category/116-20160201-pameran-rakernas-kemenristekdikti-2016">Pameran Rakernas Kemenristekdikti 2016</a></h6>
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"> </p>
+</td>
+</tr>
+<tr>
+<td style="width: 5.0cm; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="189">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/foto/category/131-20160226-rapat-kerja-bppt-2016"><img src="/images/galeri_foto/raker-2016.jpg" alt="" /></a></p>
+</td>
+<td style="width: 5.0cm; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="189">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/foto/category/156-20160608-orasi-pengukuhan-profesor-riset"><img src="/images/galeri_foto/profesor-riset.jpg" alt="" /></a></p>
+</td>
+</tr>
+<tr>
+<td style="width: 5.0cm; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="189">
+<h6 class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/foto/category/131-20160226-rapat-kerja-bppt-2016">Rapat Kerja BPPT 2016</a></h6>
+</td>
+<td style="width: 5.0cm; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="189">
+<h6 class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/foto/category/156-20160608-orasi-pengukuhan-profesor-riset">Orasi Pengukuhan Profesor Riset</a></h6>
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"> </p>
+<p class="MsoNormal" style="margin-bottom: 0.0001pt; line-height: normal; text-align: right;"><a href="/foto">Lihat Foto Lainnya</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div></div></div></div></div><!-- END: Custom advanced (www.pluginaria.com) -->
+	                	</div>
+                	</div>
+           </div>
+	
+                </div>
+            </div>
+
+                    <div class="clear"></div>
+                </div>
+            </div>
+		    </div>
+			
+						<div id="rt-fullwidth">
+						
+
+<div class="custom"  style="background-image: url('/images/dotcom/service/service-banner.jpg')" >
+	<h2>Kami Memberikan Kualitas Layanan yang Terbaik</h2>
+<p>BPPT merupakan Pusat Unggulan Teknologi yang mengutamakan inovasi dan layanan teknologi untuk mewujudkan kemandirian bangsa, peningkatan daya saing dan peningkatan pelayanan publik.</p></div>
+	
+					<div class="clear"></div>
+			</div>
+			
+						<div id="rt-mainbottom">
+				<div class="rt-container">
+					<div class="rt-grid-12 rt-alpha rt-omega">
+               <div class="rt-block visible-desktop">
+           	<div class="module-surround">
+	           		                	<div class="module-content">
+	                		
+
+<div class="customvisible-desktop"  >
+	<p><a name="layananteknologi"></a></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="/images/banners/layanan-teknologi.gif" alt="" /></p>
+<p> </p>
+<div class="Section1">
+<table class="MsoTableGrid" style="border-collapse: collapse; border: none;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="width: 6.0cm; padding: 0cm 5.4pt 0cm 5.4pt;" width="227">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/bit"><img src="/images/banners/bit.png" alt="" /></a></p>
+</td>
+<td style="width: 6.0cm; padding: 0cm 5.4pt 0cm 5.4pt;" width="227">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"> </p>
+</td>
+<td style="width: 6.0cm; padding: 0cm 5.4pt 0cm 5.4pt;" width="227">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/struktur-pusyantek"><img src="/images/banners/pusat-pelayanan-teknologi.png" alt="" /></a> </p>
+</td>
+<td style="width: 6.0cm; padding: 0cm 5.4pt 0cm 5.4pt;" width="227">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"> </p>
+</td>
+<td style="width: 6.0cm; padding: 0cm 5.4pt 0cm 5.4pt;" width="227">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a style="color: #0000cc; text-decoration: underline;" href="/btikk"><img src="/images/banners/keramik.png" alt="" /></a></p>
+</td>
+</tr>
+<tr>
+<td style="width: 6.0cm; padding: 0cm 5.4pt 0cm 5.4pt;" width="227">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/bit">Balai Inkubator Teknologi</a></p>
+</td>
+<td style="width: 6.0cm; padding: 0cm 5.4pt 0cm 5.4pt;" width="227">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"> </p>
+</td>
+<td style="width: 6.0cm; padding: 0cm 5.4pt 0cm 5.4pt;" width="227">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"> <a href="/struktur-pusyantek">Pusat Pelayanan Teknologi</a></p>
+</td>
+<td style="width: 6.0cm; padding: 0cm 5.4pt 0cm 5.4pt;" width="227">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"> </p>
+</td>
+<td style="width: 6.0cm; padding: 0cm 5.4pt 0cm 5.4pt;" width="227">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/btikk">Balai Teknologi Industri Kreatif Keramik</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class="MsoNormal"> </p>
+<table class="MsoTableGrid" style="border-collapse: collapse; border: none;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="width: 6.0cm; padding: 0cm 5.4pt 0cm 5.4pt;" width="227">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a style="color: #0000cc; text-decoration: underline;" href="/b2tmc"><img src="/images/banners/hujan-buatan.png" alt="" /></a></p>
+</td>
+<td style="width: 6.0cm; padding: 0cm 5.4pt 0cm 5.4pt;" width="227">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a style="color: #0000cc; text-decoration: underline;" href="/btsk"><img src="/images/banners/survey-laut.png" alt="" /></a></p>
+</td>
+<td style="width: 6.0cm; padding: 0cm 5.4pt 0cm 5.4pt;" width="227">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a style="color: #0000cc; text-decoration: underline;" href="/btpal"><img src="/images/banners/btpal.png" alt="" /></a></p>
+</td>
+<td style="width: 6.0cm; padding: 0cm 5.4pt 0cm 5.4pt;" width="227">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a style="color: #0000cc; text-decoration: underline;" href="/b2tp"><img src="/images/banners/pati.png" alt="" /></a></p>
+</td>
+<td style="width: 6.0cm; padding: 0cm 5.4pt 0cm 5.4pt;" width="227">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"> <a style="color: #0000cc; text-decoration: underline;" href="/biotek"><img src="/images/banners/bioteknology.png" alt="" /></a></p>
+</td>
+</tr>
+<tr>
+<td style="width: 6.0cm; padding: 0cm 5.4pt 0cm 5.4pt;" width="227">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/b2tmc">Balai Besar Teknologi Modifikasi Cuaca</a></p>
+</td>
+<td style="width: 6.0cm; padding: 0cm 5.4pt 0cm 5.4pt;" width="227">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/btsk">Balai Teknologi Survei Kelautan</a></p>
+</td>
+<td style="width: 6.0cm; padding: 0cm 5.4pt 0cm 5.4pt;" width="227">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/btpal">Balai Teknologi Pengolahan Air dan Limbah</a></p>
+</td>
+<td style="width: 6.0cm; padding: 0cm 5.4pt 0cm 5.4pt;" width="227">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/b2tp">Balai Besar Teknologi Pati</a></p>
+</td>
+<td style="width: 6.0cm; padding: 0cm 5.4pt 0cm 5.4pt;" width="227">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/biotek">Balai Bioteknologi</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p> <span style="font-size: 12.1599998474121px; line-height: 15.8079996109009px;"> </span></p>
+<table class="MsoTableGrid" style="border-collapse: collapse; border: none;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="width: 6.0cm; padding: 0cm 5.4pt 0cm 5.4pt;" width="227">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"> <a style="color: #0000cc; text-decoration: underline;" href="/b2tke"><img src="/images/banners/energi.png" alt="" /></a></p>
+</td>
+<td style="width: 6.0cm; padding: 0cm 5.4pt 0cm 5.4pt;" width="227">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"> <a style="color: #0000cc; text-decoration: underline;" href="/btb2rd"><img src="/images/banners/sistem-teknologi.png" alt="" /></a></p>
+</td>
+<td style="width: 6.0cm; padding: 0cm 5.4pt 0cm 5.4pt;" width="227">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/bjik"><img src="/images/banners/ipteknet.png" alt="" /></a></p>
+</td>
+<td style="width: 6.0cm; padding: 0cm 5.4pt 0cm 5.4pt;" width="227">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/btp"><img src="/images/banners/polimer.png" alt="" /></a></p>
+</td>
+<td style="width: 6.0cm; padding: 0cm 5.4pt 0cm 5.4pt;" width="227">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"> <a href="/b2ta3"><img style="line-height: 1.3em;" src="/images/banners/lagg.png" alt="" /></a></p>
+</td>
+</tr>
+<tr>
+<td style="width: 6.0cm; padding: 0cm 5.4pt 0cm 5.4pt;" width="227">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/b2tke">Balai Besar Teknologi Konversi Energi</a></p>
+</td>
+<td style="width: 6.0cm; padding: 0cm 5.4pt 0cm 5.4pt;" width="227">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/btb2rd">Balai Teknologi Bahan Bakar dan Rekayasa Desain</a></p>
+</td>
+<td style="width: 6.0cm; padding: 0cm 5.4pt 0cm 5.4pt;" width="227">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/bjik">Balai Jaringan Informasi dan Komunikasi</a></p>
+</td>
+<td style="width: 6.0cm; padding: 0cm 5.4pt 0cm 5.4pt;" width="227">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/btp">Balai Teknologi Polimer</a></p>
+</td>
+<td style="width: 6.0cm; padding: 0cm 5.4pt 0cm 5.4pt;" width="227">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/b2ta3">Balai Besar Teknologi Aerodinamika, Aeroelastika dan Aeroakustika</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<table class="MsoTableGrid" style="border-collapse: collapse; border: none;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="width: 6.0cm; padding: 0cm 5.4pt 0cm 5.4pt;" width="227">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"> <a href="/b2tks"><img style="line-height: 1.3em;" src="/images/banners/struktur.png" alt="" /></a></p>
+</td>
+<td style="width: 6.0cm; padding: 0cm 5.4pt 0cm 5.4pt;" width="227">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"> <a href="/meppo"><img style="line-height: 1.3em;" src="/images/banners/meppo.png" alt="" /></a></p>
+</td>
+<td style="width: 6.0cm; padding: 0cm 5.4pt 0cm 5.4pt;" width="227">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"> <a href="/bt2mp"><img style="line-height: 1.3em;" src="/images/banners/btmp.png" alt="" /></a></p>
+</td>
+<td style="width: 6.0cm; padding: 0cm 5.4pt 0cm 5.4pt;" width="227">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"> <a href="/bth"><img style="line-height: 1.3em;" src="/images/banners/bpph.png" alt="" /></a></p>
+</td>
+<td style="width: 6.0cm; padding: 0cm 5.4pt 0cm 5.4pt;" width="227">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"> <a href="/btipdp"><img style="line-height: 1.3em;" src="/images/banners/bpdp.png" alt="" /></a></p>
+</td>
+</tr>
+<tr>
+<td style="width: 6.0cm; padding: 0cm 5.4pt 0cm 5.4pt;" width="227">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/b2tks">Balai Besar Teknologi Kekuatan Struktur</a></p>
+</td>
+<td style="width: 6.0cm; padding: 0cm 5.4pt 0cm 5.4pt;" width="227">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/meppo">Balai Mesin Perkakas, Teknik Produksi dan Otomasi</a></p>
+</td>
+<td style="width: 6.0cm; padding: 0cm 5.4pt 0cm 5.4pt;" width="227">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/bt2mp">Balai Teknologi Termodinamika Motor dan Propulsi</a></p>
+</td>
+<td style="width: 6.0cm; padding: 0cm 5.4pt 0cm 5.4pt;" width="227">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/bth">Balai Teknologi Hidrodinamika</a></p>
+</td>
+<td style="width: 6.0cm; padding: 0cm 5.4pt 0cm 5.4pt;" width="227">
+<p style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/btipdp">Balai Teknologi Infrastruktur Pelabuhan dan Dinamika Pantai</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="Section1"> </div>
+<div class="Section1"> </div></div>
+	                	</div>
+                	</div>
+           </div>
+	           <div class="rt-block hidden-desktop">
+           	<div class="module-surround">
+	           		                	<div class="module-content">
+	                		
+
+<div class="customhidden-desktop"  >
+	<p><a name="layananteknologi"></a></p>
+
+
+<div class="nn_sliders accordion panel-group" id="set-nn_sliders-15"><a name="nn_sliders-scrollto_15" class="anchor nn_sliders-scroll"></a>
+<div class="accordion-group panel nn_sliders-group active">
+<a name="nn_sliders-scrollto_layanan-teknologi-3" class="anchor nn_sliders-scroll"></a>
+<div class="accordion-heading panel-heading">
+<a href="http://www.bppt.go.id/#layanan-teknologi-3" class="accordion-toggle nn_sliders-toggle" data-toggle="collapse" data-id="layanan-teknologi-3" data-parent="#set-nn_sliders-15"><span class="nn_sliders-toggle-inner">
+LAYANAN TEKNOLOGI
+</span></a>
+</div>
+<div class="accordion-body nn_sliders-body collapse in" id="layanan-teknologi-3">
+<div class="accordion-inner panel-body">
+<h2 class="nn_sliders-title">LAYANAN TEKNOLOGI</h2>
+<div class="Section1">
+<div align="center">
+<table class="MsoTableGrid" style="border-collapse: collapse; border: none;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="width: 93.55pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="125">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/struktur-pusyantek"><img src="/images/banners/pusat-pelayanan-teknologi.png" alt="" /></a></p>
+</td>
+<td style="width: 93.55pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="125">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/bit"><img src="/images/banners/bit.png" alt="" /></a></p>
+</td>
+</tr>
+<tr>
+<td style="width: 93.55pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="125">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/struktur-pusyantek">Pusat Pelayanan Teknologi</a></p>
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"> </p>
+</td>
+<td style="width: 93.55pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="125">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/bit">Balai Inkubator Teknologi</a></p>
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"> </p>
+</td>
+</tr>
+<tr>
+<td style="width: 93.55pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="125">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/btikk"><img src="/images/banners/keramik.png" alt="" /></a></p>
+</td>
+<td style="width: 93.55pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="125">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/b2tmc"><img src="/images/banners/hujan-buatan.png" alt="" /></a></p>
+</td>
+</tr>
+<tr>
+<td style="width: 93.55pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="125">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/btikk">Balai Teknologi Industri Kreatif Keramik</a></p>
+<p class="MsoNormal" style="margin-bottom: .0001pt; line-height: normal;"> </p>
+<p class="MsoNormal" style="margin-bottom: .0001pt; line-height: normal;"> </p>
+</td>
+<td style="width: 93.55pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="125">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/b2tmc">Balai Besar Teknologi Modifikasi Cuaca</a></p>
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"> </p>
+</td>
+</tr>
+<tr>
+<td style="width: 93.55pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="125">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/btsk"><img src="/images/banners/survey-laut.png" alt="" /></a></p>
+</td>
+<td style="width: 93.55pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="125">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/btpal"><img src="/images/banners/btpal.png" alt="" /></a></p>
+</td>
+</tr>
+<tr>
+<td style="width: 93.55pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="125">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/btsk">Balai Teknologi Survei Kelautan</a></p>
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"> </p>
+</td>
+<td style="width: 93.55pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="125">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/btpal">Balai Teknologi Pengolahan Air dan Limbah</a></p>
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"> </p>
+</td>
+</tr>
+<tr>
+<td style="width: 93.55pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="125">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/b2tp"><img src="/images/banners/pati.png" alt="" /></a></p>
+</td>
+<td style="width: 93.55pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="125">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/biotek"><img src="/images/banners/bioteknology.png" alt="" /></a></p>
+</td>
+</tr>
+<tr>
+<td style="width: 93.55pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="125">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/b2tp">Balai Besar Teknologi Pati</a></p>
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"> </p>
+</td>
+<td style="width: 93.55pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="125">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/biotek">Balai Bioteknologi</a></p>
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"> </p>
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"> </p>
+</td>
+</tr>
+<tr>
+<td style="width: 93.55pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="125">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/b2tke"><img src="/images/banners/energi.png" alt="" /></a></p>
+</td>
+<td style="width: 93.55pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="125">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/btb2rd"><img src="/images/banners/sistem-teknologi.png" alt="" /></a></p>
+</td>
+</tr>
+<tr>
+<td style="width: 93.55pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="125">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/b2tke">Balai Besar Teknologi Konversi Energi</a></p>
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"> </p>
+</td>
+<td style="width: 93.55pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="125">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/btb2rd">Balai Teknologi Bahan Bakar dan Rekayasa Desain</a></p>
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"> </p>
+</td>
+</tr>
+<tr>
+<td style="width: 93.55pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="125">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/bjik"><img src="/images/banners/ipteknet.png" alt="" /></a></p>
+</td>
+<td style="width: 93.55pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="125">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/btp"><img src="/images/banners/polimer.png" alt="" /></a></p>
+</td>
+</tr>
+<tr>
+<td style="width: 93.55pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="125">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/bjik">Balai Jaringan Informasi dan Komunikasi</a></p>
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"> </p>
+</td>
+<td style="width: 93.55pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="125">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/btp">Balai Teknologi Polimer</a></p>
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"> </p>
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"> </p>
+</td>
+</tr>
+<tr>
+<td style="width: 93.55pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="125">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/b2ta3"><img src="/images/banners/lagg.png" alt="" /></a></p>
+</td>
+<td style="width: 93.55pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="125">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/b2tks"><img src="/images/banners/struktur.png" alt="" /></a></p>
+</td>
+</tr>
+<tr>
+<td style="width: 93.55pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="125">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/b2ta3">Balai Besar Teknologi Aerodinamika, Aeroelastika dan Aeroakustika</a></p>
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"> </p>
+</td>
+<td style="width: 93.55pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="125">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/b2tks">Balai Besar Teknologi Kekuatan Struktur</a></p>
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"> </p>
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"> </p>
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"> </p>
+</td>
+</tr>
+<tr>
+<td style="width: 93.55pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="125">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/meppo"><img src="/images/banners/meppo.png" alt="" /></a></p>
+</td>
+<td style="width: 93.55pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="125">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/bt2mp"><img src="/images/banners/btmp.png" alt="" /></a></p>
+</td>
+</tr>
+<tr>
+<td style="width: 93.55pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="125">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/meppo">Balai Mesin Perkakas, Teknik Produksi dan Otomasi</a></p>
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"> </p>
+</td>
+<td style="width: 93.55pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="125">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/bt2mp">Balai Teknologi Termodinamika Motor dan Propulsi</a></p>
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"> </p>
+</td>
+</tr>
+<tr>
+<td style="width: 93.55pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="125">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/bth"><img src="/images/banners/bpph.png" alt="" /></a></p>
+</td>
+<td style="width: 93.55pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="125">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/btipdp"><img src="/images/banners/bpdp.png" alt="" /></a></p>
+</td>
+</tr>
+<tr>
+<td style="width: 93.55pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="125">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/bth">Balai Teknologi Hidrodinamika</a></p>
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"> </p>
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"> </p>
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"> </p>
+</td>
+<td style="width: 93.55pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="125">
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="/btipdp">Balai Teknologi Infrastruktur Pelabuhan dan Dinamika Pantai</a></p>
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"> </p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p class="MsoNormal"></div></div></div></div><span style="line-height: 15.808px;"><span style="line-height: 15.808px;"><br /></span></span></p>
+</div></div>
+	                	</div>
+                	</div>
+           </div>
+	
+</div>
+					<div class="clear"></div>
+				</div>
+			</div>
+			
+
+						<div id="ts-testimonial">
+				<div class="rt-container">
+					<div class="rt-grid-12 rt-alpha rt-omega">
+               <div class="rt-block ">
+           	<div class="module-surround">
+	           		                	<div class="module-content">
+	                		<div class="nsi-container nsi-iconhoriz-icontop">
+   <div>
+    <ul>                
+                      <li>
+                  <a href="/unduh/outlook-energi" target="_self" title="Outlook Energi">
+                  		                  		
+                  			                  		<img src="http://www.bppt.go.id/media/mod_ninja_simple_icon_menu/images/outlook_energi.png" alt="Outlook Energi" height="100" width="100" />
+	                  		                  	<br />	                  	
+	                  	                  </a>
+                </li>
+                        <li>
+                  <a href="/unduh/indikator-tik" target="_self" title="Indikator TIK">
+                  		                  		
+                  			                  		<img src="http://www.bppt.go.id/media/mod_ninja_simple_icon_menu/images/indikator_TIK.png" alt="Indikator TIK" height="100" width="100" />
+	                  		                  	<br />	                  	
+	                  	                  </a>
+                </li>
+                        <li>
+                  <a href="/unduh/buku-energi" target="_self" title="Buku Energi">
+                  		                  		
+                  			                  		<img src="http://www.bppt.go.id/media/mod_ninja_simple_icon_menu/images/buku_energi.png" alt="Buku Energi" height="100" width="100" />
+	                  		                  	<br />	                  	
+	                  	                  </a>
+                </li>
+                        <li>
+                  <a href="/index.php/unduh?view=category&id=11" target="_self" title="Annual Report">
+                  		                  		
+                  			                  		<img src="http://www.bppt.go.id/media/mod_ninja_simple_icon_menu/images/annual-report.png" alt="Annual Report" height="100" width="100" />
+	                  		                  	<br />	                  	
+	                  	                  </a>
+                </li>
+             </ul>
+  </div>
+</div>
+	                	</div>
+                	</div>
+           </div>
+	
+</div>
+					<div class="clear"></div>
+				</div>
+			</div>
+			
+						<div id="rt-extension">
+				<div class="rt-container">
+					<div class="rt-grid-12 rt-alpha rt-omega">
+               <div class="rt-block ">
+           	<div class="module-surround">
+	           		                	<div class="module-content">
+	                		
+
+<div class="custom"  >
+	<p><a name="produkunggulan"></a></p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"><img src="/images/banners/header-PU.gif" alt="" /></p></div>
+	                	</div>
+                	</div>
+           </div>
+	           <div class="rt-block ">
+           	<div class="module-surround">
+	           		                	<div class="module-content">
+	                		 <div class="sprocket-mosaic" data-mosaic="254">
+	<div class="sprocket-mosaic-overlay"><div class="css-loader-wrapper"><div class="css-loader"></div></div></div>
+		<div class="sprocket-mosaic-header">
+						<div class="sprocket-mosaic-order">
+			<ul>
+								<li class="active" data-mosaic-orderby="default">Default</li>
+								<li data-mosaic-orderby="title">Title</li>
+								<li data-mosaic-orderby="date">Date</li>
+								<li data-mosaic-orderby="random">Random</li>
+							</ul>
+		</div>
+				<div class="clear"></div>
+	</div>
+	
+	<ul class="sprocket-mosaic-container sprocket-mosaic-columns-4" data-mosaic-items>
+		<li data-mosaic-item>
+	<div class="sprocket-mosaic-item" data-mosaic-content>
+		<div style="display: none;" data-mosaic-order-title="Pangan" data-mosaic-order-date="2012-08-10 21:10:34"></div>		<div class="sprocket-padding">
+						<div class="sprocket-mosaic-image-container">
+				<a href="/output/hasil-kegiatan-bidang/pangan">				<img src="/images/pangan.jpg" alt="" class="sprocket-mosaic-image" />
+									<span class="sprocket-mosaic-hover"></span>
+					<span class="sprocket-mosaic-hovercontent"><span>+</span>Read More</span>
+				</a>
+				
+
+			<div class="sprocket-mosaic-head">
+								<h2 class="sprocket-mosaic-title">
+					<a href="/output/hasil-kegiatan-bidang/pangan">						Pangan					</a>				</h2>
+				
+							</div>
+
+						<a href="/output/hasil-kegiatan-bidang/pangan" class="sprocket-readmore"><span>Read More</span></a>
+			
+
+			</div>
+			
+
+
+			<div class="sprocket-mosaic-text">
+							</div>
+
+
+
+					</div>
+	</div>
+</li>
+<li data-mosaic-item>
+	<div class="sprocket-mosaic-item" data-mosaic-content>
+		<div style="display: none;" data-mosaic-order-title="Kesehatan" data-mosaic-order-date="2012-08-10 21:12:19"></div>		<div class="sprocket-padding">
+						<div class="sprocket-mosaic-image-container">
+				<a href="/output/hasil-kegiatan-bidang/kesehatan">				<img src="/images/kesehatan.jpg" alt="" class="sprocket-mosaic-image" />
+									<span class="sprocket-mosaic-hover"></span>
+					<span class="sprocket-mosaic-hovercontent"><span>+</span>Read More</span>
+				</a>
+				
+
+			<div class="sprocket-mosaic-head">
+								<h2 class="sprocket-mosaic-title">
+					<a href="/output/hasil-kegiatan-bidang/kesehatan">						Kesehatan					</a>				</h2>
+				
+							</div>
+
+						<a href="/output/hasil-kegiatan-bidang/kesehatan" class="sprocket-readmore"><span>Read More</span></a>
+			
+
+			</div>
+			
+
+
+			<div class="sprocket-mosaic-text">
+							</div>
+
+
+
+					</div>
+	</div>
+</li>
+<li data-mosaic-item>
+	<div class="sprocket-mosaic-item" data-mosaic-content>
+		<div style="display: none;" data-mosaic-order-title="Energi" data-mosaic-order-date="2012-08-10 21:12:54"></div>		<div class="sprocket-padding">
+						<div class="sprocket-mosaic-image-container">
+				<a href="/output/hasil-kegiatan-bidang/energi">				<img src="/images/energi.jpg" alt="" class="sprocket-mosaic-image" />
+									<span class="sprocket-mosaic-hover"></span>
+					<span class="sprocket-mosaic-hovercontent"><span>+</span>Read More</span>
+				</a>
+				
+
+			<div class="sprocket-mosaic-head">
+								<h2 class="sprocket-mosaic-title">
+					<a href="/output/hasil-kegiatan-bidang/energi">						Energi					</a>				</h2>
+				
+							</div>
+
+						<a href="/output/hasil-kegiatan-bidang/energi" class="sprocket-readmore"><span>Read More</span></a>
+			
+
+			</div>
+			
+
+
+			<div class="sprocket-mosaic-text">
+							</div>
+
+
+
+					</div>
+	</div>
+</li>
+<li data-mosaic-item>
+	<div class="sprocket-mosaic-item" data-mosaic-content>
+		<div style="display: none;" data-mosaic-order-title="Informasi" data-mosaic-order-date="2012-08-10 21:13:35"></div>		<div class="sprocket-padding">
+						<div class="sprocket-mosaic-image-container">
+				<a href="/output/hasil-kegiatan-bidang/informasi">				<img src="/images/informasi.jpg" alt="" class="sprocket-mosaic-image" />
+									<span class="sprocket-mosaic-hover"></span>
+					<span class="sprocket-mosaic-hovercontent"><span>+</span>Read More</span>
+				</a>
+				
+
+			<div class="sprocket-mosaic-head">
+								<h2 class="sprocket-mosaic-title">
+					<a href="/output/hasil-kegiatan-bidang/informasi">						Informasi					</a>				</h2>
+				
+							</div>
+
+						<a href="/output/hasil-kegiatan-bidang/informasi" class="sprocket-readmore"><span>Read More</span></a>
+			
+
+			</div>
+			
+
+
+			<div class="sprocket-mosaic-text">
+							</div>
+
+
+
+					</div>
+	</div>
+</li>
+<li data-mosaic-item>
+	<div class="sprocket-mosaic-item" data-mosaic-content>
+		<div style="display: none;" data-mosaic-order-title="Hankam" data-mosaic-order-date="2012-08-10 21:14:39"></div>		<div class="sprocket-padding">
+						<div class="sprocket-mosaic-image-container">
+				<a href="/output/hasil-kegiatan-bidang/hankam">				<img src="/images/hankam.jpg" alt="" class="sprocket-mosaic-image" />
+									<span class="sprocket-mosaic-hover"></span>
+					<span class="sprocket-mosaic-hovercontent"><span>+</span>Read More</span>
+				</a>
+				
+
+			<div class="sprocket-mosaic-head">
+								<h2 class="sprocket-mosaic-title">
+					<a href="/output/hasil-kegiatan-bidang/hankam">						Hankam					</a>				</h2>
+				
+							</div>
+
+						<a href="/output/hasil-kegiatan-bidang/hankam" class="sprocket-readmore"><span>Read More</span></a>
+			
+
+			</div>
+			
+
+
+			<div class="sprocket-mosaic-text">
+							</div>
+
+
+
+					</div>
+	</div>
+</li>
+<li data-mosaic-item>
+	<div class="sprocket-mosaic-item" data-mosaic-content>
+		<div style="display: none;" data-mosaic-order-title="Material" data-mosaic-order-date="2012-08-10 21:15:29"></div>		<div class="sprocket-padding">
+						<div class="sprocket-mosaic-image-container">
+				<a href="/output/hasil-kegiatan-bidang/material">				<img src="/images/material.jpg" alt="" class="sprocket-mosaic-image" />
+									<span class="sprocket-mosaic-hover"></span>
+					<span class="sprocket-mosaic-hovercontent"><span>+</span>Read More</span>
+				</a>
+				
+
+			<div class="sprocket-mosaic-head">
+								<h2 class="sprocket-mosaic-title">
+					<a href="/output/hasil-kegiatan-bidang/material">						Material					</a>				</h2>
+				
+							</div>
+
+						<a href="/output/hasil-kegiatan-bidang/material" class="sprocket-readmore"><span>Read More</span></a>
+			
+
+			</div>
+			
+
+
+			<div class="sprocket-mosaic-text">
+							</div>
+
+
+
+					</div>
+	</div>
+</li>
+<li data-mosaic-item>
+	<div class="sprocket-mosaic-item" data-mosaic-content>
+		<div style="display: none;" data-mosaic-order-title="Manufaktur" data-mosaic-order-date="2012-09-13 14:01:19"></div>		<div class="sprocket-padding">
+						<div class="sprocket-mosaic-image-container">
+				<a href="/output/hasil-kegiatan-bidang/manufaktur">				<img src="/images/manufaktur.jpg" alt="" class="sprocket-mosaic-image" />
+									<span class="sprocket-mosaic-hover"></span>
+					<span class="sprocket-mosaic-hovercontent"><span>+</span>Read More</span>
+				</a>
+				
+
+			<div class="sprocket-mosaic-head">
+								<h2 class="sprocket-mosaic-title">
+					<a href="/output/hasil-kegiatan-bidang/manufaktur">						Manufaktur					</a>				</h2>
+				
+							</div>
+
+						<a href="/output/hasil-kegiatan-bidang/manufaktur" class="sprocket-readmore"><span>Read More</span></a>
+			
+
+			</div>
+			
+
+
+			<div class="sprocket-mosaic-text">
+							</div>
+
+
+
+					</div>
+	</div>
+</li>
+<li data-mosaic-item>
+	<div class="sprocket-mosaic-item" data-mosaic-content>
+		<div style="display: none;" data-mosaic-order-title="Transportasi" data-mosaic-order-date="2012-09-13 13:36:44"></div>		<div class="sprocket-padding">
+						<div class="sprocket-mosaic-image-container">
+				<a href="/output/hasil-kegiatan-bidang/transportasi">				<img src="/images/transportasi.jpg" alt="" class="sprocket-mosaic-image" />
+									<span class="sprocket-mosaic-hover"></span>
+					<span class="sprocket-mosaic-hovercontent"><span>+</span>Read More</span>
+				</a>
+				
+
+			<div class="sprocket-mosaic-head">
+								<h2 class="sprocket-mosaic-title">
+					<a href="/output/hasil-kegiatan-bidang/transportasi">						Transportasi					</a>				</h2>
+				
+							</div>
+
+						<a href="/output/hasil-kegiatan-bidang/transportasi" class="sprocket-readmore"><span>Read More</span></a>
+			
+
+			</div>
+			
+
+
+			<div class="sprocket-mosaic-text">
+							</div>
+
+
+
+					</div>
+	</div>
+</li>
+	</ul>
+		<div class="sprocket-mosaic-loadmore" data-mosaic-loadmore>
+		<span class="loadmore-more">
+			<span class="loadmore-text">load more</span>
+			<span class="loadmore-info">hold <strong>SHIFT</strong> key to load all</span>
+		</span>
+		<span class="loadmore-all">
+			<span class="loadmore-text">load all</span>
+		</span>
+	</div>
+	</div>
+	                	</div>
+                	</div>
+           </div>
+	           <div class="rt-block ">
+           	<div class="module-surround">
+	           		                	<div class="module-content">
+	                		
+
+<div class="custom"  >
+	<p style="text-align: center;"><img src="/images/banners/header-lpnk.gif" alt="" /></p></div>
+	                	</div>
+                	</div>
+           </div>
+	           <div class="rt-block ">
+           	<div class="module-surround">
+	           		                	<div class="module-content">
+	                		
+<div class="ic_marquee" id="myimgscrawler-1">
+	<a href="http://ristekdikti.go.id/" target="_blank"><img src="/images/lpnk/1-ristek.jpg" alt="Kementerian Riset, Teknologi, dan Pendidikan Tinggi" style="vertical-align:top;margin-right:60px" title="Kementerian Riset, Teknologi, dan Pendidikan Tinggi" /></a><a href="http://www.lipi.go.id/" target="_blank"><img src="/images/lpnk/2-lipi.jpg" alt="Lembaga Ilmu Pengetahuan Indonesia" style="vertical-align:top;margin-right:60px" title="Lembaga Ilmu Pengetahuan Indonesia" /></a><a href="http://big.go.id/" target="_blank"><img src="/images/lpnk/3-big.jpg" alt="Badan Informasi Geospasial" style="vertical-align:top;margin-right:60px" title="Badan Informasi Geospasial" /></a><a href="http://lapan.go.id/" target="_blank"><img src="/images/lpnk/4-lapan.jpg" alt="Lembaga Penerbangan dan Antariksa Nasional" style="vertical-align:top;margin-right:60px" title="Lembaga Penerbangan dan Antariksa Nasional" /></a><a href="http://www.batan.go.id/" target="_blank"><img src="/images/lpnk/5-batan.jpg" alt="Badan Tenaga Nuklir Nasional" style="vertical-align:top;margin-right:60px" title="Badan Tenaga Nuklir Nasional" /></a><a href="http://bsn.go.id/" target="_blank"><img src="/images/lpnk/6-bsn.jpg" alt="Badan Standardisasi Nasional" style="vertical-align:top;margin-right:60px" title="Badan Standardisasi Nasional" /></a><a href="http://www.bapeten.go.id/" target="_blank"><img src="/images/lpnk/7-bapeten.jpg" alt="Badan Pengawas Tenaga Nuklir" style="vertical-align:top;margin-right:60px" title="Badan Pengawas Tenaga Nuklir" /></a></div>
+	                	</div>
+                	</div>
+           </div>
+	
+</div>
+					<div class="clear"></div>
+				</div>
+			</div>
+					</div>
+	</div>
+		<div id="rt-bottom">
+		<div class="rt-container">
+			<div class="rt-grid-3 rt-alpha">
+               <div class="rt-block rh-item">
+           	<div class="module-surround">
+	           				<div class="module-title">
+	                		<h2 class="title">Terbanyak Dibaca</h2>
+			</div>
+	                		                	<div class="module-content">
+	                		<ul class="mostreadrh-item">
+	<li>
+		<a href="/layanan-informasi-publik/2671-bppt-siap-gelar-kongres-teknologi-nasional-2016">
+			BPPT  Siap Gelar Kongres Teknologi Nasional  2016</a>
+	</li>
+	<li>
+		<a href="/layanan-informasi-publik/2674-kepala-bppt-kongres-teknologi-nasional-berikan-rekomendasi-teknologi-terbaik-untuk-indonesia">
+			Kepala BPPT: Kongres Teknologi Nasional Berikan Rekomendasi Teknologi Terbaik Untuk Indonesia</a>
+	</li>
+	<li>
+		<a href="/layanan-informasi-publik/2675-dukung-kereta-api-cepat-jakarta-bandung-bppt-teken-mou-dengan-kcic-dan-irma">
+			Dukung Kereta Api Cepat Jakarta-Bandung, BPPT Teken MoU Dengan KCIC dan IRMA </a>
+	</li>
+	<li>
+		<a href="/layanan-informasi-publik/2673-menko-pmk-kongers-teknologi-nasional-harus-mampu-hasilkan-teknologi-yang-dapat-diimplementasikan-oleh-bangsa">
+			Menko PMK: Kongres Teknologi Nasional Harus Mampu Hasilkan Teknologi Yang Dapat Diimplementasikan Oleh Bangsa </a>
+	</li>
+	<li>
+		<a href="/teknologi-hankam-transportasi-manufakturing/2679-outlook-teknologi-kemaritiman-bppt-ciptakan-industri-kemaritiman-berbasis-teknologi-kelautan-pelabuhan-dan-perkapalan">
+			Outlook Teknologi Kemaritiman BPPT: Ciptakan Industri Kemaritiman Berbasis Teknologi Kelautan, Pelabuhan Dan Perkapalan</a>
+	</li>
+</ul>
+	                	</div>
+                	</div>
+           </div>
+	
+</div>
+<div class="rt-grid-3">
+               <div class="rt-block ">
+           	<div class="module-surround">
+	           				<div class="module-title">
+	                		<h2 class="title">Terakhir Dikunjungi</h2>
+			</div>
+	                		                	<div class="module-content">
+	                		<ul class="recentlyhit">
+	<li class="rh-item">
+	        <span class="rh-item-text">
+			<a href="/layanan-informasi-publik/575-mahasiswa-ui-dan-pemda-jembrana-menangkan-lomba-rancang-bangun-e-voting-2010" class="rh-item-title">MAHASISWA UI DAN PEMDA JEMBRANA MENANGKAN LOMBA RANCANG...</a>
+			        	<small>10 seconds ago</small>
+        </span>
+	</li>
+	<li class="rh-item">
+	        <span class="rh-item-text">
+			<a href="/layanan-informasi-publik/780-penambahan-fitur-ocean-google-gandeng-bppt" class="rh-item-title">PENAMBAHAN FITUR OCEAN, GOOGLE GANDENG BPPT</a>
+			        	<small>11 seconds ago</small>
+        </span>
+	</li>
+	<li class="rh-item">
+	        <span class="rh-item-text">
+			<a href="/kebijakan-teknologi/492-rakor-pkt-reposisi-peran-pkt-dalam-konteks-sistem-inovasi-nasional" class="rh-item-title">RAKOR PKT: REPOSISI PERAN PKT DALAM KONTEKS SISTEM INOVASI...</a>
+			        	<small>12 seconds ago</small>
+        </span>
+	</li>
+	<li class="rh-item">
+	        <span class="rh-item-text">
+			<a href="/teknologi-agroindustri-dan-bioteknologi/741-jadikan-temulawak-qikon-obat-herbalq-indonesia" class="rh-item-title">JADIKAN TEMULAWAK "IKON OBAT HERBAL" INDONESIA</a>
+			        	<small>1 minute ago</small>
+        </span>
+	</li>
+	<li class="rh-item">
+	        <span class="rh-item-text">
+			<a href="/teknologi-agroindustri-dan-bioteknologi/105-acara-pembukaan-pusat-penelitian-bersama-tentang-bioprospecting-bioresources-indonesia-antara-bppt-kribb-korea" class="rh-item-title">ACARA PEMBUKAAN PUSAT PENELITIAN BERSAMA TENTANG...</a>
+			        	<small>1 minute ago</small>
+        </span>
+	</li>
+</ul>
+	                	</div>
+                	</div>
+           </div>
+	
+</div>
+<div class="rt-grid-3">
+               <div class="rt-block ">
+           	<div class="module-surround">
+	           				<div class="module-title">
+	                		<h2 class="title">Tweet Terbaru</h2>
+			</div>
+	                		                	<div class="module-content">
+	                		<!-- BEGIN: Custom advanced (www.pluginaria.com) -->
+<div id="twitterFeeddisplay" class="">
+<a class="twitter-timeline" 
+data-theme="dark" 
+data-chrome="nofooter noscrollbar noheader transparent" 
+href="https://twitter.com/bppt_humas" 
+data-widget-id="550136244873592833" width="300" height="350" >Tweets by @bppt_humas</a>
+<script>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+</script>
+</div><!-- END: Custom advanced (www.pluginaria.com) -->
+	                	</div>
+                	</div>
+           </div>
+	
+</div>
+<div class="rt-grid-3 rt-omega">
+               <div class="rt-block ">
+           	<div class="module-surround">
+	           		                	<div class="module-content">
+	                		
+
+<div class="custom"  >
+	<p><img src="/images/dotcom/logo_bppt_2015.png" alt="" border="0" /></p>
+<p style="text-align: center;">Teknologi Untuk Kejayaan Bangsa</p>
+<div class="contact-us">
+<h3>Hubungi Kami</h3>
+<p><span class="icon-home"> </span>Bagian Humas<br />Gedung BPPT II Lantai 15 <br />Jl. M.H Thamrin No. 8 Jakarta Pusat</p>
+<p><span class="icon-phone"> </span> Tel: (021) 316 8200</p>
+<p class="email"><span class="icon-envelope"> </span> Email: humas@bppt.go.id</p>
+<p><span class="icon-globe"> </span> Web: bppt.go.id</p>
+</div>
+<div class="clearfix"><a class="footer-social fb" href="http://facebook.com/profile.php?id=100003949512618" target="_blank"><span class="icon-facebook">  </span></a> <a class="footer-social twt" href="http://twitter.com/bppt_humas" target="_blank"><span class="icon-twitter">  </span></a></div></div>
+	                	</div>
+                	</div>
+           </div>
+	
+</div>
+			<div class="clear"></div>
+		</div>
+	</div>
+			<footer id="rt-footer-surround">
+						<div id="rt-copyright">
+			<div class="rt-container">
+				<div class="rt-grid-4 rt-alpha">
+               <div class="rt-block ">
+           	<div class="module-surround">
+	           		                	<div class="module-content">
+	                		
+
+<div class="custom"  >
+	<p><img style="float: left;" src="/images/banners/copyright.png" alt="" /></p>
+<p> </p></div>
+	                	</div>
+                	</div>
+           </div>
+	
+</div>
+<div class="rt-grid-6">
+               <div class="rt-block ">
+           	<div class="module-surround">
+	           		                	<div class="module-content">
+	                		<ul class="nav menu">
+<li class="item-637"><a href="/kontak-kami/kontak-kami" >Kontak Kami</a></li><li class="item-408"><a href="/kontak-kami/unit-kerja" >Unit Kerja</a></li><li class="item-615"><a href="/kontak-kami/form-mengisi-saran" >Saran Perbaikan Website Baru BPPT</a></li><li class="item-208"><a href="/kontak-kami/buku-tamu" >Buku Tamu</a></li><li class="item-1016"><a href="/component/jmap/?Itemid=1016" >Sitemap</a></li></ul>
+	                	</div>
+                	</div>
+           </div>
+	
+</div>
+<div class="rt-grid-2 rt-omega">
+    	<div class="clear"></div>
+	<div class="rt-block">
+		<a href="#" id="gantry-totop" rel="nofollow"></a>
+	</div>
+	
+</div>
+				<div class="clear"></div>
+			</div>
+		</div>
+			</footer>
+				<!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(["setDomains", ["*.bppt.go.id"]]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//umumhumas.bppt.go.id/sipiwik/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 2]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="//umumhumas.bppt.go.id/sipiwik/piwik.php?idsite=2" style="border:0;" alt="" /></p></noscript>
+<!-- End Piwik Code -->
+</body>
+</html>

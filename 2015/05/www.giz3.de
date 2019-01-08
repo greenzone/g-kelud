@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html>
+<!--[if lt IE 9 ]> <html class="ie ie-old" lang="de"> <![endif]-->
+<!--[if IE 9 ]> <html class="ie ie9" lang="de"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="de"> <!--<![endif]-->
+<head><!-- PageID 8 - published by OpenText Web Site Management 10.1 - 10.1.2.462 -->
+
+<script type="text/javascript"> var webtrackingPageSubmited; var webtrackingPagenameArray=new Array(); var et_pagename=""; var et_areas="";</script>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1 maximum-scale=2">
+<meta name="format-detection" content="telephone=no">
+<meta name="preexecute"                content="true">
+<meta name="author"                    content="Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH">
+<meta name="copyright"                 content="Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH">
+<meta name="publisher"                 content="Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH 2016">
+<link href="/static/de/images/images_layout/favicon.ico" rel="shortcut icon">
+<meta name="msvalidate.01" content="91E38FB00D32252DC9B9831D3A3EED6F" />
+<meta name="google-site-verification" content="dJHc1v7cxBxxfpdhucdmXODAMDInzgRERJb6o0HAktU" />
+<link rel="alternate" type="application/atom+xml" title="Termine der GIZ" href="/de/mediathek/termine.rss" /><link rel="alternate" type="application/atom+xml" title="Pressemitteilungen der GIZ" href="/de/mediathek/pressemitteilungen.rss" /><link rel="alternate" type="application/atom+xml" title="Aktuelle Meldungen der GIZ" href="/de/mediathek/meldungen.rss" />
+<meta name="description" content="Die Deutsche Gesellschaft f&uuml;r Internationale Zusammenarbeit (GIZ) GmbH unterst&uuml;tzt die Bundesregierung, ihre Ziele in der internationalen Zusammenarbeit f&uuml;r nachhaltige Entwicklung zu erreichen. Sie ist in &uuml;ber 130 L&auml;ndern mit 17.000 Mitarbeitenden aktiv."> 
+<meta name="keywords" content="Deutsche Gesellschaft f&uuml;r Internationale Zusammenarbeit (GIZ) GmbH, austauschprogramme, besch&auml;ftigungsf&ouml;rderung, bildung, internationale bildungsarbeit, bundesunternehmen, ded, demokratieaufbau, dialog, entwicklung, nachhaltige entwicklung, entwicklungsdienst, entwicklungshelferinnen, entwicklungshelfer, entwicklungshilfe, entwicklungszusammenarbeit, ern&auml;hrungssicherung, fackr&auml;fte, integrierte fachkr&auml;fte, r&uuml;ckkehrende fachkr&auml;fte, fl&uuml;chtlingsprogramme, friedensf&ouml;rderung, gesundheit, giz, gtz, inwent, klimaschutz, konfliktbearbeitung, logistikdienstleistungen, managementdienstleistungen, netzwerkbildung, nothilfeprogramme, ressourcenschutz, sicherheit, staatsaufbau, umweltschutz, weiterbildung, wiederaufbau, wirtschaftsf&ouml;rderung, zusammenarbeit, internationale zusammenarbeit, berufsbildung, auslandsqualifizierung, stipendienprogramme, neue medien, EU, europ&auml;ische union, beitrittskandidaten, frieden und sicherheit, industriel&auml;nder, migration, schwellenl&auml;nder, transformationsl&auml;nder, umwelt, klima, energie, wirtschaft"> 
+<meta name="robots" content="index, follow">
+<meta name="date" content="Friday, March 06, 2015 11:18 AM">
+ 
+    <title>Startseite</title>
+
+<link href="/static/de/CSS_JS/screen-layout.css" rel="stylesheet" type="text/css" media="all" />
+
+<script type="text/javascript">document.write(String.fromCharCode(60)+"script type=\"text/javascript\" src=\"http"+("https:"==document.location.protocol?"s":"")+"://code.etracker.com/t.js?et=GyxeU3\">"+String.fromCharCode(60)+"/script>");</script>
+<!--[if lt IE 9]>    <script src="/static/de/CSS_JS/html5shiv.js"></script> <![endif]-->
+<script type="text/javascript" src="/static/de/CSS_JS/modernizr-custom.js"></script>
+<script type="text/javascript" src="/static/de/CSS_JS/main.js"></script>
+
+   
+    
+
+   
+
+ 
+</head>
+<body>
+<div id="wrapper">
+<div id="centerPage" class="language_de kernauftritt homePage">
+    <div id="homePage">
+
+        <div id="header">
+            <a href="#navigation" class="skip">Zur Navigation</a>
+<a href="#middle" class="skip">Zum Inhalt der Seite</a>
+<div class="header-top-row">
+    <div class="webMenu">
+        <a href="/de/html/webangebote.html" id="weboffers"><img alt="Unsere Angebote" title="" src="/static/de/images/images_layout/webmenu_angebote.png" /></a>
+         <div id="weboffers_content">
+            <a href="#" class="weboffers_close weboffers_close_top">Schliessen</a>
+            
+            <div id="weboffers_inner_content"></div>
+                <a href="#" class="weboffers_close weboffers_close_bottom">Schliessen</a>
+            </div>
+            </div>
+            <div class="serviceBar">
+                <a class='lang' href='/en/html/index.html'>English</a>
+                <a  href="/de/html/kontakt.html">Kontakt</a><a class="is-mainnavi" href="/de/html/mediathek.html">Mediathek</a><a class="is-mainnavi" href="/de/html/presse.html">Presse</a><a class="last" href="/de/mit_der_giz_arbeiten/ausschreibungen.html">Ausschreibungen</a>
+            </div>
+        </div>
+            <a href="/de/html/index.html" class="logo"><img src="/static/de/images/images_layout/logo.jpg" title="" alt="Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH" /></a>
+             
+                    <form class="searchform" action="/de/html/suchergebnisse.html">
+                        <div>
+                        <input type="hidden" name="doc-types" value="html">
+                        <input id="query" name="query" class="searchfield saveDefaultText" type="text" value="SUCHEN" onfocus="if(this.value=='SUCHEN'){this.value='';}">
+                        <input class="search_send" type="image" src="/static/de/images/images_layout/search.png" name="send_button_search" alt="SUCHEN">
+                        </div>
+                    </form>
+                
+
+
+            <div class="mainnavi">
+                <ul>
+                    <li class="active home"><a href="https://www.giz.de"><span>GIZ</span></a></li>
+                     
+        <li><a href="/de/html/ueber_die_giz.html">Über die GIZ</a></li>
+        
+
+ 
+        <li><a href="/de/html/leistungen.html">Leistungen</a></li>
+        
+
+ 
+        <li><a href="/de/html/auftraggeber.html">Auftraggeber</a></li>
+        
+
+ 
+        <li><a href="/de/html/weltweit.html">Weltweit</a></li>
+        
+
+ 
+        <li><a href="/de/html/jobs.html">Jobs und Karriere</a></li>
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                </ul>
+            </div>
+        </div>
+        <div id="middle">
+            <div class="content">
+                
+
+                
+    <div class="homepageSlider2">
+                <div id="slideshow2" class="pics slideshowStandard slideshowStandardIconController"> 
+                    
+
+<a onmousedown="ET_Event.link('Banner in Referenz-Slideshow: CONTENT References Slideshow Item 40042', '')" href="/de/mit_der_giz_arbeiten/25439.html"><img src="/static/de/images/images_layout/blank_galery.gif" data-src="/static/de/images/images_References/homepage_slider/giz2014-slideshow-sport.jpg" alt="CONTENT References Slideshow Item 40042" width="940" height="304"><noscript><img src="/static/de/images/images_References/homepage_slider/giz2014-slideshow-sport.jpg" alt="CONTENT References Slideshow Item 40042" width="940" height="304"></noscript></a>
+
+<a onmousedown="ET_Event.link('Banner in Referenz-Slideshow: Geregelte Finanzen in Afrika', '')" href="/de/mit_der_giz_arbeiten/37711.html"><img src="/static/de/images/images_layout/blank_galery.gif" data-src="/static/de/images/images_References/homepage_slider/giz2016-header_finanzen_in_Afrika.jpg" alt="Geregelte Finanzen in Afrika" width="940" height="304"><noscript><img src="/static/de/images/images_References/homepage_slider/giz2016-header_finanzen_in_Afrika.jpg" alt="Geregelte Finanzen in Afrika" width="940" height="304"></noscript></a>
+
+<a onmousedown="ET_Event.link('Banner in Referenz-Slideshow: CONTENT References Rohstoffhandel: Transparenz durch &ouml;ffentliche Datenbank Slideshow Atem 37686 ', '')" href="/de/mit_der_giz_arbeiten/37661.html"><img src="/static/de/images/images_layout/blank_galery.gif" data-src="/static/de/images/images_References/homepage_slider/giz2016-header_FINAL.jpg" alt="CONTENT References Rohstoffhandel: Transparenz durch &ouml;ffentliche Datenbank Slideshow Atem 37686 " width="940" height="304"><noscript><img src="/static/de/images/images_References/homepage_slider/giz2016-header_FINAL.jpg" alt="CONTENT References Rohstoffhandel: Transparenz durch &ouml;ffentliche Datenbank Slideshow Atem 37686 " width="940" height="304"></noscript></a>
+
+<a onmousedown="ET_Event.link('Banner in Referenz-Slideshow: CONTENT References Slideshow Item 36791 Perspektiven f&uuml;r Fl&uuml;chtlinge und Migranten', '')" href="/de/mit_der_giz_arbeiten/36527.html"><img src="/static/de/images/images_layout/blank_galery.gif" data-src="/static/de/images/images_References/homepage_slider/giz2015-header-fluchtundmigration-DEU.jpg" alt="CONTENT References Slideshow Item 36791 Perspektiven f&uuml;r Fl&uuml;chtlinge und Migranten" width="940" height="304"><noscript><img src="/static/de/images/images_References/homepage_slider/giz2015-header-fluchtundmigration-DEU.jpg" alt="CONTENT References Slideshow Item 36791 Perspektiven f&uuml;r Fl&uuml;chtlinge und Migranten" width="940" height="304"></noscript></a>
+
+<a onmousedown="ET_Event.link('Banner in Referenz-Slideshow: CONTENT References Slideshow Pakistan', '')" href="/de/mit_der_giz_arbeiten/31890.html"><img src="/static/de/images/images_layout/blank_galery.gif" data-src="/static/de/images/images_References/homepage_slider/giz2015-de-pakistan-braucht-profis.jpg" alt="CONTENT References Slideshow Pakistan" width="940" height="304"><noscript><img src="/static/de/images/images_References/homepage_slider/giz2015-de-pakistan-braucht-profis.jpg" alt="CONTENT References Slideshow Pakistan" width="940" height="304"></noscript></a>
+
+<a onmousedown="ET_Event.link('Banner in Referenz-Slideshow: Ertr&auml;ge steigern, Qualit&auml;tsstandards erf&uuml;llen', '')" href="/de/mit_der_giz_arbeiten/8410.html"><img src="/static/de/images/images_layout/blank_galery.gif" data-src="/static/de/images/images_References/11_940x304__Nuesse.jpg" alt="Ertr&auml;ge steigern, Qualit&auml;tsstandards erf&uuml;llen" width="940" height="304"><noscript><img src="/static/de/images/images_References/11_940x304__Nuesse.jpg" alt="Ertr&auml;ge steigern, Qualit&auml;tsstandards erf&uuml;llen" width="940" height="304"></noscript></a>
+
+<a onmousedown="ET_Event.link('Banner in Referenz-Slideshow: CONTENT References Slideshow Item 35563 Fl&uuml;chtlinge', '')" href="/de/mit_der_giz_arbeiten/35221.html"><img src="/static/de/images/images_layout/blank_galery.gif" data-src="/static/de/images/images_References/homepage_slider/giz2016-header.jpg" alt="CONTENT References Slideshow Item 35563 Fl&uuml;chtlinge" width="940" height="304"><noscript><img src="/static/de/images/images_References/homepage_slider/giz2016-header.jpg" alt="CONTENT References Slideshow Item 35563 Fl&uuml;chtlinge" width="940" height="304"></noscript></a>
+
+<a onmousedown="ET_Event.link('Banner in Referenz-Slideshow: Wie eine Metro ihren eigenen Strom herstellt', '')" href="/de/mit_der_giz_arbeiten/35868.html"><img src="/static/de/images/images_layout/blank_galery.gif" data-src="/static/de/images/images_References/homepage_slider/giz2015-header-indien.jpg" alt="Wie eine Metro ihren eigenen Strom herstellt" width="940" height="304"><noscript><img src="/static/de/images/images_References/homepage_slider/giz2015-header-indien.jpg" alt="Wie eine Metro ihren eigenen Strom herstellt" width="940" height="304"></noscript></a>
+                </div>
+                
+              <div class="naviReference">
+                  <div class="backgroundAlpha"></div>
+                  <a onmousedown="ET_Event.link('Referenz-Slideshow: Vorherige Referenz', '')" href="javascript:void(0)" class="prevReference">vorige</a>
+                  <a onmousedown="ET_Event.link('Referenz-Slideshow: Übersicht der Referenzen', '')" href="/de/mit_der_giz_arbeiten/unsere_referenzen.html" class="ShowAllReferences">Unsere Referenzen</a>
+                  <a onmousedown="ET_Event.link('Referenz-Slideshow: Nächste Referenz', '')" href="javascript:void(0)" class="nextReference">nächste</a>
+              </div>
+            </div>
+
+                <div class="content_row id_53">
+                    <div class="cols2-1">    
+                        <div class="portlet portlet_termine">
+                             <h2></h2>
+                             
+                             <div class="portlet-content">
+                                 <a href="/de/mediathek/40050.html">Weiterhin an allen Standorten in Afghanistan aktiv</a>
+                                 07.08.2016 – Die GIZ konzentriert ihre Unterst&uuml;tzung wie bislang auf die sechs Nordprovinzen Afghanistans und ist dar&uuml;ber hinausgehend in weiteren Provinzen sowie mit verschiedenen Vorhaben landesweit t&auml;tig.
+                             </div>
+                             
+                             <div class="portlet-content">
+                                 <a href="/de/mediathek/40066.html">Sport bewegt die Welt  </a>
+                                 11.08.2016 – „Sport f&uuml;r Entwicklung“: Sport h&auml;lt nicht nur k&ouml;rperlich fit, sondern gibt Impulse f&uuml;r nachhaltige Ver&auml;nderungen – weltweit.
+                             </div>
+                             
+                             <div class="portlet-content">
+                                 <a href="/de/mediathek/39906.html">Unterst&uuml;tzung in allen Bereichen f&uuml;r Binnenvertriebene in Afghanistan</a>
+                                 01.08.2016 – Rund eine Million Afghanen sind innerhalb ihres Heimatlandes auf der Flucht. Durch die Unterst&uuml;tzung der GIZ erhalten sie eine Ausbildung und damit eine Perspektive.
+                             </div>
+                             
+                             <div class="portlet-content">
+                                 <a href="/de/mediathek/39894.html">Bew&auml;hrte Standards: bessere Arbeits- und Lebensbedingungen weltweit</a>
+                                 29.07.2016 – Die GIZ arbeitet f&uuml;r bessere Wirtschafts- und Sozialstandards. Davon profitieren die Wirtschaft insgesamt, einzelne Unternehmen und die Menschen.
+                             </div>
+                             
+                             <a href="/de/mediathek/112.html">Weitere aktuelle Meldungen</a>
+                        </div>
+                    </div>
+
+                    <div class="cols2-2">
+                        <div class="portlet portlet_termine">
+                            <h2></h2>
+                            
+
+                            
+                            <div class="portlet-content">
+                                
+
+
+<div class="slides-wrapper" class="slides-wrapper"><div class="slides"> 
+
+<a href="https://www.giz.de/fluchtundmigration/de/html/index.html"><img src="/static/de/images/images_layout/blank_galery.gif" data-src="/static/de/images/Images_Homepage_270x167/160602-Flucht_und_Migration-27-35.jpg" width="271" height="161" ><noscript><img src="/static/de/images/Images_Homepage_270x167/160602-Flucht_und_Migration-27-35.jpg" width="271" height="161" alt=""></noscript></a><!-- <a href="/de/html/28907.htm">Vanessa Preclaro - Krankenpflegerin aus den Philippinen</a> --><a href="https://www.giz.de/fluchtundmigration/de/html/index.html"><img src="/static/de/images/images_layout/blank_galery.gif" data-src="/static/de/images/Images_Homepage_270x167/160602-Flucht_und_Migration-27-37.jpg" width="271" height="161" ><noscript><img src="/static/de/images/Images_Homepage_270x167/160602-Flucht_und_Migration-27-37.jpg" width="271" height="161" alt=""></noscript></a><!-- <a href="/de/html/27426.htm">Ferial Salem Al Jahran, Klempnerin in Jordanien</a> --><a href="https://www.giz.de/fluchtundmigration/de/html/index.html"><img src="/static/de/images/images_layout/blank_galery.gif" data-src="/static/de/images/Images_Homepage_270x167/160602-Flucht_und_Migration-27-36.jpg" width="271" height="161" ><noscript><img src="/static/de/images/Images_Homepage_270x167/160602-Flucht_und_Migration-27-36.jpg" width="271" height="161" alt=""></noscript></a><!-- <a href="/de/html/23728.htm">HOME Teaserlist Slideshow-Item 23728</a> --><a href="https://www.giz.de/fluchtundmigration/de/html/index.html"><img src="/static/de/images/images_layout/blank_galery.gif" data-src="/static/de/images/Images_Homepage_270x167/160602-Flucht_und_Migration-27-38.jpg" width="271" height="161" ><noscript><img src="/static/de/images/Images_Homepage_270x167/160602-Flucht_und_Migration-27-38.jpg" width="271" height="161" alt=""></noscript></a><!-- <a href="/de/html/27231.htm">Japan: Fred Martin</a> -->
+
+</div></div> 
+    
+                            </div>
+                            
+
+
+                            
+                            
+                            <div class="portlet-content">
+                                <a href="/de/mediathek/39999.html">Multi-Stakeholder Initiativen: Welche Wirkungen?</a>
+                                28.09.2016 | Saal Donau
+                            </div>
+                            
+                            <div class="portlet-content">
+                                <a href="/de/mediathek/39532.html">Vernetzt, tranparent und effizient? E-Government &amp; E-Justice im S&uuml;dkaukasus und in Deutschland</a>
+                                12.07.2016 | GIZ Repr&auml;sentanz Berlin
+                            </div>
+                            
+                            <a href="/de/mediathek/113.html">Weitere aktuelle Termine</a>
+                        </div>
+                    </div>
+                </div><DIV class="content_row2">
+
+   
+
+
+<div class="jcarousel-wrapper  jcarousel-skin-tango">
+    <div id="mycarousel_10315" class="jcarousel jcarousel-hp">
+     <ul>
+      <li id="Item_10320">
+
+
+    <DIV class="carouselElement">
+        <DIV class="portlet portlet_img">
+            <DIV class="portlet-content" id="teaserContentImage10320">
+                <a onmousedown="ET_Event.link('Portalrondell: http://www.giz.de/international-services/', '')" href="http://www.giz.de/international-services/">
+<img src="/static/de/images/images_layout/blank_galery.gif" data-src="/static/de/images/contentimages_320x305px/300x175-giz2012-portal-teaser-international-services.jpg" width="302" heigth="175">
+<noscript><img src="/static/de/images/contentimages_320x305px/300x175-giz2012-portal-teaser-international-services.jpg" width="302" heigth="175"></noscript>
+</a>
+            </DIV>
+            <a  onmousedown="ET_Event.link('Portalrondell: http://www.giz.de/international-services/', '')" href="http://www.giz.de/international-services/" id="teaserLink10320"><span>International Services</span></a>
+        </DIV>
+    </DIV>
+<script>
+$(window).load(function() {
+     $("#teaserContentImage10320").css("cursor","pointer");
+     $("#teaserContentImage10320").on("click",function() {
+        var $targetLink = $("#teaserLink10320");
+        $targetLink.trigger("click");
+        window.setTimeout(function(){
+            window.location.href = $targetLink.attr("href");
+        }, 10);
+    });
+});
+</script>
+</li><li id="Item_10319">
+
+
+    <DIV class="carouselElement">
+        <DIV class="portlet portlet_img">
+            <DIV class="portlet-content" id="teaserContentImage10319">
+                <a onmousedown="ET_Event.link('Portalrondell: http://www.giz.de/wirtschaft/de', '')" href="http://www.giz.de/wirtschaft/de">
+<img src="/static/de/images/images_layout/blank_galery.gif" data-src="/static/de/images/contentimages_320x305px/portal_wirtschaft.jpg" width="300" heigth="175">
+<noscript><img src="/static/de/images/contentimages_320x305px/portal_wirtschaft.jpg" width="300" heigth="175"></noscript>
+</a>
+            </DIV>
+            <a  onmousedown="ET_Event.link('Portalrondell: http://www.giz.de/wirtschaft/de', '')" href="http://www.giz.de/wirtschaft/de" id="teaserLink10319"><span>Wirtschaft</span></a>
+        </DIV>
+    </DIV>
+<script>
+$(window).load(function() {
+     $("#teaserContentImage10319").css("cursor","pointer");
+     $("#teaserContentImage10319").on("click",function() {
+        var $targetLink = $("#teaserLink10319");
+        $targetLink.trigger("click");
+        window.setTimeout(function(){
+            window.location.href = $targetLink.attr("href");
+        }, 10);
+    });
+});
+</script>
+</li><li id="Item_10318">
+
+
+    <DIV class="carouselElement">
+        <DIV class="portlet portlet_img">
+            <DIV class="portlet-content" id="teaserContentImage10318">
+                <a onmousedown="ET_Event.link('Portalrondell: http://www.giz.de/fachexpertise', '')" href="http://www.giz.de/fachexpertise">
+<img src="/static/de/images/images_layout/blank_galery.gif" data-src="/static/de/images/contentimages_320x305px/giz-tag-cloud.gif" width="300" heigth="175">
+<noscript><img src="/static/de/images/contentimages_320x305px/giz-tag-cloud.gif" width="300" heigth="175"></noscript>
+</a>
+            </DIV>
+            <a  onmousedown="ET_Event.link('Portalrondell: http://www.giz.de/fachexpertise', '')" href="http://www.giz.de/fachexpertise" id="teaserLink10318"><span>Fachexpertise</span></a>
+        </DIV>
+    </DIV>
+<script>
+$(window).load(function() {
+     $("#teaserContentImage10318").css("cursor","pointer");
+     $("#teaserContentImage10318").on("click",function() {
+        var $targetLink = $("#teaserLink10318");
+        $targetLink.trigger("click");
+        window.setTimeout(function(){
+            window.location.href = $targetLink.attr("href");
+        }, 10);
+    });
+});
+</script>
+</li><li id="Item_10317">
+
+
+    <DIV class="carouselElement">
+        <DIV class="portlet portlet_img">
+            <DIV class="portlet-content" id="teaserContentImage10317">
+                <a onmousedown="ET_Event.link('Portalrondell: http://www.giz.de/Entwicklungsdienst/de/', '')" href="http://www.giz.de/Entwicklungsdienst/de/">
+<img src="/static/de/images/images_layout/blank_galery.gif" data-src="/static/de/images/contentimages_320x305px/giz2012-startseite-box-entwicklungsdiest-ehlerin-im-gespraech.jpg" width="300" heigth="177">
+<noscript><img src="/static/de/images/contentimages_320x305px/giz2012-startseite-box-entwicklungsdiest-ehlerin-im-gespraech.jpg" width="300" heigth="177"></noscript>
+</a>
+            </DIV>
+            <a  onmousedown="ET_Event.link('Portalrondell: http://www.giz.de/Entwicklungsdienst/de/', '')" href="http://www.giz.de/Entwicklungsdienst/de/" id="teaserLink10317"><span>Entwicklungsdienst</span></a>
+        </DIV>
+    </DIV>
+<script>
+$(window).load(function() {
+     $("#teaserContentImage10317").css("cursor","pointer");
+     $("#teaserContentImage10317").on("click",function() {
+        var $targetLink = $("#teaserLink10317");
+        $targetLink.trigger("click");
+        window.setTimeout(function(){
+            window.location.href = $targetLink.attr("href");
+        }, 10);
+    });
+});
+</script>
+</li> 
+    </ul>
+    </div></div>
+    <div class="portlet">
+        <a href="http://www.giz.de/de/html/webangebote.html" class="weboffersFromContent"><span>UNSERE WEBANGEBOTE</span></a>
+    </div>
+</DIV>
+
+
+<script>
+var options = {
+  auto: 4,  
+  scroll:2,
+  animation:1000,
+  wrap: 'circular'
+}
+var jcarousel = $('#mycarousel_10315');
+ 
+    jcarousel.after ('<div class="jcarousel-prev jcarousel-prev-horizontal jcarousel-control-prev" style="display: block;"></div><div class="jcarousel-next jcarousel-control-next jcarousel-next-horizontal" style="display: block;"></div>'); 
+        
+    jcarousel
+        .on('jcarousel:reload jcarousel:create', function () {
+            var width = jcarousel.innerWidth();
+                if (width >= 640) {
+                    width = width / 3;
+                } else if (width >= 375) {
+                    width = width / 2;
+                }
+            jcarousel.jcarousel('items').css('width', width + 'px');
+        })
+        .jcarousel( options );
+        jcarousel.jcarouselAutoscroll({
+            target: '+=1'
+        });    
+            
+        $('.jcarousel-control-prev')
+            .on('jcarouselcontrol:active', function() {
+                $(this).removeClass('inactive');
+            })
+            .on('jcarouselcontrol:inactive', function() {
+                $(this).addClass('inactive');
+            })
+            .jcarouselControl({
+                target: '-=1'
+            });
+        $('.jcarousel-control-next')
+            .on('jcarouselcontrol:active', function() {
+                $(this).removeClass('inactive');
+            })
+            .on('jcarouselcontrol:inactive', function() {
+                $(this).addClass('inactive');
+            })
+            .jcarouselControl({
+                target: '+=1'
+            });
+            
+            
+    $(function() {      
+      $(jcarousel).swipe( {
+        swipeStatus:function(event, phase, direction, distance)
+        {
+          if (phase=="end")
+          {
+            if ( direction == "left")    {
+            $(this).parent('div').find('.jcarousel-next').trigger('click');    }
+            
+            else    {
+            $(this).parent('div').find('.jcarousel-prev').trigger('click');        }
+          }
+        },
+        triggerOnTouchEnd:false,
+        threshold:50
+      });
+    });    
+</script>
+
+                
+            </div>
+            <div class="spanner"></div>
+        </div>
+    </div>    
+</div>
+<script type="text/javascript">var webtrackingPagenameArray = new Array('Startseite', ' 8 < Home [GIZ][DE]');</script>
+<div id="footer">
+    <div class="subfooter">
+        <div class="social-media-links">
+            <a href="https://www.giz.de/de/mediathek/115.html" class="iconRSS-footer"><span class="vis-hidden">RSS Feeds</span></a>
+            <a href="https://www.facebook.com/gizprofile" target="_blank" class="iconFacebook-footer"><span class="vis-hidden">Facebook</span></a>
+            <a href="https://twitter.com/giz_gmbh" target="_blank" class="iconTwitter-footer"><span class="vis-hidden">Twitter</span></a>
+            <a href="https://www.youtube.com/user/GIZonlineTV" target="_blank" class="iconYouTube-footer"><span class="vis-hidden">YouTube</span></a>        
+        </div>
+        <div class="pageservice">     
+            <a onmousedown="ET_Event.click('Seite drucken', '')" href="javascript:self.print();" class="iconPrint onlyJS">Seite drucken</a>
+            <a onmousedown="ET_Event.click('Seite weiterempfehlen', '')" href="mailto:?subject=Seite weiterempfehlen&body=%0A%0A%0AFolgende Seite möchte ich weiterempfehlen:%0A%0A%0A%22Startseite%22 - http://www.giz.de/de/html/index.html" class="iconRecommend onlyJS">Seite weiterempfehlen</a>
+            <a href="/de/mediathek/sitemap.html" class="iconSitemap">Sitemap</a>
+            <a href="#header" class="iconTop">Top</a>
+        </div>
+    </div>        
+    <div class="service">
+        <a href="https://intranet.giz.de">Zugang für Mitarbeiter</a>
+        <a href="http://www.giz.de/de/html/impressum.html">Impressum</a>
+        <a href="http://www.giz.de/de/html/datenschutz.html">Datenschutz</a>
+        <a href="http://www.giz.de/de/mediathek/rechtliche_hinweise.html">Rechtliche Hinweise</a>
+    </div>            
+</div>
+<!-- BEGIN etracker Tracklet 3.0 -->
+
+
+<!-- etracker PARAMETER 3.0 -->
+<script type="text/javascript">
+   var et_pagename = "Startseite 8 < Home [GIZ][DE]";
+   var et_areas    = "[DE]";
+   var et_se       = 20;
+   if (webtrackingPageSubmited) {
+      var et_pagename = webtrackingPagenameArray[0] + " versendet " + webtrackingPagenameArray[1]; 
+   }  else {
+      var et_pagename = webtrackingPagenameArray.join("");
+   }
+   _etc();
+</script>
+<noscript><a href="http://www.etracker.com/app?et=GyxeU3"><img style="border:0px;" alt="" src="https://www.etracker.com/nscnt.php?et=GyxeU3&amp;et_pagename=Startseite+8+%3C+Home+%5BGIZ%5D%5BDE%5D&amp;et_areas=%5BDE%5D" /></a></noscript>
+
+
+
+
+
+
+<!-- etracker CODE END -->
+</div>
+
+
+</body>
+</html>

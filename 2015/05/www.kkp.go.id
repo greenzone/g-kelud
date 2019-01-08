@@ -1,0 +1,3371 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="id-ID"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="id-ID"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="id-ID"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="id-ID"> <!--<![endif]-->
+<head>
+	<link rel="shortcut" href="http://kkp.go.id/wp-content/uploads/2016/04/logo-fav-1.png" type="image/x-icon" />
+<link rel="shortcut icon" href="http://kkp.go.id/wp-content/uploads/2016/04/logo-fav-1.png" type="image/x-icon" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0; maximum-scale=4.0; user-scalable=yes" />	<link rel="alternate" type="application/rss+xml" title="KKP RSS2 Feed" href="http://kkp.go.id/feed/" />
+	<link rel="pingback" href="http://kkp.go.id/xmlrpc.php" />
+	<title>KKP | Kementerian Kelautan dan Perikanan Indonesia</title>
+		
+<!-- This section is created with the SZ-Google for WordPress plugin 1.9.4 -->
+<!-- ===================================================================== -->
+<!-- ===================================================================== -->
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/kkp.go.id\/wp-includes\/js\/wp-emoji-release.min.js?ver=4f03c4061e2973b3dc0935bb204ada79"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='scap.flashblock-css'  href='http://kkp.go.id/wp-content/plugins/compact-wp-audio-player/css/flashblock.css?ver=4f03c4061e2973b3dc0935bb204ada79' type='text/css' media='all' />
+<link rel='stylesheet' id='scap.player-css'  href='http://kkp.go.id/wp-content/plugins/compact-wp-audio-player/css/player.css?ver=4f03c4061e2973b3dc0935bb204ada79' type='text/css' media='all' />
+<link rel='stylesheet' id='csbwf_sidebar_style-css'  href='http://kkp.go.id/wp-content/plugins/custom-share-buttons-with-floating-sidebar/css/csbwfs.css?ver=4f03c4061e2973b3dc0935bb204ada79' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://kkp.go.id/wp-content/plugins/revslider/rs-plugin/css/settings.css?ver=4.6.92' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+.tp-caption a{color:#ff7302;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}
+</style>
+<link rel='stylesheet' id='showbiz-settings-css'  href='http://kkp.go.id/wp-content/plugins/showbiz/showbiz-plugin/css/settings.css?ver=1.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-css'  href='http://kkp.go.id/wp-content/plugins/showbiz/showbiz-plugin/fancybox/jquery.fancybox.css?ver=1.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wsl-widget-css'  href='http://kkp.go.id/wp-content/plugins/wordpress-social-login/assets/css/style.css?ver=4f03c4061e2973b3dc0935bb204ada79' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-global-css'  href='http://kkp.go.id/wp-content/themes/ultimatum/assets/css/theme.global.css?ver=4f03c4061e2973b3dc0935bb204ada79' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://kkp.go.id/wp-content/themes/ultimatum/assets/css/font-awesome.min.css?ver=4f03c4061e2973b3dc0935bb204ada79' type='text/css' media='all' />
+<link rel='stylesheet' id='ult_core_template_2-css'  href='http://kkp.go.id/wp-content/uploads/ultimatum/template_2.css?ver=4f03c4061e2973b3dc0935bb204ada79' type='text/css' media='all' />
+<link rel='stylesheet' id='ult_core_layout_5-css'  href='http://kkp.go.id/wp-content/uploads/ultimatum/layout_5.css?ver=4f03c4061e2973b3dc0935bb204ada79' type='text/css' media='all' />
+<link rel='stylesheet' id='dhvc-form-font-awesome-css'  href='http://kkp.go.id/wp-content/plugins/dhvc-form/assets/fonts/font-awesome/css/font-awesome.min.css?ver=4.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='dhvc-form-css'  href='http://kkp.go.id/wp-content/plugins/dhvc-form/assets/css/style.css?ver=1.4.5' type='text/css' media='all' />
+<link rel='stylesheet' id='template_custom_2-css'  href='http://kkp.go.id/wp-content/uploads/ultimatum/template_custom_2.css?ver=4f03c4061e2973b3dc0935bb204ada79' type='text/css' media='all' />
+<link rel='stylesheet' id='wpdiscuz-frontend-css-css'  href='http://kkp.go.id/wp-content/plugins/wpdiscuz/assets/css/wpdiscuz.min.css?ver=3.2.8' type='text/css' media='all' />
+<link rel='stylesheet' id='wpdiscuz-validator-css-css'  href='http://kkp.go.id/wp-content/plugins/wpdiscuz/assets/third-party/validator/validator.min.css?ver=4f03c4061e2973b3dc0935bb204ada79' type='text/css' media='all' />
+<link rel='stylesheet' id='wpdiscuz-tooltipster-css-css'  href='http://kkp.go.id/wp-content/plugins/wpdiscuz/assets/third-party/tooltipster/css/tooltipster.min.css?ver=4f03c4061e2973b3dc0935bb204ada79' type='text/css' media='all' />
+<script type='text/javascript' src='http://kkp.go.id/wp-content/plugins/compact-wp-audio-player/js/soundmanager2-nodebug-jsmin.js?ver=4f03c4061e2973b3dc0935bb204ada79'></script>
+<script type='text/javascript' src='http://kkp.go.id/wp-includes/js/jquery/jquery.js?ver=1.12.3'></script>
+<script type='text/javascript' src='http://kkp.go.id/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.0'></script>
+<script type='text/javascript' src='http://kkp.go.id/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.tools.min.js?ver=4.6.92'></script>
+<script type='text/javascript' src='http://kkp.go.id/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?ver=4.6.92'></script>
+<script type='text/javascript' src='http://kkp.go.id/wp-content/plugins/showbiz/showbiz-plugin/fancybox/jquery.fancybox.pack.js?ver=1.7.3'></script>
+<script type='text/javascript' src='http://kkp.go.id/wp-content/plugins/showbiz/showbiz-plugin/js/jquery.themepunch.showbizpro.min.js?ver=1.7.3'></script>
+<script type='text/javascript' src='http://kkp.go.id/wp-content/themes/ultimatum/assets/js/plugins/holder.js?ver=1.9.0'></script>
+<script type='text/javascript' src='http://kkp.go.id/wp-content/plugins/wpdiscuz/assets/third-party/validator/validator.min.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://kkp.go.id/wp-content/plugins/wpdiscuz/assets/third-party/cookie/jquery.cookie.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://kkp.go.id/wp-content/plugins/wpdiscuz/assets/third-party/tooltipster/js/jquery.tooltipster.min.js?ver=1.2'></script>
+<script type='text/javascript' src='http://kkp.go.id/wp-content/plugins/wpdiscuz/assets/third-party/autogrow/jquery.autogrowtextarea.min.js?ver=3.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpdiscuzAjaxObj = {"url":"http:\/\/kkp.go.id\/wp-admin\/admin-ajax.php","wpdiscuz_options":{"wc_hide_replies_text":"Hide Replies","wc_show_replies_text":"Show Replies","wc_msg_required_fields":"Please fill out required fields","wc_invalid_field":"Some of field value is invalid","wc_invalid_captcha":"Invalid Captcha Code","wc_error_empty_text":"please fill out this field to comment","wc_error_url_text":"url is invalid","wc_error_email_text":"email address is invalid","wc_login_to_vote":"You Must Be Logged In To Vote","wc_deny_voting_from_same_ip":"You are not allowed to vote for this comment","wc_self_vote":"You cannot vote for your comment","wc_vote_only_one_time":"You've already voted for this comment","wc_voting_error":"Voting Error","wc_captcha_show_hide":0,"wc_msg_input_min_length":"Input is too short","wc_msg_input_max_length":"Input is too long","wc_held_for_moderate":"Comment awaiting moderation","wc_comment_edit_not_possible":"Sorry, this comment no longer possible to edit","wc_comment_not_updated":"Sorry, the comment was not updated","wc_comment_not_edited":"You've not made any changes","wc_new_comment_button_text":"new comment","wc_new_comments_button_text":"new comments","wc_new_reply_button_text":"new reply on your comment","wc_new_replies_button_text":"new replies on your comments","wc_captcha_show_hide_for_members":"1","is_email_field_required":"1","is_user_logged_in":false,"commentListLoadType":"0","commentListUpdateType":"2","commentListUpdateTimer":"30","liveUpdateGuests":"1","wc_comment_bg_color":"#FEFEFE","wc_reply_bg_color":"#F8F8F8","wordpress_comment_order":"asc","commentsVoteOrder":false,"wordpressThreadCommentsDepth":"5","wordpressIsPaginate":"0","commentTextMaxLength":null,"storeCommenterData":100000,"isCaptchaInSession":true,"isGoodbyeCaptchaActive":false,"version":"3.2.8","wc_post_id":4959,"loadLastCommentId":null}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://kkp.go.id/wp-content/plugins/wpdiscuz/assets/js/wpdiscuz.min.js?ver=3.2.8'></script>
+<link rel='https://api.w.org/' href='http://kkp.go.id/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://kkp.go.id/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://kkp.go.id/wp-includes/wlwmanifest.xml" /> 
+
+		<script type="text/javascript">
+			jQuery(document).ready(function() {
+				// CUSTOM AJAX CONTENT LOADING FUNCTION
+				var ajaxRevslider = function(obj) {
+				
+					// obj.type : Post Type
+					// obj.id : ID of Content to Load
+					// obj.aspectratio : The Aspect Ratio of the Container / Media
+					// obj.selector : The Container Selector where the Content of Ajax will be injected. It is done via the Essential Grid on Return of Content
+					
+					var content = "";
+
+					data = {};
+					
+					data.action = 'revslider_ajax_call_front';
+					data.client_action = 'get_slider_html';
+					data.token = '76585fd867';
+					data.type = obj.type;
+					data.id = obj.id;
+					data.aspectratio = obj.aspectratio;
+					
+					// SYNC AJAX REQUEST
+					jQuery.ajax({
+						type:"post",
+						url:"http://kkp.go.id/wp-admin/admin-ajax.php",
+						dataType: 'json',
+						data:data,
+						async:false,
+						success: function(ret, textStatus, XMLHttpRequest) {
+							if(ret.success == true)
+								content = ret.data;								
+						},
+						error: function(e) {
+							console.log(e);
+						}
+					});
+					
+					 // FIRST RETURN THE CONTENT WHEN IT IS LOADED !!
+					 return content;						 
+				};
+				
+				// CUSTOM AJAX FUNCTION TO REMOVE THE SLIDER
+				var ajaxRemoveRevslider = function(obj) {
+					return jQuery(obj.selector+" .rev_slider").revkill();
+				};
+
+				// EXTEND THE AJAX CONTENT LOADING TYPES WITH TYPE AND FUNCTION
+				var extendessential = setInterval(function() {
+					if (jQuery.fn.tpessential != undefined) {
+						clearInterval(extendessential);
+						if(typeof(jQuery.fn.tpessential.defaults) !== 'undefined') {
+							jQuery.fn.tpessential.defaults.ajaxTypes.push({type:"revslider",func:ajaxRevslider,killfunc:ajaxRemoveRevslider,openAnimationSpeed:0.3});   
+							// type:  Name of the Post to load via Ajax into the Essential Grid Ajax Container
+							// func: the Function Name which is Called once the Item with the Post Type has been clicked
+							// killfunc: function to kill in case the Ajax Window going to be removed (before Remove function !
+							// openAnimationSpeed: how quick the Ajax Content window should be animated (default is 0.3)
+						}
+					}
+				},30);
+			});
+		</script>
+		<style type="text/css">#wpcomm .wc_new_comment{background:#0080C9;}#wpcomm .wc_new_reply{background:#0080C9;}#wpcomm .wc-form-wrapper{background:#F9F9F9;}#wpcomm select,#wpcomm input[type="text"],#wpcomm input[type="email"],#wpcomm input[type="url"]{border:#D9D9D9 1px solid;}#wpcomm .wc-comment .wc-comment-right{background:#FEFEFE;}#wpcomm .wc-reply .wc-comment-right{background:#F8F8F8;}#wpcomm .wc-comment-text{font-size:14px;color:#555;}#wpcomm .wc-blog-administrator > .wc-comment-right .wc-comment-author,#wpcomm .wc-blog-administrator > .wc-comment-right .wc-comment-author a{color:#0080C9;}#wpcomm .wc-blog-administrator > .wc-comment-left .wc-comment-label{background:#0080C9;}#wpcomm .wc-blog-editor > .wc-comment-right .wc-comment-author,#wpcomm .wc-blog-editor > .wc-comment-right .wc-comment-author a{color:#0080C9;}#wpcomm .wc-blog-editor > .wc-comment-left .wc-comment-label{background:#0080C9;}#wpcomm .wc-blog-author > .wc-comment-right .wc-comment-author,#wpcomm .wc-blog-author > .wc-comment-right .wc-comment-author a{color:#0080C9;}#wpcomm .wc-blog-author > .wc-comment-left .wc-comment-label{background:#0080C9;}#wpcomm .wc-blog-contributor > .wc-comment-right .wc-comment-author,#wpcomm .wc-blog-contributor > .wc-comment-right .wc-comment-author a{color:#0080C9;}#wpcomm .wc-blog-contributor > .wc-comment-left .wc-comment-label{background:#0080C9;}#wpcomm .wc-blog-subscriber > .wc-comment-right .wc-comment-author,#wpcomm .wc-blog-subscriber > .wc-comment-right .wc-comment-author a{color:#0080C9;}#wpcomm .wc-blog-subscriber > .wc-comment-left .wc-comment-label{background:#0080C9;}#wpcomm .wc-blog-post_author > .wc-comment-right .wc-comment-author,#wpcomm .wc-blog-post_author > .wc-comment-right .wc-comment-author a{color:#0080C9;}#wpcomm .wc-blog-post_author > .wc-comment-left .wc-comment-label{background:#0080C9;}#wpcomm .wc-blog-guest > .wc-comment-right .wc-comment-author,#wpcomm .wc-blog-guest > .wc-comment-right .wc-comment-author a{color:#0080C9;}#wpcomm .wc-blog-guest > .wc-comment-left .wc-comment-label{background:#0080C9;}#wpcomm .wc-comment-footer a,#wpcomm .wc-comment-footer span.wc_editable_comment,#wpcomm .wc-comment-footer span.wc_save_edited_comment,#wpcomm span.wc_cancel_edit{color:#666666;}#wpcomm .wc-comment-footer .wc-vote-result{background:#666666;}#wpcomm .wc-reply-link,#wpcomm .wc-vote-link,#wpcomm .wc-share-link{color:#666666;}.wc-load-more-submit{border:1px solid #D9D9D9;}#wpcomm .wc-new-loaded-comment > .wc-comment-right{background:#FFFAD6;}.comments-area{width:auto;}.wpdiscuz-front-actions{background:#F9F9F9;}.wpdiscuz-subscribe-bar{background:#F9F9F9;}.wpdiscuz-sort-buttons{color:#666666;}.wpdiscuz-sort-button{color:#666666; cursor:pointer;}.wpdiscuz-sort-button:hover{color:#0080C9;cursor:pointer;}.wpdiscuz-sort-button-active{color:#0080C9!important;cursor:default!important;}#wpcomm .page-numbers{color:#555;border:#555 1px solid;}#wpcomm span.current{background:#555;}#wpcomm .wpdiscuz-readmore{cursor:pointer;color:#0080C9;} #wpcomm .wpdiscuz-textarea-wrap{border:#D9D9D9 1px solid;}</style>
+            <style type="text/css">
+.qtranxs_flag_IN {background-image: url(http://kkp.go.id/wp-content/plugins/qtranslate-x/flags/id.png); background-repeat: no-repeat;}
+.qtranxs_flag_en {background-image: url(http://kkp.go.id/wp-content/plugins/qtranslate-x/flags/gb.png); background-repeat: no-repeat;}
+</style>
+<link hreflang="IN" href="http://kkp.go.id/IN/" rel="alternate" />
+<link hreflang="en" href="http://kkp.go.id/en/" rel="alternate" />
+<link hreflang="x-default" href="http://kkp.go.id/" rel="alternate" />
+<meta name="generator" content="qTranslate-X 3.4.6.8" />
+<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://kkp.go.id/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="http://kkp.go.id/wp-content/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif]--><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>	<meta name="google-site-verification" content="HXeJOfAhwY2nXyGd8sJvOKQLr2UoOmTRC8wUOeoQcZ4" />
+	<script type="text/javascript">
+//<![CDATA[
+var pptheme = 'facebook';
+//]]>
+</script>	 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="home blog wpb-js-composer js-comp-ver-4.11.2 vc_responsive  ut-tbs3-default ut-layout-home">
+<div class="clear"></div>
+<header class="headwrapper">
+<div class="ult-wrapper wrapper  hidden-phone hidden-tablet" id="wrapper-80">
+
+<div class="ult-container  container " id="container-80">
+<div class="row">
+		<div class="ult-column col-md-9 " id="col-80-1">
+			<div class="colwrapper"><div class="judul widget widget_ultimatumwysiwyg inner-container"><p><a href="http://kkp.go.id/"><b><img class="size-full wp-image-500 alignleft" src="http://kkp.go.id/wp-content/uploads/2016/04/logo.png" alt="logo" width="110" height="112" /></b></a><br />
+<strong style="line-height: 1.0;">KEMENTERIAN KELAUTAN DAN PERIKANAN REPUBLIK INDONESIA<br />
+</strong><i style="font-size: 20px;">Ministry of Marine Affairs and Fisheries Republic of Indonesia</i></p>
+</div></div>
+		</div>
+		<div class="ult-column col-md-3 " id="col-80-2">
+			<div class="colwrapper"><style type="text/css">
+.qtranxs_widget ul { margin: 0; }
+.qtranxs_widget ul li
+{
+display: inline; /* horizontal list, use "list-item" or other appropriate value for vertical list */
+list-style-type: none; /* use "initial" or other to enable bullets */
+margin: 0 5px 0 0; /* adjust spacing between items */
+opacity: 0.5;
+-o-transition: 1s ease opacity;
+-moz-transition: 1s ease opacity;
+-webkit-transition: 1s ease opacity;
+transition: 1s ease opacity;
+}
+/* .qtranxs_widget ul li span { margin: 0 5px 0 0; } */ /* other way to control spacing */
+.qtranxs_widget ul li.active { opacity: 0.8; }
+.qtranxs_widget ul li:hover { opacity: 1; }
+.qtranxs_widget img { box-shadow: none; vertical-align: middle; display: initial; }
+.qtranxs_flag { height:12px; width:18px; display:block; }
+.qtranxs_flag_and_text { padding-left:20px; }
+.qtranxs_flag span { display:none; }
+</style>
+<div class="hidden-tablet hidden-phone widget qtranxs_widget inner-container">
+<ul class="language-chooser language-chooser-text qtranxs_language_chooser" id="qtranslate-2-chooser">
+<li class="lang-IN active"><a href="http://kkp.go.id/IN/" hreflang="IN" title="Indonesia (IN)" class="qtranxs_text qtranxs_text_IN"><span>Indonesia</span></a></li>
+<li class="lang-en"><a href="http://kkp.go.id/en/" hreflang="en" title="English (en)" class="qtranxs_text qtranxs_text_en"><span>English</span></a></li>
+</ul><div class="qtranxs_widget_end"></div>
+</div><div class="hidden-tablet hidden-phone widget widget_ultimatumsearch inner-container"><form role="search" class="form-search" method="get" id="searchform" action="http://kkp.go.id/" ><input type="search" placeholder="Search..." value="" name="s" id="s" /></form></div></div>
+		</div>
+		</div></div>
+</div>
+<div class="ult-wrapper wrapper  hidden-desktop" id="wrapper-120">
+
+<div class="ult-container  container " id="container-120">
+<div class="row">
+		<div class="ult-column col-md-12 " id="col-120-1">
+			<div class="colwrapper"><div class="widget widget_ultimatumwysiwyg inner-container"><p style="text-align: center;"><a href="http://kkp.go.id/logo-2/" rel="attachment wp-att-500"><img class="alignnone size-full wp-image-500" src="http://kkp.go.id/wp-content/uploads/2016/04/logo.png" alt="logo" width="110" height="112" /></a></p>
+<p style="text-align: center;"><strong style="line-height: 1.0;">KEMENTERIAN KELAUTAN DAN PERIKANAN REPUBLIK INDONESIA<br /></strong><i>Ministry of Marine Affairs and Fisheries Republic of Indonesia</i></p>
+</div></div>
+		</div>
+		</div></div>
+</div>
+<div class="ult-wrapper wrapper " id="wrapper-95">
+
+<div class="ult-container  container " id="container-95">
+<div class="row">
+		<div class="ult-column col-md-12 " id="col-95-1">
+			<div class="colwrapper"><div class=".menubiru widget widget_ultimatummenu inner-container"><nav class="navbar navbar-inverse" role="navigation">
+	<div class="container-fluid">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-navbar-collapse-ultimatummenu-11">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+                    </div>
+        <div class="collapse navbar-collapse" id="bs-navbar-collapse-ultimatummenu-11">
+            <ul id="menu-main-menu" class="nav navbar-nav"><li id="menu-item-549" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-549"><a title="BERANDA" href="http://kkp.go.id/kementrian-kelautan-dan-perikanan/">BERANDA</a></li>
+<li id="menu-item-99" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-99 dropdown"><a title="PROFIL" href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">PROFIL <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-280" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-280"><a title="Sejarah" href="http://kkp.go.id/sejarah/">Sejarah</a></li>
+	<li id="menu-item-281" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-281"><a title="Visi Misi" href="http://kkp.go.id/visi-misi/">Visi Misi</a></li>
+	<li id="menu-item-412" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-412"><a title="Struktur Organisasi" href="http://kkp.go.id/category/struktur-organisasi/">Struktur Organisasi</a></li>
+	<li id="menu-item-307" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-307"><a title="Unit Kerja" href="http://kkp.go.id/unit-kerja/">Unit Kerja</a></li>
+</ul>
+</li>
+<li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-100 dropdown"><a title="PROGRAM" href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">PROGRAM <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-415" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-415"><a title="Kedaulatan" href="http://kkp.go.id/category/kedaulatan/">Kedaulatan</a></li>
+	<li id="menu-item-419" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-419"><a title="Keberlanjutan" href="http://kkp.go.id/category/keberlanjutan/">Keberlanjutan</a></li>
+	<li id="menu-item-420" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-420"><a title="Kesejahteraan" href="http://kkp.go.id/category/kesejahteraan/">Kesejahteraan</a></li>
+</ul>
+</li>
+<li id="menu-item-101" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-101 dropdown"><a title="BERITA" href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">BERITA <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-425" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-425"><a title="Berita Kedaulatan" href="http://kkp.go.id/category/berita-kedaulatan/">Berita Kedaulatan</a></li>
+	<li id="menu-item-458" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-458"><a title="Berita Keberlanjutan" href="http://kkp.go.id/category/berita-keberlanjutan/">Berita Keberlanjutan</a></li>
+	<li id="menu-item-460" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-460"><a title="Berita Kesejahteraan" href="http://kkp.go.id/category/berita-kesejahteraan/">Berita Kesejahteraan</a></li>
+	<li id="menu-item-480" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-480"><a title="Berita Umum" href="http://kkp.go.id/category/berita/">Berita Umum</a></li>
+</ul>
+</li>
+<li id="menu-item-507" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-507"><a title="AGENDA" href="http://kkp.go.id/category/agenda/">AGENDA</a></li>
+<li id="menu-item-103" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-103 dropdown"><a title="INFORMASI" href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">INFORMASI <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-485" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-485"><a title="Cuaca dan Maritim" href="http://kkp.go.id/category/cuaca-dan-maritim/">Cuaca dan Maritim</a></li>
+	<li id="menu-item-484" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-484"><a title="Peta Prakiraan Daerah Penangkapan Ikan" href="http://kkp.go.id/category/peta-prakiraan-daerah-penangkapan-ikan/">Peta Prakiraan Daerah Penangkapan Ikan</a></li>
+	<li id="menu-item-441" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-441"><a title="Pengumuman" href="http://kkp.go.id/category/pengumuman/">Pengumuman</a></li>
+</ul>
+</li>
+<li id="menu-item-104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-104 dropdown"><a title="PUBLIKASI" href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">PUBLIKASI <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-409" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-409"><a title="Artikel" href="http://kkp.go.id/category/artikel/">Artikel</a></li>
+	<li id="menu-item-744" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-744"><a title="Infographics" href="http://kkp.go.id/category/infographics/">Infographics</a></li>
+	<li id="menu-item-493" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-493"><a title="Album Foto" href="http://kkp.go.id/category/album-foto/">Album Foto</a></li>
+	<li id="menu-item-446" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-446"><a title="Video" href="http://kkp.go.id/category/video/">Video</a></li>
+	<li id="menu-item-361" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-361"><a title="Statistika Pelayanan Informasi" href="http://ppid.kkp.go.id/">Statistika Pelayanan Informasi</a></li>
+	<li id="menu-item-362" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-362"><a title="Perjanjian Kerjasama" href="http://103.7.52.8/">Perjanjian Kerjasama</a></li>
+	<li id="menu-item-363" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-363"><a title="Info Hukum" href="http://infohukum.kkp.go.id/">Info Hukum</a></li>
+	<li id="menu-item-3780" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3780"><a title="Publikasi Internal" href="http://kkp.go.id/category/publikasi-internal/">Publikasi Internal</a></li>
+	<li id="menu-item-437" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-437"><a title="Siaran Pers" href="http://kkp.go.id/category/pers/">Siaran Pers</a></li>
+</ul>
+</li>
+<li id="menu-item-105" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-105 dropdown"><a title="LAYANAN PUBLIK" href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">LAYANAN PUBLIK <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-364" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-364"><a title="PUPI online" href="http://aplikasipupi.kkp.go.id/">PUPI online</a></li>
+	<li id="menu-item-366" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-366"><a title="Perpustakaan KKP" href="http://perpustakaan.kkp.go.id/new/">Perpustakaan KKP</a></li>
+	<li id="menu-item-367" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-367"><a title="Data Kapal Perikanan" href="http://www.perizinan.kkp.go.id/webperizinan/">Data Kapal Perikanan</a></li>
+	<li id="menu-item-368" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-368"><a title="Data statistika" href="http://statistik.kkp.go.id/">Data statistika</a></li>
+	<li id="menu-item-369" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-369"><a title="Pengelolaan Informasi" href="http://103.7.52.118/ppid/">Pengelolaan Informasi</a></li>
+	<li id="menu-item-599" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-599"><a title="Pengadaan Barang dan Jasa" href="http://kkp.go.id/category/pengumuman-pengadaan/">Pengadaan Barang dan Jasa</a></li>
+</ul>
+</li>
+<li id="menu-item-106" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-106 dropdown"><a title="LAPORAN" href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">LAPORAN <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-4457" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4457"><a title="Bantuan Langsung Masyarakat" href="http://kkp.go.id/bantuan-langsung-masyarakat/">Bantuan Langsung Masyarakat</a></li>
+	<li id="menu-item-519" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-519"><a title="DIPA" href="http://kkp.go.id/category/dipa/">DIPA</a></li>
+	<li id="menu-item-379" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-379"><a title="Laporan Keuangan" href="http://espk.kkp.go.id/">Laporan Keuangan</a></li>
+	<li id="menu-item-378" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-378"><a title="Rencana Umum Pengadaan" href="https://sirup.lkpp.go.id/sirup/rekapKldi/K8">Rencana Umum Pengadaan</a></li>
+	<li id="menu-item-522" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-522"><a title="Akuntabilitas KKP" href="http://kkp.go.id/category/akuntabilitas-kkp/">Akuntabilitas KKP</a></li>
+	<li id="menu-item-380" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-380"><a title="Rencana Kerja" href="http://kinerjaku.kkp.go.id/2016/">Rencana Kerja</a></li>
+</ul>
+</li>
+<li id="menu-item-432" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-432"><a title="KONTAK" href="http://kkp.go.id/category/kontak/">KONTAK</a></li>
+</ul>                    </div>
+	</div>
+</nav>
+</div><div class="clearfix"></div></div>
+		</div>
+		</div></div>
+</div>
+</header>
+<div class="bodywrapper" id="bodywrapper">
+<div class="ult-wrapper wrapper " id="wrapper-21">
+			<div class="29 " id="col-21-1">
+			<div class="colwrapper"><div style='padding:3px;' class='ptms_marquee'><marquee style='color:#fff;font:open sans;' scrollamount='2' scrolldelay='5' direction='left' onmouseover='this.stop()' onmouseout='this.start()'><a href='http://kkp.go.id/2016/08/11/atasi-erosi-dengan-building-with-nature-kkp-terima-dutch-engineering-award/'>Atasi Erosi dengan Building with Nature, KKP Terima Dutch Engineering Award</a>||<a href='http://kkp.go.id/2016/08/05/english-arahan-sekjen-kkp-untuk-pegawai-yang-belajar-ke-luar-negeri/'>Arahan Sekjen KKP Untuk Pegawai Yang Belajar ke Luar Negeri</a>||<a href='http://kkp.go.id/2016/08/04/pemerintah-kembali-tegaskan-pelarangan-perikanan-tangkap-bagi-asing/'>PEMERINTAH KEMBALI TEGASKAN PELARANGAN PERIKANAN TANGKAP BAGI ASING</a>||<a href='http://kkp.go.id/2016/08/03/sidak-mkp-di-benoa-bali/'>Sidak MKP di Benoa, Bali</a>||<a href='http://kkp.go.id/2016/08/03/sidak-mentri-susi-di-pelabuhan-benoa-bali/'>Sidak Mentri Susi di Pelabuhan Benoa, Bali</a>||<a href='http://kkp.go.id/2016/08/03/indonesia-tegaskan-tidak-ada-kompromi-hadapi-iuu-fishing/'>INDONESIA TEGASKAN TIDAK ADA KOMPROMI HADAPI IUU FISHING</a>||<a href='http://kkp.go.id/2016/08/03/sosialisasi-reformasi-birokrasi-kkp/'>Sosialisasi Reformasi Birokrasi KKP</a>||<a href='http://kkp.go.id/2016/08/03/sosialisasi-pelakasanaan-reformasi-birokrasi-kkp/'>Sosialisasi Reformasi Birokrasi KKP</a>||<a href='http://kkp.go.id/2016/08/03/penguatan-sistem-manajemen-sdm-aparatur-sipil-negara/'>PENGUATAN SISTEM MANAJEMEN SDM APARATUR SIPIL NEGARA</a>||<a href='http://kkp.go.id/2016/08/03/pembuatan-sistem-manajemen-sdm-asn/'>Pembuatan Sistem Manajemen SDM ASN</a></marquee></div><div class="widget widget_text inner-container">			<div class="textwidget">
+<div id="rev_slider_1_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" style="margin:0px auto;padding:0px;margin-top:0px;margin-bottom:0px;max-height:440px;">
+<!-- START REVOLUTION SLIDER 4.6.92 fullwidth mode -->
+	<div id="rev_slider_1_1" class="rev_slider fullwidthabanner" style="display:none;max-height:440px;height:440px;">
+<ul>	<!-- SLIDE  -->
+	<li data-transition="fade" data-slotamount="7" data-masterspeed="300"  data-saveperformance="off" >
+		<!-- MAIN IMAGE -->
+		<img src="http://kkp.go.id/wp-content/uploads/2016/07/banner-440.jpg"  alt="banner-440"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-transition="random" data-slotamount="7" data-masterspeed="300"  data-saveperformance="off" >
+		<!-- MAIN IMAGE -->
+		<img src="http://kkp.go.id/wp-content/uploads/2016/08/world-food-day-2016-new-logo.jpg"  alt="world-food-day-2016-new-logo"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-transition="fade" data-slotamount="7" data-masterspeed="300"  data-saveperformance="off" >
+		<!-- MAIN IMAGE -->
+		<img src="http://kkp.go.id/wp-content/uploads/2016/07/banner-4402.jpg"  alt="banner-4402"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-transition="fade" data-slotamount="7" data-masterspeed="300"  data-saveperformance="off" >
+		<!-- MAIN IMAGE -->
+		<img src="http://kkp.go.id/wp-content/uploads/2016/07/banner-4403-a.jpg"  alt="banner-4403-a"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-transition="fade" data-slotamount="7" data-masterspeed="300"  data-saveperformance="off" >
+		<!-- MAIN IMAGE -->
+		<img src="http://kkp.go.id/wp-content/uploads/2016/07/banner-4404.jpg"  alt="banner-4404"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+	</li>
+</ul>
+<div class="tp-bannertimer tp-bottom"></div>	</div>
+			
+
+			<style scoped></style>
+
+			<script type="text/javascript">
+
+				/******************************************
+					-	PREPARE PLACEHOLDER FOR SLIDER	-
+				******************************************/
+				
+
+				var setREVStartSize = function() {
+					var	tpopt = new Object();
+						tpopt.startwidth = 1440;
+						tpopt.startheight = 440;
+						tpopt.container = jQuery('#rev_slider_1_1');
+						tpopt.fullScreen = "off";
+						tpopt.forceFullWidth="on";
+
+					tpopt.container.closest(".rev_slider_wrapper").css({height:tpopt.container.height()});tpopt.width=parseInt(tpopt.container.width(),0);tpopt.height=parseInt(tpopt.container.height(),0);tpopt.bw=tpopt.width/tpopt.startwidth;tpopt.bh=tpopt.height/tpopt.startheight;if(tpopt.bh>tpopt.bw)tpopt.bh=tpopt.bw;if(tpopt.bh<tpopt.bw)tpopt.bw=tpopt.bh;if(tpopt.bw<tpopt.bh)tpopt.bh=tpopt.bw;if(tpopt.bh>1){tpopt.bw=1;tpopt.bh=1}if(tpopt.bw>1){tpopt.bw=1;tpopt.bh=1}tpopt.height=Math.round(tpopt.startheight*(tpopt.width/tpopt.startwidth));if(tpopt.height>tpopt.startheight&&tpopt.autoHeight!="on")tpopt.height=tpopt.startheight;if(tpopt.fullScreen=="on"){tpopt.height=tpopt.bw*tpopt.startheight;var cow=tpopt.container.parent().width();var coh=jQuery(window).height();if(tpopt.fullScreenOffsetContainer!=undefined){try{var offcontainers=tpopt.fullScreenOffsetContainer.split(",");jQuery.each(offcontainers,function(e,t){coh=coh-jQuery(t).outerHeight(true);if(coh<tpopt.minFullScreenHeight)coh=tpopt.minFullScreenHeight})}catch(e){}}tpopt.container.parent().height(coh);tpopt.container.height(coh);tpopt.container.closest(".rev_slider_wrapper").height(coh);tpopt.container.closest(".forcefullwidth_wrapper_tp_banner").find(".tp-fullwidth-forcer").height(coh);tpopt.container.css({height:"100%"});tpopt.height=coh;}else{tpopt.container.height(tpopt.height);tpopt.container.closest(".rev_slider_wrapper").height(tpopt.height);tpopt.container.closest(".forcefullwidth_wrapper_tp_banner").find(".tp-fullwidth-forcer").height(tpopt.height);}
+				};
+
+				/* CALL PLACEHOLDER */
+				setREVStartSize();
+
+
+				var tpj=jQuery;
+				tpj.noConflict();
+				var revapi1;
+
+				tpj(document).ready(function() {
+
+				if(tpj('#rev_slider_1_1').revolution == undefined){
+					revslider_showDoubleJqueryError('#rev_slider_1_1');
+				}else{
+				   revapi1 = tpj('#rev_slider_1_1').show().revolution(
+					{	
+												dottedOverlay:"none",
+						delay:8000,
+						startwidth:1440,
+						startheight:440,
+						hideThumbs:200,
+
+						thumbWidth:100,
+						thumbHeight:50,
+						thumbAmount:5,
+						
+												
+						simplifyAll:"off",
+
+						navigationType:"bullet",
+						navigationArrows:"solo",
+						navigationStyle:"round",
+
+						touchenabled:"on",
+						onHoverStop:"on",
+						nextSlideOnWindowFocus:"off",
+
+						swipe_threshold: 75,
+						swipe_min_touches: 1,
+						drag_block_vertical: false,
+						
+												
+												
+						keyboardNavigation:"off",
+
+						navigationHAlign:"center",
+						navigationVAlign:"bottom",
+						navigationHOffset:0,
+						navigationVOffset:20,
+
+						soloArrowLeftHalign:"left",
+						soloArrowLeftValign:"center",
+						soloArrowLeftHOffset:20,
+						soloArrowLeftVOffset:0,
+
+						soloArrowRightHalign:"right",
+						soloArrowRightValign:"center",
+						soloArrowRightHOffset:20,
+						soloArrowRightVOffset:0,
+
+						shadow:0,
+						fullWidth:"on",
+						fullScreen:"off",
+
+												spinner:"spinner0",
+												
+						stopLoop:"on",
+						stopAfterLoops:0,
+						stopAtSlide:0,
+
+						shuffle:"off",
+
+						autoHeight:"on",
+						forceFullWidth:"on",
+						
+						
+						
+						hideThumbsOnMobile:"off",
+						hideNavDelayOnMobile:1500,
+						hideBulletsOnMobile:"off",
+						hideArrowsOnMobile:"off",
+						hideThumbsUnderResolution:0,
+
+												hideSliderAtLimit:0,
+						hideCaptionAtLimit:0,
+						hideAllCaptionAtLilmit:0,
+						startWithSlide:0					});
+
+
+
+									}
+				});	/*ready*/
+
+			</script>
+
+
+			</div><!-- END REVOLUTION SLIDER --></div>
+		</div></div>
+			</div>
+
+				</div>
+<div class="ult-wrapper wrapper " id="wrapper-63">
+
+<div class="ult-container  container " id="container-63">
+<div class="row">
+		<div class="ult-column col-md-4 3berita" id="col-63-1">
+			<div class="colwrapper"><div class="hidden-tablet hidden-phone widget widget_ultimatumimage inner-container"><a href="http://kkp.go.id/category/kedaulatan/" target="_self"><img src="http://kkp.go.id/wp-content/uploads/2016/07/kedaulatan-new.png" class="img-responsive" alt="http://kkp.go.id/wp-content/uploads/2016/07/kedaulatan-new.png"/></a></div></div>
+		</div>
+		<div class="ult-column col-md-4 " id="col-63-2">
+			<div class="colwrapper"><div class="hidden-tablet hidden-phone widget widget_ultimatumimage inner-container"><a href="http://kkp.go.id/category/keberlanjutan/" target="_self"><img src="http://kkp.go.id/wp-content/uploads/2016/07/keberlanjutan-new.png" class="img-responsive" alt="http://kkp.go.id/wp-content/uploads/2016/07/keberlanjutan-new.png"/></a></div></div>
+		</div>
+		<div class="ult-column col-md-4 " id="col-63-3">
+			<div class="colwrapper"><div class="hidden-tablet hidden-phone widget widget_ultimatumimage inner-container"><a href="http://kkp.go.id/category/kesejahteraan/" target="_self"><img src="http://kkp.go.id/wp-content/uploads/2016/07/kesejahteraan-new.png" class="img-responsive" alt="http://kkp.go.id/wp-content/uploads/2016/07/kesejahteraan-new.png"/></a></div></div>
+		</div>
+		</div></div>
+</div>
+<div class="ult-wrapper wrapper " id="wrapper-64">
+
+<div class="ult-container  container " id="container-64">
+<div class="row">
+		<div class="ult-column col-md-4 " id="col-64-1">
+			<div class="colwrapper"><div class="hidden-desktop widget widget_ultimatumimage inner-container"><a href="http://kkp.go.id/category/kedaulatan/" target="_self"><img src="http://kkp.go.id/wp-content/uploads/2016/07/kedaulatan-new.png" class="img-responsive" alt="http://kkp.go.id/wp-content/uploads/2016/07/kedaulatan-new.png"/></a></div><div class="hidden-desktop hidden-tablet hidden-phone widget widget_ultimatumcustomcontent inner-container">                    <article class="post post-3654 post type-post status-publish format-standard has-post-thumbnail hentry category-infografis-kedaulatan entry post-inner   post-3654 ultimatepost-custom ">
+						<div class="post-inner">
+																	<div class="featured-image " >
+						<a href="http://kkp.go.id/2016/07/15/profil-apbn-program-prioritas-2016/"  class="preload " >
+				<img src="http://kkp.go.id/wp-content/uploads/2016/07/Profil-APBN-Program-Prioritas-2016-340x198.jpg" alt="Profil APBN &#038; Program Prioritas 2016"/>
+				</a>			</div>																													
+																											</div>
+					</article>
+
+
+					<div style="clear:both"></div>		<div style="clear:both"></div>
+		</div><div class="widget widget_ultimatumcustomcontent inner-container">                    <article class="post post-3654 post type-post status-publish format-standard has-post-thumbnail hentry category-infografis-kedaulatan entry post-inner   post-3654 ultimatepost-custom ">
+						<div class="post-inner">
+																						<h3 class="post-header">
+																			<a class="post-title" href="http://kkp.go.id/2016/07/15/profil-apbn-program-prioritas-2016/">Profil APBN &#038; Program Prioritas 2016</a>
+																	</h3>
+														
+																											</div>
+					</article>
+
+
+					<div style="clear:both"></div>                    <article class="post post-2880 post type-post status-publish format-standard has-post-thumbnail hentry category-infografis-kedaulatan entry post-inner   post-2880 ultimatepost-custom ">
+						<div class="post-inner">
+																						<h3 class="post-header">
+																			<a class="post-title" href="http://kkp.go.id/2016/05/20/negara-hadir-untuk-mengatur-melindungi/">Negara  Mengatur &#038; Melindungi</a>
+																	</h3>
+														
+																											</div>
+					</article>
+
+
+					<div style="clear:both"></div>                    <article class="post post-2856 post type-post status-publish format-standard has-post-thumbnail hentry category-infografis-kedaulatan entry post-inner   post-2856 ultimatepost-custom ">
+						<div class="post-inner">
+																						<h3 class="post-header">
+																			<a class="post-title" href="http://kkp.go.id/2016/05/20/contoh-info-kedaulatan/">Kebijakan Ilegal Fishing</a>
+																	</h3>
+														
+																											</div>
+					</article>
+
+
+					<div style="clear:both"></div>		<div style="clear:both"></div>
+		</div><div class="widget widget_text inner-container">			<div class="textwidget"><a href="http://kkp.go.id/category/infografis-kedaulatan/" target="_blank"><button type="button" class="btn btn-primary" style="margin-left: 0px;">Arsip Lainnya ></button></a></div>
+		</div></div>
+		</div>
+		<div class="ult-column col-md-4 " id="col-64-2">
+			<div class="colwrapper"><div class="hidden-desktop widget widget_ultimatumimage inner-container"><a href="http://kkp.go.id/category/keberlanjutan/" target="_self"><img src="http://kkp.go.id/wp-content/uploads/2016/07/keberlanjutan-new.png" class="img-responsive" alt="http://kkp.go.id/wp-content/uploads/2016/07/keberlanjutan-new.png"/></a></div><div class="hidden-desktop hidden-tablet hidden-phone widget widget_ultimatumcustomcontent inner-container">                    <article class="post post-3692 post type-post status-publish format-standard has-post-thumbnail hentry category-infografis-keberlanjutan entry post-inner   post-3692 ultimatepost-custom ">
+						<div class="post-inner">
+																	<div class="featured-image " >
+						<a href="http://kkp.go.id/2016/07/15/rencana-strategis-2015-2019/"  class="preload " >
+				<img src="http://kkp.go.id/wp-content/uploads/2016/07/Rencana-Strategis-2015-2019-340x198.jpg" alt="Rencana Strategis 2015-2019"/>
+				</a>			</div>																													
+																											</div>
+					</article>
+
+
+					<div style="clear:both"></div>		<div style="clear:both"></div>
+		</div><div class="widget widget_ultimatumcustomcontent inner-container">                    <article class="post post-3692 post type-post status-publish format-standard has-post-thumbnail hentry category-infografis-keberlanjutan entry post-inner   post-3692 ultimatepost-custom ">
+						<div class="post-inner">
+																						<h3 class="post-header">
+																			<a class="post-title" href="http://kkp.go.id/2016/07/15/rencana-strategis-2015-2019/">Rencana Strategis 2015-2019</a>
+																	</h3>
+														
+																											</div>
+					</article>
+
+
+					<div style="clear:both"></div>                    <article class="post post-3674 post type-post status-publish format-standard has-post-thumbnail hentry category-infografis-keberlanjutan entry post-inner   post-3674 ultimatepost-custom ">
+						<div class="post-inner">
+																						<h3 class="post-header">
+																			<a class="post-title" href="http://kkp.go.id/2016/07/15/struktur-anggaran-apbn-2016/">Struktur Anggaran APBN 2016</a>
+																	</h3>
+														
+																											</div>
+					</article>
+
+
+					<div style="clear:both"></div>                    <article class="post post-3664 post type-post status-publish format-standard has-post-thumbnail hentry category-infografis-keberlanjutan entry post-inner   post-3664 ultimatepost-custom ">
+						<div class="post-inner">
+																						<h3 class="post-header">
+																			<a class="post-title" href="http://kkp.go.id/2016/07/15/program-anggaran-kkp-2016/">Program Anggaran KKP 2016</a>
+																	</h3>
+														
+																											</div>
+					</article>
+
+
+					<div style="clear:both"></div>		<div style="clear:both"></div>
+		</div><div class="widget widget_text inner-container">			<div class="textwidget"><a href="http://kkp.go.id/category/infografis-keberlanjutan/" target="_blank"><button type="button" class="btn btn-primary" style="margin-left: 0px;">Arsip Lainnya ></button></a></div>
+		</div></div>
+		</div>
+		<div class="ult-column col-md-4 " id="col-64-3">
+			<div class="colwrapper"><div class="hidden-desktop widget widget_ultimatumimage inner-container"><a href="http://kkp.go.id/category/kesejahteraan/" target="_self"><img src="http://kkp.go.id/wp-content/uploads/2016/07/kesejahteraan-new.png" class="img-responsive" alt="http://kkp.go.id/wp-content/uploads/2016/07/kesejahteraan-new.png"/></a></div><div class="hidden-desktop hidden-tablet hidden-phone widget widget_ultimatumcustomcontent inner-container">                    <article class="post post-3708 post type-post status-publish format-standard has-post-thumbnail hentry category-infografis-kesejahteraan entry post-inner   post-3708 ultimatepost-custom ">
+						<div class="post-inner">
+																	<div class="featured-image " >
+						<a href="http://kkp.go.id/2016/07/15/evaluasi-revaluasi/"  class="preload " >
+				<img src="http://kkp.go.id/wp-content/uploads/2016/07/Evaluasi-dan-revaluasi-340x198.jpg" alt="Evaluasi &#038; Revaluasi"/>
+				</a>			</div>																													
+																											</div>
+					</article>
+
+
+					<div style="clear:both"></div>		<div style="clear:both"></div>
+		</div><div class="widget widget_ultimatumcustomcontent inner-container">                    <article class="post post-3708 post type-post status-publish format-standard has-post-thumbnail hentry category-infografis-kesejahteraan entry post-inner   post-3708 ultimatepost-custom ">
+						<div class="post-inner">
+																						<h3 class="post-header">
+																			<a class="post-title" href="http://kkp.go.id/2016/07/15/evaluasi-revaluasi/">Evaluasi &#038; Revaluasi</a>
+																	</h3>
+														
+																											</div>
+					</article>
+
+
+					<div style="clear:both"></div>                    <article class="post post-3694 post type-post status-publish format-standard has-post-thumbnail hentry category-infografis-kesejahteraan entry post-inner   post-3694 ultimatepost-custom ">
+						<div class="post-inner">
+																						<h3 class="post-header">
+																			<a class="post-title" href="http://kkp.go.id/2016/07/15/nilai-tukar-nelayan-januari-2016/">Nilai Tukar Nelayan Januari 2016</a>
+																	</h3>
+														
+																											</div>
+					</article>
+
+
+					<div style="clear:both"></div>                    <article class="post post-3652 post type-post status-publish format-standard has-post-thumbnail hentry category-infografis-kesejahteraan entry post-inner   post-3652 ultimatepost-custom ">
+						<div class="post-inner">
+																						<h3 class="post-header">
+																			<a class="post-title" href="http://kkp.go.id/2016/07/15/perkembangan-sektor-perikanan-2015/">Perkembangan Sektor Perikanan 2015</a>
+																	</h3>
+														
+																											</div>
+					</article>
+
+
+					<div style="clear:both"></div>		<div style="clear:both"></div>
+		</div><div class="widget widget_text inner-container">			<div class="textwidget"><a href="http://kkp.go.id/category/infografis-kesejahteraan/" target="_blank"><button type="button" class="btn btn-primary" style="margin-left: 0px;">Arsip Lainnya ></button></a></div>
+		</div></div>
+		</div>
+		</div></div>
+</div>
+<div class="ult-wrapper wrapper " id="wrapper-65">
+
+<div class="ult-container  container " id="container-65">
+<div class="row">
+		<div class="ult-column col-md-12 " id="col-65-1">
+			<div class="colwrapper"><div class="agenda widget widget_text inner-container">			<div class="textwidget"><h4>BERITA UMUM</h4><hr></div>
+		</div><div class="widget widget_ultimatumcustomcontent inner-container">                    <article class="post post-4959 post type-post status-publish format-standard has-post-thumbnail hentry category-berita entry post-inner   post-4959 ultimatepost-custom one_fourth">
+						<div class="post-inner">
+																	<div class="featured-image " >
+						<a href="http://kkp.go.id/2016/08/11/atasi-erosi-dengan-building-with-nature-kkp-terima-dutch-engineering-award/"  class="preload " >
+				<img src="http://kkp.go.id/wp-content/uploads/2016/08/IMG_0146-292x150.jpg" alt="Atasi Erosi dengan Building with Nature, KKP Terima Dutch Engineering Award"/>
+				</a>			</div>																														<h3 class="post-header">
+																			<a class="post-title" href="http://kkp.go.id/2016/08/11/atasi-erosi-dengan-building-with-nature-kkp-terima-dutch-engineering-award/">Atasi Erosi dengan Building with Nature, KKP Terima Dutch Engineering Award</a>
+																	</h3>
+														
+																											</div>
+					</article>
+
+
+					                    <article class="post post-4583 post type-post status-publish format-standard has-post-thumbnail hentry category-berita entry post-inner   post-4583 ultimatepost-custom one_fourth">
+						<div class="post-inner">
+																	<div class="featured-image " >
+						<a href="http://kkp.go.id/2016/08/05/english-arahan-sekjen-kkp-untuk-pegawai-yang-belajar-ke-luar-negeri/"  class="preload " >
+				<img src="http://kkp.go.id/wp-content/uploads/2016/08/Pesan-sekjen-1-292x150.jpg" alt="Arahan Sekjen KKP Untuk Pegawai Yang Belajar ke Luar Negeri"/>
+				</a>			</div>																														<h3 class="post-header">
+																			<a class="post-title" href="http://kkp.go.id/2016/08/05/english-arahan-sekjen-kkp-untuk-pegawai-yang-belajar-ke-luar-negeri/">Arahan Sekjen KKP Untuk Pegawai Yang Belajar ke Luar Negeri</a>
+																	</h3>
+														
+																											</div>
+					</article>
+
+
+					                    <article class="post post-4549 post type-post status-publish format-standard has-post-thumbnail hentry category-berita entry post-inner   post-4549 ultimatepost-custom one_fourth">
+						<div class="post-inner">
+																	<div class="featured-image " >
+						<a href="http://kkp.go.id/2016/08/03/sidak-mkp-di-benoa-bali/"  class="preload " >
+				<img src="http://kkp.go.id/wp-content/uploads/2016/08/3df082fe126afe71927696d729a91825_630x420_thumb-1-292x150.jpg" alt="Sidak MKP di Benoa, Bali"/>
+				</a>			</div>																														<h3 class="post-header">
+																			<a class="post-title" href="http://kkp.go.id/2016/08/03/sidak-mkp-di-benoa-bali/">Sidak MKP di Benoa, Bali</a>
+																	</h3>
+														
+																											</div>
+					</article>
+
+
+					                    <article class="post post-4525 post type-post status-publish format-standard has-post-thumbnail hentry category-berita entry post-inner   post-4525 ultimatepost-custom one_fourth last">
+						<div class="post-inner">
+																	<div class="featured-image " >
+						<a href="http://kkp.go.id/2016/08/03/sosialisasi-pelakasanaan-reformasi-birokrasi-kkp/"  class="preload " >
+				<img src="http://kkp.go.id/wp-content/uploads/2016/08/2-292x150.jpg" alt="Sosialisasi Reformasi Birokrasi KKP"/>
+				</a>			</div>																														<h3 class="post-header">
+																			<a class="post-title" href="http://kkp.go.id/2016/08/03/sosialisasi-pelakasanaan-reformasi-birokrasi-kkp/">Sosialisasi Reformasi Birokrasi KKP</a>
+																	</h3>
+														
+																											</div>
+					</article>
+
+
+					<div style="clear:both"></div>                    <article class="post post-4401 post type-post status-publish format-standard has-post-thumbnail hentry category-berita entry post-inner   post-4401 ultimatepost-custom one_fourth">
+						<div class="post-inner">
+																	<div class="featured-image " >
+						<a href="http://kkp.go.id/2016/08/02/berita-foto-mkp-prescon/"  class="preload " >
+				<img src="http://kkp.go.id/wp-content/uploads/2016/08/PSX_20160801_152232-292x150.jpg" alt="Menteri Susi Menegaskan Lelang Program Asuransi Jiwa untuk Nelayan Indonesia"/>
+				</a>			</div>																														<h3 class="post-header">
+																			<a class="post-title" href="http://kkp.go.id/2016/08/02/berita-foto-mkp-prescon/">Menteri Susi Menegaskan Lelang Program Asuransi Jiwa untuk Nelayan Indonesia</a>
+																	</h3>
+														
+																											</div>
+					</article>
+
+
+					                    <article class="post post-4247 post type-post status-publish format-standard has-post-thumbnail hentry category-berita entry post-inner   post-4247 ultimatepost-custom one_fourth">
+						<div class="post-inner">
+																	<div class="featured-image " >
+						<a href="http://kkp.go.id/2016/07/29/ministerial-meeting-on-traceability-of-fish-and-fisheries-product/"  class="preload " >
+				<img src="http://kkp.go.id/wp-content/uploads/2016/07/Regional-Fisheries-Summit-3-1-292x150.jpg" alt="Ministerial Meeting On Traceability Of Fish And Fisheries Product"/>
+				</a>			</div>																														<h3 class="post-header">
+																			<a class="post-title" href="http://kkp.go.id/2016/07/29/ministerial-meeting-on-traceability-of-fish-and-fisheries-product/">Ministerial Meeting On Traceability Of Fish And Fisheries Product</a>
+																	</h3>
+														
+																											</div>
+					</article>
+
+
+					                    <article class="post post-3988 post type-post status-publish format-standard has-post-thumbnail hentry category-berita entry post-inner   post-3988 ultimatepost-custom one_fourth">
+						<div class="post-inner">
+																	<div class="featured-image " >
+						<a href="http://kkp.go.id/2016/07/19/arahan-menteri-kelautan-dan-perikanan-pada-acara-halal-bi-halal-1437-h/"  class="preload " >
+				<img src="http://kkp.go.id/wp-content/uploads/2016/07/arahan-halalbilahal-menteri-susi-292x150.jpg" alt="ARAHAN MENTERI KELAUTAN DAN PERIKANAN PADA ACARA HALAL BI HALAL 1437 H"/>
+				</a>			</div>																														<h3 class="post-header">
+																			<a class="post-title" href="http://kkp.go.id/2016/07/19/arahan-menteri-kelautan-dan-perikanan-pada-acara-halal-bi-halal-1437-h/">ARAHAN MENTERI KELAUTAN DAN PERIKANAN PADA ACARA HALAL BI HALAL 1437 H</a>
+																	</h3>
+														
+																											</div>
+					</article>
+
+
+					                    <article class="post post-3985 post type-post status-publish format-standard has-post-thumbnail hentry category-berita entry post-inner   post-3985 ultimatepost-custom one_fourth last">
+						<div class="post-inner">
+																	<div class="featured-image " >
+						<a href="http://kkp.go.id/2016/07/19/pemerintah-rencanakan-bangun-rusun-bagi-nelayan-pantura-di-natuna/"  class="preload " >
+				<img src="http://kkp.go.id/wp-content/uploads/2016/07/Pemerintah-Rencanakan-Bangun-Rusun-Bagi-Nelayan-Pantura-Di-Natuna-275x150.jpg" alt="Pemerintah Rencanakan Bangun Rusun Bagi Nelayan Pantura di Natuna"/>
+				</a>			</div>																														<h3 class="post-header">
+																			<a class="post-title" href="http://kkp.go.id/2016/07/19/pemerintah-rencanakan-bangun-rusun-bagi-nelayan-pantura-di-natuna/">Pemerintah Rencanakan Bangun Rusun Bagi Nelayan Pantura di Natuna</a>
+																	</h3>
+														
+																											</div>
+					</article>
+
+
+					<div style="clear:both"></div>		<div style="clear:both"></div>
+		</div><div class="widget widget_text inner-container">			<div class="textwidget"><a href="http://kkp.go.id/category/berita/" target="_blank"><button type="button" class="btn btn-primary">Arsip Berita ></button></a></div>
+		</div></div>
+		</div>
+		</div></div>
+</div>
+<div class="ult-wrapper wrapper " id="wrapper-66">
+
+<div class="ult-container  container " id="container-66">
+<div class="row">
+		<div class="ult-column col-md-6 " id="col-66-1">
+			<div class="colwrapper">&nbsp;</div>
+		</div>
+		<div class="ult-column col-md-6 " id="col-66-2">
+			<div class="colwrapper">&nbsp;</div>
+		</div>
+		</div></div>
+</div>
+<div class="ult-wrapper wrapper " id="wrapper-96">
+
+<div class="ult-container  container  hidden-phone hidden-tablet" id="container-96">
+<div class="row">
+		<div class="ult-column col-md-6 " id="col-96-1">
+			<div class="colwrapper"><div class="widget widget_text inner-container">			<div class="textwidget"><h6>AGENDA & SIARAN PERS</h6></div>
+		</div></div>
+		</div>
+		<div class="ult-column col-md-6 " id="col-96-2">
+			<div class="colwrapper"><div class="widget widget_text inner-container">			<div class="textwidget"><h6>INFORMASI</h6></div>
+		</div></div>
+		</div>
+		</div></div>
+</div>
+<div class="ult-wrapper wrapper " id="wrapper-68">
+
+<div class="ult-container  container " id="container-68">
+<div class="row">
+		<div class="ult-column col-md-3 " id="col-68-1">
+			<div class="colwrapper"><div class="agenda widget widget_text inner-container">			<div class="textwidget"><h4>AGENDA</h4></div>
+		</div><div class="widget widget_ultimatumcustomcontent inner-container">                    <article class="post post-1113 post type-post status-publish format-standard hentry category-agenda entry post-inner   post-1113 ultimatepost-custom ">
+						<div class="post-inner">
+																						<h3 class="post-header">
+																			<a class="post-title" href="http://kkp.go.id/2015/12/22/hari-ibu/">Hari Ibu 22 Desember</a>
+																	</h3>
+														
+																											</div>
+					</article>
+
+
+					<div style="clear:both"></div>                    <article class="post post-27 post type-post status-publish format-standard hentry category-agenda entry post-inner   post-27 ultimatepost-custom ">
+						<div class="post-inner">
+																						<h3 class="post-header">
+																			<a class="post-title" href="http://kkp.go.id/2015/10/07/indonesian-aquaculture-2015/">Indonesian Aquaculture 2015</a>
+																	</h3>
+														
+																											</div>
+					</article>
+
+
+					<div style="clear:both"></div>                    <article class="post post-1133 post type-post status-publish format-standard hentry category-agenda entry post-inner   post-1133 ultimatepost-custom ">
+						<div class="post-inner">
+																						<h3 class="post-header">
+																			<a class="post-title" href="http://kkp.go.id/2015/09/09/the-5th-indonesia-pearl-festival/">The 5th Indonesia Pearl Festival</a>
+																	</h3>
+														
+																											</div>
+					</article>
+
+
+					<div style="clear:both"></div>                    <article class="post post-1137 post type-post status-publish format-standard hentry category-agenda entry post-inner   post-1137 ultimatepost-custom ">
+						<div class="post-inner">
+																						<h3 class="post-header">
+																			<a class="post-title" href="http://kkp.go.id/2015/09/07/bazar-produk-perikanan-september/">Bazar Produk Perikanan September</a>
+																	</h3>
+														
+																											</div>
+					</article>
+
+
+					<div style="clear:both"></div>                    <article class="post post-1141 post type-post status-publish format-standard hentry category-agenda entry post-inner   post-1141 ultimatepost-custom ">
+						<div class="post-inner">
+																						<h3 class="post-header">
+																			<a class="post-title" href="http://kkp.go.id/2015/09/01/trade-expo-indonesia-ke-30-tahun-2015/">Trade Expo Indonesia Ke-30 Tahun 2015</a>
+																	</h3>
+														
+																											</div>
+					</article>
+
+
+					<div style="clear:both"></div>                    <article class="post post-1149 post type-post status-publish format-standard hentry category-agenda entry post-inner   post-1149 ultimatepost-custom ">
+						<div class="post-inner">
+																						<h3 class="post-header">
+																			<a class="post-title" href="http://kkp.go.id/2015/08/24/public-lecture-by-ibu-susi-pudjiastuti-di-ntu-singapore/">Public Lecture by Ibu Susi Pudjiastuti di NTU Singapore</a>
+																	</h3>
+														
+																											</div>
+					</article>
+
+
+					<div style="clear:both"></div>		<div style="clear:both"></div>
+		</div><div class="widget widget_text inner-container">			<div class="textwidget"><a href="http://kkp.go.id/category/agenda/" target="_blank"><button type="button" class="btn btn-primary">Arsip Lainnya ></button></a></div>
+		</div></div>
+		</div>
+		<div class="ult-column col-md-3 " id="col-68-2">
+			<div class="colwrapper"><div class="agenda widget widget_text inner-container">			<div class="textwidget"><h4>SIARAN PERS</h4></div>
+		</div><div class="widget widget_ultimatumcustomcontent inner-container">                    <article class="post post-4937 post type-post status-publish format-standard hentry category-pers entry post-inner   post-4937 ultimatepost-custom ">
+						<div class="post-inner">
+																						<h3 class="post-header">
+																			<a class="post-title" href="http://kkp.go.id/2016/08/04/pemerintah-kembali-tegaskan-pelarangan-perikanan-tangkap-bagi-asing/">PEMERINTAH KEMBALI TEGASKAN PELARANGAN PERIKANAN TANGKAP BAGI ASING</a>
+																	</h3>
+														
+																											</div>
+					</article>
+
+
+					<div style="clear:both"></div>                    <article class="post post-4933 post type-post status-publish format-standard hentry category-pers entry post-inner   post-4933 ultimatepost-custom ">
+						<div class="post-inner">
+																						<h3 class="post-header">
+																			<a class="post-title" href="http://kkp.go.id/2016/08/03/indonesia-tegaskan-tidak-ada-kompromi-hadapi-iuu-fishing/">INDONESIA TEGASKAN TIDAK ADA KOMPROMI HADAPI IUU FISHING</a>
+																	</h3>
+														
+																											</div>
+					</article>
+
+
+					<div style="clear:both"></div>                    <article class="post post-4929 post type-post status-publish format-standard hentry category-pers entry post-inner   post-4929 ultimatepost-custom ">
+						<div class="post-inner">
+																						<h3 class="post-header">
+																			<a class="post-title" href="http://kkp.go.id/2016/08/02/sidak-pelabuhan-benoa-sejumlah-kapal-eks-asing-ditemukan-berubah-wujud/">SIDAK PELABUHAN BENOA, SEJUMLAH KAPAL EKS ASING DITEMUKAN BERUBAH WUJUD</a>
+																	</h3>
+														
+																											</div>
+					</article>
+
+
+					<div style="clear:both"></div>                    <article class="post post-4925 post type-post status-publish format-standard hentry category-pers entry post-inner   post-4925 ultimatepost-custom ">
+						<div class="post-inner">
+																						<h3 class="post-header">
+																			<a class="post-title" href="http://kkp.go.id/2016/08/01/penangkapan-kapal-pelaku-illegal-fishing-dan-rencana-pemusnahan-barang-bukti/">PENANGKAPAN KAPAL PELAKU ILLEGAL FISHING DAN RENCANA PEMUSNAHAN BARANG BUKTI</a>
+																	</h3>
+														
+																											</div>
+					</article>
+
+
+					<div style="clear:both"></div>                    <article class="post post-4921 post type-post status-publish format-standard hentry category-pers entry post-inner   post-4921 ultimatepost-custom ">
+						<div class="post-inner">
+																						<h3 class="post-header">
+																			<a class="post-title" href="http://kkp.go.id/2016/07/29/serius-tangani-iuu-fishing-kkp-ajak-negara-negara-asia-pasifik-tingkatkan-pengawasan/">SERIUS TANGANI IUU FISHING, KKP AJAK NEGARA-NEGARA ASIA PASIFIK TINGKATKAN PENGAWASAN</a>
+																	</h3>
+														
+																											</div>
+					</article>
+
+
+					<div style="clear:both"></div>		<div style="clear:both"></div>
+		</div><div class="widget widget_text inner-container">			<div class="textwidget"><a href="http://kkp.go.id/category/pers/" target="_blank"><button type="button" class="btn btn-primary">Arsip Lainnya ></button></a></div>
+		</div></div>
+		</div>
+		<div class="ult-column col-md-3 " id="col-68-3">
+			<div class="colwrapper"><div class="agenda widget widget_text inner-container">			<div class="textwidget"><h4>CUACA DAN MARITIM</h4></div>
+		</div><div class="widget widget_ultimatumcustomcontent inner-container">                    <article class="post post-3120 post type-post status-publish format-standard hentry category-cuaca-dan-maritim entry post-inner   post-3120 ultimatepost-custom ">
+						<div class="post-inner">
+																						<h3 class="post-header">
+																			<a class="post-title" href="http://kkp.go.id/2016/02/02/informasi-peringatan-dini-gelombang-tinggi-berlaku-01-februari-03-februari-2016/">Informasi Peringatan Dini Gelombang Tinggi Berlaku 01 Februari – 03 Februari 2016</a>
+																	</h3>
+														
+																						<p class="post-excerpt">Informasi Peringatan Dini Gelombang Tinggi Berlaku 01 Februari – 03 Februari 2016									...</p>
+																				</div>
+					</article>
+
+
+					<div style="clear:both"></div>		<div style="clear:both"></div>
+		</div><div class="widget widget_text inner-container">			<div class="textwidget"><a href="http://kkp.go.id/category/cuaca-dan-maritim/" target="_blank"><button type="button" class="btn btn-primary">Arsip Lainnya ></button></a></div>
+		</div><div class="agenda widget widget_text inner-container">			<div class="textwidget"><hr>
+<h4>Peta Prakiraan Daerah Penangkapan Ikan</h4></div>
+		</div><div class="widget widget_ultimatumcustomcontent inner-container">                    <article class="post post-1880 post type-post status-publish format-standard hentry category-peta-prakiraan-daerah-penangkapan-ikan entry post-inner   post-1880 ultimatepost-custom ">
+						<div class="post-inner">
+																																													<h3 class="post-header">
+																			<a class="post-title" href="http://kkp.go.id/2016/02/02/informasi-peta-prakiraan-daerah-penangkapan-ikan-ppdpi-periode-tanggal-01-02-februari-2016/">Informasi Peta Prakiraan Daerah Penangkapan Ikan (PPDPI) Periode tanggal 01 – 02 Februari 2016</a>
+																	</h3>
+														
+																											</div>
+					</article>
+
+
+					<div style="clear:both"></div>		<div style="clear:both"></div>
+		</div><div class="widget widget_text inner-container">			<div class="textwidget"><a href="http://kkp.go.id/category/peta-prakiraan-daerah-penangkapan-ikan/" target="_blank"><button type="button" class="btn btn-primary">Arsip Lainnya ></button></a></div>
+		</div></div>
+		</div>
+		<div class="ult-column col-md-3 " id="col-68-4">
+			<div class="colwrapper"><div class="agenda widget widget_text inner-container">			<div class="textwidget"><h4>PENGUMUMAN</h4></div>
+		</div><div class="widget widget_ultimatumcustomcontent inner-container">                    <article class="post post-3184 post type-post status-publish format-standard hentry category-pengumuman entry post-inner   post-3184 ultimatepost-custom ">
+						<div class="post-inner">
+																						<h3 class="post-header">
+																			<a class="post-title" href="http://kkp.go.id/2016/06/23/logo-hut-ri-ke-71/">LOGO HUT RI KE-71</a>
+																	</h3>
+														
+																											</div>
+					</article>
+
+
+					<div style="clear:both"></div>                    <article class="post post-3166 post type-post status-publish format-standard hentry category-pengumuman entry post-inner   post-3166 ultimatepost-custom ">
+						<div class="post-inner">
+																						<h3 class="post-header">
+																			<a class="post-title" href="http://kkp.go.id/2016/06/17/penghapusan-kapal-eks-asing-dari-daftar-kapal-indonesia-2/">Penghapusan Kapal Eks Asing dari Daftar Kapal Indonesia</a>
+																	</h3>
+														
+																											</div>
+					</article>
+
+
+					<div style="clear:both"></div>                    <article class="post post-3146 post type-post status-publish format-standard hentry category-pengumuman entry post-inner   post-3146 ultimatepost-custom ">
+						<div class="post-inner">
+																						<h3 class="post-header">
+																			<a class="post-title" href="http://kkp.go.id/2016/05/23/undangan-rakernis-terpadu-kkp-tahun-2016/">Undangan Rakernis Terpadu KKP Tahun 2016</a>
+																	</h3>
+														
+																											</div>
+					</article>
+
+
+					<div style="clear:both"></div>                    <article class="post post-3136 post type-post status-publish format-standard hentry category-pengumuman entry post-inner   post-3136 ultimatepost-custom ">
+						<div class="post-inner">
+																						<h3 class="post-header">
+																			<a class="post-title" href="http://kkp.go.id/2016/05/23/batas-waktu-penyampaian-proposal-usulan-dan-data-teknis-dana-alokasi-khusus-dak-bidang-kelautan-dan-perikanan-ta-2017/">Batas Waktu Penyampaian Proposal Usulan dan Data Teknis Dana Alokasi Khusus (DAK) Bidang Kelautan dan Perikanan TA 2017</a>
+																	</h3>
+														
+																											</div>
+					</article>
+
+
+					<div style="clear:both"></div>		<div style="clear:both"></div>
+		</div><div class="widget widget_text inner-container">			<div class="textwidget"><a href="http://kkp.go.id/category/pengumuman/" target="_blank"><button type="button" class="btn btn-primary">Arsip Lainnya ></button></a></div>
+		</div></div>
+		</div>
+		</div></div>
+</div>
+<div class="ult-wrapper wrapper  hidden-phone hidden-tablet" id="wrapper-71">
+
+<div class="ult-container  container " id="container-71">
+<div class="row">
+		<div class="ult-column col-md-12 " id="col-71-1">
+			<div class="colwrapper"><div class="widget widget_text inner-container">			<div class="textwidget"><h5>LAYANAN PUBLIK</h5></div>
+		</div><div class="widget widget_ultimatumwysiwyg inner-container"><p> </p>
+<table style="height: 292px;" width="1242" cellspacing="5" cellpadding="5">
+<tbody>
+<tr>
+<td style="text-align: left;"><a href="http://kkp.go.id/bantuan-langsung-masyarakat/"><img class="alignnone size-full wp-image-3718" src="http://kkp.go.id/wp-content/uploads/2016/07/bantuanlangsunngmasyarakat.png" alt="bantuanlangsunngmasyarakat" width="210" height="94" /></a></td>
+<td style="text-align: left;"><a href="http://ppid.kkp.go.id/" rel="attachment wp-att-3724"><img class="alignnone size-full wp-image-3724" src="http://kkp.go.id/wp-content/uploads/2016/07/ppid.png" alt="ppid" width="210" height="94" /></a></td>
+<td style="text-align: left;"><a href="http://www.perizinan.kkp.go.id/webperizinan/" target="_blank"><img class="alignnone wp-image-3316 size-full" src="http://kkp.go.id/wp-content/uploads/2016/06/datakapalperikanan-2.jpg" width="210" height="94" /></a></td>
+<td style="text-align: left;"><a href="http://rokermas.kkp.go.id/eKarina/login.php" target="_blank"><img class="alignnone wp-image-3294 size-full" src="http://kkp.go.id/wp-content/uploads/2016/06/kerjasamaluarnegri-1.jpg" width="210" height="94" /></a></td>
+<td style="text-align: left;"><a href="http://kkp.go.id/category/layanan-publik-satgas-115/"><img class="alignnone wp-image-3608 size-full" src="http://kkp.go.id/wp-content/uploads/2016/07/satuantugas.png" alt="satuantugas," width="210" height="94" /></a></td>
+</tr>
+<tr>
+<td><a href="http://meacenter.kkp.go.id/" rel="attachment wp-att-3720"><img class="alignnone size-full wp-image-3720" src="http://kkp.go.id/wp-content/uploads/2016/07/mea.png" alt="mea" width="210" height="94" /></a></td>
+<td><a href="http://lpse.kkp.go.id/eproc4/" rel="attachment wp-att-3744"><img class="alignnone size-full wp-image-3744" src="http://kkp.go.id/wp-content/uploads/2016/07/lpse-1.png" alt="lpse" width="210" height="94" /></a></td>
+<td><a href="http://statistik.kkp.go.id/new_sidatik/" rel="attachment wp-att-3734"><img class="alignnone size-full wp-image-3734" src="http://kkp.go.id/wp-content/uploads/2016/07/datastatistik.png" alt="datastatistik" width="210" height="94" /></a></td>
+<td><a href="http://perpustakaan.kkp.go.id/new/index.php" rel="attachment wp-att-3738"><img class="alignnone size-full wp-image-3738" src="http://kkp.go.id/wp-content/uploads/2016/07/perpustakaan.png" alt="perpustakaan" width="210" height="94" /></a></td>
+<td><a href="http://www.globalfishingwatch.org/" rel="attachment wp-att-3740"><img class="alignnone size-full wp-image-3740" src="http://kkp.go.id/wp-content/uploads/2016/07/globalfishing.png" alt="globalfishing" width="210" height="94" /></a></td>
+</tr>
+<tr>
+<td style="text-align: left;"><a href="http://kkp.go.id/" rel="attachment wp-att-3722"><img class="alignnone wp-image-3722 size-full" src="http://kkp.go.id/wp-content/uploads/2016/07/pupionline2.png" alt="pupionline2" width="210" height="94" /></a></td>
+<td style="text-align: left;"><a href="http://kkp.go.id/category/publikasi-internal/" rel="attachment wp-att-3732"><img class="alignnone size-full wp-image-3732" src="http://kkp.go.id/wp-content/uploads/2016/07/perizinandansertifikasi-1.png" alt="perizinandansertifikasi" width="210" height="94" /></a></td>
+<td style="text-align: left;"><a href="http://rokermas.kkp.go.id/eKarina/login.php" target="_blank" rel="attachment wp-att-3736"><img class="alignnone wp-image-3736 size-full" src="http://kkp.go.id/wp-content/uploads/2016/07/trackingdata.png" alt="trackingdata" width="210" height="94" /></a></td>
+<td style="text-align: left;"><a href="http://infohukum.kkp.go.id/" target="_blank" rel="attachment wp-att-2762"><img class="alignnone wp-image-3298 size-full" src="http://kkp.go.id/wp-content/uploads/2016/06/infohukum-1.jpg" width="210" height="94" /></a></td>
+<td><a href="http://whistleblower.kkp.go.id/" rel="attachment wp-att-3742"><img class="alignnone size-full wp-image-3742" src="http://kkp.go.id/wp-content/uploads/2016/07/Whistleblower.png" alt="Whistleblower" width="210" height="94" /></a></td>
+</tr>
+</tbody>
+</table>
+</div></div>
+		</div>
+		</div></div>
+</div>
+<div class="ult-wrapper wrapper " id="wrapper-139">
+
+<div class="ult-container  container " id="container-139">
+<div class="row">
+		<div class="ult-column col-md-12 " id="col-139-1">
+			<div class="colwrapper"><div class="hidden-desktop hidden-tablet hidden-phone widget widget_ultimatumwysiwyg inner-container"><p> </p>
+<table style="height: auto;" width="auto">
+<tbody>
+<tr>
+<td style="text-align: left;"><a href="http://kkp.go.id/bantuan-langsung-masyarakat/"><img class="alignnone size-full wp-image-3718" src="http://kkp.go.id/wp-content/uploads/2016/07/bantuanlangsunngmasyarakat.png" alt="bantuanlangsunngmasyarakat" width="210" height="94" /></a></td>
+<td style="text-align: left;"><a href="http://ppid.kkp.go.id/" rel="attachment wp-att-3724"><img class="alignnone size-full wp-image-3724" src="http://kkp.go.id/wp-content/uploads/2016/07/ppid.png" alt="ppid" width="210" height="94" /></a></td>
+<td style="text-align: left;"><a href="http://www.perizinan.kkp.go.id/webperizinan/" target="_blank"><img class="alignnone wp-image-3316 size-full" src="http://kkp.go.id/wp-content/uploads/2016/06/datakapalperikanan-2.jpg" width="210" height="94" /></a></td>
+<td style="text-align: left;"><a href="http://rokermas.kkp.go.id/eKarina/login.php" target="_blank"><img class="alignnone wp-image-3294 size-full" src="http://kkp.go.id/wp-content/uploads/2016/06/kerjasamaluarnegri-1.jpg" alt="kerjasamaluarnegeri" width="210" height="94" /></a></td>
+<td style="text-align: left;"><a href="http://kkp.go.id/category/layanan-publik-satgas-115/"><img class="alignnone wp-image-3608 size-full" src="http://kkp.go.id/wp-content/uploads/2016/07/satuantugas.png" alt="satuantugas," width="210" height="94" /></a></td>
+</tr>
+<tr>
+<td><a href="http://meacenter.kkp.go.id/" rel="attachment wp-att-3720"><img class="alignnone size-full wp-image-3720" src="http://kkp.go.id/wp-content/uploads/2016/07/mea.png" alt="mea" width="210" height="94" /></a></td>
+<td><a href="http://lpse.kkp.go.id/eproc4/" rel="attachment wp-att-3744"><img class="alignnone size-full wp-image-3744" src="http://kkp.go.id/wp-content/uploads/2016/07/lpse-1.png" alt="lpse" width="210" height="94" /></a></td>
+<td><a href="http://statistik.kkp.go.id/new_sidatik/" rel="attachment wp-att-3734"><img class="alignnone size-full wp-image-3734" src="http://kkp.go.id/wp-content/uploads/2016/07/datastatistik.png" alt="datastatistik" width="210" height="94" /></a></td>
+<td><a href="http://perpustakaan.kkp.go.id/new/index.php" rel="attachment wp-att-3738"><img class="alignnone size-full wp-image-3738" src="http://kkp.go.id/wp-content/uploads/2016/07/perpustakaan.png" alt="perpustakaan" width="210" height="94" /></a></td>
+<td><a href="http://www.globalfishingwatch.org/" rel="attachment wp-att-3740"><img class="alignnone size-full wp-image-3740" src="http://kkp.go.id/wp-content/uploads/2016/07/globalfishing.png" alt="globalfishing" width="210" height="94" /></a></td>
+</tr>
+<tr>
+<td style="text-align: left;"><a href="http://kkp.go.id/" rel="attachment wp-att-3722"><img class="alignnone wp-image-3722 size-full" src="http://kkp.go.id/wp-content/uploads/2016/07/pupionline2.png" alt="pupionline2" width="210" height="94" /></a></td>
+<td style="text-align: left;"><a href="http://kkp.go.id/category/publikasi-internal/" rel="attachment wp-att-3732"><img class="alignnone size-full wp-image-3732" src="http://kkp.go.id/wp-content/uploads/2016/07/perizinandansertifikasi-1.png" alt="perizinandansertifikasi" width="210" height="94" /></a></td>
+<td style="text-align: left;"><a href="http://kkp.go.id/" target="_blank" rel="attachment wp-att-3736"><img class="alignnone wp-image-3736 size-full" src="http://kkp.go.id/wp-content/uploads/2016/07/trackingdata.png" alt="eGoverment" width="210" height="94" /></a></td>
+<td style="text-align: left;"><a href="http://infohukum.kkp.go.id/" target="_blank" rel="attachment wp-att-2762"><img class="alignnone wp-image-3298 size-full" src="http://kkp.go.id/wp-content/uploads/2016/06/infohukum-1.jpg" width="210" height="94" /></a></td>
+<td><a href="http://whistleblower.kkp.go.id/" rel="attachment wp-att-3742"><img class="alignnone size-full wp-image-3742" src="http://kkp.go.id/wp-content/uploads/2016/07/Whistleblower.png" alt="Whistleblower" width="210" height="94" /></a></td>
+</tr>
+</tbody>
+</table>
+</div><div class="hidden-desktop hidden-tablet widget widget_text inner-container">			<div class="textwidget"></div>
+		</div></div>
+		</div>
+		</div></div>
+</div>
+<div class="ult-wrapper wrapper  hidden-phone hidden-tablet" id="wrapper-69">
+
+<div class="ult-container  container " id="container-69">
+<div class="row">
+		<div class="ult-column col-md-12 " id="col-69-1">
+			<div class="colwrapper"><div class="widget widget_text inner-container">			<div class="textwidget"><h5>PUBLIKASI</h5></div>
+		</div></div>
+		</div>
+		</div></div>
+</div>
+<div class="ult-wrapper wrapper " id="wrapper-104">
+
+<div class="ult-container  container " id="container-104">
+<div class="row">
+		<div class="ult-column col-md-4 " id="col-104-1">
+			<div class="colwrapper"><div class="agenda widget widget_text inner-container">			<div class="textwidget"><h4>VIDEO TERKINI</h4></div>
+		</div><div class="widget widget_showbiz inner-container"> <h3 class="element-title"></h3>				
+			<!-- START SHOWBIZ 1.7.3 -->	
+			
+						
+						<style type="text/css">
+				/**************************************
+
+	STYLE SETTINGS FOR LIGHT SKIN
+
+***************************************/
+
+#showbiz_2_1.showbiz-container	{
+                            	max-width:1210px;
+                              	min-width:300px;
+                         	 }
+
+#showbiz_2_1 .showbiz-title		{
+                              	margin-top:10px;
+                                text-align:center;
+                            }
+
+#showbiz_2_1 .showbiz-title,
+#showbiz_2_1 .showbiz-title a,
+#showbiz_2_1 .showbiz-title a:visited,
+#showbiz_2_1 .showbiz-title a:hover	{
+                                color:#555;
+                                font-family: 'Open Sans', sans-serif;
+                                font-size:14px;
+                                text-transform:uppercase;
+                                text-decoration: none;
+                                font-weight:700;
+                                        margin-bottom:0px !important;
+                        }
+
+#showbiz_2_1 .showbiz-description{
+                                margin-top:10px;
+                                text-align:center;
+                                font-size:13px;
+                                line-height:22px;
+                                color:#777;
+                                font-family: 'Open Sans', sans-serif;
+                            }
+
+#showbiz_2_1  ul li {
+                                margin-right:20px;                              
+
+                          }
+
+
+#showbiz_2_1  .detailholder	{
+                                background-color:#f5f5f5;
+                                padding:10px 20px 10px;
+                                border-radius:0px 0px 6px 6px;
+                                -moz-border-radius:0px 0px 6px 6px;
+                                -webkit-border-radius:0px 0px 6px 6px;
+								border-left: 1px solid #e8e8e8;
+								border-right: 1px solid #e8e8e8;
+								border-bottom: 1px solid #e8e8e8;
+                            }
+
+#showbiz_2_1  .mediaholder_innerwrap  {
+                                border-radius:6px 6px 0px 0px;
+                                -moz-border-radius:6px 6px 0px 0px;
+                                -webkit-border-radius:6px 6px 0px 0px;
+                                }
+
+#showbiz_2_1  .hovercover	{
+                                background:rgba(0,168,255,0.75);
+                                border-radius:6px 6px 0px 0px;
+                                -moz-border-radius:6px 6px 0px 0px;
+                                -webkit-border-radius:6px 6px 0px 0px;
+                      }
+
+#showbiz_2_1  .reveal_wrapper	{
+                                border-radius:6px;
+                                -moz-border-radius:6px;
+                                -webkit-border-radius:6px;
+                                } 
+				
+				.showbiz-drag-mouse {
+					cursor:url(http://kkp.go.id/wp-content/plugins/showbiz/showbiz-plugin/css/openhand.cur), move;
+				}
+				.showbiz-drag-mouse.dragged {
+					cursor:url(http://kkp.go.id/wp-content/plugins/showbiz/showbiz-plugin/css/closedhand.cur), move;
+				}
+			</style>
+						
+			<div id="showbiz_2_1" class="showbiz-container" style="margin:0px auto;margin-top:0px;margin-bottom:0px;">
+				
+								
+				<div class="showbiz" >
+					<div class="overflowholder">
+					
+						<ul>					<li>
+						<!-- THE MEDIA HOLDER -->
+<div class="mediaholder">
+	<div class="mediaholder_innerwrap">
+		<img alt="" src="http://kkp.go.id/wp-content/uploads/2016/08/Sidak-MKP-4-200x100.jpg" style="height: auto;" width="200" height="100" >
+
+        <!-- HOVER EFFECTS , hovercover CLASS IS PREDEFINED CLASS -->
+		<div class="hovercover">
+			<!-- LINK TO POST -->
+			<a href="http://kkp.go.id/2016/08/03/sidak-mentri-susi-di-pelabuhan-benoa-bali/">
+				<div class="linkicon notalone"><i class="sb-icon-link"></i></div>
+			</a>
+			<!-- LIGHTBOX FANCYBOX WITH THE IMAGE -->
+			<a class="fancybox" rel="group" href="http://kkp.go.id/wp-content/uploads/2016/08/Sidak-MKP-4.jpg"><div class="lupeicon notalone"><i class="sb-icon-search"></i></div></a>
+		</div>
+	</div>
+</div>
+<!-- END OF MEDIA HOLDER HERE -->
+
+
+<!-- THE VISIBLE CONTENT HOLDER ON THE TEASER-->
+<div class="detailholder">
+
+		<h4 class="showbiz-title txt-center"><a href="http://kkp.go.id/2016/08/03/sidak-mentri-susi-di-pelabuhan-benoa-bali/">Sidak Mentri Susi di Pelabuhan...</a></h4>
+		<div class="divide5"></div>
+		<p class="txt-center"></p>
+</div>					</li>
+					
+									<li>
+						<!-- THE MEDIA HOLDER -->
+<div class="mediaholder">
+	<div class="mediaholder_innerwrap">
+		<img alt="" src="http://kkp.go.id/wp-content/uploads/2016/07/WIEF-200x100.jpg" style="height: auto;" width="200" height="100" >
+
+        <!-- HOVER EFFECTS , hovercover CLASS IS PREDEFINED CLASS -->
+		<div class="hovercover">
+			<!-- LINK TO POST -->
+			<a href="http://kkp.go.id/2016/07/29/pertemuan-tahunan-world-islamic-economic-forum-ke-12-jakarta-2-4-agustus-2016/">
+				<div class="linkicon notalone"><i class="sb-icon-link"></i></div>
+			</a>
+			<!-- LIGHTBOX FANCYBOX WITH THE IMAGE -->
+			<a class="fancybox" rel="group" href="http://kkp.go.id/wp-content/uploads/2016/07/WIEF.jpg"><div class="lupeicon notalone"><i class="sb-icon-search"></i></div></a>
+		</div>
+	</div>
+</div>
+<!-- END OF MEDIA HOLDER HERE -->
+
+
+<!-- THE VISIBLE CONTENT HOLDER ON THE TEASER-->
+<div class="detailholder">
+
+		<h4 class="showbiz-title txt-center"><a href="http://kkp.go.id/2016/07/29/pertemuan-tahunan-world-islamic-economic-forum-ke-12-jakarta-2-4-agustus-2016/">Pertemuan Tahunan World Islamic Economic...</a></h4>
+		<div class="divide5"></div>
+		<p class="txt-center"></p>
+</div>					</li>
+					
+									<li>
+						<!-- THE MEDIA HOLDER -->
+<div class="mediaholder">
+	<div class="mediaholder_innerwrap">
+		<img alt="" src="http://kkp.go.id/wp-content/uploads/2016/06/ilegal-fishing-200x100.jpg" style="height: auto;" width="200" height="100" >
+
+        <!-- HOVER EFFECTS , hovercover CLASS IS PREDEFINED CLASS -->
+		<div class="hovercover">
+			<!-- LINK TO POST -->
+			<a href="http://kkp.go.id/2016/06/18/peran-serta-nelayan-memberantas-illegal-fishing-di-perairan-indonesia/">
+				<div class="linkicon notalone"><i class="sb-icon-link"></i></div>
+			</a>
+			<!-- LIGHTBOX FANCYBOX WITH THE IMAGE -->
+			<a class="fancybox" rel="group" href="http://kkp.go.id/wp-content/uploads/2016/06/ilegal-fishing.jpg"><div class="lupeicon notalone"><i class="sb-icon-search"></i></div></a>
+		</div>
+	</div>
+</div>
+<!-- END OF MEDIA HOLDER HERE -->
+
+
+<!-- THE VISIBLE CONTENT HOLDER ON THE TEASER-->
+<div class="detailholder">
+
+		<h4 class="showbiz-title txt-center"><a href="http://kkp.go.id/2016/06/18/peran-serta-nelayan-memberantas-illegal-fishing-di-perairan-indonesia/">Peran Serta Nelayan Berantas Illegal...</a></h4>
+		<div class="divide5"></div>
+		<p class="txt-center"></p>
+</div>					</li>
+					
+									<li>
+						<!-- THE MEDIA HOLDER -->
+<div class="mediaholder">
+	<div class="mediaholder_innerwrap">
+		<img alt="" src="http://kkp.go.id/wp-content/uploads/2016/06/Kebijakan-Kementerian-Kelautan-dan-Perikanan-Untuk-Ijin-Kapal-Perikanan-Eks-Asing-Di-Indonesia-1-200x100.jpg" style="height: auto;" width="200" height="100" >
+
+        <!-- HOVER EFFECTS , hovercover CLASS IS PREDEFINED CLASS -->
+		<div class="hovercover">
+			<!-- LINK TO POST -->
+			<a href="http://kkp.go.id/2016/06/18/kebijakan-kementerian-kelautan-dan-perikanan-untuk-ijin-kapal-perikanan-eks-asing-di-indonesia/">
+				<div class="linkicon notalone"><i class="sb-icon-link"></i></div>
+			</a>
+			<!-- LIGHTBOX FANCYBOX WITH THE IMAGE -->
+			<a class="fancybox" rel="group" href="http://kkp.go.id/wp-content/uploads/2016/06/Kebijakan-Kementerian-Kelautan-dan-Perikanan-Untuk-Ijin-Kapal-Perikanan-Eks-Asing-Di-Indonesia-1.jpg"><div class="lupeicon notalone"><i class="sb-icon-search"></i></div></a>
+		</div>
+	</div>
+</div>
+<!-- END OF MEDIA HOLDER HERE -->
+
+
+<!-- THE VISIBLE CONTENT HOLDER ON THE TEASER-->
+<div class="detailholder">
+
+		<h4 class="showbiz-title txt-center"><a href="http://kkp.go.id/2016/06/18/kebijakan-kementerian-kelautan-dan-perikanan-untuk-ijin-kapal-perikanan-eks-asing-di-indonesia/">Kebijakan KKP  Untuk...</a></h4>
+		<div class="divide5"></div>
+		<p class="txt-center"></p>
+</div>					</li>
+					
+									<li>
+						<!-- THE MEDIA HOLDER -->
+<div class="mediaholder">
+	<div class="mediaholder_innerwrap">
+		<img alt="" src="http://kkp.go.id/wp-content/uploads/2016/03/Album-Video-200x100.jpg" style="height: auto;" width="200" height="100" >
+
+        <!-- HOVER EFFECTS , hovercover CLASS IS PREDEFINED CLASS -->
+		<div class="hovercover">
+			<!-- LINK TO POST -->
+			<a href="http://kkp.go.id/2016/04/11/hai-fa-kembali-berlayar-menteri-susi-kecewa/">
+				<div class="linkicon notalone"><i class="sb-icon-link"></i></div>
+			</a>
+			<!-- LIGHTBOX FANCYBOX WITH THE IMAGE -->
+			<a class="fancybox" rel="group" href="http://kkp.go.id/wp-content/uploads/2016/03/Album-Video.jpg"><div class="lupeicon notalone"><i class="sb-icon-search"></i></div></a>
+		</div>
+	</div>
+</div>
+<!-- END OF MEDIA HOLDER HERE -->
+
+
+<!-- THE VISIBLE CONTENT HOLDER ON THE TEASER-->
+<div class="detailholder">
+
+		<h4 class="showbiz-title txt-center"><a href="http://kkp.go.id/2016/04/11/hai-fa-kembali-berlayar-menteri-susi-kecewa/">Hai Fa Kembali Berlayar, Menteri...</a></h4>
+		<div class="divide5"></div>
+		<p class="txt-center"></p>
+</div>					</li>
+					
+									<li>
+						<!-- THE MEDIA HOLDER -->
+<div class="mediaholder">
+	<div class="mediaholder_innerwrap">
+		<img alt="" src="http://kkp.go.id/wp-content/uploads/2016/03/ayo-makan-ikan-200x100.jpg" style="height: auto;" width="200" height="100" >
+
+        <!-- HOVER EFFECTS , hovercover CLASS IS PREDEFINED CLASS -->
+		<div class="hovercover">
+			<!-- LINK TO POST -->
+			<a href="http://kkp.go.id/2016/03/20/jadikan-anak-anak-indonesia-generasi-gemar-makan-ikan/">
+				<div class="linkicon notalone"><i class="sb-icon-link"></i></div>
+			</a>
+			<!-- LIGHTBOX FANCYBOX WITH THE IMAGE -->
+			<a class="fancybox" rel="group" href="http://kkp.go.id/wp-content/uploads/2016/03/ayo-makan-ikan.jpg"><div class="lupeicon notalone"><i class="sb-icon-search"></i></div></a>
+		</div>
+	</div>
+</div>
+<!-- END OF MEDIA HOLDER HERE -->
+
+
+<!-- THE VISIBLE CONTENT HOLDER ON THE TEASER-->
+<div class="detailholder">
+
+		<h4 class="showbiz-title txt-center"><a href="http://kkp.go.id/2016/03/20/jadikan-anak-anak-indonesia-generasi-gemar-makan-ikan/">Jadikan anak Indonesia generasi gemar...</a></h4>
+		<div class="divide5"></div>
+		<p class="txt-center"></p>
+</div>					</li>
+					
+									<li>
+						<!-- THE MEDIA HOLDER -->
+<div class="mediaholder">
+	<div class="mediaholder_innerwrap">
+		<img alt="" src="http://kkp.go.id/wp-content/uploads/2016/06/Raker-RAPBN-3-300x200-200x100.jpg" style="height: auto;" width="200" height="100" >
+
+        <!-- HOVER EFFECTS , hovercover CLASS IS PREDEFINED CLASS -->
+		<div class="hovercover">
+			<!-- LINK TO POST -->
+			<a href="http://kkp.go.id/2016/03/06/menkp-tegaskan-indonesia-swasembada-garam-jakarta/">
+				<div class="linkicon notalone"><i class="sb-icon-link"></i></div>
+			</a>
+			<!-- LIGHTBOX FANCYBOX WITH THE IMAGE -->
+			<a class="fancybox" rel="group" href="http://kkp.go.id/wp-content/uploads/2016/06/Raker-RAPBN-3-300x200.jpg"><div class="lupeicon notalone"><i class="sb-icon-search"></i></div></a>
+		</div>
+	</div>
+</div>
+<!-- END OF MEDIA HOLDER HERE -->
+
+
+<!-- THE VISIBLE CONTENT HOLDER ON THE TEASER-->
+<div class="detailholder">
+
+		<h4 class="showbiz-title txt-center"><a href="http://kkp.go.id/2016/03/06/menkp-tegaskan-indonesia-swasembada-garam-jakarta/">MenKP Tegaskan Indonesia Swasembada Garam,...</a></h4>
+		<div class="divide5"></div>
+		<p class="txt-center"></p>
+</div>					</li>
+					
+									<li>
+						<!-- THE MEDIA HOLDER -->
+<div class="mediaholder">
+	<div class="mediaholder_innerwrap">
+		<img alt="" src="http://kkp.go.id/wp-content/uploads/2016/06/kargo-kapal-200x100.jpg" style="height: auto;" width="200" height="100" >
+
+        <!-- HOVER EFFECTS , hovercover CLASS IS PREDEFINED CLASS -->
+		<div class="hovercover">
+			<!-- LINK TO POST -->
+			<a href="http://kkp.go.id/2015/04/01/investigasi-kapal-kargo-bermuatan-ikan/">
+				<div class="linkicon notalone"><i class="sb-icon-link"></i></div>
+			</a>
+			<!-- LIGHTBOX FANCYBOX WITH THE IMAGE -->
+			<a class="fancybox" rel="group" href="http://kkp.go.id/wp-content/uploads/2016/06/kargo-kapal.jpg"><div class="lupeicon notalone"><i class="sb-icon-search"></i></div></a>
+		</div>
+	</div>
+</div>
+<!-- END OF MEDIA HOLDER HERE -->
+
+
+<!-- THE VISIBLE CONTENT HOLDER ON THE TEASER-->
+<div class="detailholder">
+
+		<h4 class="showbiz-title txt-center"><a href="http://kkp.go.id/2015/04/01/investigasi-kapal-kargo-bermuatan-ikan/">Investigasi Kapal Kargo Bermuatan Ikan</a></h4>
+		<div class="divide5"></div>
+		<p class="txt-center"></p>
+</div>					</li>
+					
+				</ul>					
+						<div class="sbclear"></div>
+					</div> 
+					<div class="sbclear"></div>
+				</div>
+				
+								
+			</div>
+			
+						
+						<script type="text/javascript">
+			
+							
+				jQuery(document).ready(function() {
+					
+					if(jQuery('#showbiz_2_1').showbizpro == undefined)
+						showbiz_showDoubleJqueryError('#showbiz_2_1');
+
+					jQuery('#showbiz_2_1').showbizpro({
+						dragAndScroll:"on",
+						carousel:"off",
+						allEntryAtOnce:"off",
+						closeOtherOverlays:"on",
+						entrySizeOffset:0,
+						heightOffsetBottom:0,
+						conteainerOffsetRight:0,
+						forceFullWidth:false,
+						visibleElementsArray:[4,3,2,1],
+						rewindFromEnd:"on",
+						autoPlay:"on",
+						scrollOrientation:"left",						
+						delay:"3000",
+						speed:"300",
+						easing:"Power1.easeOut"
+					});
+					
+										
+					jQuery(".fancybox").fancybox();
+					
+									});
+
+			</script>
+			
+							
+			<!-- END SHOWBIZ -->
+			
+			</div><div class="widget widget_text inner-container">			<div class="textwidget"><a href="http://kkp.go.id/category/video/" target="_blank"><button type="button" class="btn btn-primary" style="margin-left: 0px;">Arsip Lainnya ></button></a></div>
+		</div></div>
+		</div>
+		<div class="ult-column col-md-4 " id="col-104-2">
+			<div class="colwrapper"><div class="agenda widget widget_text inner-container">			<div class="textwidget"><h4>FOTO TERKINI</h4></div>
+		</div><div class="widget widget_showbiz inner-container"> <h3 class="element-title"></h3>				
+			<!-- START SHOWBIZ 1.7.3 -->	
+			
+						
+						<style type="text/css">
+				/**************************************
+
+	STYLE SETTINGS FOR LIGHT SKIN
+
+***************************************/
+
+#showbiz_1_2.showbiz-container	{
+                            	max-width:1210px;
+                              	min-width:300px;
+                         	 }
+
+#showbiz_1_2 .showbiz-title		{
+                              	margin-top:10px;
+                                text-align:center;
+                            }
+
+#showbiz_1_2 .showbiz-title,
+#showbiz_1_2 .showbiz-title a,
+#showbiz_1_2 .showbiz-title a:visited,
+#showbiz_1_2 .showbiz-title a:hover	{
+                                color:#555;
+                                font-family: 'Open Sans', sans-serif;
+                                font-size:14px;
+                                text-transform:uppercase;
+                                text-decoration: none;
+                                font-weight:700;
+                                        margin-bottom:0px !important;
+                        }
+
+#showbiz_1_2 .showbiz-description{
+                                margin-top:10px;
+                                text-align:center;
+                                font-size:13px;
+                                line-height:22px;
+                                color:#777;
+                                font-family: 'Open Sans', sans-serif;
+                            }
+
+#showbiz_1_2  ul li {
+                                margin-right:20px;                              
+
+                          }
+
+
+#showbiz_1_2  .detailholder	{
+                                background-color:#f5f5f5;
+                                padding:10px 20px 10px;
+                                border-radius:0px 0px 6px 6px;
+                                -moz-border-radius:0px 0px 6px 6px;
+                                -webkit-border-radius:0px 0px 6px 6px;
+								border-left: 1px solid #e8e8e8;
+								border-right: 1px solid #e8e8e8;
+								border-bottom: 1px solid #e8e8e8;
+                            }
+
+#showbiz_1_2  .mediaholder_innerwrap  {
+                                border-radius:6px 6px 0px 0px;
+                                -moz-border-radius:6px 6px 0px 0px;
+                                -webkit-border-radius:6px 6px 0px 0px;
+                                }
+
+#showbiz_1_2  .hovercover	{
+                                background:rgba(0,168,255,0.75);
+                                border-radius:6px 6px 0px 0px;
+                                -moz-border-radius:6px 6px 0px 0px;
+                                -webkit-border-radius:6px 6px 0px 0px;
+                      }
+
+#showbiz_1_2  .reveal_wrapper	{
+                                border-radius:6px;
+                                -moz-border-radius:6px;
+                                -webkit-border-radius:6px;
+                                } 
+				
+				.showbiz-drag-mouse {
+					cursor:url(http://kkp.go.id/wp-content/plugins/showbiz/showbiz-plugin/css/openhand.cur), move;
+				}
+				.showbiz-drag-mouse.dragged {
+					cursor:url(http://kkp.go.id/wp-content/plugins/showbiz/showbiz-plugin/css/closedhand.cur), move;
+				}
+			</style>
+						
+			<div id="showbiz_1_2" class="showbiz-container" style="margin:0px auto;margin-top:0px;margin-bottom:0px;">
+				
+								
+				<div class="showbiz" >
+					<div class="overflowholder">
+					
+						<ul>					<li>
+						<!-- THE MEDIA HOLDER -->
+<div class="mediaholder">
+	<div class="mediaholder_innerwrap">
+		<img alt="" src="http://kkp.go.id/wp-content/uploads/2016/08/1-200x100.jpg" style="height: auto;" width="200" height="100" >
+
+        <!-- HOVER EFFECTS , hovercover CLASS IS PREDEFINED CLASS -->
+		<div class="hovercover">
+			<!-- LINK TO POST -->
+			<a href="http://kkp.go.id/2016/08/03/sosialisasi-reformasi-birokrasi-kkp/">
+				<div class="linkicon notalone"><i class="sb-icon-link"></i></div>
+			</a>
+			<!-- LIGHTBOX FANCYBOX WITH THE IMAGE -->
+			<a class="fancybox" rel="group" href="http://kkp.go.id/wp-content/uploads/2016/08/1.jpg"><div class="lupeicon notalone"><i class="sb-icon-search"></i></div></a>
+		</div>
+	</div>
+</div>
+<!-- END OF MEDIA HOLDER HERE -->
+
+
+<!-- THE VISIBLE CONTENT HOLDER ON THE TEASER-->
+<div class="detailholder">
+
+		<h4 class="showbiz-title txt-center"><a href="http://kkp.go.id/2016/08/03/sosialisasi-reformasi-birokrasi-kkp/">Sosialisasi Reformasi Birokrasi KKP</a></h4>
+		<div class="divide5"></div>
+		<p class="txt-center"></p>
+</div>					</li>
+					
+									<li>
+						<!-- THE MEDIA HOLDER -->
+<div class="mediaholder">
+	<div class="mediaholder_innerwrap">
+		<img alt="" src="http://kkp.go.id/wp-content/uploads/2016/08/PSX_20160801_152027-200x100.jpg" style="height: auto;" width="200" height="100" >
+
+        <!-- HOVER EFFECTS , hovercover CLASS IS PREDEFINED CLASS -->
+		<div class="hovercover">
+			<!-- LINK TO POST -->
+			<a href="http://kkp.go.id/2016/08/02/berita-foto-mkp-prescon-2/">
+				<div class="linkicon notalone"><i class="sb-icon-link"></i></div>
+			</a>
+			<!-- LIGHTBOX FANCYBOX WITH THE IMAGE -->
+			<a class="fancybox" rel="group" href="http://kkp.go.id/wp-content/uploads/2016/08/PSX_20160801_152027.jpg"><div class="lupeicon notalone"><i class="sb-icon-search"></i></div></a>
+		</div>
+	</div>
+</div>
+<!-- END OF MEDIA HOLDER HERE -->
+
+
+<!-- THE VISIBLE CONTENT HOLDER ON THE TEASER-->
+<div class="detailholder">
+
+		<h4 class="showbiz-title txt-center"><a href="http://kkp.go.id/2016/08/02/berita-foto-mkp-prescon-2/">Menteri Susi menegaskan lelang program...</a></h4>
+		<div class="divide5"></div>
+		<p class="txt-center"></p>
+</div>					</li>
+					
+									<li>
+						<!-- THE MEDIA HOLDER -->
+<div class="mediaholder">
+	<div class="mediaholder_innerwrap">
+		<img alt="" src="http://kkp.go.id/wp-content/uploads/2016/08/IMG_8458-200x100.jpg" style="height: auto;" width="200" height="100" >
+
+        <!-- HOVER EFFECTS , hovercover CLASS IS PREDEFINED CLASS -->
+		<div class="hovercover">
+			<!-- LINK TO POST -->
+			<a href="http://kkp.go.id/2016/08/01/foto-mou-dengan-palau/">
+				<div class="linkicon notalone"><i class="sb-icon-link"></i></div>
+			</a>
+			<!-- LIGHTBOX FANCYBOX WITH THE IMAGE -->
+			<a class="fancybox" rel="group" href="http://kkp.go.id/wp-content/uploads/2016/08/IMG_8458.jpg"><div class="lupeicon notalone"><i class="sb-icon-search"></i></div></a>
+		</div>
+	</div>
+</div>
+<!-- END OF MEDIA HOLDER HERE -->
+
+
+<!-- THE VISIBLE CONTENT HOLDER ON THE TEASER-->
+<div class="detailholder">
+
+		<h4 class="showbiz-title txt-center"><a href="http://kkp.go.id/2016/08/01/foto-mou-dengan-palau/">Foto MoU dengan Palau</a></h4>
+		<div class="divide5"></div>
+		<p class="txt-center"></p>
+</div>					</li>
+					
+									<li>
+						<!-- THE MEDIA HOLDER -->
+<div class="mediaholder">
+	<div class="mediaholder_innerwrap">
+		<img alt="" src="http://kkp.go.id/wp-content/uploads/2016/08/IMG_8595-200x100.jpg" style="height: auto;" width="200" height="100" >
+
+        <!-- HOVER EFFECTS , hovercover CLASS IS PREDEFINED CLASS -->
+		<div class="hovercover">
+			<!-- LINK TO POST -->
+			<a href="http://kkp.go.id/2016/08/01/foto-mou-dengan-fiji/">
+				<div class="linkicon notalone"><i class="sb-icon-link"></i></div>
+			</a>
+			<!-- LIGHTBOX FANCYBOX WITH THE IMAGE -->
+			<a class="fancybox" rel="group" href="http://kkp.go.id/wp-content/uploads/2016/08/IMG_8595.jpg"><div class="lupeicon notalone"><i class="sb-icon-search"></i></div></a>
+		</div>
+	</div>
+</div>
+<!-- END OF MEDIA HOLDER HERE -->
+
+
+<!-- THE VISIBLE CONTENT HOLDER ON THE TEASER-->
+<div class="detailholder">
+
+		<h4 class="showbiz-title txt-center"><a href="http://kkp.go.id/2016/08/01/foto-mou-dengan-fiji/">Foto MoU dengan Fiji</a></h4>
+		<div class="divide5"></div>
+		<p class="txt-center"></p>
+</div>					</li>
+					
+									<li>
+						<!-- THE MEDIA HOLDER -->
+<div class="mediaholder">
+	<div class="mediaholder_innerwrap">
+		<img alt="" src="http://kkp.go.id/wp-content/uploads/2016/08/IMG_8021-200x100.jpg" style="height: auto;" width="200" height="100" >
+
+        <!-- HOVER EFFECTS , hovercover CLASS IS PREDEFINED CLASS -->
+		<div class="hovercover">
+			<!-- LINK TO POST -->
+			<a href="http://kkp.go.id/2016/08/01/foto-pertemuan-mkp-dengan-menteri-vietnam/">
+				<div class="linkicon notalone"><i class="sb-icon-link"></i></div>
+			</a>
+			<!-- LIGHTBOX FANCYBOX WITH THE IMAGE -->
+			<a class="fancybox" rel="group" href="http://kkp.go.id/wp-content/uploads/2016/08/IMG_8021.jpg"><div class="lupeicon notalone"><i class="sb-icon-search"></i></div></a>
+		</div>
+	</div>
+</div>
+<!-- END OF MEDIA HOLDER HERE -->
+
+
+<!-- THE VISIBLE CONTENT HOLDER ON THE TEASER-->
+<div class="detailholder">
+
+		<h4 class="showbiz-title txt-center"><a href="http://kkp.go.id/2016/08/01/foto-pertemuan-mkp-dengan-menteri-vietnam/">Foto pertemuan MKP dengan Menteri...</a></h4>
+		<div class="divide5"></div>
+		<p class="txt-center"></p>
+</div>					</li>
+					
+									<li>
+						<!-- THE MEDIA HOLDER -->
+<div class="mediaholder">
+	<div class="mediaholder_innerwrap">
+		<img alt="" src="http://kkp.go.id/wp-content/uploads/2016/08/IMG_8607-200x100.jpg" style="height: auto;" width="200" height="100" >
+
+        <!-- HOVER EFFECTS , hovercover CLASS IS PREDEFINED CLASS -->
+		<div class="hovercover">
+			<!-- LINK TO POST -->
+			<a href="http://kkp.go.id/2016/08/01/pictures-of-private-dinner-with-palau-and-fiji/">
+				<div class="linkicon notalone"><i class="sb-icon-link"></i></div>
+			</a>
+			<!-- LIGHTBOX FANCYBOX WITH THE IMAGE -->
+			<a class="fancybox" rel="group" href="http://kkp.go.id/wp-content/uploads/2016/08/IMG_8607.jpg"><div class="lupeicon notalone"><i class="sb-icon-search"></i></div></a>
+		</div>
+	</div>
+</div>
+<!-- END OF MEDIA HOLDER HERE -->
+
+
+<!-- THE VISIBLE CONTENT HOLDER ON THE TEASER-->
+<div class="detailholder">
+
+		<h4 class="showbiz-title txt-center"><a href="http://kkp.go.id/2016/08/01/pictures-of-private-dinner-with-palau-and-fiji/">Pictures of Private Dinner with...</a></h4>
+		<div class="divide5"></div>
+		<p class="txt-center"></p>
+</div>					</li>
+					
+									<li>
+						<!-- THE MEDIA HOLDER -->
+<div class="mediaholder">
+	<div class="mediaholder_innerwrap">
+		<img alt="" src="http://kkp.go.id/wp-content/uploads/2016/07/3-200x100.jpg" style="height: auto;" width="200" height="100" >
+
+        <!-- HOVER EFFECTS , hovercover CLASS IS PREDEFINED CLASS -->
+		<div class="hovercover">
+			<!-- LINK TO POST -->
+			<a href="http://kkp.go.id/2016/07/29/bilateral-meeting-ri-philipina-bali-27-juli-2016/">
+				<div class="linkicon notalone"><i class="sb-icon-link"></i></div>
+			</a>
+			<!-- LIGHTBOX FANCYBOX WITH THE IMAGE -->
+			<a class="fancybox" rel="group" href="http://kkp.go.id/wp-content/uploads/2016/07/3.jpg"><div class="lupeicon notalone"><i class="sb-icon-search"></i></div></a>
+		</div>
+	</div>
+</div>
+<!-- END OF MEDIA HOLDER HERE -->
+
+
+<!-- THE VISIBLE CONTENT HOLDER ON THE TEASER-->
+<div class="detailholder">
+
+		<h4 class="showbiz-title txt-center"><a href="http://kkp.go.id/2016/07/29/bilateral-meeting-ri-philipina-bali-27-juli-2016/">Bilateral Meeting RI – Philipina,...</a></h4>
+		<div class="divide5"></div>
+		<p class="txt-center"></p>
+</div>					</li>
+					
+									<li>
+						<!-- THE MEDIA HOLDER -->
+<div class="mediaholder">
+	<div class="mediaholder_innerwrap">
+		<img alt="" src="http://kkp.go.id/wp-content/uploads/2016/07/Regional-Fisheries-Summit-1-200x100.jpg" style="height: auto;" width="200" height="100" >
+
+        <!-- HOVER EFFECTS , hovercover CLASS IS PREDEFINED CLASS -->
+		<div class="hovercover">
+			<!-- LINK TO POST -->
+			<a href="http://kkp.go.id/2016/07/29/ministerial-meeting-on-traceability-of-fish-and-fisheries-product-2/">
+				<div class="linkicon notalone"><i class="sb-icon-link"></i></div>
+			</a>
+			<!-- LIGHTBOX FANCYBOX WITH THE IMAGE -->
+			<a class="fancybox" rel="group" href="http://kkp.go.id/wp-content/uploads/2016/07/Regional-Fisheries-Summit-1.jpg"><div class="lupeicon notalone"><i class="sb-icon-search"></i></div></a>
+		</div>
+	</div>
+</div>
+<!-- END OF MEDIA HOLDER HERE -->
+
+
+<!-- THE VISIBLE CONTENT HOLDER ON THE TEASER-->
+<div class="detailholder">
+
+		<h4 class="showbiz-title txt-center"><a href="http://kkp.go.id/2016/07/29/ministerial-meeting-on-traceability-of-fish-and-fisheries-product-2/">Ministerial Meeting On Traceability Of...</a></h4>
+		<div class="divide5"></div>
+		<p class="txt-center"></p>
+</div>					</li>
+					
+									<li>
+						<!-- THE MEDIA HOLDER -->
+<div class="mediaholder">
+	<div class="mediaholder_innerwrap">
+		<img alt="" src="http://kkp.go.id/wp-content/uploads/2016/07/6Kunjungan-MKP-Ke-TPI-Muara-Baru-200x100.jpg" style="height: auto;" width="200" height="100" >
+
+        <!-- HOVER EFFECTS , hovercover CLASS IS PREDEFINED CLASS -->
+		<div class="hovercover">
+			<!-- LINK TO POST -->
+			<a href="http://kkp.go.id/2016/07/22/kunjungan-mkp-ke-tpi-muara-baru/">
+				<div class="linkicon notalone"><i class="sb-icon-link"></i></div>
+			</a>
+			<!-- LIGHTBOX FANCYBOX WITH THE IMAGE -->
+			<a class="fancybox" rel="group" href="http://kkp.go.id/wp-content/uploads/2016/07/6Kunjungan-MKP-Ke-TPI-Muara-Baru.jpg"><div class="lupeicon notalone"><i class="sb-icon-search"></i></div></a>
+		</div>
+	</div>
+</div>
+<!-- END OF MEDIA HOLDER HERE -->
+
+
+<!-- THE VISIBLE CONTENT HOLDER ON THE TEASER-->
+<div class="detailholder">
+
+		<h4 class="showbiz-title txt-center"><a href="http://kkp.go.id/2016/07/22/kunjungan-mkp-ke-tpi-muara-baru/">Kunjungan MKP Ke TPI Muara...</a></h4>
+		<div class="divide5"></div>
+		<p class="txt-center"></p>
+</div>					</li>
+					
+									<li>
+						<!-- THE MEDIA HOLDER -->
+<div class="mediaholder">
+	<div class="mediaholder_innerwrap">
+		<img alt="" src="http://kkp.go.id/wp-content/uploads/2016/07/4KKP-Lelang-Sitaan-Silver-Sea-2-senilai-2-Miliar-200x100.jpg" style="height: auto;" width="200" height="100" >
+
+        <!-- HOVER EFFECTS , hovercover CLASS IS PREDEFINED CLASS -->
+		<div class="hovercover">
+			<!-- LINK TO POST -->
+			<a href="http://kkp.go.id/2016/07/20/kkp-lelang-sitaan-silver-sea-2-senilai-2-miliar/">
+				<div class="linkicon notalone"><i class="sb-icon-link"></i></div>
+			</a>
+			<!-- LIGHTBOX FANCYBOX WITH THE IMAGE -->
+			<a class="fancybox" rel="group" href="http://kkp.go.id/wp-content/uploads/2016/07/4KKP-Lelang-Sitaan-Silver-Sea-2-senilai-2-Miliar.jpg"><div class="lupeicon notalone"><i class="sb-icon-search"></i></div></a>
+		</div>
+	</div>
+</div>
+<!-- END OF MEDIA HOLDER HERE -->
+
+
+<!-- THE VISIBLE CONTENT HOLDER ON THE TEASER-->
+<div class="detailholder">
+
+		<h4 class="showbiz-title txt-center"><a href="http://kkp.go.id/2016/07/20/kkp-lelang-sitaan-silver-sea-2-senilai-2-miliar/">KKP Lelang Sitaan Silver Sea...</a></h4>
+		<div class="divide5"></div>
+		<p class="txt-center"></p>
+</div>					</li>
+					
+									<li>
+						<!-- THE MEDIA HOLDER -->
+<div class="mediaholder">
+	<div class="mediaholder_innerwrap">
+		<img alt="" src="http://kkp.go.id/wp-content/uploads/2016/07/2Menteri-Susi-Bertemu-Pengusaha-Rusia-200x100.jpg" style="height: auto;" width="200" height="100" >
+
+        <!-- HOVER EFFECTS , hovercover CLASS IS PREDEFINED CLASS -->
+		<div class="hovercover">
+			<!-- LINK TO POST -->
+			<a href="http://kkp.go.id/2016/07/20/menteri-susi-bertemu-pengusaha-rusia/">
+				<div class="linkicon notalone"><i class="sb-icon-link"></i></div>
+			</a>
+			<!-- LIGHTBOX FANCYBOX WITH THE IMAGE -->
+			<a class="fancybox" rel="group" href="http://kkp.go.id/wp-content/uploads/2016/07/2Menteri-Susi-Bertemu-Pengusaha-Rusia.jpg"><div class="lupeicon notalone"><i class="sb-icon-search"></i></div></a>
+		</div>
+	</div>
+</div>
+<!-- END OF MEDIA HOLDER HERE -->
+
+
+<!-- THE VISIBLE CONTENT HOLDER ON THE TEASER-->
+<div class="detailholder">
+
+		<h4 class="showbiz-title txt-center"><a href="http://kkp.go.id/2016/07/20/menteri-susi-bertemu-pengusaha-rusia/">Menteri Susi Bertemu Pengusaha Rusia</a></h4>
+		<div class="divide5"></div>
+		<p class="txt-center"></p>
+</div>					</li>
+					
+									<li>
+						<!-- THE MEDIA HOLDER -->
+<div class="mediaholder">
+	<div class="mediaholder_innerwrap">
+		<img alt="" src="http://kkp.go.id/wp-content/uploads/2016/07/1MKP-Bersama-Selandia-Baru-Jalin-Kerjasama-Bidang-Perikanan-200x100.jpeg" style="height: auto;" width="200" height="100" >
+
+        <!-- HOVER EFFECTS , hovercover CLASS IS PREDEFINED CLASS -->
+		<div class="hovercover">
+			<!-- LINK TO POST -->
+			<a href="http://kkp.go.id/2016/07/18/mkp-bersama-selandia-baru-jalin-kerjasama-bidang-perikanan/">
+				<div class="linkicon notalone"><i class="sb-icon-link"></i></div>
+			</a>
+			<!-- LIGHTBOX FANCYBOX WITH THE IMAGE -->
+			<a class="fancybox" rel="group" href="http://kkp.go.id/wp-content/uploads/2016/07/1MKP-Bersama-Selandia-Baru-Jalin-Kerjasama-Bidang-Perikanan.jpeg"><div class="lupeicon notalone"><i class="sb-icon-search"></i></div></a>
+		</div>
+	</div>
+</div>
+<!-- END OF MEDIA HOLDER HERE -->
+
+
+<!-- THE VISIBLE CONTENT HOLDER ON THE TEASER-->
+<div class="detailholder">
+
+		<h4 class="showbiz-title txt-center"><a href="http://kkp.go.id/2016/07/18/mkp-bersama-selandia-baru-jalin-kerjasama-bidang-perikanan/">MKP Bersama Selandia Baru Jalin...</a></h4>
+		<div class="divide5"></div>
+		<p class="txt-center"></p>
+</div>					</li>
+					
+									<li>
+						<!-- THE MEDIA HOLDER -->
+<div class="mediaholder">
+	<div class="mediaholder_innerwrap">
+		<img alt="" src="http://kkp.go.id/wp-content/uploads/2016/07/2Menteri-Susi-Hadiri-Ulang-Tahun-Suryo-Paloh-200x100.jpeg" style="height: auto;" width="200" height="100" >
+
+        <!-- HOVER EFFECTS , hovercover CLASS IS PREDEFINED CLASS -->
+		<div class="hovercover">
+			<!-- LINK TO POST -->
+			<a href="http://kkp.go.id/2016/07/18/menteri-susi-hadiri-ulang-tahun-suryo-paloh/">
+				<div class="linkicon notalone"><i class="sb-icon-link"></i></div>
+			</a>
+			<!-- LIGHTBOX FANCYBOX WITH THE IMAGE -->
+			<a class="fancybox" rel="group" href="http://kkp.go.id/wp-content/uploads/2016/07/2Menteri-Susi-Hadiri-Ulang-Tahun-Suryo-Paloh.jpeg"><div class="lupeicon notalone"><i class="sb-icon-search"></i></div></a>
+		</div>
+	</div>
+</div>
+<!-- END OF MEDIA HOLDER HERE -->
+
+
+<!-- THE VISIBLE CONTENT HOLDER ON THE TEASER-->
+<div class="detailholder">
+
+		<h4 class="showbiz-title txt-center"><a href="http://kkp.go.id/2016/07/18/menteri-susi-hadiri-ulang-tahun-suryo-paloh/">Menteri Susi Hadiri Ulang Tahun...</a></h4>
+		<div class="divide5"></div>
+		<p class="txt-center"></p>
+</div>					</li>
+					
+									<li>
+						<!-- THE MEDIA HOLDER -->
+<div class="mediaholder">
+	<div class="mediaholder_innerwrap">
+		<img alt="" src="http://kkp.go.id/wp-content/uploads/2016/07/4KKP-Gelar-Acara-Halal-Bi-Halal-1-200x100.jpeg" style="height: auto;" width="200" height="100" >
+
+        <!-- HOVER EFFECTS , hovercover CLASS IS PREDEFINED CLASS -->
+		<div class="hovercover">
+			<!-- LINK TO POST -->
+			<a href="http://kkp.go.id/2016/07/18/kkp-gelar-acara-halal-bi-halal/">
+				<div class="linkicon notalone"><i class="sb-icon-link"></i></div>
+			</a>
+			<!-- LIGHTBOX FANCYBOX WITH THE IMAGE -->
+			<a class="fancybox" rel="group" href="http://kkp.go.id/wp-content/uploads/2016/07/4KKP-Gelar-Acara-Halal-Bi-Halal-1.jpeg"><div class="lupeicon notalone"><i class="sb-icon-search"></i></div></a>
+		</div>
+	</div>
+</div>
+<!-- END OF MEDIA HOLDER HERE -->
+
+
+<!-- THE VISIBLE CONTENT HOLDER ON THE TEASER-->
+<div class="detailholder">
+
+		<h4 class="showbiz-title txt-center"><a href="http://kkp.go.id/2016/07/18/kkp-gelar-acara-halal-bi-halal/">KKP Gelar Acara Halal Bi...</a></h4>
+		<div class="divide5"></div>
+		<p class="txt-center"></p>
+</div>					</li>
+					
+									<li>
+						<!-- THE MEDIA HOLDER -->
+<div class="mediaholder">
+	<div class="mediaholder_innerwrap">
+		<img alt="" src="http://kkp.go.id/wp-content/uploads/2016/07/1Rakor-Percepatan-Pembangunan-Natuna-200x100.jpg" style="height: auto;" width="200" height="100" >
+
+        <!-- HOVER EFFECTS , hovercover CLASS IS PREDEFINED CLASS -->
+		<div class="hovercover">
+			<!-- LINK TO POST -->
+			<a href="http://kkp.go.id/2016/07/13/rakor-percepatan-pembangunan-natuna/">
+				<div class="linkicon notalone"><i class="sb-icon-link"></i></div>
+			</a>
+			<!-- LIGHTBOX FANCYBOX WITH THE IMAGE -->
+			<a class="fancybox" rel="group" href="http://kkp.go.id/wp-content/uploads/2016/07/1Rakor-Percepatan-Pembangunan-Natuna.jpg"><div class="lupeicon notalone"><i class="sb-icon-search"></i></div></a>
+		</div>
+	</div>
+</div>
+<!-- END OF MEDIA HOLDER HERE -->
+
+
+<!-- THE VISIBLE CONTENT HOLDER ON THE TEASER-->
+<div class="detailholder">
+
+		<h4 class="showbiz-title txt-center"><a href="http://kkp.go.id/2016/07/13/rakor-percepatan-pembangunan-natuna/">Rakor Percepatan Pembangunan Natuna</a></h4>
+		<div class="divide5"></div>
+		<p class="txt-center"></p>
+</div>					</li>
+					
+									<li>
+						<!-- THE MEDIA HOLDER -->
+<div class="mediaholder">
+	<div class="mediaholder_innerwrap">
+		<img alt="" src="http://kkp.go.id/wp-content/uploads/2016/07/2Rakor-Satgas-115-Hari-Kedua-200x100.jpg" style="height: auto;" width="200" height="100" >
+
+        <!-- HOVER EFFECTS , hovercover CLASS IS PREDEFINED CLASS -->
+		<div class="hovercover">
+			<!-- LINK TO POST -->
+			<a href="http://kkp.go.id/2016/06/30/rakor-satgas-115-hari-kedua/">
+				<div class="linkicon notalone"><i class="sb-icon-link"></i></div>
+			</a>
+			<!-- LIGHTBOX FANCYBOX WITH THE IMAGE -->
+			<a class="fancybox" rel="group" href="http://kkp.go.id/wp-content/uploads/2016/07/2Rakor-Satgas-115-Hari-Kedua.jpg"><div class="lupeicon notalone"><i class="sb-icon-search"></i></div></a>
+		</div>
+	</div>
+</div>
+<!-- END OF MEDIA HOLDER HERE -->
+
+
+<!-- THE VISIBLE CONTENT HOLDER ON THE TEASER-->
+<div class="detailholder">
+
+		<h4 class="showbiz-title txt-center"><a href="http://kkp.go.id/2016/06/30/rakor-satgas-115-hari-kedua/">Rakor Satgas 115 Hari Kedua</a></h4>
+		<div class="divide5"></div>
+		<p class="txt-center"></p>
+</div>					</li>
+					
+									<li>
+						<!-- THE MEDIA HOLDER -->
+<div class="mediaholder">
+	<div class="mediaholder_innerwrap">
+		<img alt="" src="http://kkp.go.id/wp-content/uploads/2016/07/5MKP-Buka-Rakornas-Satgas-115-200x100.jpg" style="height: auto;" width="200" height="100" >
+
+        <!-- HOVER EFFECTS , hovercover CLASS IS PREDEFINED CLASS -->
+		<div class="hovercover">
+			<!-- LINK TO POST -->
+			<a href="http://kkp.go.id/2016/06/29/mkp-buka-rakornas-satgas-115/">
+				<div class="linkicon notalone"><i class="sb-icon-link"></i></div>
+			</a>
+			<!-- LIGHTBOX FANCYBOX WITH THE IMAGE -->
+			<a class="fancybox" rel="group" href="http://kkp.go.id/wp-content/uploads/2016/07/5MKP-Buka-Rakornas-Satgas-115.jpg"><div class="lupeicon notalone"><i class="sb-icon-search"></i></div></a>
+		</div>
+	</div>
+</div>
+<!-- END OF MEDIA HOLDER HERE -->
+
+
+<!-- THE VISIBLE CONTENT HOLDER ON THE TEASER-->
+<div class="detailholder">
+
+		<h4 class="showbiz-title txt-center"><a href="http://kkp.go.id/2016/06/29/mkp-buka-rakornas-satgas-115/">MKP Buka Rakornas Satgas 115</a></h4>
+		<div class="divide5"></div>
+		<p class="txt-center"></p>
+</div>					</li>
+					
+									<li>
+						<!-- THE MEDIA HOLDER -->
+<div class="mediaholder">
+	<div class="mediaholder_innerwrap">
+		<img alt="" src="http://kkp.go.id/wp-content/uploads/2016/07/3Rakornas-Satgas-115-200x100.jpg" style="height: auto;" width="200" height="100" >
+
+        <!-- HOVER EFFECTS , hovercover CLASS IS PREDEFINED CLASS -->
+		<div class="hovercover">
+			<!-- LINK TO POST -->
+			<a href="http://kkp.go.id/2016/06/29/rakornas-satgas-115/">
+				<div class="linkicon notalone"><i class="sb-icon-link"></i></div>
+			</a>
+			<!-- LIGHTBOX FANCYBOX WITH THE IMAGE -->
+			<a class="fancybox" rel="group" href="http://kkp.go.id/wp-content/uploads/2016/07/3Rakornas-Satgas-115.jpg"><div class="lupeicon notalone"><i class="sb-icon-search"></i></div></a>
+		</div>
+	</div>
+</div>
+<!-- END OF MEDIA HOLDER HERE -->
+
+
+<!-- THE VISIBLE CONTENT HOLDER ON THE TEASER-->
+<div class="detailholder">
+
+		<h4 class="showbiz-title txt-center"><a href="http://kkp.go.id/2016/06/29/rakornas-satgas-115/">Rakornas Satgas 115</a></h4>
+		<div class="divide5"></div>
+		<p class="txt-center"></p>
+</div>					</li>
+					
+									<li>
+						<!-- THE MEDIA HOLDER -->
+<div class="mediaholder">
+	<div class="mediaholder_innerwrap">
+		<img alt="" src="http://kkp.go.id/wp-content/uploads/2016/07/3MKP-Beri-Arahan-Di-Retreat-Hari-Ke-2-DJPB-Dan-Litbang-200x100.jpg" style="height: auto;" width="200" height="100" >
+
+        <!-- HOVER EFFECTS , hovercover CLASS IS PREDEFINED CLASS -->
+		<div class="hovercover">
+			<!-- LINK TO POST -->
+			<a href="http://kkp.go.id/2016/06/28/mkp-beri-arahan-di-retreat-hari-ke-2-djpb-dan-litbang/">
+				<div class="linkicon notalone"><i class="sb-icon-link"></i></div>
+			</a>
+			<!-- LIGHTBOX FANCYBOX WITH THE IMAGE -->
+			<a class="fancybox" rel="group" href="http://kkp.go.id/wp-content/uploads/2016/07/3MKP-Beri-Arahan-Di-Retreat-Hari-Ke-2-DJPB-Dan-Litbang.jpg"><div class="lupeicon notalone"><i class="sb-icon-search"></i></div></a>
+		</div>
+	</div>
+</div>
+<!-- END OF MEDIA HOLDER HERE -->
+
+
+<!-- THE VISIBLE CONTENT HOLDER ON THE TEASER-->
+<div class="detailholder">
+
+		<h4 class="showbiz-title txt-center"><a href="http://kkp.go.id/2016/06/28/mkp-beri-arahan-di-retreat-hari-ke-2-djpb-dan-litbang/">MKP Beri Arahan Di Retreat...</a></h4>
+		<div class="divide5"></div>
+		<p class="txt-center"></p>
+</div>					</li>
+					
+									<li>
+						<!-- THE MEDIA HOLDER -->
+<div class="mediaholder">
+	<div class="mediaholder_innerwrap">
+		<img alt="" src="http://kkp.go.id/wp-content/uploads/2016/07/3MKP-Kembali-Bahas-RAPBN-P-Di-Komisi-IV-DPR-200x100.jpg" style="height: auto;" width="200" height="100" >
+
+        <!-- HOVER EFFECTS , hovercover CLASS IS PREDEFINED CLASS -->
+		<div class="hovercover">
+			<!-- LINK TO POST -->
+			<a href="http://kkp.go.id/2016/06/28/mkp-kembali-bahas-rapbn-p-di-komisi-iv-dpr/">
+				<div class="linkicon notalone"><i class="sb-icon-link"></i></div>
+			</a>
+			<!-- LIGHTBOX FANCYBOX WITH THE IMAGE -->
+			<a class="fancybox" rel="group" href="http://kkp.go.id/wp-content/uploads/2016/07/3MKP-Kembali-Bahas-RAPBN-P-Di-Komisi-IV-DPR.jpg"><div class="lupeicon notalone"><i class="sb-icon-search"></i></div></a>
+		</div>
+	</div>
+</div>
+<!-- END OF MEDIA HOLDER HERE -->
+
+
+<!-- THE VISIBLE CONTENT HOLDER ON THE TEASER-->
+<div class="detailholder">
+
+		<h4 class="showbiz-title txt-center"><a href="http://kkp.go.id/2016/06/28/mkp-kembali-bahas-rapbn-p-di-komisi-iv-dpr/">MKP Kembali Bahas RAPBN-P Di...</a></h4>
+		<div class="divide5"></div>
+		<p class="txt-center"></p>
+</div>					</li>
+					
+									<li>
+						<!-- THE MEDIA HOLDER -->
+<div class="mediaholder">
+	<div class="mediaholder_innerwrap">
+		<img alt="" src="http://kkp.go.id/wp-content/uploads/2016/07/2Retreat-Evaluasi-Program-Prioritas-Di-DJPT-Dan-Budidaya-200x100.jpg" style="height: auto;" width="200" height="100" >
+
+        <!-- HOVER EFFECTS , hovercover CLASS IS PREDEFINED CLASS -->
+		<div class="hovercover">
+			<!-- LINK TO POST -->
+			<a href="http://kkp.go.id/2016/06/28/retreat-evaluasi-program-prioritas-di-djpt-dan-budidaya/">
+				<div class="linkicon notalone"><i class="sb-icon-link"></i></div>
+			</a>
+			<!-- LIGHTBOX FANCYBOX WITH THE IMAGE -->
+			<a class="fancybox" rel="group" href="http://kkp.go.id/wp-content/uploads/2016/07/2Retreat-Evaluasi-Program-Prioritas-Di-DJPT-Dan-Budidaya.jpg"><div class="lupeicon notalone"><i class="sb-icon-search"></i></div></a>
+		</div>
+	</div>
+</div>
+<!-- END OF MEDIA HOLDER HERE -->
+
+
+<!-- THE VISIBLE CONTENT HOLDER ON THE TEASER-->
+<div class="detailholder">
+
+		<h4 class="showbiz-title txt-center"><a href="http://kkp.go.id/2016/06/28/retreat-evaluasi-program-prioritas-di-djpt-dan-budidaya/">Retreat Evaluasi Program Prioritas Di...</a></h4>
+		<div class="divide5"></div>
+		<p class="txt-center"></p>
+</div>					</li>
+					
+									<li>
+						<!-- THE MEDIA HOLDER -->
+<div class="mediaholder">
+	<div class="mediaholder_innerwrap">
+		<img alt="" src="http://kkp.go.id/wp-content/uploads/2016/07/1Retreat-Hari-Kedua-Paparan-Dari-BKIPM-Dan-BPSDM-200x100.jpg" style="height: auto;" width="200" height="100" >
+
+        <!-- HOVER EFFECTS , hovercover CLASS IS PREDEFINED CLASS -->
+		<div class="hovercover">
+			<!-- LINK TO POST -->
+			<a href="http://kkp.go.id/2016/06/28/retreat-hari-kedua-paparan-dari-bkipm-dan-bpsdm/">
+				<div class="linkicon notalone"><i class="sb-icon-link"></i></div>
+			</a>
+			<!-- LIGHTBOX FANCYBOX WITH THE IMAGE -->
+			<a class="fancybox" rel="group" href="http://kkp.go.id/wp-content/uploads/2016/07/1Retreat-Hari-Kedua-Paparan-Dari-BKIPM-Dan-BPSDM.jpg"><div class="lupeicon notalone"><i class="sb-icon-search"></i></div></a>
+		</div>
+	</div>
+</div>
+<!-- END OF MEDIA HOLDER HERE -->
+
+
+<!-- THE VISIBLE CONTENT HOLDER ON THE TEASER-->
+<div class="detailholder">
+
+		<h4 class="showbiz-title txt-center"><a href="http://kkp.go.id/2016/06/28/retreat-hari-kedua-paparan-dari-bkipm-dan-bpsdm/">Retreat Hari Kedua Paparan Dari...</a></h4>
+		<div class="divide5"></div>
+		<p class="txt-center"></p>
+</div>					</li>
+					
+									<li>
+						<!-- THE MEDIA HOLDER -->
+<div class="mediaholder">
+	<div class="mediaholder_innerwrap">
+		<img alt="" src="http://kkp.go.id/wp-content/uploads/2016/06/20160626_PasarIkanMurah_Sarinah_Iqbal_DSC_2158-300x199-200x100.jpg" style="height: auto;" width="200" height="100" >
+
+        <!-- HOVER EFFECTS , hovercover CLASS IS PREDEFINED CLASS -->
+		<div class="hovercover">
+			<!-- LINK TO POST -->
+			<a href="http://kkp.go.id/2016/06/26/pasar-ikan-murah-kkp/">
+				<div class="linkicon notalone"><i class="sb-icon-link"></i></div>
+			</a>
+			<!-- LIGHTBOX FANCYBOX WITH THE IMAGE -->
+			<a class="fancybox" rel="group" href="http://kkp.go.id/wp-content/uploads/2016/06/20160626_PasarIkanMurah_Sarinah_Iqbal_DSC_2158-300x199.jpg"><div class="lupeicon notalone"><i class="sb-icon-search"></i></div></a>
+		</div>
+	</div>
+</div>
+<!-- END OF MEDIA HOLDER HERE -->
+
+
+<!-- THE VISIBLE CONTENT HOLDER ON THE TEASER-->
+<div class="detailholder">
+
+		<h4 class="showbiz-title txt-center"><a href="http://kkp.go.id/2016/06/26/pasar-ikan-murah-kkp/">Pasar Ikan Murah KKP</a></h4>
+		<div class="divide5"></div>
+		<p class="txt-center"></p>
+</div>					</li>
+					
+									<li>
+						<!-- THE MEDIA HOLDER -->
+<div class="mediaholder">
+	<div class="mediaholder_innerwrap">
+		<img alt="" src="http://kkp.go.id/wp-content/uploads/2016/07/RetreatEvaluasi_GMB3_Iqbal_DSC_2414-300x199-200x100.jpg" style="height: auto;" width="200" height="100" >
+
+        <!-- HOVER EFFECTS , hovercover CLASS IS PREDEFINED CLASS -->
+		<div class="hovercover">
+			<!-- LINK TO POST -->
+			<a href="http://kkp.go.id/2016/06/25/retreat-evaluasi-program-prioritas/">
+				<div class="linkicon notalone"><i class="sb-icon-link"></i></div>
+			</a>
+			<!-- LIGHTBOX FANCYBOX WITH THE IMAGE -->
+			<a class="fancybox" rel="group" href="http://kkp.go.id/wp-content/uploads/2016/07/RetreatEvaluasi_GMB3_Iqbal_DSC_2414-300x199.jpg"><div class="lupeicon notalone"><i class="sb-icon-search"></i></div></a>
+		</div>
+	</div>
+</div>
+<!-- END OF MEDIA HOLDER HERE -->
+
+
+<!-- THE VISIBLE CONTENT HOLDER ON THE TEASER-->
+<div class="detailholder">
+
+		<h4 class="showbiz-title txt-center"><a href="http://kkp.go.id/2016/06/25/retreat-evaluasi-program-prioritas/">Retreat Evaluasi Program Prioritas</a></h4>
+		<div class="divide5"></div>
+		<p class="txt-center"></p>
+</div>					</li>
+					
+									<li>
+						<!-- THE MEDIA HOLDER -->
+<div class="mediaholder">
+	<div class="mediaholder_innerwrap">
+		<img alt="" src="http://kkp.go.id/wp-content/uploads/2016/06/Up-013-300x199-200x100.jpg" style="height: auto;" width="200" height="100" >
+
+        <!-- HOVER EFFECTS , hovercover CLASS IS PREDEFINED CLASS -->
+		<div class="hovercover">
+			<!-- LINK TO POST -->
+			<a href="http://kkp.go.id/2016/06/24/chief-editors-meeting-cem-bersama-menteri-kelautan-dan-perikanan/">
+				<div class="linkicon notalone"><i class="sb-icon-link"></i></div>
+			</a>
+			<!-- LIGHTBOX FANCYBOX WITH THE IMAGE -->
+			<a class="fancybox" rel="group" href="http://kkp.go.id/wp-content/uploads/2016/06/Up-013-300x199.jpg"><div class="lupeicon notalone"><i class="sb-icon-search"></i></div></a>
+		</div>
+	</div>
+</div>
+<!-- END OF MEDIA HOLDER HERE -->
+
+
+<!-- THE VISIBLE CONTENT HOLDER ON THE TEASER-->
+<div class="detailholder">
+
+		<h4 class="showbiz-title txt-center"><a href="http://kkp.go.id/2016/06/24/chief-editors-meeting-cem-bersama-menteri-kelautan-dan-perikanan/">Chief Editors Meeting (CEM) bersama...</a></h4>
+		<div class="divide5"></div>
+		<p class="txt-center"></p>
+</div>					</li>
+					
+				</ul>					
+						<div class="sbclear"></div>
+					</div> 
+					<div class="sbclear"></div>
+				</div>
+				
+								
+			</div>
+			
+						
+						<script type="text/javascript">
+			
+							
+				jQuery(document).ready(function() {
+					
+					if(jQuery('#showbiz_1_2').showbizpro == undefined)
+						showbiz_showDoubleJqueryError('#showbiz_1_2');
+
+					jQuery('#showbiz_1_2').showbizpro({
+						dragAndScroll:"on",
+						carousel:"off",
+						allEntryAtOnce:"off",
+						closeOtherOverlays:"on",
+						entrySizeOffset:0,
+						heightOffsetBottom:0,
+						conteainerOffsetRight:0,
+						forceFullWidth:false,
+						visibleElementsArray:[4,3,2,1],
+						rewindFromEnd:"on",
+						autoPlay:"on",
+						scrollOrientation:"left",						
+						delay:"3000",
+						speed:"300",
+						easing:"Power1.easeOut"
+					});
+					
+										
+					jQuery(".fancybox").fancybox();
+					
+									});
+
+			</script>
+			
+							
+			<!-- END SHOWBIZ -->
+			
+			</div><div class="widget widget_text inner-container">			<div class="textwidget"><a href="http://kkp.go.id/category/album-foto/" target="_blank"><button type="button" class="btn btn-primary" style="margin-left: 0px;">Arsip Lainnya ></button></a></div>
+		</div></div>
+		</div>
+		<div class="ult-column col-md-4 " id="col-104-3">
+			<div class="colwrapper"><div class="agenda widget widget_text inner-container">			<div class="textwidget"><h4>INFOGRAFIS</h4></div>
+		</div><div class="widget widget_showbiz inner-container"> <h3 class="element-title"></h3>				
+			<!-- START SHOWBIZ 1.7.3 -->	
+			
+						
+						<style type="text/css">
+				/**************************************
+
+	STYLE SETTINGS FOR LIGHT SKIN
+
+***************************************/
+
+#showbiz_3_3.showbiz-container	{
+                            	max-width:1210px;
+                              	min-width:300px;
+                         	 }
+
+#showbiz_3_3 .showbiz-title		{
+                              	margin-top:10px;
+                                text-align:center;
+                            }
+
+#showbiz_3_3 .showbiz-title,
+#showbiz_3_3 .showbiz-title a,
+#showbiz_3_3 .showbiz-title a:visited,
+#showbiz_3_3 .showbiz-title a:hover	{
+                                color:#555;
+                                font-family: 'Open Sans', sans-serif;
+                                font-size:14px;
+                                text-transform:uppercase;
+                                text-decoration: none;
+                                font-weight:700;
+                                        margin-bottom:0px !important;
+                        }
+
+#showbiz_3_3 .showbiz-description{
+                                margin-top:10px;
+                                text-align:center;
+                                font-size:13px;
+                                line-height:22px;
+                                color:#777;
+                                font-family: 'Open Sans', sans-serif;
+                            }
+
+#showbiz_3_3  ul li {
+                                margin-right:20px;                              
+
+                          }
+
+
+#showbiz_3_3  .detailholder	{
+                                background-color:#f5f5f5;
+                                padding:10px 20px 10px;
+                                border-radius:0px 0px 6px 6px;
+                                -moz-border-radius:0px 0px 6px 6px;
+                                -webkit-border-radius:0px 0px 6px 6px;
+								border-left: 1px solid #e8e8e8;
+								border-right: 1px solid #e8e8e8;
+								border-bottom: 1px solid #e8e8e8;
+                            }
+
+#showbiz_3_3  .mediaholder_innerwrap  {
+                                border-radius:6px 6px 0px 0px;
+                                -moz-border-radius:6px 6px 0px 0px;
+                                -webkit-border-radius:6px 6px 0px 0px;
+                                }
+
+#showbiz_3_3  .hovercover	{
+                                background:rgba(0,168,255,0.75);
+                                border-radius:6px 6px 0px 0px;
+                                -moz-border-radius:6px 6px 0px 0px;
+                                -webkit-border-radius:6px 6px 0px 0px;
+                      }
+
+#showbiz_3_3  .reveal_wrapper	{
+                                border-radius:6px;
+                                -moz-border-radius:6px;
+                                -webkit-border-radius:6px;
+                                } 
+				
+				.showbiz-drag-mouse {
+					cursor:url(http://kkp.go.id/wp-content/plugins/showbiz/showbiz-plugin/css/openhand.cur), move;
+				}
+				.showbiz-drag-mouse.dragged {
+					cursor:url(http://kkp.go.id/wp-content/plugins/showbiz/showbiz-plugin/css/closedhand.cur), move;
+				}
+			</style>
+						
+			<div id="showbiz_3_3" class="showbiz-container" style="margin:0px auto;margin-top:0px;margin-bottom:10px;">
+				
+								
+				<div class="showbiz" >
+					<div class="overflowholder">
+					
+						<ul>					<li>
+						<!-- THE MEDIA HOLDER -->
+<div class="mediaholder">
+	<div class="mediaholder_innerwrap">
+		<img alt="" src="http://kkp.go.id/wp-content/uploads/2016/08/upload-RB-200x100.jpg" style="height: auto;" width="200" height="100" >
+
+        <!-- HOVER EFFECTS , hovercover CLASS IS PREDEFINED CLASS -->
+		<div class="hovercover">
+			<!-- LINK TO POST -->
+			<a href="http://kkp.go.id/2016/08/03/penguatan-sistem-manajemen-sdm-aparatur-sipil-negara/">
+				<div class="linkicon notalone"><i class="sb-icon-link"></i></div>
+			</a>
+			<!-- LIGHTBOX FANCYBOX WITH THE IMAGE -->
+			<a class="fancybox" rel="group" href="http://kkp.go.id/wp-content/uploads/2016/08/upload-RB.jpg"><div class="lupeicon notalone"><i class="sb-icon-search"></i></div></a>
+		</div>
+	</div>
+</div>
+<!-- END OF MEDIA HOLDER HERE -->
+
+
+<!-- THE VISIBLE CONTENT HOLDER ON THE TEASER-->
+<div class="detailholder">
+
+		<h4 class="showbiz-title txt-center"><a href="http://kkp.go.id/2016/08/03/penguatan-sistem-manajemen-sdm-aparatur-sipil-negara/">PENGUATAN SISTEM MANAJEMEN SDM APARATUR...</a></h4>
+		<div class="divide5"></div>
+		<p class="txt-center"></p>
+</div>					</li>
+					
+									<li>
+						<!-- THE MEDIA HOLDER -->
+<div class="mediaholder">
+	<div class="mediaholder_innerwrap">
+		<img alt="" src="http://kkp.go.id/wp-content/uploads/2016/08/Upload-RB2-200x100.jpg" style="height: auto;" width="200" height="100" >
+
+        <!-- HOVER EFFECTS , hovercover CLASS IS PREDEFINED CLASS -->
+		<div class="hovercover">
+			<!-- LINK TO POST -->
+			<a href="http://kkp.go.id/2016/08/03/pembuatan-sistem-manajemen-sdm-asn/">
+				<div class="linkicon notalone"><i class="sb-icon-link"></i></div>
+			</a>
+			<!-- LIGHTBOX FANCYBOX WITH THE IMAGE -->
+			<a class="fancybox" rel="group" href="http://kkp.go.id/wp-content/uploads/2016/08/Upload-RB2.jpg"><div class="lupeicon notalone"><i class="sb-icon-search"></i></div></a>
+		</div>
+	</div>
+</div>
+<!-- END OF MEDIA HOLDER HERE -->
+
+
+<!-- THE VISIBLE CONTENT HOLDER ON THE TEASER-->
+<div class="detailholder">
+
+		<h4 class="showbiz-title txt-center"><a href="http://kkp.go.id/2016/08/03/pembuatan-sistem-manajemen-sdm-asn/">Pembuatan Sistem Manajemen SDM ASN</a></h4>
+		<div class="divide5"></div>
+		<p class="txt-center"></p>
+</div>					</li>
+					
+									<li>
+						<!-- THE MEDIA HOLDER -->
+<div class="mediaholder">
+	<div class="mediaholder_innerwrap">
+		<img alt="" src="http://kkp.go.id/wp-content/uploads/2016/08/Upload-RB3-200x100.jpg" style="height: auto;" width="200" height="100" >
+
+        <!-- HOVER EFFECTS , hovercover CLASS IS PREDEFINED CLASS -->
+		<div class="hovercover">
+			<!-- LINK TO POST -->
+			<a href="http://kkp.go.id/2016/08/03/penguatan-sistem-manajemen-sdm-asn/">
+				<div class="linkicon notalone"><i class="sb-icon-link"></i></div>
+			</a>
+			<!-- LIGHTBOX FANCYBOX WITH THE IMAGE -->
+			<a class="fancybox" rel="group" href="http://kkp.go.id/wp-content/uploads/2016/08/Upload-RB3.jpg"><div class="lupeicon notalone"><i class="sb-icon-search"></i></div></a>
+		</div>
+	</div>
+</div>
+<!-- END OF MEDIA HOLDER HERE -->
+
+
+<!-- THE VISIBLE CONTENT HOLDER ON THE TEASER-->
+<div class="detailholder">
+
+		<h4 class="showbiz-title txt-center"><a href="http://kkp.go.id/2016/08/03/penguatan-sistem-manajemen-sdm-asn/">Penguatan Sistem Manajemen SDM ASN</a></h4>
+		<div class="divide5"></div>
+		<p class="txt-center"></p>
+</div>					</li>
+					
+									<li>
+						<!-- THE MEDIA HOLDER -->
+<div class="mediaholder">
+	<div class="mediaholder_innerwrap">
+		<img alt="" src="http://kkp.go.id/wp-content/uploads/2016/08/upload-RB4-200x100.jpg" style="height: auto;" width="200" height="100" >
+
+        <!-- HOVER EFFECTS , hovercover CLASS IS PREDEFINED CLASS -->
+		<div class="hovercover">
+			<!-- LINK TO POST -->
+			<a href="http://kkp.go.id/2016/08/03/4469/">
+				<div class="linkicon notalone"><i class="sb-icon-link"></i></div>
+			</a>
+			<!-- LIGHTBOX FANCYBOX WITH THE IMAGE -->
+			<a class="fancybox" rel="group" href="http://kkp.go.id/wp-content/uploads/2016/08/upload-RB4.jpg"><div class="lupeicon notalone"><i class="sb-icon-search"></i></div></a>
+		</div>
+	</div>
+</div>
+<!-- END OF MEDIA HOLDER HERE -->
+
+
+<!-- THE VISIBLE CONTENT HOLDER ON THE TEASER-->
+<div class="detailholder">
+
+		<h4 class="showbiz-title txt-center"><a href="http://kkp.go.id/2016/08/03/4469/">Realisasi Quick Wins 2016</a></h4>
+		<div class="divide5"></div>
+		<p class="txt-center"></p>
+</div>					</li>
+					
+									<li>
+						<!-- THE MEDIA HOLDER -->
+<div class="mediaholder">
+	<div class="mediaholder_innerwrap">
+		<img alt="" src="http://kkp.go.id/wp-content/uploads/2016/05/NT-mayday-2-200x100.jpg" style="height: auto;" width="200" height="100" >
+
+        <!-- HOVER EFFECTS , hovercover CLASS IS PREDEFINED CLASS -->
+		<div class="hovercover">
+			<!-- LINK TO POST -->
+			<a href="http://kkp.go.id/2016/05/01/hari-buruh-2016/">
+				<div class="linkicon notalone"><i class="sb-icon-link"></i></div>
+			</a>
+			<!-- LIGHTBOX FANCYBOX WITH THE IMAGE -->
+			<a class="fancybox" rel="group" href="http://kkp.go.id/wp-content/uploads/2016/05/NT-mayday-2.jpg"><div class="lupeicon notalone"><i class="sb-icon-search"></i></div></a>
+		</div>
+	</div>
+</div>
+<!-- END OF MEDIA HOLDER HERE -->
+
+
+<!-- THE VISIBLE CONTENT HOLDER ON THE TEASER-->
+<div class="detailholder">
+
+		<h4 class="showbiz-title txt-center"><a href="http://kkp.go.id/2016/05/01/hari-buruh-2016/">Hari Buruh 2016</a></h4>
+		<div class="divide5"></div>
+		<p class="txt-center"></p>
+</div>					</li>
+					
+									<li>
+						<!-- THE MEDIA HOLDER -->
+<div class="mediaholder">
+	<div class="mediaholder_innerwrap">
+		<img alt="" src="http://kkp.go.id/wp-content/uploads/2016/05/Regulasi-Pro-Konsumen-200x100.jpg" style="height: auto;" width="200" height="100" >
+
+        <!-- HOVER EFFECTS , hovercover CLASS IS PREDEFINED CLASS -->
+		<div class="hovercover">
+			<!-- LINK TO POST -->
+			<a href="http://kkp.go.id/2016/04/20/regulasi-pro-konsumen/">
+				<div class="linkicon notalone"><i class="sb-icon-link"></i></div>
+			</a>
+			<!-- LIGHTBOX FANCYBOX WITH THE IMAGE -->
+			<a class="fancybox" rel="group" href="http://kkp.go.id/wp-content/uploads/2016/05/Regulasi-Pro-Konsumen.jpg"><div class="lupeicon notalone"><i class="sb-icon-search"></i></div></a>
+		</div>
+	</div>
+</div>
+<!-- END OF MEDIA HOLDER HERE -->
+
+
+<!-- THE VISIBLE CONTENT HOLDER ON THE TEASER-->
+<div class="detailholder">
+
+		<h4 class="showbiz-title txt-center"><a href="http://kkp.go.id/2016/04/20/regulasi-pro-konsumen/">Regulasi Pro Konsumen</a></h4>
+		<div class="divide5"></div>
+		<p class="txt-center"></p>
+</div>					</li>
+					
+									<li>
+						<!-- THE MEDIA HOLDER -->
+<div class="mediaholder">
+	<div class="mediaholder_innerwrap">
+		<img alt="" src="http://kkp.go.id/wp-content/uploads/2016/05/Tingkat-Keberdayaan-Konsumen-200x100.jpg" style="height: auto;" width="200" height="100" >
+
+        <!-- HOVER EFFECTS , hovercover CLASS IS PREDEFINED CLASS -->
+		<div class="hovercover">
+			<!-- LINK TO POST -->
+			<a href="http://kkp.go.id/2016/04/20/tingkat-keberdayaan-konsumen-indonesia/">
+				<div class="linkicon notalone"><i class="sb-icon-link"></i></div>
+			</a>
+			<!-- LIGHTBOX FANCYBOX WITH THE IMAGE -->
+			<a class="fancybox" rel="group" href="http://kkp.go.id/wp-content/uploads/2016/05/Tingkat-Keberdayaan-Konsumen.jpg"><div class="lupeicon notalone"><i class="sb-icon-search"></i></div></a>
+		</div>
+	</div>
+</div>
+<!-- END OF MEDIA HOLDER HERE -->
+
+
+<!-- THE VISIBLE CONTENT HOLDER ON THE TEASER-->
+<div class="detailholder">
+
+		<h4 class="showbiz-title txt-center"><a href="http://kkp.go.id/2016/04/20/tingkat-keberdayaan-konsumen-indonesia/">Tingkat Keberdayaan Konsumen Indonesia</a></h4>
+		<div class="divide5"></div>
+		<p class="txt-center"></p>
+</div>					</li>
+					
+									<li>
+						<!-- THE MEDIA HOLDER -->
+<div class="mediaholder">
+	<div class="mediaholder_innerwrap">
+		<img alt="" src="http://kkp.go.id/wp-content/uploads/2016/05/Hak-dan-Kewajiban-Konsumen-200x100.jpg" style="height: auto;" width="200" height="100" >
+
+        <!-- HOVER EFFECTS , hovercover CLASS IS PREDEFINED CLASS -->
+		<div class="hovercover">
+			<!-- LINK TO POST -->
+			<a href="http://kkp.go.id/2016/04/20/2720/">
+				<div class="linkicon notalone"><i class="sb-icon-link"></i></div>
+			</a>
+			<!-- LIGHTBOX FANCYBOX WITH THE IMAGE -->
+			<a class="fancybox" rel="group" href="http://kkp.go.id/wp-content/uploads/2016/05/Hak-dan-Kewajiban-Konsumen.jpg"><div class="lupeicon notalone"><i class="sb-icon-search"></i></div></a>
+		</div>
+	</div>
+</div>
+<!-- END OF MEDIA HOLDER HERE -->
+
+
+<!-- THE VISIBLE CONTENT HOLDER ON THE TEASER-->
+<div class="detailholder">
+
+		<h4 class="showbiz-title txt-center"><a href="http://kkp.go.id/2016/04/20/2720/">Hak dan Kewajiban Konsumen</a></h4>
+		<div class="divide5"></div>
+		<p class="txt-center"></p>
+</div>					</li>
+					
+									<li>
+						<!-- THE MEDIA HOLDER -->
+<div class="mediaholder">
+	<div class="mediaholder_innerwrap">
+		<img alt="" src="http://kkp.go.id/wp-content/uploads/2016/05/dampak-pkh-200x100.png" style="height: auto;" width="200" height="100" >
+
+        <!-- HOVER EFFECTS , hovercover CLASS IS PREDEFINED CLASS -->
+		<div class="hovercover">
+			<!-- LINK TO POST -->
+			<a href="http://kkp.go.id/2016/04/13/dampak-program-keluarga-harapan/">
+				<div class="linkicon notalone"><i class="sb-icon-link"></i></div>
+			</a>
+			<!-- LIGHTBOX FANCYBOX WITH THE IMAGE -->
+			<a class="fancybox" rel="group" href="http://kkp.go.id/wp-content/uploads/2016/05/dampak-pkh.png"><div class="lupeicon notalone"><i class="sb-icon-search"></i></div></a>
+		</div>
+	</div>
+</div>
+<!-- END OF MEDIA HOLDER HERE -->
+
+
+<!-- THE VISIBLE CONTENT HOLDER ON THE TEASER-->
+<div class="detailholder">
+
+		<h4 class="showbiz-title txt-center"><a href="http://kkp.go.id/2016/04/13/dampak-program-keluarga-harapan/">Dampak Program Keluarga Harapan</a></h4>
+		<div class="divide5"></div>
+		<p class="txt-center"></p>
+</div>					</li>
+					
+									<li>
+						<!-- THE MEDIA HOLDER -->
+<div class="mediaholder">
+	<div class="mediaholder_innerwrap">
+		<img alt="" src="http://kkp.go.id/wp-content/uploads/2016/05/Infografis-Narasi-Tunggal-PKH-Kemensos-200x100.jpg" style="height: auto;" width="200" height="100" >
+
+        <!-- HOVER EFFECTS , hovercover CLASS IS PREDEFINED CLASS -->
+		<div class="hovercover">
+			<!-- LINK TO POST -->
+			<a href="http://kkp.go.id/2016/04/13/program-keluarga-harapan-kemensos/">
+				<div class="linkicon notalone"><i class="sb-icon-link"></i></div>
+			</a>
+			<!-- LIGHTBOX FANCYBOX WITH THE IMAGE -->
+			<a class="fancybox" rel="group" href="http://kkp.go.id/wp-content/uploads/2016/05/Infografis-Narasi-Tunggal-PKH-Kemensos.jpg"><div class="lupeicon notalone"><i class="sb-icon-search"></i></div></a>
+		</div>
+	</div>
+</div>
+<!-- END OF MEDIA HOLDER HERE -->
+
+
+<!-- THE VISIBLE CONTENT HOLDER ON THE TEASER-->
+<div class="detailholder">
+
+		<h4 class="showbiz-title txt-center"><a href="http://kkp.go.id/2016/04/13/program-keluarga-harapan-kemensos/">Program Keluarga Harapan Kemensos</a></h4>
+		<div class="divide5"></div>
+		<p class="txt-center"></p>
+</div>					</li>
+					
+				</ul>					
+						<div class="sbclear"></div>
+					</div> 
+					<div class="sbclear"></div>
+				</div>
+				
+								
+			</div>
+			
+						
+						<script type="text/javascript">
+			
+							
+				jQuery(document).ready(function() {
+					
+					if(jQuery('#showbiz_3_3').showbizpro == undefined)
+						showbiz_showDoubleJqueryError('#showbiz_3_3');
+
+					jQuery('#showbiz_3_3').showbizpro({
+						dragAndScroll:"on",
+						carousel:"off",
+						allEntryAtOnce:"off",
+						closeOtherOverlays:"on",
+						entrySizeOffset:0,
+						heightOffsetBottom:0,
+						conteainerOffsetRight:0,
+						forceFullWidth:false,
+						visibleElementsArray:[4,3,2,1],
+						rewindFromEnd:"on",
+						autoPlay:"on",
+						scrollOrientation:"left",						
+						delay:"3000",
+						speed:"300",
+						easing:"Power1.easeOut"
+					});
+					
+										
+					jQuery(".fancybox").fancybox();
+					
+									});
+
+			</script>
+			
+							
+			<!-- END SHOWBIZ -->
+			
+			</div><div class="widget widget_text inner-container">			<div class="textwidget"><a href="http://kkp.go.id/category/infographics/" target="_blank"><button type="button" class="btn btn-primary" style="margin-left: 0px;">Arsip Lainnya ></button></a></div>
+		</div></div>
+		</div>
+		</div></div>
+</div>
+<div class="ult-wrapper wrapper " id="wrapper-106">
+
+<div class="ult-container  container " id="container-106">
+<div class="row">
+		<div class="ult-column col-md-4 " id="col-106-1">
+			<div class="colwrapper"><div class="agenda widget widget_text inner-container">			<div class="textwidget"><h4>MEDIA LAINNYA</h4></div>
+		</div><div class="widget widget_ultimatumimage inner-container"><a href="http://news.kkp.go.id/" target="_blank"><img src="http://kkp.go.id/wp-content/uploads/2016/05/b_kkpnews.png" class="img-responsive" alt="http://kkp.go.id/wp-content/uploads/2016/05/b_kkpnews.png"/></a></div></div>
+		</div>
+		<div class="ult-column col-md-8 " id="col-106-2">
+			<div class="colwrapper"><div class="agenda widget widget_text inner-container">			<div class="textwidget"><h4>ARTIKEL</h4></div>
+		</div><div class="widget widget_ultimatumcustomcontent inner-container">                    <article class="post post-1896 post type-post status-publish format-standard hentry category-artikel entry post-inner   post-1896 ultimatepost-custom ">
+						<div class="post-inner">
+																						<h3 class="post-header">
+																			<a class="post-title" href="http://kkp.go.id/2016/05/10/pkh-untuk-pengurangan-kemiskinan-dan-ketimpangan-menuju-indonesia-sejahtera/">PKH UNTUK PENGURANGAN KEMISKINAN DAN KETIMPANGAN MENUJU INDONESIA SEJAHTERA</a>
+																	</h3>
+														
+																						<p class="post-excerpt">JAKARTA (April 2016) – Program Keluarga Harapan (PKH) menunjukkan dampak signifikan dalam mengurangi									...</p>
+																				</div>
+					</article>
+
+
+					<div style="clear:both"></div>                    <article class="post post-44 post type-post status-publish format-standard hentry category-artikel entry post-inner   post-44 ultimatepost-custom ">
+						<div class="post-inner">
+																						<h3 class="post-header">
+																			<a class="post-title" href="http://kkp.go.id/2015/07/10/artikel-publikasi/">Aksi Mogok Nelayan Thailand Atas Diberlakukannya Aturan Baru Pasca Peringatan Uni Eropa</a>
+																	</h3>
+														
+																						<p class="post-excerpt">Nelayan di Thailand telah melakukan pemogokan atas peraturan baru pemerintah yang mulai diberlakukan									...</p>
+																				</div>
+					</article>
+
+
+					<div style="clear:both"></div>                    <article class="post post-1706 post type-post status-publish format-standard hentry category-artikel entry post-inner   post-1706 ultimatepost-custom ">
+						<div class="post-inner">
+																						<h3 class="post-header">
+																			<a class="post-title" href="http://kkp.go.id/2015/05/13/english-pdb-perikanan-kementerian-kelautan-dan-perikanan-triwulan-i-2015/">PDB Perikanan Kementerian Kelautan dan Perikanan Triwulan I 2015</a>
+																	</h3>
+														
+																						<p class="post-excerpt">Salah satu indikator penting untuk mengetahui kondisi ekonomi di suatu negara dalam suatu periode te									...</p>
+																				</div>
+					</article>
+
+
+					<div style="clear:both"></div>		<div style="clear:both"></div>
+		</div><div class="widget widget_text inner-container">			<div class="textwidget"><a href="http://kkp.go.id/category/artikel/" target="_blank"><button type="button" class="btn btn-primary" style="margin-left: 0px;">Arsip Lainnya ></button></a></div>
+		</div></div>
+		</div>
+		</div></div>
+</div>
+<div class="ult-wrapper wrapper  hidden-phone hidden-tablet" id="wrapper-72">
+
+<div class="ult-container  container " id="container-72">
+<div class="row">
+		<div class="ult-column col-md-12 " id="col-72-1">
+			<div class="colwrapper"><div class="widget widget_text inner-container">			<div class="textwidget"><h5>INFO PEMERINTAH</h5></div>
+		</div><div class="hidden-tablet hidden-phone widget widget_showbiz inner-container"> <h3 class="element-title"></h3>				
+			<!-- START SHOWBIZ 1.7.3 -->	
+			
+						
+						<style type="text/css">
+				/**************************************
+
+	STYLE SETTINGS FOR LIGHT SKIN
+
+***************************************/
+
+#showbiz_4_4.showbiz-container	{
+                            	max-width:1210px;
+                              	min-width:300px;
+                         	 }
+
+#showbiz_4_4 .showbiz-title		{
+                              	margin-top:10px;
+                                text-align:center;
+                            }
+
+#showbiz_4_4 .showbiz-title,
+#showbiz_4_4 .showbiz-title a,
+#showbiz_4_4 .showbiz-title a:visited,
+#showbiz_4_4 .showbiz-title a:hover	{
+                                color:#555;
+                                font-family: 'Open Sans', sans-serif;
+                                font-size:14px;
+                                text-transform:uppercase;
+                                text-decoration: none;
+                                font-weight:700;
+                                        margin-bottom:0px !important;
+                        }
+
+#showbiz_4_4 .showbiz-description{
+                                margin-top:10px;
+                                text-align:center;
+                                font-size:13px;
+                                line-height:22px;
+                                color:#777;
+                                font-family: 'Open Sans', sans-serif;
+                            }
+
+#showbiz_4_4  ul li {
+                                margin-right:20px;                              
+
+                          }
+
+
+#showbiz_4_4  .detailholder	{
+                                background-color:#f5f5f5;
+                                padding:10px 20px 10px;
+                                border-radius:0px 0px 6px 6px;
+                                -moz-border-radius:0px 0px 6px 6px;
+                                -webkit-border-radius:0px 0px 6px 6px;
+								border-left: 1px solid #e8e8e8;
+								border-right: 1px solid #e8e8e8;
+								border-bottom: 1px solid #e8e8e8;
+                            }
+
+#showbiz_4_4  .mediaholder_innerwrap  {
+                                border-radius:6px 6px 0px 0px;
+                                -moz-border-radius:6px 6px 0px 0px;
+                                -webkit-border-radius:6px 6px 0px 0px;
+                                }
+
+#showbiz_4_4  .hovercover	{
+                                background:rgba(0,168,255,0.75);
+                                border-radius:6px 6px 0px 0px;
+                                -moz-border-radius:6px 6px 0px 0px;
+                                -webkit-border-radius:6px 6px 0px 0px;
+                      }
+
+#showbiz_4_4  .reveal_wrapper	{
+                                border-radius:6px;
+                                -moz-border-radius:6px;
+                                -webkit-border-radius:6px;
+                                }
+/*** WHITE NAV BUTTONS ***/
+#showbiz_4_4 .showbiz-navigation						{	margin-bottom:20px;}
+
+#showbiz_4_4 .sb-navigation-left,
+#showbiz_4_4 .sb-navigation-right,
+#showbiz_4_4 .sb-navigation-play						{	background:#fff; border:1px solid #d5d5d5; }
+
+#showbiz_4_4 .showbiz-navigation i						{	color:#777;   }
+
+#showbiz_4_4 .sb-navigation-left:hover,
+#showbiz_4_4 .sb-navigation-right:hover					{	border:1px solid #b5b5b5;}
+
+#showbiz_4_4 .sb-navigation-left.notclickable:hover,
+#showbiz_4_4 .sb-navigation-right.notclickable:hover	{	border:1px solid #d5d5d5;} 
+				
+				.showbiz-drag-mouse {
+					cursor:url(http://kkp.go.id/wp-content/plugins/showbiz/showbiz-plugin/css/openhand.cur), move;
+				}
+				.showbiz-drag-mouse.dragged {
+					cursor:url(http://kkp.go.id/wp-content/plugins/showbiz/showbiz-plugin/css/closedhand.cur), move;
+				}
+			</style>
+						
+			<div id="showbiz_4_4" class="showbiz-container" style="margin:0px auto;margin-top:0px;margin-bottom:0px;">
+				
+								
+				<div class="showbiz"  data-left="#showbiz_left_4" data-right="#showbiz_right_4" data-play="#showbiz_play_4" >
+					<div class="overflowholder">
+					
+						<ul>					<li>
+						<!-- THE MEDIA HOLDER -->
+<div class="mediaholder">
+	<div class="mediaholder_innerwrap">
+		<img alt="" src="http://kkp.go.id/wp-content/uploads/2016/05/Revitalisasi-Pasar-Rakyat-7-150x150.jpg" style="height: auto;" width="150" height="150" >
+
+        <!-- HOVER EFFECTS , hovercover CLASS IS PREDEFINED CLASS -->
+		<div class="hovercover">
+			<!-- LINK TO POST -->
+			<a href="http://kkp.go.id/2016/05/13/revitalisasi-pasar-rakyat-7/">
+				<div class="linkicon notalone"><i class="sb-icon-link"></i></div>
+			</a>
+			<!-- LIGHTBOX FANCYBOX WITH THE IMAGE -->
+			<a class="fancybox" rel="group" href="http://kkp.go.id/wp-content/uploads/2016/05/Revitalisasi-Pasar-Rakyat-7.jpg"><div class="lupeicon notalone"><i class="sb-icon-search"></i></div></a>
+		</div>
+	</div>
+</div>
+<!-- END OF MEDIA HOLDER HERE -->
+
+
+<!-- THE VISIBLE CONTENT HOLDER ON THE TEASER-->
+<div class="detailholder">
+
+		<h4 class="showbiz-title txt-center"><a href="http://kkp.go.id/2016/05/13/revitalisasi-pasar-rakyat-7/">Revitalisasi Pasar 7</a></h4>
+		<div class="divide5"></div>
+		<p class="txt-center"></p>
+</div>					</li>
+					
+									<li>
+						<!-- THE MEDIA HOLDER -->
+<div class="mediaholder">
+	<div class="mediaholder_innerwrap">
+		<img alt="" src="http://kkp.go.id/wp-content/uploads/2016/05/Revitalisasi-Pasar-Rakya-6-150x150.jpg" style="height: auto;" width="150" height="150" >
+
+        <!-- HOVER EFFECTS , hovercover CLASS IS PREDEFINED CLASS -->
+		<div class="hovercover">
+			<!-- LINK TO POST -->
+			<a href="http://kkp.go.id/2016/05/13/revitalisasi-pasar-rakyat-6/">
+				<div class="linkicon notalone"><i class="sb-icon-link"></i></div>
+			</a>
+			<!-- LIGHTBOX FANCYBOX WITH THE IMAGE -->
+			<a class="fancybox" rel="group" href="http://kkp.go.id/wp-content/uploads/2016/05/Revitalisasi-Pasar-Rakya-6.jpg"><div class="lupeicon notalone"><i class="sb-icon-search"></i></div></a>
+		</div>
+	</div>
+</div>
+<!-- END OF MEDIA HOLDER HERE -->
+
+
+<!-- THE VISIBLE CONTENT HOLDER ON THE TEASER-->
+<div class="detailholder">
+
+		<h4 class="showbiz-title txt-center"><a href="http://kkp.go.id/2016/05/13/revitalisasi-pasar-rakyat-6/">Revitalisasi Pasar  6</a></h4>
+		<div class="divide5"></div>
+		<p class="txt-center"></p>
+</div>					</li>
+					
+									<li>
+						<!-- THE MEDIA HOLDER -->
+<div class="mediaholder">
+	<div class="mediaholder_innerwrap">
+		<img alt="" src="http://kkp.go.id/wp-content/uploads/2016/05/Revitalisasi-Pasar-Rakyat-5-150x150.jpg" style="height: auto;" width="150" height="150" >
+
+        <!-- HOVER EFFECTS , hovercover CLASS IS PREDEFINED CLASS -->
+		<div class="hovercover">
+			<!-- LINK TO POST -->
+			<a href="http://kkp.go.id/2016/05/13/revitalisasi-pasar-5/">
+				<div class="linkicon notalone"><i class="sb-icon-link"></i></div>
+			</a>
+			<!-- LIGHTBOX FANCYBOX WITH THE IMAGE -->
+			<a class="fancybox" rel="group" href="http://kkp.go.id/wp-content/uploads/2016/05/Revitalisasi-Pasar-Rakyat-5.jpg"><div class="lupeicon notalone"><i class="sb-icon-search"></i></div></a>
+		</div>
+	</div>
+</div>
+<!-- END OF MEDIA HOLDER HERE -->
+
+
+<!-- THE VISIBLE CONTENT HOLDER ON THE TEASER-->
+<div class="detailholder">
+
+		<h4 class="showbiz-title txt-center"><a href="http://kkp.go.id/2016/05/13/revitalisasi-pasar-5/">Revitalisasi Pasar 5</a></h4>
+		<div class="divide5"></div>
+		<p class="txt-center"></p>
+</div>					</li>
+					
+									<li>
+						<!-- THE MEDIA HOLDER -->
+<div class="mediaholder">
+	<div class="mediaholder_innerwrap">
+		<img alt="" src="http://kkp.go.id/wp-content/uploads/2016/05/Revitalisasi-Pasar-Rakyat-4-150x150.jpg" style="height: auto;" width="150" height="150" >
+
+        <!-- HOVER EFFECTS , hovercover CLASS IS PREDEFINED CLASS -->
+		<div class="hovercover">
+			<!-- LINK TO POST -->
+			<a href="http://kkp.go.id/2016/05/13/revitalisasi-pasar-4/">
+				<div class="linkicon notalone"><i class="sb-icon-link"></i></div>
+			</a>
+			<!-- LIGHTBOX FANCYBOX WITH THE IMAGE -->
+			<a class="fancybox" rel="group" href="http://kkp.go.id/wp-content/uploads/2016/05/Revitalisasi-Pasar-Rakyat-4.jpg"><div class="lupeicon notalone"><i class="sb-icon-search"></i></div></a>
+		</div>
+	</div>
+</div>
+<!-- END OF MEDIA HOLDER HERE -->
+
+
+<!-- THE VISIBLE CONTENT HOLDER ON THE TEASER-->
+<div class="detailholder">
+
+		<h4 class="showbiz-title txt-center"><a href="http://kkp.go.id/2016/05/13/revitalisasi-pasar-4/">Revitalisasi Pasar 4</a></h4>
+		<div class="divide5"></div>
+		<p class="txt-center"></p>
+</div>					</li>
+					
+									<li>
+						<!-- THE MEDIA HOLDER -->
+<div class="mediaholder">
+	<div class="mediaholder_innerwrap">
+		<img alt="" src="http://kkp.go.id/wp-content/uploads/2016/05/Revitalisasi-Pasar-Rakyat-3-150x150.jpg" style="height: auto;" width="150" height="150" >
+
+        <!-- HOVER EFFECTS , hovercover CLASS IS PREDEFINED CLASS -->
+		<div class="hovercover">
+			<!-- LINK TO POST -->
+			<a href="http://kkp.go.id/2016/05/13/revitalisasi-pasar-rakyat-3/">
+				<div class="linkicon notalone"><i class="sb-icon-link"></i></div>
+			</a>
+			<!-- LIGHTBOX FANCYBOX WITH THE IMAGE -->
+			<a class="fancybox" rel="group" href="http://kkp.go.id/wp-content/uploads/2016/05/Revitalisasi-Pasar-Rakyat-3.jpg"><div class="lupeicon notalone"><i class="sb-icon-search"></i></div></a>
+		</div>
+	</div>
+</div>
+<!-- END OF MEDIA HOLDER HERE -->
+
+
+<!-- THE VISIBLE CONTENT HOLDER ON THE TEASER-->
+<div class="detailholder">
+
+		<h4 class="showbiz-title txt-center"><a href="http://kkp.go.id/2016/05/13/revitalisasi-pasar-rakyat-3/">Revitalisasi Pasar  3</a></h4>
+		<div class="divide5"></div>
+		<p class="txt-center"></p>
+</div>					</li>
+					
+									<li>
+						<!-- THE MEDIA HOLDER -->
+<div class="mediaholder">
+	<div class="mediaholder_innerwrap">
+		<img alt="" src="http://kkp.go.id/wp-content/uploads/2016/05/Revitalisasi-Pasar-Rakyat-2-150x150.jpg" style="height: auto;" width="150" height="150" >
+
+        <!-- HOVER EFFECTS , hovercover CLASS IS PREDEFINED CLASS -->
+		<div class="hovercover">
+			<!-- LINK TO POST -->
+			<a href="http://kkp.go.id/2016/05/13/revitalisasi-pasar-rakyat-2/">
+				<div class="linkicon notalone"><i class="sb-icon-link"></i></div>
+			</a>
+			<!-- LIGHTBOX FANCYBOX WITH THE IMAGE -->
+			<a class="fancybox" rel="group" href="http://kkp.go.id/wp-content/uploads/2016/05/Revitalisasi-Pasar-Rakyat-2.jpg"><div class="lupeicon notalone"><i class="sb-icon-search"></i></div></a>
+		</div>
+	</div>
+</div>
+<!-- END OF MEDIA HOLDER HERE -->
+
+
+<!-- THE VISIBLE CONTENT HOLDER ON THE TEASER-->
+<div class="detailholder">
+
+		<h4 class="showbiz-title txt-center"><a href="http://kkp.go.id/2016/05/13/revitalisasi-pasar-rakyat-2/">Revitalisasi Pasar 2</a></h4>
+		<div class="divide5"></div>
+		<p class="txt-center"></p>
+</div>					</li>
+					
+				</ul>					
+						<div class="sbclear"></div>
+					</div> 
+					<div class="sbclear"></div>
+				</div>
+				
+									<!-- start navigation -->
+					<div class="showbiz-navigation center">
+	<a id="showbiz_left_4" class="sb-navigation-left"><i class="sb-icon-left-open"></i></a>
+	<a id="showbiz_play_4" class="sb-navigation-play"><i class="sb-icon-play sb-playbutton"></i><i class="sb-icon-pause sb-pausebutton"></i></a>					
+	<a id="showbiz_right_4" class="sb-navigation-right"><i class="sb-icon-right-open"></i></a>
+	<div class="sbclear"></div>
+</div>					<!--  end navigation -->
+								
+			</div>
+			
+						
+						<script type="text/javascript">
+			
+							
+				jQuery(document).ready(function() {
+					
+					if(jQuery('#showbiz_4_4').showbizpro == undefined)
+						showbiz_showDoubleJqueryError('#showbiz_4_4');
+
+					jQuery('#showbiz_4_4').showbizpro({
+						dragAndScroll:"off",
+						carousel:"off",
+						allEntryAtOnce:"off",
+						closeOtherOverlays:"on",
+						entrySizeOffset:0,
+						heightOffsetBottom:0,
+						conteainerOffsetRight:0,
+						forceFullWidth:false,
+						visibleElementsArray:[4,3,2,1],
+						rewindFromEnd:"on",
+						autoPlay:"on",
+						scrollOrientation:"left",						
+						delay:"3000",
+						speed:"300",
+						easing:"Power0.easeIn"
+					});
+					
+										
+					jQuery(".fancybox").fancybox();
+					
+									});
+
+			</script>
+			
+							
+			<!-- END SHOWBIZ -->
+			
+			</div><div class="widget widget_ultimatumwysiwyg inner-container"><p><a href="https://kominfo.go.id/content/all/artikel_gpr" target="_blank" rel="attachment wp-att-3662"><img class="size-full wp-image-3662 aligncenter" src="http://kkp.go.id/wp-content/uploads/2016/07/gpr.jpg" alt="gpr" width="1063" height="74" /></a></p>
+</div></div>
+		</div>
+		</div></div>
+</div>
+<div class="ult-wrapper wrapper " id="wrapper-108">
+
+<div class="ult-container  container " id="container-108">
+<div class="row">
+		<div class="ult-column col-md-12 " id="col-108-1">
+			<div class="colwrapper"><div class="hidden-tablet hidden-phone widget widget_ultimatumwysiwyg inner-container"><div align="center">
+<table style="height: 169px;" border="0" width="844" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td> <a href="http://maritim.go.id/" target="_blank" rel="attachment wp-att-3752"><img class="alignnone wp-image-3752 size-full" src="http://kkp.go.id/wp-content/uploads/2016/07/LOGOKEMENTERIAN.png" alt="LOGOKEMENTERIAN" width="250" height="60" /></a></td>
+<td> <a href="http://presidenri.go.id/" rel="attachment wp-att-4963"><img class="alignnone size-full wp-image-4963" src="http://kkp.go.id/wp-content/uploads/2016/08/LOGOPRESIDEN1.jpg" alt="LOGOPRESIDEN1" width="250" height="60" /></a></td>
+<td> <a href="http://www.setneg.go.id/" target="_blank" rel="attachment wp-att-3756"><img class="alignnone wp-image-3756 size-full" src="http://kkp.go.id/wp-content/uploads/2016/07/LOGOSEKNEG.png" alt="LOGOSEKNEG" width="250" height="60" /></a></td>
+<td> <a href="http://setkab.go.id/" target="_blank" rel="attachment wp-att-3772"><img class="alignnone wp-image-3772 size-full" src="http://kkp.go.id/wp-content/uploads/2016/07/LOGOSEKKAB-.png" alt="LOGOSEKKAB-" width="250" height="60" /></a></td>
+</tr>
+<tr>
+<td> <a href="https://www.bps.go.id/" target="_blank" rel="attachment wp-att-3760"><img class="alignnone wp-image-3760 size-full" src="http://kkp.go.id/wp-content/uploads/2016/07/LOGOBPS.png" alt="LOGOBPS" width="250" height="60" /></a></td>
+<td> <a href="http://www.bkpm.go.id/" target="_blank" rel="attachment wp-att-3762"><img class="alignnone wp-image-3762 size-full" src="http://kkp.go.id/wp-content/uploads/2016/07/LOGOBKPM.png" alt="LOGOBKPM" width="250" height="60" /></a></td>
+<td> <a href="https://kominfo.go.id/" target="_blank" rel="attachment wp-att-3764"><img class="alignnone wp-image-3764 size-full" src="http://kkp.go.id/wp-content/uploads/2016/07/LOGOKEMKOMINFO.png" alt="LOGOKEMKOMINFO" width="250" height="60" /></a></td>
+<td> <a href="http://www.bappenas.go.id/id/" target="_blank" rel="attachment wp-att-3766"><img class="alignnone wp-image-3766 size-full" src="http://kkp.go.id/wp-content/uploads/2016/07/LOGOBAPPENAS.png" alt="LOGOBAPPENAS" width="250" height="60" /></a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div><div class="widget widget_ultimatumwysiwyg inner-container"><p></p>
+</div></div>
+		</div>
+		</div></div>
+</div>
+<div class="ult-wrapper wrapper  hidden-phone hidden-tablet" id="wrapper-23">
+
+<div class="ult-container  container " id="container-23">
+<div class="row">
+		<div class="ult-column col-md-3 " id="col-23-1">
+			<div class="colwrapper"><div class="widget widget_text inner-container">			<div class="textwidget"><h1>TWITTER @kkpgoid</h1></div>
+		</div><div class="widget widget_text inner-container">			<div class="textwidget">            <a class="twitter-timeline"  href="https://twitter.com/kkpgoid" data-widget-id="718338187106590723">Tweet oleh @kkpgoid</a>
+            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+          </div>
+		</div></div>
+		</div>
+		<div class="ult-column col-md-3 " id="col-23-2">
+			<div class="colwrapper"><div class="widget widget_text inner-container">			<div class="textwidget"><h1>Facebook</h1></div>
+		</div><div class="widget widget_fblikebox_widget_shortcode inner-container"> <h3 class="element-title"></h3>		<div id="fb-root"></div>
+		<script>
+		  window.fbAsyncInit = function() {
+			FB.init({
+			  appId      : '846720078759202',
+			  xfbml      : true,
+			  version    : 'v2.4'
+			});
+		  };
+		(function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4&appId=846720078759202";
+		  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+		</script>
+
+		<div class="fb-page" data-href="https://www.facebook.com/pages/Kementerian-Kelautan-dan-Perikanan-Republik-Indonesia/1436132989984381?ref=hl&ref_type=bookmark" data-width="250" data-height="" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/facebook"><a href="https://www.facebook.com/facebook">Facebook</a></blockquote></div></div>
+		<p style="display: none;">WordPress Facebook Likebox Plugin Develop & Designed by <a href="http://awplife.com/">A WP Life Team</a></p>
+		</div><div class="widget widget_ultimatumsocial inner-container"> <h3 class="element-title">INSTAGRAM @kkpgoid</h3>		<div class="ult_social" style="text-align: left">
+			<a href="https://www.instagram.com/kkpgoid/" target="_blank" style="font-size:60px;line-height:60px"><i class="social-icon-instagram"></i></a>		</div>
+		</div></div>
+		</div>
+		<div class="ult-column col-md-3 " id="col-23-3">
+			<div class="colwrapper"><div class="widget widget_text inner-container">			<div class="textwidget"><h1>Radio</h1></div>
+		</div><div class="widget widget_ultimatumcustomcontent inner-container">                    <article class="post post-665 post type-post status-publish format-standard hentry category-radio entry post-inner   post-665 ultimatepost-custom ">
+						<div class="post-inner">
+																						<h3 class="post-header">
+																			<a class="post-title" href="http://kkp.go.id/2016/04/19/alokasi-anggaran-khusus-untuk-produksi-kapal-tangkap-ikan/">Alokasi Anggaran Khusus Untuk Produksi Kapal Tangkap Ikan</a>
+																	</h3>
+														
+																											</div>
+					</article>
+
+
+					<div style="clear:both"></div>                    <article class="post post-663 post type-post status-publish format-standard hentry category-radio entry post-inner   post-663 ultimatepost-custom ">
+						<div class="post-inner">
+																						<h3 class="post-header">
+																			<a class="post-title" href="http://kkp.go.id/2016/04/19/menteri-susi-meminta-eksekusi-penenggelaman-16-kapal-yang-tertangkap-tanpa-pengadilan/">Menteri Susi Meminta Eksekusi Penenggelaman 16 Kapal Yang Tertangkap Tanpa Pengadilan</a>
+																	</h3>
+														
+																											</div>
+					</article>
+
+
+					<div style="clear:both"></div>                    <article class="post post-659 post type-post status-publish format-standard hentry category-radio entry post-inner   post-659 ultimatepost-custom ">
+						<div class="post-inner">
+																						<h3 class="post-header">
+																			<a class="post-title" href="http://kkp.go.id/2016/04/19/menteri-susi-mengajak-pengusaha-rumput-laut-untuk-menyejahterakan-petani/">Menteri Susi Mengajak Pengusaha Rumput Laut Untuk Menyejahterakan Petani</a>
+																	</h3>
+														
+																											</div>
+					</article>
+
+
+					<div style="clear:both"></div>		<div style="clear:both"></div>
+		</div></div>
+		</div>
+		<div class="ult-column col-md-3 " id="col-23-4">
+			<div class="colwrapper"><div class="widget widget_text inner-container">			<div class="textwidget"><h1>Kontak</h1></div>
+		</div><div class="widget widget_ultimatumwysiwyg inner-container"><p><span style="color: #ffffff;"><strong>BIRO KERJA SAMA DAN HUMAS</p>
+<p></strong>Sekretariat Jenderal &#8211; Kementerian Kelautan dan Perikanan</span><br /><span style="color: #ffffff;">Gedung Mina Bahari I Lt 5</span><br /><span style="color: #ffffff;">Jl. Medan Merdeka Timur<br />No. 16 &#8211; Jakarta Pusat</span><br /><span style="color: #ffffff;">Telp. (021) 3519070</span><br /><span style="color: #ffffff;">EXT. 7433 &#8211; Fax. (021) 3864293</span><br /><span style="color: #ffffff;">Email: humas@kkp.go.id</span></p>
+</div></div>
+		</div>
+		</div></div>
+</div>
+<div class="ult-wrapper wrapper " id="wrapper-129">
+
+<div class="ult-container  container " id="container-129">
+<div class="row">
+		<div class="ult-column col-md-12 " id="col-129-1">
+			<div class="colwrapper"><div class="widget widget_text inner-container">			<div class="textwidget">Copyright © Biro Kerjasama dan HUMAS Kementrian Kelautan dan Perikanan.</div>
+		</div></div>
+		</div>
+		</div></div>
+</div>
+</div>
+
+<!-- WP Audio player plugin v1.9.5 - https://www.tipsandtricks-hq.com/wordpress-audio-music-player-plugin-4556/ -->
+    <script type="text/javascript">
+        soundManager.useFlashBlock = true; // optional - if used, required flashblock.css
+        soundManager.url = 'http://kkp.go.id/wp-content/plugins/compact-wp-audio-player/swf/soundmanager2.swf';
+        function play_mp3(flg, ids, mp3url, volume, loops)
+        {
+            //Check the file URL parameter value
+            var pieces = mp3url.split("|");
+            if (pieces.length > 1) {//We have got an .ogg file too
+                mp3file = pieces[0];
+                oggfile = pieces[1];
+                //set the file URL to be an array with the mp3 and ogg file
+                mp3url = new Array(mp3file, oggfile);
+            }
+
+            soundManager.createSound({
+                id: 'btnplay_' + ids,
+                volume: volume,
+                url: mp3url
+            });
+
+            if (flg == 'play') {
+                    soundManager.play('btnplay_' + ids, {
+                    onfinish: function() {
+                        if (loops == 'true') {
+                            loopSound('btnplay_' + ids);
+                        }
+                        else {
+                            document.getElementById('btnplay_' + ids).style.display = 'inline';
+                            document.getElementById('btnstop_' + ids).style.display = 'none';
+                        }
+                    }
+                });
+            }
+            else if (flg == 'stop') {
+    //soundManager.stop('btnplay_'+ids);
+                soundManager.pause('btnplay_' + ids);
+            }
+        }
+        function show_hide(flag, ids)
+        {
+            if (flag == 'play') {
+                document.getElementById('btnplay_' + ids).style.display = 'none';
+                document.getElementById('btnstop_' + ids).style.display = 'inline';
+            }
+            else if (flag == 'stop') {
+                document.getElementById('btnplay_' + ids).style.display = 'inline';
+                document.getElementById('btnstop_' + ids).style.display = 'none';
+            }
+        }
+        function loopSound(soundID)
+        {
+            window.setTimeout(function() {
+                soundManager.play(soundID, {onfinish: function() {
+                        loopSound(soundID);
+                    }});
+            }, 1);
+        }
+        function stop_all_tracks()
+        {
+            soundManager.stopAll();
+            var inputs = document.getElementsByTagName("input");
+            for (var i = 0; i < inputs.length; i++) {
+                if (inputs[i].id.indexOf("btnplay_") == 0) {
+                    inputs[i].style.display = 'inline';//Toggle the play button
+                }
+                if (inputs[i].id.indexOf("btnstop_") == 0) {
+                    inputs[i].style.display = 'none';//Hide the stop button
+                }
+            }
+        }
+    </script>
+    <div id="csbwfs-delaydiv"><div class="csbwfs-social-widget"  id="csbwfs-right" title="Share This With Your Friends"  style="top:25%;right:-5px;"><div class="csbwfs-show"><a href="javascript:" title="Show Buttons" id="csbwfs-show"><img src="http://kkp.go.id/wp-content/plugins/custom-share-buttons-with-floating-sidebar/images/hide-r.png" alt="Show Buttons"></a></div><div id="csbwfs-social-inner"><div class="csbwfs-sbutton csbwfsbtns"><div id="csbwfs-fb" class="csbwfs-fb"><a href="javascript:" onclick="javascript:window.open('//www.facebook.com/sharer/sharer.php?u=http://kkp.go.id/', '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;" target="_blank" title="Share On Facebook" ><img src="http://kkp.go.id/wp-content/plugins/custom-share-buttons-with-floating-sidebar/images/fb.png" alt="Share On Facebook" width="35" height="35" ></a></div></div><div class="csbwfs-sbutton csbwfsbtns"><div id="csbwfs-tw" class="csbwfs-tw"><a href="javascript:" onclick="window.open('//twitter.com/share?url=http://kkp.go.id/&text=KKP','_blank','width=800,height=300')" title="Share On Twitter" ><img src="http://kkp.go.id/wp-content/plugins/custom-share-buttons-with-floating-sidebar/images/tw.png" alt="Share On Twitter" width="35" height="35" ></a></div></div><div class="csbwfs-sbutton csbwfsbtns"><div id="csbwfs-gp" class="csbwfs-gp"><a href="javascript:"  onclick="javascript:window.open('//plus.google.com/share?url=http://kkp.go.id/','','menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=800');return false;" title="Share On Google Plus" ><img src="http://kkp.go.id/wp-content/plugins/custom-share-buttons-with-floating-sidebar/images/gp.png" alt="Share On Google Plus" width="35" height="35" ></a></div></div></div><div class="csbwfs-hide"><a href="javascript:" title="Hide Buttons" id="csbwfs-hide"><img src="http://kkp.go.id/wp-content/plugins/custom-share-buttons-with-floating-sidebar/images/show.png" alt="Hide Buttons"></a></div></div></div><script>
+	  var windWidth=jQuery( window ).width();
+	  //alert(windWidth);
+	  var animateWidth;
+	  var defaultAnimateWidth;
+	jQuery(document).ready(function()
+  { 
+	animateWidth="55";
+    defaultAnimateWidth= animateWidth-10;
+	animateHeight="49";
+	defaultAnimateHeight= animateHeight-2;jQuery("div.csbwfsbtns a").hover(function(){
+  jQuery(this).animate({width:animateWidth});
+  },function(){
+    jQuery(this).stop( true, true ).animate({width:defaultAnimateWidth});
+  });jQuery("div.csbwfs-show").hide();
+  jQuery("div.csbwfs-show a").click(function(){
+    jQuery("div#csbwfs-social-inner").show(500);
+     jQuery("div.csbwfs-show").hide(500);
+    jQuery("div.csbwfs-hide").show(500);
+    csbwfsSetCookie("csbwfs_show_hide_status","active","1");
+  });
+  
+  jQuery("div.csbwfs-hide a").click(function(){
+     jQuery("div.csbwfs-show").show(500);
+      jQuery("div.csbwfs-hide").hide(500);
+     jQuery("div#csbwfs-social-inner").hide(500);
+     csbwfsSetCookie("csbwfs_show_hide_status","in_active","1");
+  });var button_status=csbwfsGetCookie("csbwfs_show_hide_status");
+    if (button_status =="in_active") {
+      jQuery("div.csbwfs-show").show();
+      jQuery("div.csbwfs-hide").hide();
+     jQuery("div#csbwfs-social-inner").hide();
+    } else {
+      jQuery("div#csbwfs-social-inner").show();
+     jQuery("div.csbwfs-show").hide();
+    jQuery("div.csbwfs-hide").show();
+    }});
+
+</script><script>csbwfsCheckCookie();function csbwfsSetCookie(cname,cvalue,exdays) {
+    var d = new Date();
+    d.setTime(d.getTime() + (exdays*24*60*60*1000));
+    var expires = "expires=" + d.toGMTString();
+    document.cookie = cname+"="+cvalue+"; "+expires;
+}
+
+function csbwfsGetCookie(cname) {
+    var name = cname + "=";
+    var ca = document.cookie.split(';');
+    for(var i=0; i<ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0)==' ') c = c.substring(1);
+        if (c.indexOf(name) != -1) {
+            return c.substring(name.length, c.length);
+        }
+    }
+    return "";
+}
+
+function csbwfsCheckCookie() {
+    var button_status=csbwfsGetCookie("csbwfs_show_hide_status");
+    if (button_status != "") {
+        
+    } else {
+        csbwfsSetCookie("csbwfs_show_hide_status", "active",1);
+    }
+}
+
+</script>
+<!-- This section is created with the SZ-Google for WordPress plugin 1.9.4 -->
+<!-- ===================================================================== -->
+<!-- ===================================================================== -->
+<script type='text/javascript' src='http://kkp.go.id/wp-content/themes/ultimatum/assets/js/theme.global.tbs3.min.js?ver=2'></script>
+<script type='text/javascript' src='http://kkp.go.id/wp-includes/js/jquery/jquery.form.min.js?ver=3.37.0'></script>
+<script type='text/javascript' src='http://kkp.go.id/wp-includes/js/wp-embed.min.js?ver=4f03c4061e2973b3dc0935bb204ada79'></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-28820119-7', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</body>
+</html>

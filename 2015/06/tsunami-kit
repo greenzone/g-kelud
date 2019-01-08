@@ -1,0 +1,617 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns:t="urn:schemas-microsoft-com:time" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<script type="text/javascript" src="js/ifoldie.js"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Tsunami Kit - Mengembangkan Peringatan Dini dan Kesiapsiagaan Masyarakat di Indonesia</title>
+<meta name="description" content="Tsunami Kit - Mengembangkan Peringatan Dini dan Kesiapsiagaan Masyarakat di Indonesia" />
+<meta name="keyword" content="tsunami kit, early warning system, indonesia, java, bali, padang, risk knowledge" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="content-language" content="en-us" />
+<meta name="robots" content="index,follow" />
+<meta name="author" content="focus digital design - http://focus.co.id" />
+<meta name="distribution" content="global" />
+<meta name="revisit-after" content="1 days" />
+<meta name="googlebot" content="index,follow" />
+<meta name="msnbot" content="index,follow" />
+<meta name="yahoobot" content="index,follow" />
+<meta name="spiders" content="all" />
+<meta name="webcrawlers" content="all" />
+<link rel="shortcut icon" href="favicon.ico" />
+
+<link rel="stylesheet" media="all" type="text/css" href="css/reset.css" />
+
+<!--HOME ONLY-->
+<link rel="stylesheet" media="all" type="text/css" href="css/home.css" />
+<script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="js/ddaccordion.js">
+/***********************************************
+* Accordion Content script- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* Visit http://www.dynamicDrive.com for hundreds of DHTML scripts
+* This notice must stay intact for legal use
+***********************************************/
+</script>
+<script type="text/javascript">
+<!--
+ddaccordion.init({
+	headerclass: "headerAccordion", //Shared CSS class name of headers group
+	contentclass: "contentAccordion", //Shared CSS class name of contents group
+	revealtype: "mouseover", //Reveal content when user clicks or onmouseover the header? Valid value: "click", "clickgo", or "mouseover"
+	mouseoverdelay: 100, //if revealtype="mouseover", set delay in milliseconds before header expands onMouseover
+	collapseprev: true, //Collapse previous content (so only one open at any time)? true/false
+	defaultexpanded: [], //index of content(s) open by default [index1, index2, etc]. [] denotes no content.
+	onemustopen: false, //Specify whether at least one header should be open always (so never all headers closed)
+	animatedefault: true, //Should contents open by default be animated into view?
+	persiststate: false, //persist state of opened contents within browser session?
+	toggleclass: ["closedHeader", "openHeader"], //Two CSS classes to be applied to the header when it's collapsed and expanded, respectively ["class1", "class2"]
+	togglehtml: ["suffix", " <img src='css/home/close.gif' />", " <img src='css/home/open.gif' />"], //two images added to the end of the header
+	oninit:function(expandedindices){ //custom code to run when headers have initalized
+		//do nothing
+	},
+	onopenclose:function(header, index, state, isuseractivated){ //custom code to run whenever a header is opened or closed
+		//do nothing
+	}
+})
+-->
+</script>
+
+</head>
+<body>
+
+<div id="floater"></div>
+<div id="centered">
+	<div id="defaultContainer">
+	
+		<!--HEADER CONTAINER-->
+		<div id="homeHeaderContainer" class="cf">
+				<div id="homeLogo"><img alt="Tsunami Kit - Mengembangkan Peringatan Dini dan Kesiapsiagaan Masyarakat di Indonesia" src="images/tsunami-kit-logo.gif" style="width: 300px; height: 30px;" /><br />
+					<span><strong>Mengembangkan Peringatan Dini dan Kesiapsiagaan Masyarakat di Indonesia</strong></span> 
+        </div>
+				<div id="homeLangSearchContainer">
+					<img class="active" src="images/icon_flag_id.gif" alt="Versi Bahasa Indonesia" />&nbsp;<a href="index_en.html" title="English Version"><img src="images/icon_flag_en.gif" alt="English Version" class="lang_hovers" /></a>&nbsp;<a href="id/id_search.html" title="Cari"><img src="images/icon_find_id.gif" alt="Cari" class="lang_hovers" /></a>
+				</div>
+        <div id="toplogosContainer">
+        	<a href="id/E3/perangkat/Pedoman Pelayanan Peringatan Dini Tsunami InaTEWS (2).pdf" target="_blank" title="Indonesia Tsunami Early Warning System"><img src="images/indonesia-tsunami-early-warning-system.png" class="lang_hovers" /></a>
+        	<a href="id/3_langkah_tanggap_tsunami.html" title="3 Langkah Tanggap Tsunami"><img src="images/3-langkah-tanggap-tsunami.png" class="lang_hovers" /></a>
+      	</div>
+		</div><!--end homeHeaderContainer-->
+		
+		<div id="linkMenuWrap">
+				<ul id="linkmenu">
+						<li class="li-top"><a class="about" href="id/id_training.html" title="Modul Pelatihan">Modul Pelatihan</a></li>
+						<li class="li-top"><a class="about" href="id/id_capacity_building_in_local_communities.html" title="Proyek Kami">Proyek Kami</a></li>
+						<li class="li-top"><a class="top" href="javascript:void(0)" title="Links">Tautan
+								<!--[if gte IE 7]><!--></a><!--<![endif]-->
+								<!--[if lte IE 6]>
+								<table>
+									<tr>
+										<td><![endif]-->
+														<ul class="right">
+																<li class="innerhdl">
+																		<h2>Tautan</h2>
+																		<h3>Indonesia</h3>
+																		<ul class="innerlink">
+																			<li><a href="http://www.bmkg.go.id" target="_blank">Badan Meteorologi, Klimatologi dan Geofisika (BMKG)</a></li>
+																			<li><a href="http://www.bnpb.go.id/" target="_blank">Badan Nasional Penanggulangan Bencana (BNPB)</a></li>
+																			<li><a href="http://www.lipi.go.id/" target="_blank">Lembaga Ilmu Pengetahuan Indonesia (LIPI)</a></li>
+																			<li><a href="http://www.pirba.ristek.go.id/" target="_blank">Kementerian Negara Riset dan Teknologi (RISTEK) Pusat Informasi Riset Bencana Alam - PIRBA</a></li>
+																			<li><a href="http://www.iotic.ioc-unesco.org/" target="_blank">Indian Ocean Tsunami Information Centre (IOTIC)</a></li>
+																			<li><a href="http://www.kogami.or.id/" target="_blank">Komunitas Siaga Tsunami (KOGAMI)</a></li>
+																			<li><a href="http://inatews.bmkg.go.id/new/index.php" target="_blank">Indonesia Tsunami Early Warning System (InaTEWS)</a></li>
+																		</ul>
+																</li>
+																<li class="innerhdl">
+																		<h3>International</h3>
+																		<ul class="innerlink">
+																			<li><a href="http://www.ioc-tsunami.org/" target="_blank">UNESCO-International Oceanic Commission (UNESCO-IOC)</a></li>
+																			<li><a href="http://www.weather.gov/ptwc/" target="_blank">Pacific Tsunami Warning Centre (PTWC)</a></li>
+																			<li><a href="http://www.noaa.gov/" target="_blank">National Oceanic and Atmospheric Administration (NOAA)</a></li>
+																			<li><a href="http://earthquake.usgs.gov/earthquakes/map/" target="_blank">United States Geological Survey (USGS) – Earthquake Hazards Program</a></li>
+																			<li><a href="http://www.jma.go.jp/en/tsunami/" target="_blank">Japan Meteorological Agency (JMA) - Tsunami Warnings and Advisories</a></li>
+																			<li><a href="http://www.preventionweb.net" target="_blank">Prevention Web</a></li>
+																			<li><a href="http://www.gdacs.org/" target="_blank">Global Disaster Alert and Coordination System (GDACS)</a></li>
+																			<li><a href="http://www.gitews.org/" target="_blank">German-Indonesian Tsunami Early Warning System (GITEWS)</a></li>
+																			<li><a href="http://geofon.gfz-potsdam.de/geofon/" target="_blank">German Research Centre for Geosciences, Potsdam (GFZ) – GEOFON Program</a></li>
+																			<li><a href="http://www.giz.de/en/" target="_blank">German International Cooperation (GIZ)</a></li>
+																			<li><a href="http://www.geohaz.org/" target="_blank">Geo Hazard international</a></li>
+																			<li><a href="http://www.stopdisastersgame.org/en/home.html" target="_blank">Stop Disasters! A disaster simulation game from the UN/ISDR</a></li>
+																		</ul>
+																</li>
+														</ul>
+														<!--END ul.right-->
+														<!--[if lte IE 6]></td>
+									</tr>
+								</table>
+								</a><![endif]-->
+						</li>
+						<!--END li#li-top-->
+						</li>
+				</ul>
+				<!--END ul#linkmenu-->
+		</div>
+		<!--END #linkMenuWrap-->
+
+		<br class="clearfloat /">		
+		
+		<div id="flyList">
+			<div class="navigation">
+				<ul id="menu">
+						<li class="level1-li" id="one"><span class="time btn1" begin="one.mouseenter" end="one.mouseleave" timeaction="class:liHover">Pengetahuan tentang Risiko</span>
+							<div class="listHolder time" begin="one.mouseenter" end="one.mouseleave" timeaction="class:divShow">
+								<div class="listCol cont1">
+									<!--ELEMENT 1 START HERE-->
+									<div class="innerpanel">
+										<div class="listholderpad">
+												<!--elemet title-->
+												<h2>Pengetahuan tentang Risiko</h2>
+												<!--start element content-->
+													<div class="innerpad">
+														<div class="headerAccordion icon intro"><a href="javascript:void(0)">Pengantar</a></div>
+														<div class="contentAccordion">
+																<ul class="pdfsheet">													
+																	<li><a href="id/E1/pengantar/Pengantar%20Pengetahuan%20tentang%20Risiko.pdf" target="_blank">Pengantar Pengetahuan tentang Risiko</a></li>
+																	<li><a href="id/E1/pengantar/Standard%20Powerpoint%20Bahaya%20Tsunami.pdf" target="_blank">Standard Powerpoint Bahaya Tsunami</a></li>
+															</ul>
+														</div>
+														<div class="icon checklist"><a href="id/E1/daftar_periksa/Daftar%20Periksa%20Pengetahuan%20tentang%20Risiko.pdf" target="_blank" title="Daftar Periksa Pengetahuan tentang Risiko">Daftar Periksa</a></div>
+														<div class="icon tool"><a href="id/E1/perangkat/Panduan%20Pemetaan%20Bahaya%20Tsunami%20untuk%20Tingkat%20Kabupaten.pdf" target="_blank" title="Panduan Pemetaan Bahaya Tsunami untuk Tingkat Kabupaten">Perangkat</a></div>
+														<div class="headerAccordion icon acc_experience"><a href="javascript:void(0)">Pengalaman Kami</a></div>
+														<div class="contentAccordion">
+																<ul class="pdfsheet">
+																		<li><a href="id/E1/pengalaman_kami/Di%20manakah%20Daerah%20Aman.pdf" target="_blank" title="Pengalaman Pemetaan Bahaya Tsunami di Daerah Percontohan Jawa">Di manakah Daerah Aman?</a></li>
+																		<li><a href="id/E1/pengalaman_kami/Pertemuan%20antara%20Sains%20dan%20Politik.pdf" target="_blank" title="Proses Penentuan Zona Aman">Pertemuan antara Sains dan Politik</a></li>
+																		<li><a href="id/E1/pengalaman_kami/Peta%20Bahaya%20Tsunami%20untuk%20Bali.pdf" target="_blank" title="Dokumentasi Teknis dari Pendekatan Multi-Skenario">Peta Bahaya Tsunami untuk Bali</a></li>
+																</ul>
+														</div>
+														<div class="headerAccordion icon acc_info"><a href="javascript:void(0)">Info</a></div>
+														<div class="contentAccordion">
+																<ul class="pdfsheet">
+																		<li><a href="id/E1/info/Peta%20Bahaya%20Tsunami%20untuk%20Indonesia.pdf" target="_blank" title="Dasar-dasar Kesiapsiagaan Tsunami">Peta Bahaya Tsunami untuk Indonesia</a></li>
+																		<li><a href="id/E1/info/Kajian%20Risiko%20Tsunami.pdf" target="_blank" title="Kelompok Kerja Gabungan Indonesia - Jerman dalam Pemodelan Risiko dan Pengkajian Kerentanan">Kajian Risiko Tsunami</a></li>
+																</ul>
+														</div>
+														<div class="headerAccordion icon acc_resource"><a href="javascript:void(0)">Sumber Lainnya</a></div>
+														<div class="contentAccordion">
+																<ul class="innercontentAccordion">
+																		<li>Peta Bahaya
+																				<ul class="innest">
+																						<li><a href="id/id_tsunami_hazard_map_padang.html">Padang</a></li>
+																						<li><a href="id/id_tsunami_hazard_map_west_jawa.html">Jawa Barat</a></li>
+																						<li><a href="id/id_tsunami_hazard_map_central_jawa.html">Jawa Tengah</a></li>
+																						<li><a href="id/id_tsunami_hazard_map_diy.html">DIY</a></li>
+																						<li><a href="id/id_tsunami_hazard_map_east_jawa.html">Jawa Timur</a></li>
+																						<li><a href="id/id_tsunami_hazard_map_bali.html">Bali</a></li>
+																						<li><a href="id/id_tsunami_hazard_map_lombok.html">Lombok</a></li>
+																				</ul>
+																		</li>
+																</ul>
+																<ul class="innercontentAccordion">
+																		<li>Peta Risiko
+																				<ul class="innest">
+																						<li><a href="id/id_tsunami_risk_map_padang.html">Padang</a></li>
+																						<li><a href="id/id_tsunami_risk_map_jawa.html">Jawa</a></li>
+																						<li><a href="id/id_tsunami_risk_map_bali.html">Bali</a></li>
+																				</ul>
+																		</li>
+																</ul>
+																<ul class="pdfsheet">
+																		<li><a href="id/E1/sumber_lainnya/Approval%20of%20Official%20Tsunami%20Hazard%20Map%20based%20on%20Padang%20Consensus,%20April%202010.pdf" target="_blank">Approval of Official Tsunami Hazard Map based on Padang Consensus, April 2010</a></li>
+																		<li><a href="id/E1/sumber_lainnya/Last-Mile%20preparation%20for%20a%20potential%20disaster,%20Taubenboeck%20et%20al%20in%20NHESS,%202009.pdf" target="_blank">&quot;Last Mile&quot; Preparation for a Potential Disaster, Taubenboeck et al in NHESS 2009</a></li>
+																		<li><a href="id/E1/sumber_lainnya/Padang%20Consensus%20on%20Official%20Tsunami%20Hazard%20Map-Protocol%20Nov%202008.pdf" target="_blank">Padang Consensus on Official Tsunami Hazard Map - Protocol Nov 2008</a></li>
+																		<li><a href="id/E1/sumber_lainnya/GITEWS%20Guideline%20for%20Tsunami%20Risk%20Assessment%20in%20Indonesia.pdf" target="_blank">GITEWS Guideline for Tsunami Risk Assessment in Indonesia</a></li>
+																		<li><a href="id/E1/sumber_lainnya/GITEWS%20Technical%20Guideline%20for%20Tsunami%20Risk%20Assessment%20in%20Indonesia.pdf" target="_blank">GITEWS Technical Guideline for Tsunami Risk Assessment in Indonesia</a></li>
+																</ul>
+														</div>
+													</div><!--end class innerpad-->		
+										</div><!--end class listholderpad-->
+									</div><!--end class innerpanel-->
+									<!--ELEMENT 1 end HERE-->								
+								</div><!--end class listCol-->
+							</div><!--end class listHolder-->
+						</li>
+						<li class="level1-li" id="two"><span class="time btn2" begin="two.mouseenter" end="two.mouseleave" timeaction="class:liHover">Pengawasan &amp; Layanan Peringatan</span>
+							<div class="listHolder time" begin="two.mouseenter" end="two.mouseleave" timeaction="class:divShow">
+								<div class="listCol cont2">
+
+									<!--ELEMENT 2 START HERE-->
+									<div class="innerpanel">
+										<div class="listholderpad">
+												<!--elemet title-->
+												<h2>Pengawasan &amp; Layanan Peringatan</h2>
+												<!--start element content-->
+													<div class="innerpad">
+														<div class="headerAccordion icon intro"><a href="javascript:void(0)">Pengantar</a></div>
+														<div class="contentAccordion">
+															<ul class="pdfsheet">
+																<li><a href="id/E2/pengantar/Pengantar%20Pengawasan%20dan%20Layanan%20Peringatan.pdf" target="_blank">Pengantar InaTEWS - Pengawasan dan Layanan Peringatan</a></li>
+																<li><a href="id/E2/pengantar/Standard%20Powerpoint%20InaTEWS%20Id.pdf" target="_blank">Standard Powerpoint InaTEWS</a></li>
+															</ul>
+														</div>
+														<div class="headerAccordion icon acc_resource"><a href="javascript:void(0)">Sumber Lainnya</a></div>
+														<div class="contentAccordion">
+																<ul class="pdfsheet">
+																		<li><a href="id/E2/sumber_lainnya/InaTEWS%20-%20Konsep%20dan%20Implementasi.pdf" target="_blank">InaTEWS - Konsep dan Implementasi</a></li>
+																</ul>
+														</div>
+													</div><!--end class innerpad-->		
+										</div><!--end class listholderpad-->
+									</div><!--end class innerpanel-->
+									<!--ELEMENT 2 end HERE-->
+
+									</div><!--end class listCol-->
+							</div><!--end class listHolder-->
+						</li>
+						<li class="level1-li" id="three">
+							<span class="time btn3" begin="three.mouseenter" end="three.mouseleave" timeaction="class:liHover">Penyebaran &amp; Komunikasi</span>
+							<div class="listHolder time" begin="three.mouseenter" end="three.mouseleave" timeaction="class:divShow">
+									<div class="listCol cont3">
+
+									<!--ELEMENT 3 START HERE-->
+									<div class="innerpanel">
+										<div class="listholderpad">
+												<!--elemet title-->
+												<h2>Penyebaran &amp; Komunikasi</h2>
+												<!--start element content-->
+													<div class="innerpad">
+														<div class="headerAccordion icon intro"><a href="javascript:void(0)">Pengantar</a></div>
+														<div class="contentAccordion">
+																<ul class="pdfsheet">													
+																	<li><a href="id/E3/pengantar/Pengantar%20Penyebaran%20dan%20Komunikasi.pdf" target="_blank">Pengantar Penyebaran dan Komunikasi</a></li>
+																	<li><a href="id/E3/pengantar/Standard%20Powerpoint%20Layanan%20Peringatan%20dari%20BMKG.pdf" target="_blank">Standard Powerpoint Layanan Peringatan dari BMKG</a></li>
+																	<li><a href="id/E3/pengantar/Standard%20Powerpoint%20Layanan%20Peringatan%20Daerah.pdf" target="_blank">Standard Powerpoint Layanan Peringatan Daerah</a></li>
+																</ul>
+														</div>
+														<div class="icon checklist"><a href="id/E3/daftar_periksa/Daftar%20Periksa%20Penyebaran%20dan%20Komunikasi.pdf" target="_blank" title="Daftar Periksa Penyebaran &amp; Komunikasi">Daftar Periksa</a></div>
+														<div class="headerAccordion icon tool"><a href="javascript:void(0)">Perangkat</a></div>
+														<div class="contentAccordion">
+																<ul class="pdfsheet">
+																		<li><a href="id/E3/perangkat/Pedoman%20Pelayanan%20Peringatan%20Dini%20Tsunami%20InaTEWS.pdf" target="_blank">Pedoman Pelayanan Peringatan Dini Tsunami InaTEWS (Versi Ringkasan)</a></li>
+																		<li><a href="id/E3/perangkat/Panduan%20Penyebaran%20Peringatan%20Dini%20Tsunami%20di%20Tingkat%20Daerah%20di%20Indonesia.pdf" target="_blank">Panduan Penyebaran Peringatan Dini Tsunami di Tingkat Daerah di Indonesia</a></li>
+																		<li><a href="id/E3/perangkat/Pedoman%20Pelayanan%20Peringatan%20Dini%20Tsunami%20InaTEWS%20(2).pdf" target="_blank">Pedoman Pelayanan Peringatan Dini Tsunami InaTEWS</a></li>
+																		<li><a href="id/E3/perangkat/Warning%20Receiver%20System%20dalam%20Penyebaran%20Peringatan%20Dini%20Tsunami%20di%20Tingkat%20Daerah%20di%20Indonesia.pdf" target="_blank">Warning Receiver System dalam Penyebaran Peringatan Dini Tsunami di Tingkat Daerah di Indonesia</a></li>
+																		<li><a href="id/E3/perangkat/Panduan%20Informasi%20Peringatan%20Dini%20Tsunami%20bagi%20Lembaga%20Penyiaran%20di%20Indonesia.pdf" target="_blank">Panduan Informasi Peringatan Dini Tsunami bagi Lembaga Penyiaran di Indonesia</a></li>
+																		<li><a href="id/E3/sumber_lainnya/Panduan%20Pelatihan%20-%20Pelayanan%20Peringatan%20Tsunami%20di%20Daerah.pdf" target="_blank" title="pada Pusat Pengendalian Operasi di Daerah">Panduan Pelatihan Pelayanan Peringatan Dini Tsunami di Daerah</a></li>																			
+																</ul>
+														</div>
+														<div class="headerAccordion icon acc_experience"><a href="javascript:void(0)">Pengalaman Kami</a></div>
+														<div class="contentAccordion">
+																<ul class="pdfsheet">
+																		<li><a href="id/E3/pengalaman_kami/Pusat%20Pengendali%20Operasi%20di%20Daerah.pdf" target="_blank" title="Pelaku Utama Peringatan Dini Tsunami di Indoensia">Pusat Pengendali Operasi Daerah</a></li>
+																		<li><a href="id/E3/pengalaman_kami/Menyampaikan%20Peringatan%20ke%20Masyarakat.pdf" target="_blank" title="Solusi Penyebaran di Daerah untuk Last Mile">Menyampaikan Peringatan ke Masyarakat</a></li>
+																		<li><a href="id/E3/pengalaman_kami/Bagaimana%20Peringatan%20sampai%20ke%20Masyarakat.pdf" target="_blank" title="Pengembangan Teknologi Penyebaran Informasi di Daerah Percontohan Jawa">Bagaimana Peringatan Sampai ke Masyarakat?</a></li>
+																		<li><a href="id/E3/pengalaman_kami/FM%20-%20Radio%20Data%20System.pdf" target="_blank" title="Pengenalan dan Pengujian FM-RDS untuk Peringatan Dini Tsunami">FM - Radio Data System</a></li>
+																		<li><a href="id/E3/pengalaman_kami/Pelatihan%20Layanan%20Peringatan%20Dini%20Tsunami.pdf" target="_blank" title="di Pusdalops Daerah">Pelatihan Layanan Peringatan Dini Tsunami</a></li>
+																</ul>
+														</div>
+														<div class="headerAccordion icon acc_info"><a href="javascript:void(0)" title="Info">Info</a></div>
+														<div class="contentAccordion">
+																<ul class="pdfsheet">
+																		<li><a href="id/E3/info/Jaringan%20Komunikasi%20SAR.pdf" target="_blank" title="Menghubungkan Komunitas SAR di sepanjang Pantai Selatan Jawa">Jaringan Komunikasi SAR</a></li>
+																		<li><a href="id/E3/info/Layanan%20Peringatan%20Dini%20oleh%20Bali%20Hotels%20Association.pdf" target="_blank" title="Informasi Tsunami untuk Sektor Perhotelan di Bali">Layanan Peringatan Dini Tsunami oleh Bali Hotels Association</a></li>
+																		<li><a href="id/E3/info/Media%20dan%20Rantai%20Peringatan.pdf" target="_blank" title="Peran Media dalam Kesiapsiagaan Bencana">Media dan Rantai Peringatan</a></li>
+																</ul>
+														</div>
+														<div class="headerAccordion icon acc_resource"><a href="javascript:void(0)">Sumber Lainnya</a></div>
+														<div class="contentAccordion">
+																<ul class="innercontentAccordion">
+																		<li><a href="id/E3/sumber_lainnya/Pedoman%20Pelaksanaan%20Peringatan%20Dini%20Tsunami%20untuk%20PUSDALOPS%20Bantul.pdf" target="_blank">Panduan Pelaksanaan Peringatan Dini Tsunami untuk PUSDALOPS Bantul</a></li>
+																		<li><a href="id/E3/sumber_lainnya/Pedoman%20Pelaksanaan%20Peringatan%20Dini%20Tsunami%20untuk%20PUSDALOPS%20Bali.pdf" target="_blank">Panduan Pelaksanaan Peringatan Dini Tsunami untuk PUSDALOPS Bali</a></li>
+																		<li><a href="id/E3/sumber_lainnya/Pedoman%20Pelaksanaan%20Peringatan%20Dini%20Tsunami%20untuk%20PUSDALOPS%20Padang.pdf" target="_blank">Panduan Pelaksanaan Peringatan Dini Tsunami untuk PUSDALOPS Padang</a></li>
+																		<li><a href="id/E3/sumber_lainnya/PP%2050-2005_Penyelenggaraan%20Penyiaran%20Swasta.pdf" target="_blank">PP 50-2005 Penyelenggaraan Penyiaran Swasta</a></li>
+																		<li><a href="id/E3/sumber_lainnya/Perkominfo%2020-2006_Peringatan%20Dini%20Tsunami%20dan%20bencana%20lainnya.pdf" target="_blank">Perkominfo 20-2006 Peringatan Dini Tsunami dan Bencana Lainnya</a></li>
+																		<li><a href="id/E3/sumber_lainnya/Rabab%20for%20Warning%20Dissemination%20ENG.pdf" target="_blank">Rabab for Warning Dissemination</a></li>
+																		<li><a href="id/E3/sumber_lainnya/Konsep%20dan%20Rekomendasi%20untuk%20Implementasi%20Sistem%20Peringatan%20Dini%20di%20Bali.pdf" target="_blank">Konsep dan Rekomendasi untuk Implementasi Sistem Peringatan Dini Tsunami di Bali</a></li>
+																		<li><a href="id/E3/sumber_lainnya/Rekomendasi%20Pengembangan%20Sistem%20Peringatan%20Dini%20Tsunami%20di%20Lombok%20Nusa%20Tenggara%20Barat.pdf" target="_blank">Rekomendasi Pengembangan Sistem Peringatan Dini Tsunami di Lombok NusaTenggara Barat</a></li>																	
+																		<li><a href="id/E3/sumber_lainnya/Membangun%20Rantai%20Peringatan%20di%20Daerah.pdf" target="_blank" title="Kunjungan Mitra Daerah dan Mitra Nasional ke Bali dalam rangka Pertukaran Pengetahuan dan Pembahasan Konsep">Membangun Rantai Peringatan di Daerah</a></li>
+																</ul>
+														</div>
+													</div><!--end class innerpad-->		
+										</div><!--end class listholderpad-->
+									</div><!--end class innerpanel-->
+									<!--ELEMENT 3 end HERE-->
+
+									</div><!--end class listCol-->
+							</div><!--end class listHolder-->
+						</li>
+						<li class="level1-li" id="four">
+							<span class="time btn4" begin="four.mouseenter" end="four.mouseleave" timeaction="class:liHover">Kapasitas Respon</span>
+							<div class="listHolder time" begin="four.mouseenter" end="four.mouseleave" timeaction="class:divShow">
+									<div class="listCol cont4">
+
+									<!--ELEMENT 4 START HERE-->
+									<div class="innerpanel">
+										<div class="listholderpad">
+												<!--elemet title-->
+												<h2>Kapasitas Respon</h2>
+												<!--start element content-->
+													<div class="innerpad">
+														<div class="headerAccordion icon intro"><a href="javascript:void(0)">Pengantar</a></div>
+														<div class="contentAccordion">
+																<ul class="pdfsheet">													
+																	<li><a href="id/E4/pengantar/Pengantar%20Kapasitas%20Respon.pdf" target="_blank">Pengantar Kapasitas Respon</a></li>
+																	<li><a href="id/E4/pengantar/Standard%20Powerpoint%20Rencana%20Evakuasi.pdf" target="_blank">Standard Powerpoint Rencana Evakuasi</a></li>
+																</ul>
+														</div>															
+														<div class="icon checklist"><a href="id/E4/daftar_periksa/Daftar%20Periksa%20Kapasitas%20Respon.pdf" target="_blank" title="Daftar Periksa Kapasitas Respon">Daftar Periksa</a></div>
+														<div class="headerAccordion icon tool"><a href="javascript:void(0)">Perangkat</a></div>
+														<div class="contentAccordion">
+																<ul class="pdfsheet">
+																		<li><a href="id/E4/perangkat/Pedoman%20Perencanaan%20untuk%20Evakuasi%20Tsunami.pdf" target="_blank">Panduan Perencanaan Evakuasi</a></li>
+																		<li><a href="id/E4/perangkat/Panduan%20Pelatihan%20-%20Perencanaan%20Evakuasi%20Tsunami%20di%20Tingkat%20Kabupaten.pdf" target="_blank">Panduan Pelatihan - Perencanaan Evakuasi Tsunami di Tingkat Kabupaten</a></li>
+																		<li><a href="id/E4/perangkat/Modul%20Pelatihan%20Quantum%20GIS%20Tingkat%20Dasar.pdf" target="_blank" title="Untuk Pemetaan Evakuasi Tsunami">Modul Pelatihan Quantum GIS Tingkat Dasar</a></li>
+																		<li><a href="id/E4/perangkat/Modul%20Follow%20Up%20-%20Pelatihan%20QGIS%20untuk%20Peta%20Evakuasi%20Tsunami.pdf" target="_blank">Modul Follow Up - Pelatihan QGIS untuk Peta Evakuasi Tsunami</a></li>
+																		<li><a href="id/E4/perangkat/Rekomendasi%20Layout%20Peta%20Evakuasi%20Tsunami.pdf" target="_blank">Rekomendasi Layout Peta Evakuasi Tsunami</a></li>
+																</ul>
+														</div>														
+														<div class="headerAccordion icon acc_experience"><a href="javascript:void(0)">Pengalaman Kami</a></div>
+														<div class="contentAccordion">
+																<ul class="pdfsheet">
+																		<li><a href="id/E4/pengalaman_kami/Simulasi%20Tsunami.pdf" target="_blank" title="Jenis, Skala dan Rekomendasi untuk Simulasi di Masa Datang">Simulasi Tsunami</a></li>
+																		<li><a href="id/E4/pengalaman_kami/Perencanaan%20Evakuasi%20di%20Kuta%20Bali.pdf" target="_blank" title="Strategi Daerah untuk Keadaan Darurat">Perencanaan Evakuasi di Kuta, Bali</a></li>
+																		<li><a href="id/E4/pengalaman_kami/Perencanaan%20Evakuasi%20di%20Tanjung%20Benoa.pdf" target="_blank" title="Keberhasilan Kerjasama antara Masyarakat dan Sektor Swasta">Perencanaan Evakuasi di Tanjung Benoa</a></li>
+																		<li><a href="id/E4/pengalaman_kami/Bagaimana%20Mencapai%20Daerah%20Aman.pdf" target="_blank" title="Membuat Rencana Evakuasi Tsunami di Daerah Percontohan Jawa">Bagaimana Mencapai Daerah Aman?</a></li>
+																		<li><a href="id/E4/pengalaman_kami/Geladi%20Tsunami%20di%20Kabupaten%20Bantul.pdf" target="_blank" title="Melatih Mekanisme Peringatan dan Respon Masyarakat">Geladi Tsunami di Kabupaten Bantul</a></li>
+																		<li><a href="id/E4/pengalaman_kami/Belajar%20dari%20Pengalaman%20Kami.pdf" target="_blank" title="Pelajaran Kesiapsiagaan Tsunami di Padang">Belajar dari Pengalaman Gempa</a></li>
+																		<li><a href="id/E4/pengalaman_kami/Pelatihan%20Perencanaan%20Evakuasi%20Tsunami%20di%20Tingkat%20Kabupaten.pdf" target="_blank" title="Membangun Kapasitas dalam Perencanaan Evakuasi">Pelatihan Perencanaan Evakuasi Tsunami di Tingkat Kabupaten</a></li>
+																		<li><a href="id/E4/pengalaman_kami/Pelatihan%20Peta%20Evakuasi%20Tsunami%20berbasis%20GIS.pdf" target="_blank" title="Memperkuat Keterampilan Pemetaan dan Layout">Pelatihan Peta Evakuasi Tsunami berbasis GIS</a></li>
+																</ul>
+														</div>
+														<div class="headerAccordion icon acc_info"><a href="javascript:void(0)">Info</a></div>
+														<div class="contentAccordion">
+																<ul class="pdfsheet">
+																		<li><a href="id/E4/info/Geladi%20Tsunami%20Nasional%20di%20Indonesia.pdf" target="_blank" title="Mengenang dan Bersiapsiaga">Geladi Tsunami Nasional di Indonesia</a></li>
+																		<li><a href="id/E4/info/Indian%20Ocean%20Wave%20Exercise%202009.pdf" target="_blank" title="Pengujian Sistem Peringatan Dini Tsunami di Area Samudera Hindia">Indian Ocean Wave Exercise 2009 (IOWave09)</a></li>
+																		<li><a href="id/E4/info/Rambu%20Evakuasi.pdf" target="_blank" title="Standar Nasional dan ISO">Rambu Evakuasi</a></li>
+																		<li><a href="id/E4/info/Perencanaan%20Kontijensi%20Tsunami.pdf" target="_blank" title="Untuk Mewujudkan Respon yang Sesuai, Efektif, dan Tepat Waktu">Perencanaan Kontijensi Tsunami</a></li>
+																</ul>
+														</div>
+														<div class="headerAccordion icon acc_resource"><a href="javascript:void(0)">Sumber Lainnya</a></div>
+														<div class="contentAccordion">
+																<ul class="innercontentAccordion">
+																		<li>Rencana Evakuasi
+																				<ul class="innest">
+																						<li><a href="id/id_tsunami_evacuation_map_padang.html">Padang</a></li>
+																						<li><a href="id/id_tsunami_evacuation_map_bantul.html">DIY, Bantul</a></li>
+																						<li><a href="id/id_tsunami_evacuation_map_gunungkidul.html">DIY, Gunungkidul</a></li>
+																						<li><a href="id/id_tsunami_evacuation_map_kebumen.html">Jawa Tengah, Kebumen</a></li>
+																						<li><a href="id/id_tsunami_evacuation_map_cilacap.html">Jawa Tengah, Cilacap</a></li>
+																						<li><a href="id/id_tsunami_evacuation_map_badung.html">Bali, Badung</a></li>
+																						<li><a href="id/id_tsunami_evacuation_map_gianyar.html">Bali, Gianyar</a></li>
+																						<li><a href="id/id_tsunami_evacuation_map_denpasar.html">Bali, Denpasar </a></li>
+																						<li><a href="id/id_tsunami_evacuation_map_buleleng.html">Bali, Buleleng </a></li>
+																						<li><a href="id/id_tsunami_evacuation_map_mataram.html">Lombok, Kota Mataram</a></li>																						
+																						<li><a href="id/id_tsunami_evacuation_map_lombok_timur.html">Lombok, Lombok Timur</a></li>																								
+																						<li><a href="id/E4/sumber_lainnya/rencana_evakuasi/Peningkatan%20Kesadaran%20Masyarakat%20di%20Daerah%20Percontohan%20Jawa%202008.pdf" target="_blank">Peningkatan Kesadaran Masyarakat di Daerah Percontohan Jawa 2008</a></li>
+																						<li><a href="id/id_outreach_material_video_rencana_evakuasi.html">Pengembangan Rencana Evakuasi</a></li>
+																						<li><a href="id/id_outreach_material_video_kesadaran_bersama.html">Pembangunan Kesadaran Bersama</a></li>
+																				</ul>
+																		</li>
+																</ul>
+																<ul class="innercontentAccordion">
+																		<li>Geladi
+																				<ul class="innest">
+																						<li><a href="id/E4/sumber_lainnya/geladi/Pedoman%20Geladi%20Bantul%202008.pdf" target="_blank">Pedoman Geladi Bantul 2008</a></li>
+																						<li><a href="id/E4/sumber_lainnya/geladi/Pedoman%20Geladi%20Cilacap%202010.pdf" target="_blank">Pedoman Geladi Cilacap 2010</a></li>
+																						<li><a href="id/E4/sumber_lainnya/geladi/Dokumentasi%20Pelaksanaan%20Geladi%20Tsunami%20di%20Bantul%202008.pdf" target="_blank">Dokumentasi Pelaksanaan Gladi Tsunami di Bantul 2008</a></li>
+																						<li><a href="id/id_outreach_material_video_persiapan_geladi_tsunami_bantul_2008.html">Persiapan Geladi Tsunami Bantul 2008</a></li>
+																						<li><a href="id/id_outreach_material_video_pelaksanaan_geladi_tsunami_bantul_2008.html">Pelaksanaan Geladi Tsunami Bantul 2008</a></li>
+																				</ul>
+																		</li>
+																</ul>
+																<ul class="innercontentAccordion">
+																		<li>Studi Kasus
+																				<ul class="innest">
+																						<li><a href="id/E4/sumber_lainnya/studi_kasus/Studi%20Kasus%20-%20Pengalaman%20Peringatan%20Dini%20di%20Padang%20Setelah%20Gempa%20Bumi%20pada%2012%20Sep%202007.pdf" target="_blank">Pengalaman Peringatan Dini di Padang setelah Gempa 2007</a></li>
+																						<li><a href="id/E4/sumber_lainnya/studi_kasus/30_Menit_di_Kota_Padang_30_September_2009.pdf" target="_blank">30 Menit di Kota Padang - Pembelajaran untuk Kesiapsiagaan dan Peringatan Dini Tsunami dari Gempa Bumi 30 September 2009</a></li>
+																						<li><a href="id/E4/sumber_lainnya/studi_kasus/Learning%20from%20Tasikmalaya%20Earthquake%202Sep09%20ENG.pdf" target="_blank">Learning from Tasikmalaya Earthquake 2 Sep 2009</a></li>
+																						<li><a href="id/E4/sumber_lainnya/studi_kasus/Peringatan%20Tsunami%204%20April%202011.pdf" target="_blank" title="Reaksi Lembaga dan Masyarakat terhadap Peringatan Gempabumi dan Tsunami di Selatan Jawa">Peringatan Tsunami 4 April 2011</a></li>
+																						<li><a href="id/E4/sumber_lainnya/studi_kasus/Gempa%206-8%20SR%20Mengguncang%20Pulau%20Bali%2013%20Oktover%202011.pdf" target="_blank" title="Reaksi terhadap Gempabumi dan Sistem Peringatan Dini Tsunami yang Tidak Berpotensi Tsunami di Bali">Gempa 6.8 SR Mengguncang Pulau Bali 13 Oktober 2011</a></li>
+																						<li><a href="id/E4/sumber_lainnya/studi_kasus/Peringatan%20Tsunami%204%20April%202011.pdf" target="_blank" title="Reaksi PUSDALOPS terhadap Peringatan Tsunami di Selatan Aceh, Sumatera Barat dan Kota Padang">Peringatan Tsunami 11 Januari 2012</a></li>
+																						<li><a href="id/E4/sumber_lainnya/studi_kasus/Pembelajaran%20dari%20Gempabumi%20dan%20Peringatan%20Dini%20Tsunami%2011%20April%202012.pdf" target="_blank" title="Di Aceh, Sumatera Barat, dan Kota Padang">Pembelajaran dari Gempabumi dan Peringatan Dini Tsunami 11 April 2012</a></li>
+																						<li><a href="id/E4/sumber_lainnya/studi_kasus/Evaluasi%20Sistem%20Peringatan%20Dini%20Tsunami%20pada%20Kejadian%20Gempabumi%20&%20Tsunami%20Aceh%2011%20April%202012.pdf" target="_blank" title="Laporan Awal Kaji Cepat Bersama">Evaluasi Sistem Peringatan Dini Tsunami pada Kejadian Gempabumi &amp; Tsunami Aceh 11 April 2012</a></li>
+																				</ul>
+																		</li>
+																</ul>
+																<ul class="pdfsheet">
+																		<li><a href="id/E4/sumber_lainnya/Perencanaan%20Kontinjensi%20-%20Tinjauan%20tentang%20Beberapa%20Pedoman%20Perencanaan%20dan%20Rencana%20Kontinjensi.pdf" target="_blank" title="Tinjauan tentang Beberapa Pedoman Perencanaan dan Rencana Kontinjensi">Perencanaan Kontinjensi</a></li>
+																		<li><a href="id/E4/sumber_lainnya/Pedoman%20Pelaksanaan%20Latihan%20Kesiapsiagaan%20Menghadapi%20Bencana%20Tsunami%20untuk%20Kota%20dan%20Kabupaten%202.pdf" target="_blank">Pedoman Pelaksanaan Latihan Kesiapsiagaan Menghadapi Bencana Tsunami untuk Kota dan Kabupaten</a></li>
+																		<li><a href="id/E4/sumber_lainnya/Peringatan%20Dini%20Tsunami%20di%20Sumatra%20Barat%20setelah%2011%20April%202012.pdf" target="_blank" title="Implikasi dari Temuan dan Pembelajaran Terkait dengan Gempabumi dan Peringatan Dini 11 April 2012">Peringatan Dini Tsunami di Sumatra Barat setelah 11 April 2012</a></li>
+																		<li><a href="id/E4/sumber_lainnya/Perencanaan%20Kontinjensi%20Tsunami.pdf" target="_blank" title="Berbagi Pengalaman, Pengetahuan dan Konsep">Perencanaan Kontinjensi Tsunami</a></li>
+																		
+																		
+																</ul>
+														</div>
+													</div><!--end class innerpad-->		
+										</div><!--end class listholderpad-->
+									</div><!--end class innerpanel-->
+									<!--ELEMENT 4 end HERE-->									
+									
+									</div><!--end class listCol-->
+							</div><!--end class listHolder-->
+						</li>
+						<li class="level1-li" id="five">
+							<span class="time btn5" begin="five.mouseenter" end="five.mouseleave" timeaction="class:liHover">Pengetahuan dan Kesadaran</span>
+							<div class="listHolder time" begin="five.mouseenter" end="five.mouseleave" timeaction="class:divShow">
+									<div class="listCol cont5">
+									
+									<!--ELEMENT 5 START HERE-->
+									<div class="innerpanel">
+										<div class="listholderpad">
+												<!--elemet title-->
+												<h2>Pengetahuan dan Kesadaran</h2>
+												<!--start element content-->
+													<div class="innerpad">
+														<div class="icon intro"><a href="id/E5/pengantar/Pengantar%20Pengetahuan%20dan%20Kesadaran.pdf" target="_blank" title="Pengantar Pengetahuan dan Kesadaran">Pengantar</a></div>
+														<div class="icon checklist"><a href="id/E5/daftar_periksa/Daftar%20Periksa%20Pengetahuan%20dan%20Kesadaran.pdf" target="_blank" title="Daftar Periksa Pengetahuan dan Kesadaran">Daftar Periksa</a></div>
+														<div class="headerAccordion icon tool"><a href="javascript:void(0)">Perangkat</a></div>
+														<div class="contentAccordion">
+															<ul class="pdfsheet">
+																<li><a href="id/E5/perangkat/Modul%20Pelatihan%20Fasilitator%20Tanggap%20Tsunami%20(FaTmi).pdf" target="_blank">Modul Pelatihan Fasilitator Tanggap Tsunami (FaTmi)</a></li>																
+																<li><a href="id/E5/perangkat/Modul%20Pelatihan%20Kader%20Tanggap%20Tsunami%20KaTsumi.pdf" target="_blank">Modul Pelatihan Kader Tanggap Tsunami (KaTsumi)</a></li>
+																<li><a href="id/E5/perangkat/Panduan%20Persiapan%20Pertemuan%20Sosialisasi%20Tanggap%20Tsunami.pdf" target="_blank">Panduan Persiapan Pertemuan Sosialisasi Tanggap Tsunami</a></li>
+															</ul>
+														</div>
+														<div class="headerAccordion icon acc_experience"><a href="javascript:void(0)" title="Pengalaman Kami">Pengalaman Kami</a></div>
+														<div class="contentAccordion">
+																<ul class="pdfsheet">
+																		<li><a href="id/E5/pengalaman_kami/Program%20Pertukaran.pdf" target="_blank" title="Kemitraan Daerah dan Pertukaran Pengalaman">Program Pertukaran</a></li>
+																		<li><a href="id/E5/pengalaman_kami/Kesadaran%20Masyarakat.pdf" target="_blank" title="Pelatihan Fasilitator untuk Peningkatan Kesadaran Masyarakat">Kesadaran Masyarakat</a></li>
+																		<li><a href="id/E5/pengalaman_kami/Peringatan%20dari%20Alam%20versus%20Peringatan%20Resmi.pdf" target="_blank" title="Strategi Respon yang Mengintegrasikan Keduanya">Peringatan dari Alam versus Peringatan Resmi</a></li>
+																		<li><a href="id/E5/pengalaman_kami/Pelatihan%20Fasilitator%20Kesiapsiagaan%20Tsunami.pdf" target="_blank" title="Mendukung Perencanaan Evakuasi Tsunami Lokal dan Sosialisasi di Masyarakat">Pelatihan Fasilitator Kesiapsiagaan Tsunami (FaTmi)</a></li>
+																		<li><a href="id/E5/pengalaman_kami/Pelatihan%20Kader%20Kesiapsiagaan%20Tsunami.pdf" target="_blank" title="Membangun Kesadaran dan Pengetahuan akan Tsunami">Pelatihan Kader Kesiapsiagaan Tsunami (KaTsumi)</a></li>
+																		<li><a href="id/E5/pengalaman_kami/Kemitraan%20Pemerintah-Swasta%20di%20Kabupaten%20Gunungkidul.pdf" target="_blank" title="Penguatan Kesiapsiagaan dan Peringatan Dini Tsunami di Masyarakat">Kemitraan Pemerintah-Swasta di Kabupaten Gunungkidul</a></li>
+																</ul>
+														</div>
+														<div class="headerAccordion icon acc_info"><a href="javascript:void(0)">Info</a></div>
+														<div class="contentAccordion">
+																<ul class="pdfsheet">
+																		<li><a href="id/E5/info/Kesadaran%20Bencana%20di%20Sekolah%20Dasar.pdf" target="_blank" title="Modul Bahaya Tsunami">Kesadaran Bencana di Sekolah Dasar</a></li>
+																		<li><a href="id/E5/info/Pameran%20Kesiapsiagaan%20Bencana.pdf" target="_blank" title="Kesiapsiagaan Masyarakat Berbasis Sains oleh COMPRESS - LIPI">Pameran Kesiapsiagaan Bencana</a></li>
+																		<li><a href="id/E5/info/KOGAMI.pdf" target="_blank" title="Peningkatan Kapasitas Masyarakat">KOGAMI</a></li>
+																		<li><a href="id/E5/info/Tsunami%20Ready.pdf" target="_blank" title="Toolbox untuk Industri Hotel">Tsunami Ready</a></li>
+																		<li><a href="id/E5/info/Konsep%203%20Langkah%20Tanggap%20Tsunami.pdf" target="_blank" title="Menjelaskan Layanan Peringatan Tsunami InaTEWS kepada Publik">Konsep &quot;3 Langkah Tanggap Tsunami&quot;</a></li>																		
+																</ul>
+														</div>
+														<div class="headerAccordion icon acc_resource"><a href="javascript:void(0)">Materi Penyadaran</a></div>
+														<div class="contentAccordion">
+																<ul class="pdfsheet">
+																		<li><a href="id/id_outreach_material_video_budi.html">Budi Jadi Sunatan</a></li>
+																		<li><a href="id/id_outreach_material_video_10_menit.html">10 Menit Kehidupan</a></li>
+																		<li><a href="id/id_outreach_material_poster.html">Poster - Kapanpun Tsunami Datang, Kita Siap Menghadapinya</a></li>
+																		<li><a href="id/E5/materi_penyadaran/Kapanpun%20Tsunami%20Datang%20Kita%20Siap%20Menghadapinya.pdf" target="_blank">Komik - Kapanpun Tsunami Datang, Kita Siap Menghadapinya</a></li>
+																		<li><a href="id/E5/materi_penyadaran/Komik%20-%20Kapan%20Wae%20Tsunami%20Teka%20Awake%20Dhewe%20Siaga%20Ngadhepi.pdf" target="_blank">Komik - Kapan Wae Tsunami Teka Awake Dhewe Siaga Ngadhepi</a></li>
+																		<li><a href="id/E5/materi_penyadaran/Komik%20Peringatan%20Tsunami%20(Indonesia).pdf" target="_blank">Komik Peringatan Tsunami (Indonesia)</a></li>
+																		<li><a href="id/E5/materi_penyadaran/Comic%20Tsunami%20Warning%20(Inggris).pdf" target="_blank">Comic Tsunami Warning (Inggris)</a></li>
+																		<li><a href="id/E5/materi_penyadaran/Komik%20Peringatan%20Tsunami%20(Jawa).pdf" target="_blank">Komik Peringatan Tsunami (Jawa)</a></li>
+																		<li><a href="id/E5/materi_penyadaran/Poster%203%20Tanggap.pdf" target="_blank">Poster 3 Tanggap</a></li>
+																		<li><a href="id/E5/materi_penyadaran/Banner%203%20Tanggap.pdf" target="_blank">Banner 3 Tanggap</a></li>
+																		<li><a href="id/E5/materi_penyadaran/Flyer%203%20Tanggap.pdf" target="_blank">Flyer 3 Tanggap</a></li>
+																		<li><a href="id/E5/materi_penyadaran/Stiker%203%20Tanggap.pdf" target="_blank">Stiker 3 Tanggap</a></li>
+																		<li><a href="id/E5/materi_penyadaran/Kaos%203%20Tanggap.pdf" target="_blank">Kaos 3 Tanggap</a></li>
+																		<li><a href="id/E5/materi_penyadaran/3tanggap/Radio%20Adlibs%203%20Tanggap%20-%20Teks.pdf" target="_blank">Radio Adlibs 3 Tanggap - Teks</a></li>
+																		<li><a href="id/E5/materi_penyadaran/3tanggap/Radio%20Adlibs%203%20Tanggap%20-%20Suara.mp3" target="_blank">Radio Adlibs 3 Tanggap - Suara</a></li>
+																		<li><a href="id/E5/materi_penyadaran/Kalender%203%20Tanggap.pdf" target="_blank">Kalender 3 Tanggap</a></li>
+																</ul>
+														</div>
+														<div class="headerAccordion icon acc_resource"><a href="javascript:void(0)">Sumber Lainnya</a></div>
+														<div class="contentAccordion">
+																<ul class="pdfsheet">
+																		<li><a href="id/E5/sumber_lainnya/Modul%20Disaster%20Awareness%20in%20Primary%20School%20-%20Tsunami.pdf" target="_blank">Modul Disaster Awareness in Primary School - Tsunami</a></li>
+																		<li><a href="id/E5/sumber_lainnya/Lembar%20Balik%20Sistem%20Peringatan%20Dini%20Tsunami.pdf" target="_blank">Lembar Balik Sistem Peringatan Dini Tsunami</a></li>
+																		<li><a href="id/E5/sumber_lainnya/Rangkuman%20Istilah%20Tsunami.pdf" target="_blank">Rangkuman Istilah Tsunami</a></li>
+																		<li><a href="id/E5/sumber_lainnya/Selamat%20dari%20bencana%20tsunami.pdf" target="_blank">Selamat dari Bencana Tsunami</a></li>
+																		<li><a href="id/E5/sumber_lainnya/Depositories%20of%20Awareness%20Preparedness%20and%20Education%20Materials%20in%20Indonesia%20Thailand%20and%20Philipines.pdf" target="_blank">Depositories of Awareness Preparedness and Education Materials in Indonesia Thailand and Philipines</a></li>
+																		<li><a href="id/E5/sumber_lainnya/Proses%20Perencanaan%20Evakuasi%20SD%202%20Tanjung%20Benoa%20Bali.pdf" target="_blank">Proses Perencanaan Evakuasi SD 2 Tanjung Benoa Bali</a></li>
+																		<li><a href="id/E5/sumber_lainnya/Kemitraan%20Pembangunan%20Bersama%20Sektor%20Swasta.pdf" target="_blank" title="Kegiatan Pengembangan Kapasitas Pengurangan Risiko Bencana Dalam Upaya Meningkatkan Kesiapsiagaan Masyarakat">Kemitraan Pembangunan Bersama Sektor Swasta</a></li>
+																</ul>
+														</div>
+													</div><!--end class innerpad-->		
+										</div><!--end class listholderpad-->
+									</div><!--end class innerpanel-->
+									<!--ELEMENT 5 end HERE-->									
+									
+									</div><!--end class listCol-->
+							</div><!--end class listHolder-->
+						</li>
+						<li class="level1-li" id="six">
+							<span class="time btn6" begin="six.mouseenter" end="six.mouseleave" timeaction="class:liHover">Aturan Tata Kelola &amp; Kelembagaan</span>
+							<div class="listHolder time" begin="six.mouseenter" end="six.mouseleave" timeaction="class:divShow">
+									<div class="listCol cont6">
+									
+									<!--ELEMENT 6 START HERE-->
+									<div class="innerpanel">
+										<div class="listholderpad">
+												<!--elemet title-->
+												<h2>Aturan Tata Kelola dan Kelembagaan</h2>
+												<!--start element content-->
+													<div class="innerpad">
+														<div class="icon intro"><a href="id/E6/pengantar/Pengantar%20Aturan%20Tata%20Kelola%20dan%20Kelembagaan.pdf" target="_blank" title="Pengantar Aturan Tata Kelola dan Kelembagaan">Pengantar</a></div>
+														<div class="icon checklist"><a href="id/E6/daftar_periksa/Daftar%20Periksa%20Aturan%20Tata%20Kelola%20dan%20Kelembagaan.pdf" target="_blank" title="Daftar Periksa Aturan Tata Kelola dan Kelembagaan">Daftar Periksa</a></div>
+														<div class="headerAccordion icon tool"><a href="javascript:void(0)">Perangkat</a></div>
+														<div class="contentAccordion">
+																<ul class="pdfsheet">
+																		<li><a href="id/E6/perangkat/Rencana%20Aksi.pdf" target="_blank">Rencana Aksi</a></li>
+																		<li><a href="id/E6/perangkat/Analisis%20Pemangku%20Kepentingan.pdf" target="_blank">Analisis Pemangku Kepentingan</a></li>
+																</ul>
+														</div>
+														<div class="headerAccordion icon acc_experience"><a href="javascript:void(0)">Pengalaman Kami</a></div>
+														<div class="contentAccordion">
+																<ul class="pdfsheet">
+																		<li><a href="id/E6/pengalaman_kami/Kerangka%20Peraturan%20Daerah.pdf" target="_blank" title="Mengesahkan Peringatan Dini Tsunami d Tingkat Daerah">Kerangka Peraturan Daerah</a></li>
+																		<li><a href="id/E6/pengalaman_kami/Badan%20Penanggulangan%20Bencana%20Daerah.pdf" target="_blank" title="Berbagi Pengalaman Membentuk BPBD di Daerah Percontohan">Badan Penanggulangan Bencana Daerah</a></li>
+																		<li><a href="id/E6/pengalaman_kami/Kesiapsiagaan%20dan%20Peringatan%20Dini%20Tsunami.pdf" target="_blank" title="Urusan Berbagai Pemangku Kepentingan yang Memerlukan Kerjasama">Kesiapsiagaan dan Peringatan Dini Tsunami</a></li>
+																		<li><a href="id/E6/pengalaman_kami/Kesiapsiagaan%20Tsunami%20di%20Masyarakat%20Lokal.pdf" target="_blank" title="Pendekatan Terstruktur untuk Pengembangan Kapasitas">Kesiapsiagaan Tsunami di Masyarakat Lokal</a></li>
+																		<li><a href="id/E6/pengalaman_kami/Modul-Modul%20Pelatihan%20untuk%20Kesiapsiagaan%20Tsunami.pdf" target="_blank" title="Mendukung Perencanaan Evakuasi, Layanan Peringatan, dan Penyadaran Masyarakat">Modul-Modul Pelatihan untuk Kesiapsiagaan Tsunami</a></li>
+																</ul>
+														</div>
+														<div class="headerAccordion icon acc_info"><a href="javascript:void(0)">Info</a></div>
+														<div class="contentAccordion">
+																<ul class="pdfsheet">
+																		<li><a href="id/E6/info/Kerangka%20Hukum.pdf" target="_blank" title="Terkait dengan Peringatan Dini Tsunami di Indonesia">Kerangka Hukum</a></li>
+																</ul>
+														</div>
+														<div class="headerAccordion icon acc_resource"><a href="javascript:void(0)">Materi Penyadaran</a></div>
+														<div class="contentAccordion">
+																<ul class="pdfsheet">
+																		<li><a href="id/id_outreach_material_video_siapkah_anda.html">Siapkah Anda? - Video</a></li>
+																</ul>
+														</div>
+														<div class="headerAccordion icon acc_resource"><a href="javascript:void(0)">Sumber Lainnya</a></div>
+														<div class="contentAccordion">
+																<ul class="innercontentAccordion">
+																		<li>Produk Hukum Nasional
+																				<ul class="innest">
+																						<li><a href="id/id_regulation_uu.html">Undang-Undang</a></li>
+																						<li><a href="id/id_regulation_pp.html">Peraturan Pemerintah</a></li>
+																						<li><a href="id/id_regulation_ppres.html">Peraturan Presiden</a></li>
+																						<li><a href="id/id_regulation_permen.html">Peraturan Menteri</a></li>
+																						<li><a href="id/id_regulation_bnpb.html">Peraturan Kepala BNPB</a></li>
+																						<li><a href="id/id_regulation_keppres.html">Keputusan Presiden</a></li>
+																						<li><a href="id/id_regulation_skmen.html">Surat Keputusan Menteri</a></li>
+																						<li><a href="id/id_regulation_ran.html">Rencana Aksi Nasional - Rencana Nasional</a></li>
+																						<li><a href="id/id_regulation_lain.html">Produk Hukum Lainnya</a></li>
+																				</ul>
+																		</li>
+																		<li>Produk Hukum Daerah
+																				<ul class="innest">
+																						<li><a href="id/id_regulation_perda.html">Peraturan Daerah</a></li>
+																						<li><a href="id/id_regulation_pergub.html">Peraturan Gubernur</a></li>
+																						<li><a href="id/id_regulation_perkot.html">Peraturan Walikota</a></li>
+																						<li><a href="id/id_regulation_skwalkot.html">Surat keputusan Walikota</a></li>
+																				</ul>
+																		</li>
+																		<li><a href="id/E6/sumber_lainnya/Ringkasan%20Proses%20Kerja%20dan%20Capaian%20Proyek%20Daerah%20Percontohan%20Jawa.pdf" target="_blank">Ringkasan Proses Kerja dan Capaian Proyek Daerah Percontohan Jawa</a></li>
+																		<li><a href="id/E6/sumber_lainnya/Legal%20Framework%20for%20Disaster%20Management%20Particularly%20in%20the%20Field%20of%20Early%20Warning%20System%20in%20Indonesia.pdf" target="_blank">Legal Framework for Disaster Management Particularly in the Field of Early Warning System in Indonesia</a></li>
+																</ul>
+														</div>
+													</div><!--end class innerpad-->		
+										</div><!--end class listholderpad-->
+									</div><!--end class innerpanel-->
+									<!--ELEMENT 6 end HERE-->									
+									
+									</div><!--end class listCol-->
+							</div><!--end class listHolder-->
+						</li>
+				</ul>
+			</div><!--end navigation-->
+			
+			<!--TSUNAMI WAVE BACKGROUND DIVIDER-->
+			<div id="wavebgr">
+					<div id="openingScreen">
+						<h1>Tentang TSUNAMI<em>Kit</em></h1>
+						<p>Sebagian besar masyarakat pesisir di Indonesia terancam tsunami. Kita tidak dapat mencegah kedatangan tsunami, namun jiwa manusia bisa terselamatkan jika masyarakat bersiap siaga, menerima peringatan dini tepat pada waktunya dan memahami cara bertindak. TSUNAMI<em>Kit</em> ini dikembangkan untuk membantu masyarakat dan pemerintah daerahnya mampu mencapai tujuan tersebut.<br />
+						TSUNAMI<em>Kit</em> berisi kumpulan hasil-hasil kerjasama Indonesia-Jerman di wilayah proyek di Bali, Lombok, Jawa, dan Sumatra. Isinya mengikuti elemen-elemen kunci peringatan dini tsunami dan menyediakan daftar periksa dan perangkat untuk pelaksanaan, menampilkan pengalaman dan praktik terbaik serta menyajikan kumpulan materi penyadaran dan sumber lainnya yang mungkin bermanfaat bagi kesiapsiagaan tsunami di daerah.</p>
+						<p style="text-align: right; font-weight: bold;">Mari kita bersiapsiaga!</p>
+					</div>
+			</div>
+			<!--id wavebgr-->	
+			<!--FOOOTER LOGO-->
+			<div id="homeFooterContainer"><img  src="images/home_logo_footer.gif" align="Tsunami Kit" /> </div>			
+			
+		</div><!--end flyList-->
+		<br class="clearfloat /">
+
+	</div><!--end defaultContainer-->
+</div><!--end centered-->
+</body>
+</html>

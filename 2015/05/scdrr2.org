@@ -1,0 +1,607 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 lt-ie9 lt-ie8 lt-ie7" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 lt-ie9 lt-ie8" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 lt-ie9" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="viewport" content="width=device-width">
+		<title>South Carolina Royal Rangers &raquo; Influencing More Boys Than Ever, More Effectively Than Ever!</title>
+		<link rel="profile" href="http://gmpg.org/xfn/11" />
+		<link rel="stylesheet" type="text/css" media="all" href="http://scdrr.org/wp/wp-content/themes/brunelleschi/style.css" />
+		<link rel="pingback" href="http://scdrr.org/wp/xmlrpc.php" />
+		<style type="text/css">
+			#wrapper { max-width: 960px !important;
+			 }
+																		 #main { float: right } 											</style>
+		<link rel="alternate" type="application/rss+xml" title="South Carolina Royal Rangers &raquo; Feed" href="http://scdrr.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="South Carolina Royal Rangers &raquo; Comments Feed" href="http://scdrr.org/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/scdrr.org\/wp\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.4"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;return g&&g.fillText?(g.textBaseline="top",g.font="600 32px Arial","flag"===a?(g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3):"diversity"===a?(g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e):("simple"===a?g.fillText(h(55357,56835),0,0):g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='NextGEN-css'  href='http://scdrr.org/wp/wp-content/plugins/nextgen-gallery/css/nggallery.css?ver=1.0.0' type='text/css' media='screen' />
+<link rel='stylesheet' id='shutter-css'  href='http://scdrr.org/wp/wp-content/plugins/nextgen-gallery/shutter/shutter-reloaded.css?ver=1.3.4' type='text/css' media='screen' />
+<link rel='stylesheet' id='cptchStylesheet-css'  href='http://scdrr.org/wp/wp-content/plugins/captcha/css/style.css?ver=4.4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://scdrr.org/wp/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='simplyInstagram-css'  href='http://scdrr.org/wp/wp-content/plugins/simply-instagram/css/simply-instagram.css?ver=3' type='text/css' media='all' />
+<link rel='stylesheet' id='prettyPhoto-css'  href='http://scdrr.org/wp/wp-content/plugins/simply-instagram/css/simply-instagram-prettyPhoto.css?ver=4.4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='social-widget-css'  href='http://scdrr.org/wp/wp-content/plugins/social-media-widget/social_widget.css?ver=4.4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='sfw-comment-style-css'  href='http://scdrr.org/wp/wp-content/plugins/spam-free-wordpress/css/sfw-comment-style.css?1354045881' type='text/css' media='all' />
+<script type='text/javascript' src='http://scdrr.org/wp/wp-content/themes/brunelleschi/js/modernizr-2.5.2.min.js?ver=4.4.4'></script>
+<script type='text/javascript' src='http://scdrr.org/wp/wp-content/themes/brunelleschi/js/respond.js?ver=4.4.4'></script>
+<script type='text/javascript' src='http://scdrr.org/wp/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://scdrr.org/wp/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://scdrr.org/wp/wp-content/themes/brunelleschi/js/brunelleschi-scripts.js?ver=4.4.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var shutterSettings = {"msgLoading":"L O A D I N G","msgClose":"Click to Close","imageCount":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://scdrr.org/wp/wp-content/plugins/nextgen-gallery/shutter/shutter-reloaded.js?ver=1.3.3'></script>
+<script type='text/javascript' src='http://scdrr.org/wp/wp-content/plugins/nextgen-gallery/js/jquery.cycle.all.min.js?ver=2.9995'></script>
+<script type='text/javascript' src='http://scdrr.org/wp/wp-content/plugins/nextgen-gallery/js/ngg.slideshow.min.js?ver=1.06'></script>
+<script type='text/javascript' src='http://scdrr.org/wp/wp-content/plugins/simply-instagram/js/simply-instagram-jquery.prettyPhoto.js?ver=3.1.4'></script>
+<link rel='https://api.w.org/' href='http://scdrr.org/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://scdrr.org/wp/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://scdrr.org/wp/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.4.4" />
+<!-- <meta name="NextGEN" version="1.9.6" /> -->
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<!-- BEGIN SimplyInstagram IE -->
+<!-- [if IE 9]>
+<style type="text/css">
+
+.comment-profile{
+	margin: 2px;
+	width: 45px;
+	float: left;
+}
+.comment-profile img{
+	vertical-align: top;
+}
+.comment-holder{
+	top: 0px;
+	width: 200px;
+	float: left !important;	
+}
+
+.comments-holder{
+	width: 210px;
+	float: left;
+}
+</style>
+<![endif]-->
+<!-- END SimplyInstagram IE -->
+
+	</head>
+	<body class="home blog">
+	<div id="wrapper" class="hfeed container">
+		<header id="header" class="row clearfix">
+							<div id="branding" class="twelvecol last">
+										<h1 id="site-title" >
+						<a href="http://scdrr.org/" title="South Carolina Royal Rangers" rel="home">South Carolina Royal Rangers</a>
+					</h1>
+					<div id="site-description" >Influencing More Boys Than Ever, More Effectively Than Ever!</div>
+				</div><!-- #branding -->
+																					<a href="http://scdrr.org/" class="twelvecol lastlast" title="South Carolina Royal Rangers" rel="home">
+						<img src="http://scdrr.org/wp/wp-content/uploads/2012/11/cropped-bannerscdrr2.jpg" alt="" id="headerimg" />
+					</a>
+					
+													<div id="access" role="navigation" class="twelvecol last clearfix">
+					<div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
+					<div class="menu-header"><ul id="menu-main-menu" class="menu"><li id="menu-item-744" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-744"><a href="http://scdrr.org">Home</a></li>
+<li id="menu-item-238" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-238"><a href="http://scdrr.org/calendar/">Calendar</a></li>
+<li id="menu-item-628" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-628"><a href="http://scdrr.org/e-pathfinder/">E-Pathfinder</a></li>
+<li id="menu-item-239" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-239"><a href="http://scdrr.org/training/">Training</a></li>
+<li id="menu-item-240" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-240"><a href="http://scdrr.org/gmapage/">GMA</a>
+<ul class="sub-menu">
+	<li id="menu-item-1194" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1194"><a href="http://scdrr.org/bma/">BMA</a></li>
+</ul>
+</li>
+<li id="menu-item-241" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-241"><a href="http://scdrr.org/fcf/">FCF</a></li>
+<li id="menu-item-242" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-242"><a href="http://scdrr.org/formspage/">Forms</a></li>
+<li id="menu-item-243" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-243"><a href="http://scdrr.org/pow-wow/">Pow Wow</a></li>
+<li id="menu-item-244" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-244"><a href="http://scdrr.org/charter/">Charter</a></li>
+<li id="menu-item-1309" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1309"><a href="http://scdrr.org/outreach-2/">Outreach</a>
+<ul class="sub-menu">
+	<li id="menu-item-1315" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1315"><a href="http://scdrr.org/missions-trip-1/">Missions Trip 1</a></li>
+	<li id="menu-item-1314" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1314"><a href="http://scdrr.org/missions-trip-2/">Missions Trip 2</a></li>
+</ul>
+</li>
+<li id="menu-item-1254" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1254"><a href="http://scdrr.org/outposts-2/">Outposts</a></li>
+<li id="menu-item-247" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-247"><a href="http://scdrr.org/links/">Links</a></li>
+<li id="menu-item-248" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-248"><a href="http://scdrr.org/staff/">Staff</a></li>
+<li id="menu-item-249" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-249"><a href="http://scdrr.org/derby/">Derby</a>
+<ul class="sub-menu">
+	<li id="menu-item-1735" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1735"><a href="http://scdrr.org/2016-district-derby-registration/">Registration</a></li>
+	<li id="menu-item-1644" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1644"><a href="http://scdrr.org/2016-ncsc-derby-rules/">2016 NC/SC Derby Rules</a></li>
+	<li id="menu-item-237" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-237"><a href="http://scdrr.org/derby-schedule/">Derby Schedule</a></li>
+</ul>
+</li>
+<li id="menu-item-250" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-250"><a href="http://scdrr.org/banquet/">Banquet</a></li>
+<li id="menu-item-251" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-251"><a href="http://scdrr.org/rk-overnighter/">RK Overnighter</a>
+<ul class="sub-menu">
+	<li id="menu-item-1531" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1531"><a href="http://scdrr.org/2015-rko/">2015 RKO Photos</a></li>
+</ul>
+</li>
+<li id="menu-item-252" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-252"><a href="http://scdrr.org/bylaws/">Bylaws</a></li>
+<li id="menu-item-253" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-253"><a href="http://scdrr.org/photos/">Photos</a></li>
+<li id="menu-item-266" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-266"><a href="http://scdrr.org/patches/">Patches</a>
+<ul class="sub-menu">
+	<li id="menu-item-324" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-324"><a href="http://scdrr.org/patches-district-derby/">Patches District Derby</a></li>
+	<li id="menu-item-466" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-466"><a href="http://scdrr.org/patches-fcf/">Patches FCF</a></li>
+	<li id="menu-item-412" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-412"><a href="http://scdrr.org/patches-divisional/">Patches Divisional</a></li>
+	<li id="menu-item-436" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-436"><a href="http://scdrr.org/patches-national/">Patches National</a></li>
+	<li id="menu-item-332" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-332"><a href="http://scdrr.org/patches-outposts/">Patches Outposts</a></li>
+	<li id="menu-item-305" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-305"><a href="http://scdrr.org/patches-pow-wow/">Patches Pow Wow</a></li>
+	<li id="menu-item-419" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-419"><a href="http://scdrr.org/patches-regional/">Patches Regional</a></li>
+	<li id="menu-item-492" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-492"><a href="http://scdrr.org/patches-rko/">Patches RKO</a></li>
+</ul>
+</li>
+</ul></div>				</div><!-- #access -->
+					</header><!-- #header -->
+		<div id="container" class="row clearfix">		<div id="main" role="main" class="ninecol  last ">
+		
+			<nav id="nav-above" class="navigation">
+		<div class="nav-previous"><a href="http://scdrr.org/page/2/" ><span class="meta-nav">&larr;</span> Older posts</a></div>
+		<div class="nav-next"></div>
+	</nav><!-- #nav-above -->
+
+
+
+			<article id="post-1806" class="post-1806 post type-post status-publish format-standard hentry category-district-event category-divisional-event category-national-event category-news category-outpost-event category-regional-event">
+			<header>
+				<h2 class="entry-title"><a href="http://scdrr.org/2016/03/14/online-camporama-meeting/" title="Permalink to Online Camporama Meeting" rel="bookmark">Online Camporama Meeting</a></h2>
+								<div class="entry-meta">
+					<span class="meta-sep">by</span> <span class="author vcard"><a class="url fn n" href="http://scdrr.org/author/admin/" title="View all posts by admin">admin</a></span> <span class="meta-prep meta-prep-author">Posted on</span> <a href="http://scdrr.org/2016/03/14/online-camporama-meeting/" title="6:21 pm" rel="bookmark"><span class="entry-date">March 14, 2016</span></a>				</div><!-- .entry-meta -->
+							</header>
+				<div class="entry-content">
+				<p class="yiv8979466333h3"><span style="font-family: arial, 'helvetica neue', helvetica, sans-serif;">Tonight we had our Online Meeting for Camporama. If you are going but were unable to attend the meeting, you can listen to it here:</span></p>
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-1806-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://scdrr.org/wp/wp-content/uploads/2016/03/Camporama%20Meeting%202016-3-14.mp3?_=1" /><a href="http://scdrr.org/wp/wp-content/uploads/2016/03/Camporama%20Meeting%202016-3-14.mp3">http://scdrr.org/wp/wp-content/uploads/2016/03/Camporama%20Meeting%202016-3-14.mp3</a></audio>
+<p>If you have not emailed me your information. Please look at the list below and email me.</p>
+<p>1. We need every Outpost to let us know how many are going.</p>
+<p>2. Who will be the Point of Contact from each Outpost? Please send a name and email.</p>
+<p><img class="alignright size-medium wp-image-1807" src="http://scdrr.org/wp/wp-content/uploads/2016/03/camporama2016-300x264.jpg" alt="camporama2016" width="300" height="264" srcset="http://scdrr.org/wp/wp-content/uploads/2016/03/camporama2016-300x264.jpg 300w, http://scdrr.org/wp/wp-content/uploads/2016/03/camporama2016.jpg 350w" sizes="(max-width: 300px) 100vw, 300px" />3. How many hat pins will you need for your Outpost? We recommend 20 pins for every camper at the very least. We will have a cost per pin in the near future.</p>
+<p>4. We need full time volunteers for the camp. <a href="http://nationalcamporama.com/volunteers/" target="_blank">Click Here</a> for more information.</p>
+<p>5. Are you in FCF and would like to stay and participate in the FCF Village? Go to <a href="http://myroyalrangers.com" target="_blank">myroyalrangers.com</a> and talk to Toby Tarver.</p>
+<p>6. Let Randy know if you want to stay at a local church half way to Camporama. He is making contacts and arranging the lodgings.</p>
+<p>7. We need volunteers to help make our entryway for the camp, and we need to transport it there and back. This should be a group effort so that no one person is burdened with this responsibility.</p>
+<p>Please email me with your information as soon as possible. I look forward to hearing from you.</p>
+<p>Joseph Ferreira<br />
+Communications Coordinator<br />
+South Carolina Royal Rangers<br />
+704-299-5128<br />
+rr.gma_3203@yahoo.com</p>
+							</div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+													<span class="cat-links">
+						<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://scdrr.org/category/district-event/" rel="category tag">District Event</a>, <a href="http://scdrr.org/category/divisional-event/" rel="category tag">Divisional Event</a>, <a href="http://scdrr.org/category/national-event/" rel="category tag">National Event</a>, <a href="http://scdrr.org/category/news/" rel="category tag">News</a>, <a href="http://scdrr.org/category/outpost-event/" rel="category tag">Outpost Event</a>, <a href="http://scdrr.org/category/regional-event/" rel="category tag">Regional Event</a>					</span>
+					<span class="meta-sep">|</span>
+												<span class="comments-link"><span>Comments Off<span class="screen-reader-text"> on Online Camporama Meeting</span></span></span>
+			</div><!-- .entry-utility -->
+		</article><!-- #post-## -->
+
+		
+	
+
+			<article id="post-1411" class="post-1411 post type-post status-publish format-standard hentry category-district-event category-ranger-derby category-uncategorized">
+			<header>
+				<h2 class="entry-title"><a href="http://scdrr.org/2016/02/09/2016-district-ranger-derby-results/" title="Permalink to 2016 North Carolina / South Carolina Ranger Derby Classic Results" rel="bookmark">2016 North Carolina / South Carolina Ranger Derby Classic Results</a></h2>
+								<div class="entry-meta">
+					<span class="meta-sep">by</span> <span class="author vcard"><a class="url fn n" href="http://scdrr.org/author/commandergregop101/" title="View all posts by commandergregop101">commandergregop101</a></span> <span class="meta-prep meta-prep-author">Posted on</span> <a href="http://scdrr.org/2016/02/09/2016-district-ranger-derby-results/" title="12:18 pm" rel="bookmark"><span class="entry-date">February 9, 2016</span></a>				</div><!-- .entry-meta -->
+							</header>
+				<div class="entry-content">
+				<p><a href="http://scdrr.org/wp/wp-content/uploads/2015/02/banner.jpg" rel="attachment wp-att-1783"><img class="aligncenter size-medium wp-image-1783" src="http://scdrr.org/wp/wp-content/uploads/2015/02/banner-300x94.jpg" alt="banner" width="300" height="94" srcset="http://scdrr.org/wp/wp-content/uploads/2015/02/banner-300x94.jpg 300w, http://scdrr.org/wp/wp-content/uploads/2015/02/banner-1024x319.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><strong>Ranger Kids                                       Avg.               Discovery Rangers                    Avg.</strong><br />
+1st &#8211; Logan Whitman  NC OP178        2.8418             1st -Elijah Mullins NC OP1         2.8395<br />
+2nd &#8211; Liam Bagley       SC OP49          2.8533             2nd -Keely Furr NC OP1              2.8465<br />
+3rd &#8211; Haston Furr       NC  OP1          2.8637              3rd -Joshua Bowden  NC OP150  2.9547<br />
+BOS &#8211;                                                                               BOS &#8211; Anthony Zampino NC OP 150</p>
+<p><strong>Adventure Rangers                       Avg.               Expedition Rangers                  Avg.</strong><br />
+1st -Thunder Evans SC OP101        2.8518            1st -Eli Epting SC OP49                 2.8465<br />
+2nd -Favian Montes NC OP5          2.8615            2nd -Bryce Ballard SC OP26            2.8565<br />
+3rd -Alton McCoy SC OP55             2.8623           3rd -Nathaniel Willey SC OP20       2.8752<br />
+BOS -Corbin Stewart SC OP17                               BOS &#8211; Christopher Sneider Op17</p>
+<p><strong>Under 17—Non RR                       Avg.              Over 17                                   Avg.            </strong><br />
+1st -Andre Hunter SC OP77         2.8513               1st -Greg Evans SC OP101        2.8223<br />
+2nd -Isabel Sneider SC OP17        2.8647               2nd -Richard Boggs SC OP55    2.8390<br />
+3rd -Secily Saccenti SC OP224      2.8997               3rd -Jerry Pinson SC OP101      2.8420<br />
+BOS -Isabel Sneider OP17                                      BOS &#8211; John Campbell SC OP49</p>
+<p><strong>Outlaw                                           Avg.               Fastest Overall         Total Time.             </strong><br />
+1st &#8211; Chris Clark SC OP49            2.7123                  1st -Elijah Mullins NC OP1   17.037<br />
+2nd -Sydney Graham SC OP101    2.7423                 2nd -Logan Whitman SC OP49  17.051<br />
+3rd -Marcel Bagley SC OP49         2.7788                  3rd &#8211; Keeley Furr NC OP1 17.079<br />
+BOS &#8211; Isabella Tomasi NC OP221<br />
+<a href="http://scdrr.org/wp/wp-content/uploads/2015/02/stats1.jpg" rel="attachment wp-att-1778"><img class="aligncenter size-medium wp-image-1778" src="http://scdrr.org/wp/wp-content/uploads/2015/02/stats1-300x142.jpg" alt="stats1" width="300" height="142" srcset="http://scdrr.org/wp/wp-content/uploads/2015/02/stats1-300x142.jpg 300w, http://scdrr.org/wp/wp-content/uploads/2015/02/stats1.jpg 345w" sizes="(max-width: 300px) 100vw, 300px" /></a><a href="http://scdrr.org/wp/wp-content/uploads/2015/02/stats2.jpg" rel="attachment wp-att-1779"><img class="aligncenter size-medium wp-image-1779" src="http://scdrr.org/wp/wp-content/uploads/2015/02/stats2-300x107.jpg" alt="stats2" width="300" height="107" srcset="http://scdrr.org/wp/wp-content/uploads/2015/02/stats2-300x107.jpg 300w, http://scdrr.org/wp/wp-content/uploads/2015/02/stats2.jpg 457w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>&nbsp;</p>
+<p>If you have pictures from the event please email them to Commander Greg Evans.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+							</div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+													<span class="cat-links">
+						<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://scdrr.org/category/district-event/" rel="category tag">District Event</a>, <a href="http://scdrr.org/category/ranger-derby/" rel="category tag">Ranger Derby</a>, <a href="http://scdrr.org/category/uncategorized/" rel="category tag">Uncategorized</a>					</span>
+					<span class="meta-sep">|</span>
+												<span class="comments-link"><span>Comments Off<span class="screen-reader-text"> on 2016 North Carolina / South Carolina Ranger Derby Classic Results</span></span></span>
+			</div><!-- .entry-utility -->
+		</article><!-- #post-## -->
+
+		
+	
+
+			<article id="post-1729" class="post-1729 post type-post status-publish format-standard hentry category-district-event">
+			<header>
+				<h2 class="entry-title"><a href="http://scdrr.org/2015/12/16/2016-outreach-opportunities/" title="Permalink to 2016 Outreach Opportunities" rel="bookmark">2016 Outreach Opportunities</a></h2>
+								<div class="entry-meta">
+					<span class="meta-sep">by</span> <span class="author vcard"><a class="url fn n" href="http://scdrr.org/author/admin/" title="View all posts by admin">admin</a></span> <span class="meta-prep meta-prep-author">Posted on</span> <a href="http://scdrr.org/2015/12/16/2016-outreach-opportunities/" title="2:58 am" rel="bookmark"><span class="entry-date">December 16, 2015</span></a>				</div><!-- .entry-meta -->
+							</header>
+				<div class="entry-content">
+				<p><span style="font-family: arial, 'helvetica neue', helvetica, sans-serif;">We have a couple outreach opportunities coming up soon!</span></p>
+<p>1) We have been invited back to Musgrove Mill Living History Weekend! The weekend is April 23 and 24 this year, and they would like to know by Feb 1st how many we are going to be bringing. I would like to know how many &#8220;definites&#8221; and how many &#8220;maybes&#8221; by Jan 25th so I can e-mail them back. If you are thinking about going, they are very adamant about us being period correct. We did a much better job this past year, which is the main reason we are being invited back. Minimal is the key word for this outreach. If you are going, be prepared to have some sort of demonstration for the crowds coming through. If at all possible, when you send in your definite, let me know the skill you will be demonstrating.</p>
+<p>Firewood is provided, and set-up is open for that Friday.</p>
+<p>If you have never been before, it is a great experience!</p>
+<p>2) We have put together a Missions Trip to Tegucigalpa, Honduras August 5-12. Cost is $500 plus airplane ticket. The Missionary needs help at a local school. Younger boys will be doing a LOT of painting. The $500 covers all supplies,transportation, hotel arrangements, and food while there. The missionary himself doesn&#8217;t have a minimum age, but there might be a minimum age through The Assemblies of God main office. A passport will be required. It takes about a month to go through the process, and costs $100.</p>
+<p>Let Herb Gray know if you have any questions about either outreach. <a href="mailto:outreach@scdrr.org?subject=Outreach Opportunities">outreach@scdrr.org</a></p>
+							</div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+													<span class="cat-links">
+						<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://scdrr.org/category/district-event/" rel="category tag">District Event</a>					</span>
+					<span class="meta-sep">|</span>
+												<span class="comments-link"><span>Comments Off<span class="screen-reader-text"> on 2016 Outreach Opportunities</span></span></span>
+			</div><!-- .entry-utility -->
+		</article><!-- #post-## -->
+
+		
+	
+
+			<article id="post-1693" class="post-1693 post type-post status-publish format-standard hentry category-news">
+			<header>
+				<h2 class="entry-title"><a href="http://scdrr.org/2015/11/17/new-district-director/" title="Permalink to New District Director" rel="bookmark">New District Director</a></h2>
+								<div class="entry-meta">
+					<span class="meta-sep">by</span> <span class="author vcard"><a class="url fn n" href="http://scdrr.org/author/admin/" title="View all posts by admin">admin</a></span> <span class="meta-prep meta-prep-author">Posted on</span> <a href="http://scdrr.org/2015/11/17/new-district-director/" title="1:52 am" rel="bookmark"><span class="entry-date">November 17, 2015</span></a>				</div><!-- .entry-meta -->
+							</header>
+				<div class="entry-content">
+				<p id="yiv1620303324yui_3_16_0_1_1444783742234_10549"><span id="yui_3_16_0_1_1447718910518_6765">Thank you to everyone who came out Saturday for our Annual Banquet. We had a lot of fun, food, and memories. As you know, Michael Keese has stepped down as our District Director, but he can&#8217;t get away from us that easy.  He has accepted the position as our new Regional Coordinator. God has timing for everything, and his hand is evident during this transition.</span></p>
+<p>&nbsp;</p>
+<table id="yui_3_16_0_1_1447718910518_6778">
+<tbody id="yui_3_16_0_1_1447718910518_6777">
+<tr id="yui_3_16_0_1_1447718910518_6776">
+<td><span style="font-family: arial, 'helvetica neue', helvetica, sans-serif;"><a href="http://scdrr.org/wp/wp-content/uploads/2015/11/RandyStewart.jpg"><img class="alignleft size-full wp-image-1688" title="RandyStewart" src="http://scdrr.org/wp/wp-content/uploads/2015/11/RandyStewart.jpg" alt="" width="1836" height="2448" srcset="http://scdrr.org/wp/wp-content/uploads/2015/11/RandyStewart-225x300.jpg 225w, http://scdrr.org/wp/wp-content/uploads/2015/11/RandyStewart-768x1024.jpg 768w, http://scdrr.org/wp/wp-content/uploads/2015/11/RandyStewart.jpg 1836w" sizes="(max-width: 1836px) 100vw, 1836px" /></a></span></td>
+<td id="yui_3_16_0_1_1447718910518_6775" style="text-align: left;"><span id="yui_3_16_0_1_1447718910518_6772">As some of you now know, we have a new District Director. We have been looking and praying for God to help us find a new director, and he never fails.  Randy Stewart has graciously accepted the appointment, and we are excited to serve under his leadership. This is a transition period for us, so please be patient.  Michael and Randy are getting many things transferred, and it will be done in phases.</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: left;"><span id="yui_3_16_0_1_1447718910518_6780">Here are a few things you need to note:<br />
+1. All Ranger Store orders will be handled by Michael Keese till the end of the year.Please send your orders to (thestore@scdrr.org)<br />
+2. We will be transferring email addresses over to Randy, so there will be some delay or mixup. Please be patient.<br />
+3. Michael will keep (michael@scdrr.org), so feel free to send him an encouraging note.</span></p>
+<p>We will let you know when the email transfer is complete in an upcoming E-Pathfinder.</p>
+							</div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+													<span class="cat-links">
+						<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://scdrr.org/category/news/" rel="category tag">News</a>					</span>
+					<span class="meta-sep">|</span>
+												<span class="comments-link"><span>Comments Off<span class="screen-reader-text"> on New District Director</span></span></span>
+			</div><!-- .entry-utility -->
+		</article><!-- #post-## -->
+
+		
+	
+
+			<article id="post-1344" class="post-1344 post type-post status-publish format-standard hentry category-news">
+			<header>
+				<h2 class="entry-title"><a href="http://scdrr.org/2014/11/16/a-message-from-michael-keese/" title="Permalink to A Message From Michael Keese" rel="bookmark">A Message From Michael Keese</a></h2>
+								<div class="entry-meta">
+					<span class="meta-sep">by</span> <span class="author vcard"><a class="url fn n" href="http://scdrr.org/author/admin/" title="View all posts by admin">admin</a></span> <span class="meta-prep meta-prep-author">Posted on</span> <a href="http://scdrr.org/2014/11/16/a-message-from-michael-keese/" title="10:05 pm" rel="bookmark"><span class="entry-date">November 16, 2014</span></a>				</div><!-- .entry-meta -->
+							</header>
+				<div class="entry-content">
+				<p><a href="http://scdrr.org/wp/wp-content/uploads/2012/11/20121111-075408.jpg"><img class="alignleft size-full wp-image-128" title="20121111-075408.jpg" src="http://scdrr.org/wp/wp-content/uploads/2012/11/20121111-075408.jpg" alt="" width="113" height="150" /></a>My fellow commanders,</p>
+<p>For those who were unable to attend the banquet last Saturday, I made the following announcement:</p>
+<p>It is with mixed emotions that I have submitted my resignation as District Director of South Carolina Royal Rangers, effective June 30, 2015. I have served in this position for ten years, half of the 20 years I have been in Rangers. It is time for me to step aside and let someone new stand up and take charge of this ministry, someone who is better equipped to handle the changes that have occurred in technology and this ministry over these years.</p>
+<p>It is my intention to stay involved in Rangers in my local outpost, and to continue as a certified instructor teaching new commanders/leaders how to use and work in the Ranger ministry.</p>
+<p>I regret I have no recommendation for my replacement. This is one reason I am staying until June, to give the staff a chance to find that someone, for God to call that individual to stand up, and say I “heard the voice of the Lord, saying, Whom shall I send, and who will go for us? Then said I, Here am I; send me,” Isaiah 6:8. I also did not believe it would be right to step down with the busiest time of our calendar coming up.</p>
+<p>To the best of my knowledge I am stepping down in good standing with the district, churches, and commanders that I have served during these ten years. It has been an honor and a blessing to serve in this position and I look forward to continue to serve in other capacities as the opportunities arise.</p>
+<p>Thank you for supporting me during this time and thank you for your support of the Royal Ranger ministry. Be blessed!</p>
+<p>Michael A Keese, District Director</p>
+							</div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+													<span class="cat-links">
+						<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://scdrr.org/category/news/" rel="category tag">News</a>					</span>
+					<span class="meta-sep">|</span>
+												<span class="comments-link"><span>Comments Off<span class="screen-reader-text"> on A Message From Michael Keese</span></span></span>
+			</div><!-- .entry-utility -->
+		</article><!-- #post-## -->
+
+		
+	
+
+			<article id="post-1342" class="post-1342 post type-post status-publish format-standard hentry category-news">
+			<header>
+				<h2 class="entry-title"><a href="http://scdrr.org/2014/11/16/new-national-girls-ministries-director/" title="Permalink to New National Girls Ministries Director" rel="bookmark">New National Girls Ministries Director</a></h2>
+								<div class="entry-meta">
+					<span class="meta-sep">by</span> <span class="author vcard"><a class="url fn n" href="http://scdrr.org/author/admin/" title="View all posts by admin">admin</a></span> <span class="meta-prep meta-prep-author">Posted on</span> <a href="http://scdrr.org/2014/11/16/new-national-girls-ministries-director/" title="9:48 pm" rel="bookmark"><span class="entry-date">November 16, 2014</span></a>				</div><!-- .entry-meta -->
+							</header>
+				<div class="entry-content">
+				<p>New Girl’s Ministries Director Appointed.</p>
+<p>The Assemblies of God National Leadership and Resource Center is excited to announce Mandy Groot as the AG National Girls Ministries Director.</p>
+<p>Mandy currently serves as the Ohio AG District Girls Ministries Director, a position held since February 2009. During that time she has invested in creating a strong foundation for gender-specific ministry to girls through developing and empowering leaders throughout the Ohio Ministry Network. Her time in district leadership has given her a firsthand look at the needs of the local church for Pentecostal resources that are relevant to today’s girl.</p>
+<p>Her influence reaches beyond her district as she has been a steady and upbeat voice within the community of District Girls Ministries Directors. Mandy was invited to serve on the NGM Task Force in 2012, a position that allowed her to provide ministry insights to both the former NGM Director and Senior Director of Children’s Ministries.</p>
+<p>Tom and Mandy have been happily married for eighteen years and are blessed with three incredible boys: Micah, age eight; Levi, age seven; and Noah, age four. Mandy will begin filling the role of AG National Girls Ministries Director in January 2015 when she and the family relocate to Springfield, Missouri.</p>
+<p>Mandy’s investment in leadership development, vision to church leaders, and ongoing training opportunities will play a key role in the outcomes-based, cradle-to-grave discipleship strategy of the Assemblies of God. Every young girl needs a role model who will journey with her through the ages and stages of life —someone who is a living example of God’s love and grace in their own life. This is accomplished as leaders continue to grow in their own relationship and allow His love to overflow into the lives of those they come in contact with.</p>
+<p>The future of National Girls Ministries is bright as we follow the leading of the Holy Spirit to provide resources to help churches reach girls in their community.</p>
+<p>With Respect,</p>
+<p>Mark Entzminger<br />
+Senior Director of Children’s Ministries<br />
+General Council of the Assemblies of God<br />
+mentzminger@ag.org / @markentzminger<br />
+cell: 1.417.693.1367 / ofc: 1.417.862.2781 x4151</p>
+							</div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+													<span class="cat-links">
+						<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://scdrr.org/category/news/" rel="category tag">News</a>					</span>
+					<span class="meta-sep">|</span>
+												<span class="comments-link"><span>Comments Off<span class="screen-reader-text"> on New National Girls Ministries Director</span></span></span>
+			</div><!-- .entry-utility -->
+		</article><!-- #post-## -->
+
+		
+	
+
+			<article id="post-1335" class="post-1335 post type-post status-publish format-standard hentry category-uncategorized">
+			<header>
+				<h2 class="entry-title"><a href="http://scdrr.org/2014/11/16/ranger-store/" title="Permalink to Ranger Store" rel="bookmark">Ranger Store</a></h2>
+								<div class="entry-meta">
+					<span class="meta-sep">by</span> <span class="author vcard"><a class="url fn n" href="http://scdrr.org/author/admin/" title="View all posts by admin">admin</a></span> <span class="meta-prep meta-prep-author">Posted on</span> <a href="http://scdrr.org/2014/11/16/ranger-store/" title="9:38 pm" rel="bookmark"><span class="entry-date">November 16, 2014</span></a>				</div><!-- .entry-meta -->
+							</header>
+				<div class="entry-content">
+				<p><a href="http://scdrr.org/wp/wp-content/uploads/2014/11/RR-Sweat-Shirt-small.jpg"><img class="alignleft size-medium wp-image-1336" title="RR Sweat Shirt small" src="http://scdrr.org/wp/wp-content/uploads/2014/11/RR-Sweat-Shirt-small-225x300.jpg" alt="" width="225" height="300" srcset="http://scdrr.org/wp/wp-content/uploads/2014/11/RR-Sweat-Shirt-small-225x300.jpg 225w, http://scdrr.org/wp/wp-content/uploads/2014/11/RR-Sweat-Shirt-small.jpg 400w" sizes="(max-width: 225px) 100vw, 225px" /></a>Christmas is fast approaching (I know. Its not even Thanksgiving yet!) Anyone wishing to order one of the Ranger hooded sweatshirts we sold last year needs to place your order by Monday, November 24. This is a hard deadline to get them in before Christmas. We need a minimum of 12 before an order can be placed. Cost is $40, no shipping charge. For 2x add $3, 3X add $4, and 4X and $5. Be sure to include the size(s) and color. (See below. Hover over a color for a link to the website.) Be sure to include the address you want them shipped to. These are quality sweatshirts, 8 oz., 50/50 cotton/poly with twill applique, not heat or screen pressed. Let me know if you have any questions.<br />
+<img id="yui_3_16_0_1_1416172430028_2123" src="https://gallery.mailchimp.com/21d6592c2da6df0797ef820e1/images/b183fe6f-6bd9-4045-9c53-4accc89caaaa.jpg" alt="" width="440" height="308" /></p>
+<p>It’s not too early to order your derby cars. They make great stocking stuffers! Email all your Store orders to thestore@scdrr.org. Don’t forget the Nov. 24 deadline!</p>
+							</div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+													<span class="cat-links">
+						<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://scdrr.org/category/uncategorized/" rel="category tag">Uncategorized</a>					</span>
+					<span class="meta-sep">|</span>
+												<span class="comments-link"><span>Comments Off<span class="screen-reader-text"> on Ranger Store</span></span></span>
+			</div><!-- .entry-utility -->
+		</article><!-- #post-## -->
+
+		
+	
+
+			<article id="post-1332" class="post-1332 post type-post status-publish format-standard hentry category-news">
+			<header>
+				<h2 class="entry-title"><a href="http://scdrr.org/2014/11/16/new-southeast-region-website/" title="Permalink to New Southeast Region Website" rel="bookmark">New Southeast Region Website</a></h2>
+								<div class="entry-meta">
+					<span class="meta-sep">by</span> <span class="author vcard"><a class="url fn n" href="http://scdrr.org/author/admin/" title="View all posts by admin">admin</a></span> <span class="meta-prep meta-prep-author">Posted on</span> <a href="http://scdrr.org/2014/11/16/new-southeast-region-website/" title="9:09 pm" rel="bookmark"><span class="entry-date">November 16, 2014</span></a>				</div><!-- .entry-meta -->
+							</header>
+				<div class="entry-content">
+				<p>New SERR website &#8211; <a href="http://www.southeastrangers.org/ser/" target="_blank">http://www.southeastrangers.org/ser/</a>.  Still working on the details but the new site is up and running.  Check it out to keep track of region and training events across the southeast.</p>
+							</div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+													<span class="cat-links">
+						<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://scdrr.org/category/news/" rel="category tag">News</a>					</span>
+					<span class="meta-sep">|</span>
+												<span class="comments-link"><span>Comments Off<span class="screen-reader-text"> on New Southeast Region Website</span></span></span>
+			</div><!-- .entry-utility -->
+		</article><!-- #post-## -->
+
+		
+	
+
+			<article id="post-1228" class="post-1228 post type-post status-publish format-standard hentry category-news">
+			<header>
+				<h2 class="entry-title"><a href="http://scdrr.org/2014/09/05/new-national-director/" title="Permalink to New National Director" rel="bookmark">New National Director</a></h2>
+								<div class="entry-meta">
+					<span class="meta-sep">by</span> <span class="author vcard"><a class="url fn n" href="http://scdrr.org/author/admin/" title="View all posts by admin">admin</a></span> <span class="meta-prep meta-prep-author">Posted on</span> <a href="http://scdrr.org/2014/09/05/new-national-director/" title="1:31 am" rel="bookmark"><span class="entry-date">September 5, 2014</span></a>				</div><!-- .entry-meta -->
+							</header>
+				<div class="entry-content">
+				<p>We have a new National Director!</p>
+<p><em>September 2, 2014</em></p>
+<p><a href="http://scdrr.org/wp/wp-content/uploads/2014/09/Karl150x150.jpg"><img class="alignleft size-full wp-image-1229" title="Karl150x150" src="http://scdrr.org/wp/wp-content/uploads/2014/09/Karl150x150.jpg" alt="" width="150" height="150" /></a>Karl Fleig, District Men&#8217;s Ministries and Christian Education Director for the Indiana district of the Assemblies of God, has been appointed as the new National Director of Royal Rangers. Karl replaces Doug Marsh who announced in April that he would be transitioning into full-time leadership of Royal Rangers International, the AGWM ministry Doug began in 2002 to expand the ministry of Royal Rangers around the world.</p>
+<p>Karl comes into his new role with over 13 years of leadership expereince in the Indiana district office which included oversight of the Royal Rangers program there.  His district responsibilites included men’s ministry, discipleship, kids’ camps, and more.  He has been very active in Royal Rangers for many years, attending numerous national LEAD conferences and other national events.</p>
+<p>This transition promises to continue the strong relatiionship between Royal Rangers USA and Royal Rangers International.  Both Karl and Doug have a passion for mentoring the next generation and will work well together to strengthen this ministry globally.</p>
+<p>Royal Rangers continues it ongoing purpose to mentor boys and young men, providing Christlike character formation and servant leadership development in a highly relational and fun environment.  Our mission is to evangelize, equip, and empower the next generation of Christlike men and lifelong servant leaders.</p>
+							</div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+													<span class="cat-links">
+						<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://scdrr.org/category/news/" rel="category tag">News</a>					</span>
+					<span class="meta-sep">|</span>
+												<span class="comments-link"><span>Comments Off<span class="screen-reader-text"> on New National Director</span></span></span>
+			</div><!-- .entry-utility -->
+		</article><!-- #post-## -->
+
+		
+	
+
+			<article id="post-965" class="post-965 post type-post status-publish format-standard hentry category-uncategorized">
+			<header>
+				<h2 class="entry-title"><a href="http://scdrr.org/2014/04/26/doug-marsh-national-director/" title="Permalink to Doug Marsh &#8211; National Director" rel="bookmark">Doug Marsh &#8211; National Director</a></h2>
+								<div class="entry-meta">
+					<span class="meta-sep">by</span> <span class="author vcard"><a class="url fn n" href="http://scdrr.org/author/admin/" title="View all posts by admin">admin</a></span> <span class="meta-prep meta-prep-author">Posted on</span> <a href="http://scdrr.org/2014/04/26/doug-marsh-national-director/" title="12:41 am" rel="bookmark"><span class="entry-date">April 26, 2014</span></a>				</div><!-- .entry-meta -->
+							</header>
+				<div class="entry-content">
+				<p>&nbsp;</p>
+<p><a style="color: #ff4b33; font-size: 16px;" href="http://scdrr.org/wp/wp-content/uploads/2014/04/20140425-204022.jpg"><img class="size-full alignleft" src="http://scdrr.org/wp/wp-content/uploads/2014/04/20140425-204022.jpg" alt="20140425-204022.jpg" width="150" height="188" /></a></p>
+<p dir="ltr">Greetings Everyone!</p>
+<p dir="ltr">We have some news from Mark Entzminger, Senior Director of Children’s Ministries, about our National Director, Doug Marsh.</p>
+<p dir="ltr">Doug will be stepping down as National Director and continue in full time missions as International Directors.  Mark said, &#8220;&#8230;Doug will be making a gradual transition to this full-time missions status over the next three to six months. This will allow him to retain his role in leadership of Royal Rangers USA while we immediately begin a national search for a new director.&#8221;</p>
+<p dir="ltr">You can read Mark&#8217;s full letter here: <a href="http://scdrr.org/forms/DougMarsh.pdf" target="_blank">http://scdrr.org/forms/DougMarsh.pdf</a></p>
+<p dir="ltr">Please pray that God will guide our National Committee and Leadership in their search for a new director.</p>
+<p>&nbsp;</p>
+<div></div>
+							</div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+													<span class="cat-links">
+						<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://scdrr.org/category/uncategorized/" rel="category tag">Uncategorized</a>					</span>
+					<span class="meta-sep">|</span>
+												<span class="comments-link"><span>Comments Off<span class="screen-reader-text"> on Doug Marsh &#8211; National Director</span></span></span>
+			</div><!-- .entry-utility -->
+		</article><!-- #post-## -->
+
+		
+	
+
+				<nav id="nav-below" class="navigation">
+					<div class="nav-previous"><a href="http://scdrr.org/page/2/" ><span class="meta-nav">&larr;</span> Older posts</a></div>
+					<div class="nav-next"></div>
+				</nav><!-- #nav-below -->
+		
+		</div><!-- #main -->
+			<div id="sidebar" class="widget-area threecol " role="complementary">
+			<ul class="xoxo">
+
+<li id="text-4" class="widget-container widget_text"><h3 class="widget-title">Devotional</h3>			<div class="textwidget">Philippians 4:4 - Rejoice in the Lord always; again I will say, rejoice!</div>
+		</li><li id="social-widget-2" class="widget-container Social_Widget"><h3 class="widget-title">Follow Us On Social Media!</h3><div class="socialmedia-buttons smw_left"><a href="https://www.facebook.com/scdrr" rel="nofollow" target="_blank"><img width="32" height="32" src="http://scdrr.org/wp/wp-content/plugins/social-media-widget/images/default/32/facebook.png" 
+				alt="Follow Us on Facebook" 
+				title="South Carolina District Royal Rangers" style="opacity: 0.8; -moz-opacity: 0.8;" class="fade" /></a><a href="https://twitter.com/scroyalrangers1" rel="nofollow" target="_blank"><img width="32" height="32" src="http://scdrr.org/wp/wp-content/plugins/social-media-widget/images/default/32/twitter.png" 
+				alt="Follow Us on Twitter" 
+				title="South Carolina District Royal Rangers" style="opacity: 0.8; -moz-opacity: 0.8;" class="fade" /></a><a href="http://instagram.com/scroyalrangers" rel="nofollow" target="_blank"><img width="32" height="32" src="http://scdrr.org/wp/wp-content/plugins/social-media-widget/images/default/32/instagram.png" 
+				alt="Follow Us on Instagram" 
+				title="South Carolina District Royal Rangers" style="opacity: 0.8; -moz-opacity: 0.8;" class="fade" /></a><a href="http://scdrr.org/e-pathfinder/" rel="nofollow" target="_self"><img width="32" height="32" src="http://scdrr.org/wp/wp-content/plugins/social-media-widget/images/default/32/email.png" 
+				alt="Follow Us on E-mail" 
+				title="E-Pathfinder | Email Newsletter" style="opacity: 0.8; -moz-opacity: 0.8;" class="fade" /></a></div></li><li id="instagram_recent_media-2" class="widget-container widget_instagram_recent_media"><h3 class="widget-title">Instagram Images</h3>District Events<div class="clear"></div>	<script type="text/javascript" charset="utf-8">	  
+	  jQuery(document).ready(function(){
+	    jQuery("a[rel^='sInstRecentMediaWid']").prettyPhoto({
+	    	autoplay_slideshow: false,
+	    	social_tools:false,
+	    	theme: 'pp_default',
+	    	});
+	  });
+	</script>
+	</li>		<li id="recent-posts-2" class="widget-container widget_recent_entries">		<h3 class="widget-title">Recent Posts</h3>		<ul>
+					<li>
+				<a href="http://scdrr.org/2016/03/14/online-camporama-meeting/">Online Camporama Meeting</a>
+						</li>
+					<li>
+				<a href="http://scdrr.org/2016/02/09/2016-district-ranger-derby-results/">2016 North Carolina / South Carolina Ranger Derby Classic Results</a>
+						</li>
+					<li>
+				<a href="http://scdrr.org/2015/12/16/2016-outreach-opportunities/">2016 Outreach Opportunities</a>
+						</li>
+					<li>
+				<a href="http://scdrr.org/2015/11/17/new-district-director/">New District Director</a>
+						</li>
+					<li>
+				<a href="http://scdrr.org/2014/11/16/a-message-from-michael-keese/">A Message From Michael Keese</a>
+						</li>
+				</ul>
+		</li>		<li id="categories-2" class="widget-container widget_categories"><h3 class="widget-title">Categories</h3>		<ul>
+	<li class="cat-item cat-item-9"><a href="http://scdrr.org/category/district-event/" >District Event</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="http://scdrr.org/category/divisional-event/" >Divisional Event</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://scdrr.org/category/fcf/" >FCF</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="http://scdrr.org/category/national-event/" >National Event</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="http://scdrr.org/category/news/" >News</a>
+</li>
+	<li class="cat-item cat-item-11"><a href="http://scdrr.org/category/outpost-event/" >Outpost Event</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="http://scdrr.org/category/pow-wow/" >Pow Wow</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="http://scdrr.org/category/ranger-derby/" >Ranger Derby</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="http://scdrr.org/category/regional-event/" >Regional Event</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="http://scdrr.org/category/training/" >Training</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://scdrr.org/category/uncategorized/" >Uncategorized</a>
+</li>
+		</ul>
+</li><li id="text-3" class="widget-container widget_text"><h3 class="widget-title">Contact Us</h3>			<div class="textwidget"><div class="wpcf7" id="wpcf7-f141-w1-o1"><form action="/#wpcf7-f141-w1-o1" method="post" class="wpcf7-form">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="141" />
+<input type="hidden" name="_wpcf7_version" value="3.3.1" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f141-w1-o1" />
+<input type="hidden" name="_wpnonce" value="7d4b94e72d" />
+</div>
+<p>Your Name (required)<br />
+    <span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" size="40" /></span> </p>
+<p>Your Email (required)<br />
+    <span class="wpcf7-form-control-wrap your-email"><input type="text" name="your-email" value="" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" size="40" /></span> </p>
+<p>Subject<br />
+    <span class="wpcf7-form-control-wrap your-subject"><input type="text" name="your-subject" value="" class="wpcf7-form-control wpcf7-text" size="40" /></span> </p>
+<p>Your Message<br />
+    <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" class="wpcf7-form-control  wpcf7-textarea" cols="40" rows="10"></textarea></span> </p>
+<p><input type="submit" value="Send" class="wpcf7-form-control  wpcf7-submit" /></p>
+<div class="wpcf7-response-output wpcf7-display-none"></div></form></div></div>
+		</li>			</ul>
+			
+			<!-- Unified into one widget area, as of 1.1.8 -->
+								
+				<div class="widget-area" role="complementary">
+					<ul class="xoxo">
+						<li id="search-2" class="widget-container widget_search"><form role="search" method="get" id="searchform" class="searchform" action="http://scdrr.org/">
+				<div>
+					<label class="screen-reader-text" for="s">Search for:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Search" />
+				</div>
+			</form></li>					</ul>
+				</div><!-- #secondary .widget-area -->
+			
+					</div><!-- #primary .widget-area -->
+				</div><!-- #container -->
+			<footer id="footer" role="contentinfo" class="row">
+				<div id="footerbar" class="twelvecol last">
+									</div><!-- #footerbar -->
+				<div id="colophon" class="twelvecol last">
+					<div id="site-info" class="sixcol">
+						<a href="http://scdrr.org/" title="South Carolina Royal Rangers" rel="home">
+							South Carolina Royal Rangers						</a>
+					</div><!-- #site-info -->
+					<div id="site-generator" class="sixcol last">
+												<a href="http://wordpress.org/" title="Semantic Personal Publishing Platform">Proudly powered by WordPress.</a>
+					</div><!-- #site-generator -->
+				</div><!-- #colophon -->
+			</footer><!-- #footer -->
+		</div><!-- #wrapper -->
+		<link rel='stylesheet' id='mediaelement-css'  href='http://scdrr.org/wp/wp-includes/js/mediaelement/mediaelementplayer.min.css?ver=2.18.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='http://scdrr.org/wp/wp-includes/js/mediaelement/wp-mediaelement.css?ver=4.4.4' type='text/css' media='all' />
+<script type='text/javascript' src='http://scdrr.org/wp/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.18'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/scdrr.org\/wp\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://scdrr.org/wp/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.3.1'></script>
+<script type='text/javascript' src='http://scdrr.org/wp/wp-includes/js/wp-embed.min.js?ver=4.4.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mejsL10n = {"language":"en-US","strings":{"Close":"Close","Fullscreen":"Fullscreen","Download File":"Download File","Download Video":"Download Video","Play\/Pause":"Play\/Pause","Mute Toggle":"Mute Toggle","None":"None","Turn off Fullscreen":"Turn off Fullscreen","Go Fullscreen":"Go Fullscreen","Unmute":"Unmute","Mute":"Mute","Captions\/Subtitles":"Captions\/Subtitles"}};
+var _wpmejsSettings = {"pluginPath":"\/wp\/wp-includes\/js\/mediaelement\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://scdrr.org/wp/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=2.18.1-a'></script>
+<script type='text/javascript' src='http://scdrr.org/wp/wp-includes/js/mediaelement/wp-mediaelement.js?ver=4.4.4'></script>
+	</body>
+</html>

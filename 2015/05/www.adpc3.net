@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html>
+
+    <!-- #BeginTemplate "Web-dwt/0-Layout-index.dwt" -->
+    <head>
+    	<meta charset="UTF-8">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta http-equiv="Content-Language" content="en-us">
+		<title>Asian Disaster Preparedness Center</title>
+		
+	<meta name="product" content="Asian Disaster Preparedness Center (ADPC)">
+    <meta name="keywords" content="Asian Disaster Preparedness Center, training, risk, management, strategy, local, national, regional, government, Asia-Pacific, mitigate, impacts, natural, capacity, building, climate change, climate, resilience, development, regional consultative committee, 1986, Impact, Technical, Science, Systems, Applications, Project, report, governance, policy, SERVIR, Mekong, adaptation, coastal, alert, warning, dissemination, hazard, Vulnerability, assessment, community, prevention, mitigation, reduction, recovery, preparation, response, contingency, planning, emergency, safety, gender, psycho-social, strengthening, urban, resilient, infrastructure, knowledge, network, mainstreaming, practitioner, institution, humanitarian, NGO, Non-governmental organization">
+    <meta name="description" content="Asian Disaster Preparedness Center (ADPC) provides training and deploys disaster risk management (DRM) strategies to reduce local, national and regional risk across Asia-Pacific to mitigate the impacts of natural disaster, climate change and build resilience">
+    <meta name="author" content="Asian Disaster Preparedness Center (ADPC)">
+        
+        <link rel="stylesheet" href="Web-dwt/css/reset.css" type="text/css" media="screen" />
+        <link rel="stylesheet" href="Web-dwt/css/960_16_col.css" type="text/css" media="screen" />
+        <link rel="stylesheet" href="Web-dwt/css/jquery-ui-1.10.3.custom.min.css" type="text/css" media="screen" />
+        <link rel="stylesheet" href="Web-dwt/css/camera.css" type="text/css" media="screen" />
+        <link rel="stylesheet" href="Web-dwt/css/default.css" type="text/css" media="screen" />
+        <link rel="stylesheet" href="Web-dwt/css/home.css" type="text/css" media="screen" />
+        
+<link rel="apple-touch-icon" sizes="57x57" href="Web-dwt/icons/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="Web-dwt/icons/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="Web-dwt/icons/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="Web-dwt/icons/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="Web-dwt/icons/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="Web-dwt/icons/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="Web-dwt/icons/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="Web-dwt/icons/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="Web-dwt/icons/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="Web-dwt/icons/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="Web-dwt/icons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="Web-dwt/icons/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="Web-dwt/icons/favicon-16x16.png">
+<link rel="manifest" href="Web-dwt/icons/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="icons/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+        
+        
+        <script type="text/javascript" src="Web-dwt/js/jquery-1.10.2.min.js"></script>
+        <script type="text/javascript" src="Web-dwt/js/jquery-migrate-1.2.1.min.js"></script>
+        <script type="text/javascript" src="Web-dwt/js/jquery-ui-1.10.3.custom.min.js"></script>
+        <script type="text/javascript" src="Web-dwt/js/jquery.easing.1.3.js"></script>
+        <script type="text/javascript" src="Web-dwt/js/camera.min.js"></script>
+        <!-- <script type="text/javascript" src="js/jquery.jcarousel.min.js"></script> -->
+        <script type="text/javascript" src="Web-dwt/js/jquery.cycle2.min.js"></script>
+        <script type="text/javascript" src="Web-dwt/js/jquery.cycle2.carousel.min.js"></script>
+        <script type="text/javascript" src="Web-dwt/js/default.js"></script>
+        <script type="text/javascript" src="Web-dwt/js/home.js"></script>
+        
+        <style type="text/css">        
+	        .drr-icon{
+	        background:url('Web-dwt/body-Drr.png');
+	        }        
+        </style>
+        <!--  GoogleAnalyticsObject       -->
+	    <script>
+			  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');		
+			  ga('create', 'UA-48787445-1', 'adpc.net');
+			  ga('send', 'pageview');
+		</script>
+        
+	</head>
+<body>
+	<div><!-- #BeginEditable "jQuery" -->
+
+	<div>
+
+	<div style="display:none">
+	112 Publication	
+	
+	
+	
+	
+	</div>
+
+		</div>
+
+		<!-- #EndEditable --></div>
+<div id="header-wrapper">
+		<div class="container_16">
+			
+<div id="header-wrapper">
+		<div class="container_16">
+			<div id="body-header" class="grid_16">
+				<a href="Default.asp" id="site-logo" class="header-content">
+				
+				</a>
+				<div style="position: absolute; width: 38px; height: 17px; z-index: 2; left: 12px; top: 30px" id="xcode">
+				<a href="Default.asp" id="site-logo0" class="header-content">
+
+				
+				</a></div>
+				<div id="nav-search-wrapper" class="header-content">
+					<div id="nav-menu-wrapper" class="header-content">
+						<ul id="nav-menu" class="clearfix">
+							<li>
+								<a href="#">About Us</a><ul class="navbar-sub-menu-wrapper"><li>
+									<div class="navbar-sub-menu clearfix">
+										<div class="column">
+											<h4>Our Information</h4>
+											<div><a href="contents/adpcpage.asp?pid=2">ADPC at a glance</a></div>											
+											<div><a href="contents/adpcpage.asp?pid=178">Organizational Structure</a></div>
+											<div><a href="contents/adpcpage.asp?pid=1">Our Approach</a></div>
+											<div><a href="contents/adpcpage.asp?pid=3">Our Partners</a></div>
+											<div><a href="contents/ourteam/aboutus-ourteam.asp">Our Team</a></div>	
+											<div><a href="contents/brianward?pid=42">Brian Ward Memorial Lecture Series</a></div>										
+											<div><a href="contents/adpcpage.asp?pid=43">Public-Private Partnerships</a></div>
+											
+											<div><a target="_blank" href="http://www.rccdm.net/">Regional Consultative Committee on Disaster Management</a></div>    										
+											
+											<div><a href="contents/adpcpage.asp?pid=5">Join Us</a></div>
+											<div><a href="contents/adpcpage.asp?pid=44">Contact Us</a></div>
+										</div>
+										<div class="column">
+											<h4>Our Departments</h4>
+											<div><a href="contents/adpcpage.asp?pid=11&dep=CCCRM">Climate Change and Climate Risk Management</a></div>
+											<div><a href="contents/adpcpage.asp?pid=12&dep=DRAM">Disaster Risk Assessment and Monitoring</a></div>
+											<div><a href="contents/adpcpage.asp?pid=17&dep=DRMS">Disaster Risk Management Systems</a></div>
+											<div><a href="contents/adpcpage.asp?pid=13&dep=PHE">Public Health in Emergencies</a></div>
+											<div><a href="contents/adpcpage.asp?pid=16&dep=RCURM">Resilient Cities and Urban Risk Management</a></div>
+											<div><a href="contents/adpcpage.asp?pid=15&dep=SDPI">Safer Development Planning and Implementation</a></div>
+											<div>
+											<a target="_blank" href="http://www.adpc.net/igo/contents/Our_work/SERVIR/index.asp?dep=SDPI">SERVIR-Mekong</a></div>
+											<div style="display:none;"><a href="contents/adpcpage.asp?pid=17&dep=TSD">Training Services Department</a></div>
+											<div  style="display:none;"><a href="contents/adpcpage.asp?pid=17&dep=ITCD">IT and Communication Department</a></div>
+											
+										</div>
+									</div>
+								</li></ul>
+							</li>
+							<li>
+								<a href="contents/adpcpage.asp?pid=29">Publications</a>
+                                <ul class="navbar-sub-menu-wrapper"><li>
+    								<div class="navbar-sub-menu clearfix">
+										<div class="column">
+											<div><a href="contents/Publications/?tagDoctype=26&tname=Annual Reports">Annual Reports</a></div>
+											<div><a href="contents/Publications/?tagDoctype=31&tname=Brochures, Factsheets and Posters">Brochures, Factsheets and Posters</a></div>
+											<div><a href="contents/Publications/?tagDoctype=30&tname=Impact Stories and Case Studies">Impact Stories and Case Studies</a></div>
+											<div><a href="contents/Publications/?tagDoctype=29&tname=Conference and Workshop Proceedings">Conference and Workshop Proceedings</a></div>
+											<div><a href="contents/Publications/?tagDoctype=28&tname=Governance">Governance</a></div>
+											<div><a href="contents/Publications/?tagDoctype=27&tname=Media Releases">Media Releases</a></div>
+											<div><a href="contents/Publications/?tagDoctype=18&tname=Multi-Media">Multi-Media</a></div>
+										</div>
+										<div class="column">
+											<div><a href="contents/Publications/?tagDoctype=24&tname=Asian Disaster Management News">Asian Disaster Management News</a></div>
+											<div><a href="contents/Publications/?tagDoctype=23&tname=Policies, Procedures and Guidelines">Policies, Procedures and Guidelines</a></div>
+											<div><a href="contents/Publications/?tagDoctype=22&tname=Progress and Assessment Reports">Progress and Assessment Reports</a></div>
+											<div><a href="contents/Publications/?tagDoctype=21&tname=Project Reports">Project Reports</a></div>
+											<div><a href="contents/Publications/?tagDoctype=20&tname=Strategies">Strategies</a></div>
+											<div><a href="contents/Publications/?tagDoctype=19&tname=Technical Papers">Technical Papers</a></div>
+											<div><a href="contents/Publications/?tagDoctype=32&tname=Training Manuals, Toolkits and Handbooks">Training Manuals, Toolkits and Handbooks</a></div>
+										</div>
+										
+									</div>
+								</li></ul>
+							</li>
+							<li>
+								<a href="contents/Training">Training</a>
+								<ul class="navbar-sub-menu-wrapper"><li>
+    								<div class="navbar-sub-menu clearfix">
+										<div class="column">
+											<div><a href="contents/Training/training-schedule.asp?tname=Training Schedule">Training Schedule</a></div>
+											<div><a href="contents/Training/training-schedule.asp?tname=Archived Courses#schedule-archived">Archived Courses</a></div>	
+											<div><a href="contents/Training/training-alumni.asp?tname=Our Alumni">Our Alumni</a></div>
+											<div><a href="contents/Training/aDefault.asp?tname=What We Offer">What We Offer</a></div>										
+									</div>
+								</li></ul>
+							</li>
+							
+							<li>
+								<a href="contents/ProjectINFO/Core.asp?core=SCIENCE">Our Work</a>
+								<ul class="navbar-sub-menu-wrapper"><li>
+    								<div class="navbar-sub-menu clearfix">
+										<div class="column">
+											<h4>ADPC Core Programs</h4>
+											<div><a href="contents/ProjectINFO/Core.asp?core=SCIENCE">Science</a></div>
+											<div><a href="contents/ProjectINFO/Core.asp?core=SYSTEM">Systems</a></div>
+											<div><a href="contents/ProjectINFO/Core.asp?core=APPLICATION">Applications</a></div>
+										</div>
+										
+								</li></ul>
+							</li>
+							<li>
+								<a href="contents/Media">News</a>
+							</li>
+						</ul>
+					</div>
+					
+				</div>
+			</div>
+		</div>
+		</div>
+
+		</div>
+</div>
+<div id="body-wrapper" class="container_16">
+			<!-- #BeginEditable "SLIDESHOW" --><div id="sliderX">
+<div id="body-wrapper0" class="container_16">
+			<div id="slideshow-wrapper" class="grid_16">
+				<div id="slideshow">
+				<div data-src='http://www.adpc.net/igo/category/ID1115/IMG_2200SlideShow.jpg'><div class='camera_caption'><h2 class='slide-caption-slogan' style='background-color:rgba(0, 0, 0, 0.5);padding:20px;'>Building capacity and generating awareness</h2><h4 class='slide-caption-header'><span class='slide-caption-icon'></span> Bhutan takes the initiative to prepare for natural disasters and climate change</h4><div class='slide-caption-content-wrapper clearfix'><div class='slide-caption-content'>Asian Disaster Preparedness Center conducted a workshop and study visit for Bhutanese District Governors to build their capacity in disaster risk management to create safer communities and protect development gains</div><div class='slide-caption-link'><ul><li><a target='_blank' href='http://www.adpc.net/igo/contents/Media/media-news.asp?pid=1112&Topic=#sthash.pZsPZLzE.dpbs'>Read more</a></li></ul></div></div></div></div><div data-src='http://www.adpc.net/igo/category/ID1114/DSC01209slideShow.jpg'><div class='camera_caption'><h2 class='slide-caption-slogan' style='background-color:rgba(0, 0, 0, 0.5);padding:20px;'>Enhancing capacities of the most vulnerable in society</h2><h4 class='slide-caption-header'><span class='slide-caption-icon'></span> Protecting Children through Community </h4><div class='slide-caption-content-wrapper clearfix'><div class='slide-caption-content'>China has suffered 151 earthquakes measuring from 6.5 to 7 on the Richter scale between 1964 and 2013.</div><div class='slide-caption-link'><ul><li><a target='_blank' href='http://www.adpc.net/igo/contents/Publications/publications-Details.asp?pid=1109&t=Youth%20volunteers%20leading%20%3Cbr%3E%20disaster%20response%20in%20Myanmar#sthash.kx9Y9Z7q.ZryX4Zyr.dpbs'>Download</a></li></ul></div></div></div></div><div data-src='http://www.adpc.net/igo/category/ID236/IMG_6649slideshow.jpg'><div class='camera_caption'><h2 class='slide-caption-slogan' style='background-color:rgba(0, 0, 0, 0.5);padding:20px;'>Conducting risk assessments for effective disaster risk management</h2><h4 class='slide-caption-header'><span class='slide-caption-icon'></span> Building long-term preparedness in Bangladesh</h4><div class='slide-caption-content-wrapper clearfix'><div class='slide-caption-content'>ADPC is mapping out all hazard prone areas in Bangladesh and assessing the vulnerability of the people, property, infrastructure and economic activities. With the help of the results from the study, the aim is to incorporate appropriate risk-reduction strategies in the country’s development planning process. (Photo: Swapan Photography / Shutterstock.com)</div><div class='slide-caption-link'><ul><li><a target='_blank' href='http://www.adpc.net/igo/contents/adpcpage.asp?pid=12&dep=DRAM'>Learn more on what we offer in disaster risk assessment and monitoring</a></li></ul></div></div></div></div><div data-src='http://www.adpc.net/igo/category/ID235/IMG_8613slideshow.jpg'><div class='camera_caption'><h2 class='slide-caption-slogan' style='background-color:rgba(0, 0, 0, 0.5);padding:20px;'>Training courses that meet the needs of the entire region</h2><h4 class='slide-caption-header'><span class='slide-caption-icon'></span> Since 1986, ADPC has trained over 8,000 graduates</h4><div class='slide-caption-content-wrapper clearfix'><div class='slide-caption-content'>At ADPC, we offer customized regional courses. Build your capacity in disaster risk management. 
+(Photo: Sayan Chuenudomsavad)</div><div class='slide-caption-link'><ul><li><a target='_blank' href='http://www.adpc.net/igo/contents/Training/'>Learn more about our trainings </a></li><li><a target='_blank' href='http://www.adpc.net/igo/contents/Training/training-schedule.asp?iyear=2016#schedule-archived'>Schedule in 2016</a></li></ul></div></div></div></div><div data-src='http://www.adpc.net/igo/category/ID234/DSC_0485slideshow.jpg'><div class='camera_caption'><h2 class='slide-caption-slogan' style='background-color:rgba(0, 0, 0, 0.5);padding:20px;'>Supporting development practitioners to integrate disaster risk management into their work</h2><h4 class='slide-caption-header'><span class='slide-caption-icon'></span> Mainstreaming disaster risk management into development processes</h4><div class='slide-caption-content-wrapper clearfix'><div class='slide-caption-content'>Over 2011–2013, ADPC prepared a series of handbooks for disaster risk management practitioners working in national and municipal governments.  These handbooks guide individuals on how and what they can contribute to resilient development.</div><div class='slide-caption-link'><ul><li><a target='_blank' href='http://www.adpc.net/igo/contents/adpcpage.asp?pid=15&dep=SDPI'>Learn more on what we offer in safer development planning and implementation</a></li><li><a target='_blank' href='http://www.adpc.net/igo/contents/Publications/publications-Details.asp?pid=407'>Read the handbook on integrating disaster risk management into the development process</a></li></ul></div></div></div></div><div data-src='http://www.adpc.net/igo/category/ID233/RCURM_slideshow.jpg'><div class='camera_caption'><h2 class='slide-caption-slogan' style='background-color:rgba(0, 0, 0, 0.5);padding:20px;'>Working with cities to increase urban resiliency</h2><h4 class='slide-caption-header'><span class='slide-caption-icon'></span> Reducing vulnerability to floods in Thailand</h4><div class='slide-caption-content-wrapper clearfix'><div class='slide-caption-content'>The 2011 floods in Thailand proved socially and economically devastating. At ADPC, we work to overcome the challenges in urban disaster risk management that were identified as a result of the flooding. (Photo: topten22photo / Shutterstock.com)</div><div class='slide-caption-link'><ul><li><a target='_blank' href='http://www.adpc.net/igo/contents/adpcpage.asp?pid=16&dep=RCURM '>Learn more on what we offer in urban risk management</a></li><li><a target='_blank' href='http://www.adpc.net/igo/contents/ProjectINFO/Project-INFO.asp?projID=322'>Read about our work on the reduction of vulnerability to floods</a></li></ul></div></div></div></div><div data-src='http://www.adpc.net/igo/category/ID232/slideshow_cccrm.jpg'><div class='camera_caption'><h2 class='slide-caption-slogan' style='background-color:rgba(0, 0, 0, 0.5);padding:20px;'>Managing climate risks and adapting to climate change through science-based solutions </h2><h4 class='slide-caption-header'><span class='slide-caption-icon'></span> How to make end-to-end early warning systems sustainable?</h4><div class='slide-caption-content-wrapper clearfix'><div class='slide-caption-content'>ADPC works to build technical capacity of national meteorological agencies in Myanmar and Vietnam, among other countries. (Photo: ArtWell / Shutterstock.com)</div><div class='slide-caption-link'><ul><li><a target='_blank' href='http://www.adpc.net/igo/contents/adpcpage.asp?pid=11&dep=CCCRM'>Learn more on what we offer in climate change and climate risk management</a></li></ul></div></div></div></div><div data-src='http://www.adpc.net/igo/Slide-Photos/slide2.png'><div class='camera_caption'><h2 class='slide-caption-slogan' style='background-color:rgba(0, 0, 0, 0.5);padding:20px;'>Establishing sustainable emergency response at hospitals and communities </h2><h4 class='slide-caption-header'><span class='slide-caption-icon'></span> ADPC works to strengthen mental health and psychosocial support in times of emergencies</h4><div class='slide-caption-content-wrapper clearfix'><div class='slide-caption-content'>Learn more about our work in mental health and psychosocial support in Bangladesh and Vietnam. (Photo: Wichai Dornnam)</div><div class='slide-caption-link'><ul><li><a target='_blank' href='http://www.adpc.net/igo/contents/adpcpage.asp?pid=13&dep=PHE'>Learn more on what we offer in public health in emergencies</a></li><li><a target='_blank' href='http://www.adpc.net/igo/contents/Publications/publications-Details.asp?pid=137'>Read our recent newsletter, Asian Disaster Management News</a></li></ul></div></div></div></div><div data-src='http://www.adpc.net/igo/Slide-Photos/slide1.png'><div class='camera_caption'><h2 class='slide-caption-slogan' style='background-color:rgba(0, 0, 0, 0.5);padding:20px;'>Intensifying coordination to improve disaster risk management</h2><h4 class='slide-caption-header'><span class='slide-caption-icon'></span> Working together with Lao PDR's National Disaster Management Office</h4><div class='slide-caption-content-wrapper clearfix'><div class='slide-caption-content'>Lao PDR’s National Assessment Report on Disaster Risk Reduction is based on information from the national disaster damage reporting database. (Photo: Sayan Chuenudomsavad)</div><div class='slide-caption-link'><ul><li><a target='_blank' href='http://www.adpc.net/igo/contents/adpcpage.asp?pid=17&dep=DRMS'>Learn more on what we offer in disaster risk management</a></li></ul></div></div></div></div>			
+					
+					
+				</div>
+			</div>   
+		</div>
+
+</div><!-- #EndEditable -->
+			<div id="home-body-nav-wrapper" class="grid_16">
+                <div id="home-body-nav-work-wrapper" class="grid_8 alpha omega">
+                    <span class="home-body-nav-text">
+					<a id="home-body-nav-work" class="home-body-nav" href="contents/adpcpage.asp?pid=2">
+					AT A GLANCE</a></span><span class="work-icon"></span>
+				</div>
+				<div id="home-body-nav-impact-wrapper" class="grid_8 alpha omega">
+                    <a id="home-body-nav-impact" class="home-body-nav" href="contents/adpcpage.asp?pid=1"><span class="impact-icon"></span><span class="home-body-nav-text">OUR 
+					APPROACH</span></a>
+                </div>
+            </div>
+            <div id="home-recent-news-wrapper" class="grid_11">            	             
+            <!-- #BeginEditable "RECENT_NEWS" --><div class='recent-news-row'><h4><a href='contents/Media/media-news.asp?pid=1119'>Free Public Seminar on Global Food Security at ADPC</a></h4><p>Asian Disaster Preparedness Center is hosting a free public event from 10 a.m. – 12 p.m. on Thursday 11 August on global food security. </p></div><div class='recent-news-row'><h4><a href='contents/Media/media-news.asp?pid=1120'>Monitoring Land Cover for Resilient Development</a></h4><p>Working with partners in the region, SERVIR-Mekong takes a step closer in the development of the Regional Land Cover Monitoring System for the Lower Mekong Region.<br></p></div><div class='recent-news-row'><h4><a href='contents/Media/media-news.asp?pid=1117'>Media workshop aims to increase disaster and climate change coverage in Myanmar </a></h4><p><span style='line-height: 107%; font-family: "Calibri",sans-serif; font-size: 11pt; mso-bidi-font-size: 14.0pt; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: "Cordia New"; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: TH;'>Broadcasters
+from the top media and entertainment group in Myanmar participated in a two-day
+workshop to boost their understanding of disaster risk management and climate
+change. </span></p></div><div class='recent-news-row'><h4><a href='contents/Media/media-news.asp?pid=1077'>RCC Dates Announced </a></h4><p>The 13th Meeting of the Regional Consultative Committee on Disaster Management will take place 17–19 October 2016 in Islamabad, Pakistan, and will discuss implementing global frameworks throughout the region.&nbsp; </p></div><div class='recent-news-row'><h4><a href='contents/Media/media-news.asp?pid=1113'>ADPC Builds capacity on public health issues in Bangladesh</a></h4><p>ADPC conducted a Hospital Preparedness for Emergencies (HOPE) Basic Training at the National Institute of Preventive Social Medicine (NIPSOM)<br></p></div><a target='_blank' href='http://www.adpc.net/igo/contents/Media/media-release-list.asp'><p align='right'>View all</p></a>
+
+            <!-- #EndEditable --></div>
+            <div id="home-recent-event-wrapper" class="grid_5">
+            <!-- #BeginEditable "CALENDAR" -->
+                <div class="sub-btn-wrapper" style="margin-bottom:10px;">
+                    <a target="_blank" href="subscribing/form.html"><img src="subscribing/sub_button_home/images/sub-btn.png"></a>
+                </div>
+            	<div id="home-event-carousel-wrapper">
+	            	<div id="home-recent-event" class="cycle-slideshow" data-cycle-fx="carousel" data-cycle-carousel-vertical="true" data-cycle-carousel-visible="6" data-cycle-slides=">div" data-cycle-next="#event-carousel-next" data-cycle-prev="#event-carousel-prev">
+	            	
+				<div class='recent-event-row'>		<div class='recent-event-date'>			<a class='recent-event-link' href='contents/Training/training-schedule-event.asp?pid=758'>				<span class='event-date-block'>					<span class='event-date-top'>3</span><span class='event-date-bottom'>Oct</span>				</span>				<span class='event-date-block'>					<span class='event-date-top'>-</span><span class='event-date-bottom'></span>				</span>				<span class='event-date-block'>					<span class='event-date-top'>14</span><span class='event-date-bottom'>Oct</span>				</span>			</a>		</div>		<div class='recent-event-detail'>			<a class='recent-event-link' href='contents/Training/training-schedule-event.asp?pid=758'>				<span class='event-location'>Bangkok				</span><span class='event-desc'>12th International Training Course on GIS for Disaster Risk Management</span>			</a>		</div>		</div><div class='recent-event-row'>		<div class='recent-event-date'>			<a class='recent-event-link' href='contents/Training/training-schedule-event.asp?pid=998'>				<span class='event-date-block'>					<span class='event-date-top'>10</span><span class='event-date-bottom'>Oct</span>				</span>				<span class='event-date-block'>					<span class='event-date-top'>-</span><span class='event-date-bottom'></span>				</span>				<span class='event-date-block'>					<span class='event-date-top'>21</span><span class='event-date-bottom'>Oct</span>				</span>			</a>		</div>		<div class='recent-event-detail'>			<a class='recent-event-link' href='contents/Training/training-schedule-event.asp?pid=998'>				<span class='event-location'>Bangkok				</span><span class='event-desc'>6th Regional Training Course on Nutrition in Emergencies</span>			</a>		</div>		</div><div class='recent-event-row'>		<div class='recent-event-date'>			<a class='recent-event-link' href='contents/Training/training-schedule-event.asp?pid=997'>				<span class='event-date-block'>					<span class='event-date-top'>31</span><span class='event-date-bottom'>Oct</span>				</span>				<span class='event-date-block'>					<span class='event-date-top'>-</span><span class='event-date-bottom'></span>				</span>				<span class='event-date-block'>					<span class='event-date-top'>12</span><span class='event-date-bottom'>Nov</span>				</span>			</a>		</div>		<div class='recent-event-detail'>			<a class='recent-event-link' href='contents/Training/training-schedule-event.asp?pid=997'>				<span class='event-location'>Bangkok				</span><span class='event-desc'>12th Course on Public Health in Complex Emergencies (PHCE-12)</span>			</a>		</div>		</div><div class='recent-event-row'>		<div class='recent-event-date'>			<a class='recent-event-link' href='contents/Training/training-schedule-event.asp?pid=759'>				<span class='event-date-block'>					<span class='event-date-top'>7</span><span class='event-date-bottom'>Nov</span>				</span>				<span class='event-date-block'>					<span class='event-date-top'>-</span><span class='event-date-bottom'></span>				</span>				<span class='event-date-block'>					<span class='event-date-top'>25</span><span class='event-date-bottom'>Nov</span>				</span>			</a>		</div>		<div class='recent-event-detail'>			<a class='recent-event-link' href='contents/Training/training-schedule-event.asp?pid=759'>				<span class='event-location'>Bangkok				</span><span class='event-desc'>46th Regional Training Course on Disaster Management</span>			</a>		</div>		</div><div class='recent-event-row'>		<div class='recent-event-date'>			<a class='recent-event-link' href='contents/Training/training-schedule-event.asp?pid=999'>				<span class='event-date-block'>					<span class='event-date-top'>21</span><span class='event-date-bottom'>Nov</span>				</span>				<span class='event-date-block'>					<span class='event-date-top'>-</span><span class='event-date-bottom'></span>				</span>				<span class='event-date-block'>					<span class='event-date-top'>25</span><span class='event-date-bottom'>Nov</span>				</span>			</a>		</div>		<div class='recent-event-detail'>			<a class='recent-event-link' href='contents/Training/training-schedule-event.asp?pid=999'>				<span class='event-location'>Bangkok				</span><span class='event-desc'>11th Regional Course on Hospital Emergency Preparedness and Response</span>			</a>		</div>		</div>
+	            		
+				</div>
+				
+	            	<a href="javascript:void(0);" id="event-carousel-next" class="event-carousel-button"></a>
+	            	<a href="javascript:void(0);" id="event-carousel-prev" class="event-carousel-button"></a>
+            	</div>
+
+            
+            <!-- #EndEditable --></div>
+            <div id="home-social-hub-wrapper" class="grid_16" style="left: 0px; top: 0px">
+            	<div class="home-social-hub-bg middle-line-bg" style="position: absolute; left: 0px; top: 12px"></div>
+            	<div class="home-social-hub" style="height: 27px; width:170px">
+            	<!--	<a class="social-peer-icon social-hub-icon" target="_blank" href="http://www.rccdm.net/blog/"></a> -->
+            		<a style="margin-left:10px;" class="social-fb-icon social-hub-icon" target="_blank" href="https://www.facebook.com/groups/25899022242/"></a>
+            		<a class="social-twitter-icon social-hub-icon" target="_blank" href="https://twitter.com/ADPCnet"></a>
+					<a class="social-linkedin-icon social-hub-icon" target="_blank" href="http://www.linkedin.com/company/asian-disaster-preparedness-center-adpc-">	</a>
+					<a class="social-flickr-icon social-hub-icon" target="_blank" href="http://www.flickr.com/people/adpc_community/"></a>
+            	<!--	<a class="drr-icon social-hub-icon" target="_blank" href="http://www.drrprojects.net/drrp/default/"></a> -->
+
+            	</div>
+            </div>
+            <div class="clear"></div>
+            <div id="home-bottom-tab-wrapper" class="grid_16">
+            	<div class="bottom-tab bottom-tab-common-goal">
+            		<div class="bottom-tab-title">Our common goal</div>
+            		<div class="bottom-tab-body">
+						<a href="contents/adpcpage.asp?pid=43">Learn how we work with the private sector to make businesses more resilient</a></div>
+            		<div class="bottom-tab-footer">We’re aiming to reduce private sector loss</div>
+            	</div>
+                <div class="bottom-tab bottom-tab-dialog">
+                	<div class="bottom-tab-title">Join the dialogue</div>
+            		<div class="bottom-tab-body">
+						<a href="contents/brianward/?pid=42">The Brian Ward Memorial Lecture Series tables discussions in DRR</a></div>
+            		<div class="bottom-tab-footer">Learn more about our annual lecture series </div>
+            	</div>
+                <div class="bottom-tab bottom-tab-serving">
+                	<div class="bottom-tab-title">Serving 26 countries</div>
+            		<div class="bottom-tab-body"><a href="http:///www.rccdm.net">Find out how ADPC supports its member countries with improving disaster management</a></div>
+            		<div class="bottom-tab-footer">The Regional Consultative Committee is in its 15<span style="font-size: 100%">th</span> year</div>
+            	</div>
+            </div>
+
+            <div class="clear">&nbsp;</div>
+		</div>
+		
+            <div id="footer-wrapper">
+			<div class="container_16">
+				
+
+			<div id="footer-wrapper">
+			<div class="container_16">
+			<div id="body-footer" class="grid_16">
+                <div class="footer-sitemap-wrapper clearfix">
+                    <div class="footer-column footer-our-info">
+                        <h4 class="footer-column-title">Our Information</h4>
+                        <ul>
+											<li><a href="contents/adpcpage.asp?pid=2">ADPC at a glance</a></li>											
+											<li><a href="contents/adpcpage.asp?pid=178">Organizational Structure</a></li>
+											<li><a href="contents/adpcpage.asp?pid=1">Our Approach</a></li>
+											<li><a href="contents/adpcpage.asp?pid=3">Our Partners</a></li>
+											<li><a href="contents/ourteam/aboutus-ourteam.asp">Our Team</a></li>	
+											<li><a href="contents/brianward?pid=42">Brian Ward Memorial Lecture Series</a></li>										
+											<li><a href="contents/adpcpage.asp?pid=43">Public-Private Partnerships</a></li>
+											<li><a target="_blank" href="http://www.rccdm.net/">Regional Consultative Committee on Disaster Management</a></li>    										
+											<li><a href="contents/adpcpage.asp?pid=5">Join Us</a></li>
+                        </ul>
+                    </div>
+                    <div class="footer-column footer-our-services">
+                        <h4 class="footer-column-title">Our Services</h4>
+                        <ul>
+											<li><a href="contents/adpcpage.asp?pid=11&dep=CCCRM">Climate Change and Climate Risk Management</a></li>
+											<li><a href="contents/adpcpage.asp?pid=12&dep=DRAM">Disaster Risk Assessment and Monitoring</a></li>
+											<li><a href="contents/adpcpage.asp?pid=17&dep=DRMS">Disaster Risk Management Systems</a></li>
+											<li><a href="contents/adpcpage.asp?pid=13&dep=PHE">Public Health in Emergencies</a></li>
+											<li><a href="contents/adpcpage.asp?pid=16&dep=RCURM">Resilient Cities and Urban Risk Management</a></li>
+											<li><a href="contents/adpcpage.asp?pid=15&dep=SDPI">Safer Development Planning and Implementation</a></li>
+                        </ul>
+                    </div>
+                    
+                    
+                    <div class="footer-column footer-training">
+                        <h4 class="footer-column-title">Training</h4>
+                        <ul>
+                            <li><a href="contents/Training/training-schedule.asp">Training Schedule</a></li>
+                            <li><a href="http://www.adpc.net/igo/contents/Training/training-schedule.asp#schedule-archived">Archived Courses</a></li>
+                            <li><a href="http://www.adpc.net/igo/contents/Training/training-alumni.asp">Our Alumni</a></li>
+                            <li><a href="contents/Training/aDefault.asp">What We Offer</a></li>
+                        </ul>
+                    </div>
+                    <div class="footer-column footer-publications">
+                        <h4 class="footer-column-title">Publications</h4>
+                        <ul>
+							<li><a href="contents/Publications/?tagDoctype=26">Annual Reports</a></li>
+							<li><a href="contents/Publications/?tagDoctype=31">Brochures, Fact Sheets and Posters</a></li>
+							<li><a href="contents/Publications/?tagDoctype=30">Case Studies and Interest Stories</a></li>
+							<li><a href="contents/Publications/?tagDoctype=29">Conference and Workshop Proceedings</a></li>
+							<li><a href="contents/Publications/?tagDoctype=28">Governance</a></li>
+							<li><a href="contents/Publications/?tagDoctype=27">Media Releases</a></li>
+							<li><a href="contents/Publications/?tagDoctype=18">Multi-Media</a></li>
+
+                        </ul>
+                    </div>
+                    <div class="footer-column footer-reports">
+                        <h4 class="footer-column-title"><font color="#808080">-</font></h4>
+                        <ul>
+							<li><a href="contents/Publications/?tagDoctype=25">News</a></li>
+							<li><a href="contents/Publications/?tagDoctype=24">Newsletter: Disaster Management News</a></li>
+							<li><a href="contents/Publications/?tagDoctype=23">Policies, Procedures and Guidelines</a></li>
+							<li><a href="contents/Publications/?tagDoctype=22">Progress and Assessment Reports</a></li>
+							<li><a href="contents/Publications/?tagDoctype=21">Project Reports</a></li>
+							<li><a href="contents/Publications/?tagDoctype=20">Strategies</a></li>
+							<li><a href="contents/Publications/?tagDoctype=19">Technical Papers</a></li>
+							<li><a href="contents/Publications/?tagDoctype=32">Training Manuals, Tool Kits and Handbooks</a></li>
+                        </ul>
+                    </div>
+                    <div class="footer-column footer-media">
+                        <h4 class="footer-column-title">Our Work</h4>
+                        <ul>
+                        	<li><a href="contents/ProjectINFO/Core.asp?core=SCIENCE">Science</a></li>
+                            <li><a href="contents/ProjectINFO/Core.asp?core=SYSTEM">Systems</a></li>                            
+                            <li><a href="contents/ProjectINFO/Core.asp?core=APPLICATION">Applications</a></li>
+
+
+                        </ul>
+                    </div>
+                    <div class="footer-column footer-media">
+                        <h4 class="footer-column-title">News</h4>
+                        <ul>
+                            <li><a href="contents/Publications/?tagDoctype=27&Dep=">Media Releases</a></li>
+                            <li><a href="contents/Media/Default.asp">News</a></li>
+
+                        </ul>
+                    </div>
+                    <div class="footer-column footer-media">
+                        <h4 class="footer-column-title">Head Office</h4>
+                        <ul>
+                            <li>
+                                <p>SM Tower, 24th Floor <br />979/69 Paholyothin Road, <br />Samsen Nai Phayathai, <br />Bangkok 10400 Thailand</p>
+                                <p>Tel: +66 2 298 0681-92<br />Email:   adpc@adpc.net</p>
+                            </li>
+                            <li><a href="contents/adpcpage.asp?pid=44">Contact Us</a></li>
+                            </ul>
+                    </div>
+                </div>
+                <div class="footer-info-wrapper clearfix">
+                    <div class="footer-info-copyright footer-column">
+                        &copy; 2014 Asian Disaster Preparedness Center. All Rights Reserved.
+                    </div>
+                    
+                    <div class="footer-info-connect footer-column">
+                      <span class="footer-connect-label">Stay Connected</span>  
+
+                      
+                        <a class="footer-icon footer-icon-peer" target="_blank" href="http://www.adpc.net/blog/"></a>
+						<a class="footer-icon footer-icon-fb" target="_blank" href="https://www.facebook.com/groups/25899022242/">	</a>
+						<a class="footer-icon footer-icon-twitter" target="_blank" href="https://twitter.com/ADPCnet"></a>
+						<a class="footer-icon footer-icon-linkedin" target="_blank" href="http://www.linkedin.com/company/asian-disaster-preparedness-center-adpc-"></a>
+						<a class="footer-icon footer-icon-flickr" target="_blank" href="http://www.flickr.com/people/adpc_community/"></a>
+					
+						<span class="social-icon-small">
+    				    
+    				    </span>
+    				    
+    				   <html xmlns:fb="http://ogp.me/ns/fb#">
+						<fb:share-button></fb:share-button>
+    				</div>
+    					
+                </div>
+            </div>
+			</div>
+		</div> 
+	</div>
+			</div>
+	
+	</body>
+<!-- #EndTemplate -->
+</html>

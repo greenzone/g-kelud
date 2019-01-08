@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style type="text/css">
+      html, body, #mapDiv {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+    <script src="https://maps.googleapis.com/maps/api/js?client=google-maps-embed&amp;paint_origin=&amp;libraries=geometry,search&amp;v=3.exp&amp;language=en_US"></script>
+    <script src="https://maps.gstatic.com/maps-api-v3/embed/js/25/13/init_embed.js"></script>
+    <script>
+      initEmbed([null,null,null,null,null,[[[2,"spotlight",null,null,null,null,null,[[null,null,null,null,null,null,null,null,null,null,null,[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,1]],["0x0:0xc7ef4087a5e61939","BPBD Kab Blitar",null,[null,null,-8.078562999999999,112.32583],0],null,null,null,null,null,null,null,null,11,null,[null,null,null,null,null,null,null,null,null,null,null,null,null,1],null,null,null,null,null,[14]]]],[[52,[["entity_class","0"]]]]],null,["en_US",""],[null,"/maps/api/js/ApplicationService.UpdateStarring","//accounts.google.com/ServiceLogin?continue=https://www.google.com/maps/api/js/ApplicationService.AuthSuccess","/maps/api/js/ApplicationService.GetEntityDetails","/maps/embed/upgrade204",null,"/maps/embed/record204","/maps/api/js/ApplicationService.Search","/maps/api/js/ApplicationService.SendToDevice"],null,null,null,null,null,null,null,null,"3AqxV7CrG87GjwPKpqBA",null,null,null,[[[3950.226872927198,112.32583,-8.078562999999999],null,null,13.10000038146973],null,0,[["0x2e7893ddb3467fa7:0xc7ef4087a5e61939","NO. 03 WLINGI, BPBD Kab Blitar, Jl. Bromo, Jawa Timur 66184, Indonesia",[-8.078562999999999,112.32583],"14406804684329589049"],"BPBD Kab Blitar",["NO. 03 WLINGI","Jl. Bromo","Jawa Timur 66184, Indonesia"],3.900000095367432,"6 reviews","http://www.google.com/search?q=NO.+03+WLINGI,+BPBD+Kab+Blitar,+Jl.+Bromo,+Jawa+Timur+66184,+Indonesia\u0026ludocid=14406804684329589049#lrd=0x2e7893ddb3467fa7:0xc7ef4087a5e61939,1",null,"+62 342 692819",null,[null,[["Monday",["7:30AM–5PM"],null,null,"2016-08-15",1],["Tuesday",["7:30AM–5PM"],null,null,"2016-08-16",1],["Wednesday",["7:30AM–5PM"],null,null,"2016-08-17",1],["Thursday",["7:30AM–5PM"],null,null,"2016-08-18",1],["Friday",["7:30AM–5PM"],null,null,"2016-08-19",1],["Saturday",["Closed"],null,null,"2016-08-20",2],["Sunday",["Closed"],null,null,"2016-08-21",2]],null,null,[["Monday",["7:30AM–5PM"],null,null,"2016-08-15",1],1,4,0,"Opens at 7:30 AM"],null,["Monday",["7:30AM–5PM"],null,null,"2016-08-15",1],2],null,["/url?q=http://www.bpbdkabblitar.info/\u0026sa=U\u0026ved=0ahUKEwiwiemfk8LOAhVO42MKHUoTCAgQ61gICSgFMAA\u0026usg=AFQjCNHUdeZsUSKg0ioOjvtl5KGDZGPqSg","bpbdkabblitar.info",null,"0ahUKEwiwiemfk8LOAhVO42MKHUoTCAgQ61gICSgFMAA"],"County Government Office","NO. 03 WLINGI, Jl. Bromo, Jawa Timur 66184, Indonesia",null,null,null,null,null,["http://www.google.com/search?q=NO.+03+WLINGI,+BPBD+Kab+Blitar,+Jl.+Bromo,+Jawa+Timur+66184,+Indonesia\u0026ludocid=14406804684329589049#lrd=0x2e7893ddb3467fa7:0xc7ef4087a5e61939,1","6 reviews",null,null,null,null,null,1],null,null,null,null,null,null,null,"ChIJp39Gs92TeC4RORnmpYdA78c"]],null,null,[null,null,null,null,null,null,null,null,null,[0,0],null,[0]],0]);
+    </script>
+  </head>
+  <body>
+    <div id="mapDiv"></div>
+  </body>
+</html>

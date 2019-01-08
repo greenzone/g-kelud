@@ -1,0 +1,986 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<head>
+<title> United Nations Environment Programme (UNEP) - Home page </title>
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" /> 
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+<meta name="description" content="the united nations environment programme (UNEP) is the voice for the environment in the united nations system. it is an advocate, educator, catalyst and facilitator, promoting the wise use of the planet's natural assets for sustainable development." />
+<meta name="keywords" content="UNEP, environment, united nations, pnue, nations unies, un, onu, environnement, dams development, environment, environmental, awareness, poverty, regional conventions, sport, tunza, women, environmental program, world environment day, awards, desertification, arctic, mammals, marine litter, solid wastes, disasters, climate change, global warming, deforestation, billion trees campaign, champions of the earth" />
+<meta name="author" content="UNEP Nairobi/DCPI/Internet Unit" />
+<meta name="robots" content="all" />
+<meta name="distribution" content="global" />
+<meta name="rating" content="general" />
+<meta name="copyright" content="United Nations Environment Programme (UNEP)" /> 
+<meta name="google-site-verification" content="IpG9lCMu2u5_qwn9Tomi0UHAK27I003_ylLSEpSRerI" />
+
+<!-- include virtual="/flvPlayer/Scripts/scripts.asp"-->
+
+<script type="text/javascript" src="homepage_new_oecpr7/files/site/js/jquery-1.9.0.min.js"></script>
+<script type="text/javascript" src="homepage_new_oecpr7/files/site/js/owl.carousel.min.js"></script>
+<link rel="stylesheet" type="text/css" href="homepage_new_oecpr7/files/site/css/owl.carousel.min.css"/>
+<link rel="stylesheet" type="text/css" href="homepage_new_oecpr7/files/site/css/owl.theme.default.min.css"/>
+<link rel="stylesheet" type="text/css" href="homepage_new_oecpr7/files/site/css/animate.css"/>
+<script type="text/javascript" src="/shared_files/jq_plugins/bxslider/jquery.bxslider.min.js"></script>
+<script type="text/javascript" src="/shared_files/jq_plugins/cycle2/jquery.cycle2.all.js"></script>
+<script type="text/javascript" src="/shared_files/jq_plugins/qtip2/jquery.qtip.min.js"></script>
+<script type="text/javascript" src="homepage_new_unea2/files/site/js/jquery.scrollbar.min.js"></script>
+<link rel="stylesheet" type="text/css" href="homepage_new_unea2/files/site/css/scrollbar.css"/>
+<link rel="stylesheet" type="text/css" href="http://www.unep.org/home_new/files/site/shadowbox/shadowbox.css">
+<script type="text/javascript" src="http://www.unep.org/home_new/files/site/shadowbox/shadowbox3.js"></script>
+<script type="text/javascript">
+	Shadowbox.init({
+	overlayOpacity: 0.9
+	});
+</script>
+
+
+
+
+<link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700|Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
+<link href="homepage_new_oecpr7/files/site/css/style.css?v=0.2135431" media="print, screen" rel="stylesheet" type="text/css" />
+<link href="/shared_files/header_footer/corporate2.css?v=0.2135431" media="print, screen" rel="stylesheet" type="text/css" />
+<!--[if IE]>
+<link href="homepage_new_v3/files/site/css/ie.css" media="print, screen" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+
+<!--[if IE 7]>
+<link href="/homepage_new_v3/files/site/css/ie7.css" media="print, screen" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+
+
+
+
+</head>
+
+<body>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGV3SQ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>    (function(w, d, s, l, i) {
+        w[l] = w[l] || []; w[l].push({ 'gtm.start':
+new Date().getTime(), event: 'gtm.js'
+        }); var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+'//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-KGV3SQ');</script>
+<!-- End Google Tag Manager -->
+
+<div id="showPage">
+	<div id="body-cont">
+		<!-- begin corporate banner -->
+			<!doctype html>
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="/shared_files/header_footer/ResponsiveHeader/css/header_new.css" />
+<link rel="stylesheet" href="/shared_files/header_footer/ResponsiveHeader/css/unep_mobileversion.css" />
+
+<!-- Banner -->
+<div class="gwm_banner">
+    
+    <!-- Banner Top -->
+    <div class="gwm_banner_top">
+        <div class="gwm_banner_top_right">
+            <ul class="gwm_language_links">
+                <li><a href="/arabic/">&#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#1577;</a></li>
+                <li><a href="/chinese/">&#20013;&#25991;</a></li>
+                <li><a href="/">English</a></li>
+                <li><a href="/french/">Fran&ccedil;ais</a></li> 
+                <li><a href="/russian/">Pусский</a></li>
+                <li><a href="/spanish/">Espa&ntilde;ol</a></li>                           
+            </ul>
+        </div>
+        <div class="gwm_banner_top_left">
+            <ul class="gwm_banner_links">
+                <li><a href="/about/">About</a></li>
+                <li><a href="/ecalendar/">Calendar</a></li>
+                <li><a href="/newscentre/multimedia/">Multimedia</a></li>
+                <li><a href="/newscentre/">News</a></li>
+                <li><a href="/stories/">Stories</a></li>
+                <li><a href="/outreach/">Outreach</a></li>
+                <li><a href="/publications/">Publications</a></li>
+                <li><a href="/vacancies/">Vacancies</a></li>
+            </ul>
+            <div class="gwm_banner_links_dropdown">
+                <form name="quicklinks">
+                    <select name="links" size="1">
+                        <option value="#">Quick Links...</option>
+                        <option value="/about/">About UNEP</option>
+                        <option value="/ecalendar/">Calendar</option>
+                        <option value="/newscentre/multimedia/">Multimedia</option>
+                        <option value="/newscentre/">News</option>
+                        <option value="/outreach/">Outreach</option>
+                        <option value="/publications/">Publications</option>
+                        <option value="/vacancies/">Vacancies</option>
+                    </select>
+                    
+                    <script type="text/javascript">
+                    <!--
+                    function go(){
+                    location=
+                    document.quicklinks.links.
+                    options[document.quicklinks.links.selectedIndex].value
+                    }
+                    //-->
+                    </script>                                
+                    <input type="button" name="test" value="Go!" onclick="go()">
+                </form>
+            </div>
+        </div>
+    </div>
+    <!-- Banner Top Ends -->
+    
+    <div class="gwm_banner_body">
+        <div class="gwm_banner_body_left">
+        	<!--Mobile Menu-->
+            <div class="unep_menu_wrapper">	
+                <ul id="unep_mobile_nav">
+                    <li><a href="http://www.unep.org/climatechange/"><span>Climate Change</span></a></li>
+                    <li><a href="http://www.unep.org/conflictsanddisasters/"><span>Disasters &amp; Conflicts</span></a></li>
+                    <li><a href="http://www.unep.org/ecosystemmanagement/"><span>Ecosystem Management</span></a></li>
+                    <li><a href="http://www.unep.org/environmentalgovernance/"><span>Environmental Governance</span></a></li>
+                    <li><a href="http://www.unep.org/chemicalsandwaste/"><span>Chemicals &amp; Waste</span></a></li>
+                    <li><a href="http://www.unep.org/resourceefficiency/"><span>Resource Efficiency</span></a></li>
+                    <li><a href="http://www.unep.org/environmentunderreview/"><span>Environment Under Review</span></a></li>
+                    <li class="breaker"><hr></li>
+                    <li><a href="http://www.unep.org/about/"><span>About</span></a></li>
+                    <li><a href="http://www.unep.org/ecalendar/"><span>Calendar</span></a></li>
+                    <li><a href="http://www.unep.org/newscentre/multimedia/"><span>Multimedia</span></a></li>
+                    <li><a href="http://www.unep.org/newscentre/"><span>News</span></a></li>
+                    <li><a href="http://www.unep.org/stories/"><span>Stories</span></a></li>
+                    <li><a href="http://www.unep.org/outreach/"><span>Outreach</span></a></li>
+                    <li><a href="http://www.unep.org/publications/"><span>Publications</span></a></li>
+                    <li><a href="http://www.unep.org/vacancies/"><span>Vacancies</span></a></li>
+                </ul>
+            </div>
+            <div class="gwm_banner_logo"><a href="/"><img src="/shared_files/header_footer/ResponsiveHeader/assets/unep_logo_en.gif" alt=""></a></div>
+            <div class="gwm_banner_title">
+                United Nations <br />Environment Programme
+                <!--<span class="gwm_banner_slogan">environment for development</span>-->
+            </div>
+        </div>
+        <div class="gwm_banner_body_right">
+            <div class="gwm_banner_search">
+            	
+					 
+					 <form id="searchbox_007059379654755265211:jkngxjgnyii" action="/search.asp">
+						<input name="q" type="text" class="home_baner_search" style="border: 1px solid rgb(126, 157, 185); padding: 2px;">
+                        <input type="image" id="search_image" name="sa" value="go!" src="/corporate/gfx/search.jpg" alt="Submit button" class="btnSearch">
+						<input type="hidden" name="cx" value="007059379654755265211:jkngxjgnyii">
+						<input type="hidden" name="cof" value="forid:11">						
+					 </form>
+				  <script type="text/javascript" src="/includes/google_cust_search.js"></script>
+				   
+			   
+            </div>
+            <div class="gwm_priority_areas">
+                <ul>
+                    <li class="gwm_priority_cc">
+                        <a href="/climatechange/"><div class="gwm_priority_icon"></div></a>
+                        <a href="/climatechange/"><span>Climate <br>Change</span></a>
+                    </li>
+                    <li class="gwm_priority_dnc">
+                        <a href="/conflictsanddisasters/"><div class="gwm_priority_icon"></div></a>
+                        <a href="/conflictsanddisasters/"><span>Disasters <br>&amp; Conflicts</span></a>
+                    </li>
+                    <li class="gwm_priority_em">
+                        <a href="/ecosystemmanagement/"><div class="gwm_priority_icon"></div></a>
+                        <a href="/ecosystemmanagement/"><span>Ecosystem <br>Management</span></a>
+                    </li>
+                    <li class="gwm_priority_eg">
+                        <a href="/environmentalgovernance/"><div class="gwm_priority_icon"></div></a>
+                        <a href="/environmentalgovernance/"><span>Environmental <br>Governance</span></a>
+                    </li>
+                    <li class="gwm_priority_hs">
+                        <a href="/chemicalsandwaste/"><div class="gwm_priority_icon"></div></a>
+                        <a href="/chemicalsandwaste/"><span>Chemicals <br>&amp; Waste</span></a>
+                    </li>
+                    <li class="gwm_priority_re">
+                        <a href="/resourceefficiency/"><div class="gwm_priority_icon"></div></a>
+                        <a href="/resourceefficiency/"><span>Resource <br>Efficiency</span></a>
+                    </li>
+                    <li class="gwm_priority_eur">
+                        <a href="/environmentunderreview/"><div class="gwm_priority_icon"></div></a>
+                        <a href="/environmentunderreview/"><span>Environment <br>Under Review</span></a>
+                    </li>
+                </ul>
+            </div>
+            
+            <div class="gwm_priority_areas_dropdown">
+                <form name="priorityareas">
+                    
+                    <select name="areas" size="1">
+                        <option value="/climatechange/">Climate Change</option>
+                        <option value="/conflictsanddisasters/">Disasters &amp; Conflicts</option>
+                        <option value="/ecosystemmanagement/">Ecosystem Management</option>
+                        <option value="/environmentalgovernance/">Environmental Governance</option>
+                        <option value="/chemicalsandwaste/">Chemical &amp; Waste</option>
+                        <option value="/resourceefficiency/">Resource Efficiency</option>
+                        <option value="/environmentunderreview/">Environment Under Review</option>
+                    </select>
+                    
+                    <script type="text/javascript">
+                    <!--
+                    function go2(){
+                    location=
+                    document.priorityareas.areas.
+                    options[document.priorityareas.areas.selectedIndex].value
+                    }
+                    //-->
+                    </script>                                
+                    <input type="button" name="test" value="Go!" onclick="go2()">
+                </form>
+            </div>
+            
+        </div>
+    </div>
+    
+    
+</div>
+<!-- Banner Ends -->      
+    <!--<div class="km_survey_box">
+        <div class="km_box_content">Be part of UNEP's digital future. &nbsp;<a href="https://www.surveymonkey.com/r/H2RPRZ3" target="_blank">Click here</a> to give us your feedback.</div>        
+    </div>
+ Black strip Ends-->
+<!-- Mobile version of the Corporate Menu-->
+<script type="text/javascript">
+	$("#unep_mobile_nav").addClass("js").before('<div id="unep_mobile_menu">&#x2261;</div>');
+	$("#unep_mobile_menu").click(function(){
+		$("#unep_mobile_nav").slideToggle();
+	});
+	$(window).resize(function(){
+		if(window.innerWidth > 480) {
+			$("#unep_mobile_nav").removeAttr("style");
+		}
+	});
+</script>
+		<!-- end corporate banner -->
+	
+		<div id="main-cont" class="">
+			<div class="new_layout_wrap">
+	<div class="new_layout_row">
+    	<div class="oecpr_banner">
+	
+<div class="newstories_title"><a href="/newscentre">News</a> & <a href="/stories/">Stories</a></div>
+<div class="owl-carousel owl-theme">	
+	<!--Story 1-->
+<div>
+  <img src="/images/oecpr/Staff-morphs-Elephant.jpg" />
+    <div class="owl-caption">
+        <span>World Elephant Day</span>
+        <a href="https://wildfor.life/">
+            <h2>On #WorldElephantDay, UN Environment stands with these majestic animals.</h2>       
+        </a>
+    </div>
+</div>
+<!--Story 2-->
+<div>
+  <img src="/images/oecpr/International_Youth_Day.jpg" />
+    <div class="owl-caption">
+        <span>International Youth Day</span>
+        <a href="/stories/InternationalYouthDay/UNEP-and-partners-foster-youth-action-for-sustainable-consumption-and-production.asp">
+            <h2>International Youth Day: UNEP and partners foster youth action for sustainable consumption and production</h2>       
+        </a>
+    </div>
+</div>
+<!--Story 3-->
+<div>
+  <img src="/images/oecpr/Wild-it-over-app.jpg" />
+    <div class="owl-caption">
+        <span>International Youth Day</span>
+        <a href="/stories/InternationalYouthDay/App-creator-wants-people-to-go-Wild-It-over-action-for-sustainability.asp">
+            <h2>App creator wants people to go Wild-It over action for sustainability</h2>       
+        </a>
+    </div>
+</div>
+
+
+<div>
+	<img src="/NewsCentre/InsertImage.asp?ImageSizeID=2005&amp;DocumentID=27081&amp;ArticleID=36241" alt="Walking into an ecological wilderness" />
+	<div class="owl-caption">
+		
+        	<span>Press Release</span>        
+        
+		<a href="/newscentre/Default.aspx?DocumentID=27081&amp;ArticleID=36241&amp;l=en"><h2>Walking into an ecological wilderness</h2></a>
+	</div>
+</div>
+
+<div>
+	<img src="/NewsCentre/InsertImage.asp?ImageSizeID=2005&amp;DocumentID=27081&amp;ArticleID=36239" alt="UN Environment's Ogoniland Assessment Back in Spotlight" />
+	<div class="owl-caption">
+		
+        	<span>Press Release</span>        
+        
+		<a href="/newscentre/Default.aspx?DocumentID=27081&amp;ArticleID=36239&amp;l=en"><h2>UN Environment's Ogoniland Assessment Back in Spotlight</h2></a>
+	</div>
+</div>
+
+<div>
+	<img src="/NewsCentre/InsertImage.asp?ImageSizeID=2005&amp;DocumentID=27079&amp;ArticleID=36237" alt="UN Environment Head Lauds First Solar-Powered Circumnavigation of Globe by Airplane" />
+	<div class="owl-caption">
+		
+        	<span>Press Release</span>        
+        
+		<a href="/newscentre/Default.aspx?DocumentID=27079&amp;ArticleID=36237&amp;l=en"><h2>UN Environment Head Lauds First Solar-Powered Circumnavigation of Globe by Airplane</h2></a>
+	</div>
+</div>
+<div>
+	<img src="/NewsCentre/InsertImage.asp?ImageSizeID=2005&amp;DocumentID=27083&amp;ArticleID=36240" alt="Message from Head of UN Environment During Largest Beach Clean-up in History" />
+	<div class="owl-caption">		
+   		<span>Speeches</span>        
+      	<a href="/newscentre/Default.aspx?DocumentID=27083&amp;ArticleID=36240&amp;l=en"><h2>Message from Head of UN Environment During Largest Beach Clean-up in History</h2></a>
+		
+	</div>
+</div>
+<!--Story 2-->
+<div>
+  <img src="/images/oecpr/ITW-ElephantDay2016.jpg" alt="" />
+    <div class="owl-caption">
+        <span>World Elephant Day</span>
+        <a href="/stories/wildlife/The-New-Jungle-Book-Fight-against-Illegal-Wildlife-Trade- India.asp">
+            <h2>The new jungle book - fight against illegal wildlife trade in my country India</h2>               
+        </a>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+</div>
+<script>
+	$(document).ready(function() {
+		'use strict';
+		$(".owl-carousel").owlCarousel({
+			animateOut: 'fadeOut',
+   			animateIn: 'fadeIn',
+			items:1,
+			loop:true,
+			mouseDrag:true,
+			touchDrag:true,
+			lazyLoad: false,
+			autoplay: true,
+			autoplaySpeed: 1900,
+			autoplayTimeout:3000,
+			autoplayHoverPause:true,
+			dots: true,
+			dotsSpeed: 700
+		});
+	 
+	});
+</script>
+    </div>        
+    <div class="new_layout_row oecpr-margin">
+    	 <div class="new_layout_col_left">
+    <div class="new_layout_cell Roadtounea"><h2>Highlights</h2>
+<div class="content">
+	<div class="unea_highlights rollers_two">
+    	<div class="highlight_news_item">
+	<a href="/stories/Cooperation/Norway-and-UN-Environment-Sign-New-Agreement-for-Enhanced-Cooperation.asp">
+        <div class="highlight_news_item_image"><img src="/images/oecpr/Norway-and-UN-Environment-Sign-New-Agreement.jpg" alt=""></div>     	
+        <div class="highlight_news_item_text">Norway and UN Environment sign new agreement for enhanced cooperation</div>
+    </a> 
+</div>
+
+<div class="highlight_news_item">
+	<a href="http://unep.org/newscentre/Default.aspx?DocumentID=27083&ArticleID=36240&l=enhttp://unep.org/newscentre/Default.aspx?DocumentID=27083&ArticleID=36240&l=en">
+        <div class="highlight_news_item_image"><img src="http://unep.org/newscentre/viewimage.aspx?img=36240&imgsize=4" alt=""></div>     	
+        <div class="highlight_news_item_text">Message from Head of UN Environment During Largest Beach Clean-up in History </div>
+    </a> 
+</div>
+
+<div class="highlight_news_item">
+	<a href="http://web.unep.org/ourplanet/may-2016/articles/go-circular">
+        <div class="highlight_news_item_image"><img src="http://web.unep.org/ourplanet/sites/unep.org.ourplanet/files/banner_Go_Circular.jpg" alt=""></div>     	
+        <div class="highlight_news_item_text">Our Planet: Go Circular</div>
+    </a> 
+</div>
+
+<div class="highlight_news_item">
+	<a href="http://web.unep.org/ourplanet/may-2016/articles/time-deliver">
+        <div class="highlight_news_item_image"><img src="http://web.unep.org/ourplanet/sites/unep.org.ourplanet/files/banner_Time_to_Deliver.jpg" alt=""></div>     	
+        <div class="highlight_news_item_text">Our Planet: Time to Deliver</div>
+    </a> 
+</div>
+<div class="highlight_news_item">
+	<a href="http://web.unep.org/ourplanet/may-2016/articles/transforming-work">
+        <div class="highlight_news_item_image"><img src="http://web.unep.org/ourplanet/sites/unep.org.ourplanet/files/banner_Transforming_Work.jpg" alt=""></div>     	
+        <div class="highlight_news_item_text">Our Planet: Transforming Work</div>
+    </a> 
+</div>
+<!--<div class="highlight_news_item">
+	<a href="http://www.unep.org/gpa/resources/marine_litter_vital_graphics.asp">
+        <div class="highlight_news_item_image"><img src="http://www.unep.org/images/oecpr/Marine-Litter-Vital-Graphics.jpg" alt=""></div>     	
+        <div class="highlight_news_item_text">Tackling plastic pollution should begin at the source</div>
+    </a> 
+</div>
+<div class="highlight_news_item">
+	<a href="http://www.unep.org/stories/Ecosystems/Ozone-Layer-Begins-to-Heal.asp">
+        <div class="highlight_news_item_image"><img src="http://www.unep.org/images/oecpr/Ozone-scientificwizard.jpg" alt=""></div>     	
+        <div class="highlight_news_item_text">The Environmental Movement’s Greatest Success Story: Ozone Layer Begins to Heal</div>
+    </a> 
+</div>-->
+
+    </div>
+</div>
+<script type="text/javascript">
+	  $(document).ready(function(){
+	  	$('.rollers_two').rollbar({zIndex:10});
+      });         
+</script></div> 
+    <div class="new_layout_cell multimedia"><h2>Videos<span></span>
+  <span class="nav">
+	 <img id="vid-prev" src="/homepage_new_oecpr7/files/site/imgs/icons/prev.png" alt="prev">
+	 <img id="vid-next" src="/homepage_new_oecpr7/files/site/imgs/icons/next.png" alt="next">
+  </span>
+</h2>
+
+
+<script type="text/javascript">
+$(function() {
+	$('#div-vids').cycle({ 
+      fx:     'scrollHorz', 
+	  timeout: 8000,
+	  slides: 'div.vid-item',
+	  next:   '#vid-next', 
+      prev:   '#vid-prev',
+	  autoHeight:'calc'
+   });
+
+   $('span.video-icon').css({
+     'opacity' : 0.4
+   });
+});
+
+</script>
+
+
+<div class="content">
+	<!--  -->   	
+    
+    <div id="div-vids">
+    
+    
+    <div class="vid-item">
+            <a href="https://www.youtube.com/watch?v=driOyxp6AWs" target="_blank">
+            <span class="video-icon"> </span> 
+               <img src="https://i1.ytimg.com/vi/driOyxp6AWs/mqdefault.jpg" alt="" /><br>
+     Interview of Mr. Fouda, Advisor on Biodiversity to the Egyptian Minister of Environment    </a>
+        </div>	
+		   
+    <div class="vid-item">
+            <a href="http://www.genevaenvironmentnetwork.org/?q=en/events/looking-back-looking-forward-decade-unep-under-achim-steiners-leadership" target="_blank">
+            <span class="video-icon"> </span> 
+               <img src="/newscentre/includes/Insert_image.asp?ImageID=75904&langId=1" alt="" /><br>
+     Looking Back, Looking Forward: A Decade in UNEP Under Achim Steiner's Leadership   </a>
+        </div>
+          
+    <div class="vid-item">
+            <a href="https://www.youtube.com/watch?v=r1EVfr0diZY" target="_blank">
+            <span class="video-icon"> </span> 
+               <img src="https://i1.ytimg.com/vi/r1EVfr0diZY/mqdefault.jpg" alt="" /><br>
+     Live conversation between UN Secretary General Ban Ki-Moon & Bertrand Piccard   </a>
+        </div>
+   
+   <div class="vid-item">
+            <a href="http://www.unep.org/flvPlayer/videoplayer.asp?id=27529&l=en" target="_blank">
+            <span class="video-icon"> </span> 
+               <img src="/newscentre/includes/Insert_image.asp?ImageID=27529&langId=1" alt="" /><br>
+     Mercury in Artisanal Small-Scale Gold Mining   </a>
+        </div>
+   <!-- 
+   <div class="vid-item">
+            <a href="https://www.youtube.com/watch?v=2l7pbyFRGXI" target="_blank">
+            <span class="video-icon"> </span> 
+               <img src="https://i1.ytimg.com/vi/2l7pbyFRGXI/mqdefault.jpg" alt="" /><br>
+     UNEP Executive's Director interview with Solar Impulse</a>
+        </div>
+    
+   <div class="vid-item">
+            <a href="https://www.youtube.com/watch?v=7XnxCelmmaU" target="_blank">
+            <span class="video-icon"> </span> 
+               <img src="https://i1.ytimg.com/vi/7XnxCelmmaU/mqdefault.jpg" alt="" /><br>
+     Uncovering Pathways to an Inclusive Green Economy </a>
+        </div>
+   
+    <div class="vid-item">
+            <a href="https://www.youtube.com/watch?v=3az499Vt07E" target="_blank">
+            <span class="video-icon"> </span> 
+               <img src="https://i1.ytimg.com/vi/3az499Vt07E/mqdefault.jpg" alt="" /><br>
+     UNEP and IMAX Partner to amplify action on the Environment    </a>
+        </div>
+    
+    <div class="vid-item">
+            <a href="https://www.youtube.com/watch?v=oTyBitUHEBQ" target="_blank">
+            <span class="video-icon"> </span> 
+               <img src="https://i1.ytimg.com/vi/oTyBitUHEBQ/mqdefault.jpg" alt="" /><br>
+     UNEP Executive Director's message for International Women's Day    </a>
+        </div>
+        
+        <div class="vid-item">
+            <a href="https://www.youtube.com/watch?v=1qGX4SidpUk" target="_blank">
+            <span class="video-icon"> </span> 
+               <img src="https://i1.ytimg.com/vi/1qGX4SidpUk/mqdefault.jpg" alt="" /><br>
+     A message from Ms. Jacqueline McGlade, UNEP's Chief Scientist and Director of the Division of Early Warning and Assessment   </a>
+        </div>
+        
+    
+    <div class="vid-item">
+            <a href="https://www.youtube.com/watch?v=YOC2LIn6NmI" target="_blank">
+            <span class="video-icon"> </span> 
+               <img src="https://i1.ytimg.com/vi/YOC2LIn6NmI/mqdefault.jpg" alt="" /><br>
+     World Wildlife Day 2016 - Let them live   </a>
+        </div>
+    
+        <div class="vid-item">
+            <a href="https://www.youtube.com/watch?v=YUhfWDf0BIk" target="_blank">
+            <span class="video-icon"> </span> 
+               <img src="https://i1.ytimg.com/vi/YUhfWDf0BIk/mqdefault.jpg" alt="" /><br>
+      Davos 2016 Hub Culture Interview with Achim Steiner of the UNEP  </a>
+        </div>-->
+    
+  
+    
+
+
+                  
+    
+    <a class="more" href="/NewsCentre/multimedia/default.asp?ct=vid">More Videos &raquo; </a>
+	<!--  -->
+	</div>
+
+</div></div>
+    <div class="new_layout_cell publications"><h2>PUBLICATIONS
+  <span class="nav">
+     <img id="pub-prev" src="/homepage_new_oecpr7/files/site/imgs/icons/prev.png" alt="prev">
+     <img id="pub-next" src="/homepage_new_oecpr7/files/site/imgs/icons/next.png" alt="next">
+  </span>
+</h2>
+
+<script type="text/javascript">
+$(function() {
+	$('#div-pubs').cycle({ 
+      fx:     'scrollHorz', 
+	  timeout: 12000,
+	  slides: 'div.pub-item',
+	  next:   '#pub-next', 
+      prev:   '#pub-prev',
+	  autoHeight:'calc'
+   });
+   
+});
+
+</script>
+
+<div class="content">
+    
+   <div id="div-pubs">
+        <!-- -->
+<div class="pub-item">
+    <a href="http://apps.unep.org/publications/index.php?option=com_pub&task=download&file=011971_en" target="_blank">
+    <img src="/images/Early_Warning_as_a_Human_Right.jpg" alt=""/>
+    <span class="pub_title">Early Warning as a Human Right: Building resilience to climate-related hazards</span></a> 
+</div>
+<!-- -->
+<!-- -->
+<div class="pub-item">
+    <a href="http://apps.unep.org/publications/index.php?option=com_pub&task=download&file=012131_en" target="_blank">
+    <img src="http://apps.unep.org/publications/pmtdocuments/-Green_energy_choices__The_benefits,_risks_and_trade-offs_of_low-carbon_technologies_for_electricity_production-2016UNEP_GEC_web.JPG.jpg" alt=""/>
+    <span class="pub_title">Green energy choices: The benefits, risks and trade-offs of low-carbon technologies for electricity production</span></a> 
+</div>
+<!-- -->
+<!-- -->
+<div class="pub-item">
+    <a href="http://apps.unep.org/publications/index.php?option=com_pub&task=download&file=011908_en" target="_blank">
+    <img src="http://apps.unep.org/publications/pmtdocuments/-France%E2%80%99s_Financial_(Eco)system___Improving_the_integration_of_sustainability_factors-2015Capture.JPG.jpg" alt=""/>
+    <span class="pub_title">France’s Financial (Eco)system: Improving the integration of sustainability factors </span></a> 
+</div>
+<!-- -->
+<!-- -->
+<div class="pub-item">
+    <a href="http://apps.unep.org/publications/index.php?option=com_pub&task=download&file=011889_en" target="_blank">
+    <img src="http://apps.unep.org/publications/pmtdocuments/-Economic_Valuation_of_Wastewater__The_Cost_of_Action_and_the_Cost_of_No_Action-2015Capture.JPG.jpg" alt=""/>
+    <span class="pub_title">Economic Valuation of Wastewater: The Cost of Action and the Cost of No Action </span></a> 
+</div>
+<!-- -->
+<!-- -->
+<div class="pub-item">
+    <a href="http://uneplive.unep.org/theme/index/13#indcs" target="_blank">
+    <img src="http://web.unep.org/sites/default/files/gapreport/cover2015.jpg" alt=""/>
+    <span class="pub_title">UNEP Emissions Gap Report  </span></a> 
+</div>
+ 
+<div class="pub-item">
+    <a href="http://postconflict.unep.ch/publications/ECP/ECP_progress_report_2015.pdf" target="_blank">
+    <img src="/images/ECP_progress_report_2015.jpg" alt=""/>
+    <span class="pub_title">Addressing the Role of Natural Resources in Conflict and Peacebuilding  </span></a> 
+</div>
+
+<!-- -->
+<!-- -->
+<div class="pub-item">
+    <a href="http://apps.unep.org/publications/index.php?option=com_pub&task=download&file=011830_en" target="_blank">
+    <img src="http://apps.unep.org/publications/pmtdocuments/-The_Financial_System_We_Need__Aligning_the_Financial_System_with_Sustainable_Development-2015The_Financial_System_We_Need.jpg.jpg" alt=""/>
+    <span class="pub_title">The Financial System We Need: Aligning the Financial System with Sustainable Development  </span></a> 
+</div>
+
+
+<div class="pub-item">
+    <a href="http://apps.unep.org/publications/index.php?option=com_pub&task=download&file=011828_en" target="_blank">
+    <img src="http://apps.unep.org/publications/pmtdocuments/-_Uncovering_Pathways_towards_an_Inclusive_Green_Economy__a_Summary_for_Leaders-2015Capture.JPG.jpg" alt=""/>
+    <span class="pub_title">Uncovering Pathways towards an Inclusive Green Economy: a Summary for Leaders </span></a> 
+</div>
+<!-- -->
+<!-- -->
+
+
+<div class="pub-item">
+    <a href="http://apps.unep.org/publications/index.php?option=com_pub&task=download&file=011818_en" target="_blank">
+    <img src="http://apps.unep.org/publications/pmtdocuments/-Our_Planet__Making_Our_Future_Chemical-Safe-2015Capture.JPG.jpg" alt=""/>
+    <span class="pub_title">Our Planet: Making Our Future Chemical-Safe </span></a> 
+</div>
+
+
+<div class="pub-item">
+    <a href="/pdf/UNEP_and_the_2030_Agenda.pdf" target="_blank">
+    <img src="/images/UNEP_2030_Agenda.jpg" alt=""/>
+    <span class="pub_title">The United Nations Environment Programme and the 2030 Agenda</span></a> 
+</div>
+
+
+   </div>
+        
+
+</div>
+
+</div>
+    <div class="new_layout_cell askexpert">
+
+<h2>ASK <span>AN EXPERT</span></h2>
+
+<div class="content">
+    
+        <div class="new_inner_col_padding">
+            <div class="unea_expert_pic">
+                <img src="/experts/includes/InsertImage.asp?ExpertID=30657" alt="Sara Castro-Hallgren" />
+            </div>
+            <div class="unea_expert_details">
+                <div class="unea_expert_name">Sara Castro-Hallgren</div>
+                <div class="unea_expert_topic"><span class="bold">Topic:</span><a class='link01' href='/experts'> How can we change youth behaviors and consumption choices today to ensure a more sustainable planet?</a></div><br>
+            </div>
+        </div>
+        <div>
+             
+             
+            </div>
+</div>
+</div>           
+</div> 
+<div class="new_layout_col_right">
+	<div class="new_layout_twitter">
+    	<div class="content">	
+   <a class="twitter-timeline" href="https://twitter.com/UNEP" data-widget-id="708284667619876864">Tweets by @UNEP</a>
+    
+</div>
+            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+          
+          
+    </div>
+</div> 
+
+    </div>    
+    <div class="new_layout_row">
+    	<div id="projects" class="clear">
+    <ul class="featured_projects">
+    	<li><a href="http://web.unep.org/unea/"><img src="/images/UNEA-icon.png" alt="UNEA" width="110"><br>United Nations <br>Environment Assembly</a></li>
+        <li><a href="http://wed2016.com/"><img src="/images/wed2016-logo.jpg" alt="WED 2016" width="115"><br>World Environment<br/> Day</a></li>
+        <!--<li><a href="/ccac/"><img src="/home_new/files/site/newscentre/images/ccac_logo.png" alt="CCAC" width="105"><br>The Climate and Clean <br>Air Coalition</a></li> -->
+        <li><a href="/ccac/"><img src="http://www.ccacoalition.org/sites/all/themes/coalition/images/logo.svg" alt="CCAC" width="105"><br>The Climate and Clean <br>Air Coalition</a></li>
+        
+        <!--<li><a href="http://web.unep.org/climatechange/cop21/"><img src="/images/cop21_logo.png" alt="COP20" height="50"><br>COP21/CMP11</a></li>-->
+        
+        <!--<li><a href="http://ctc-n.org" target="_blank"><img src="/images/CTCN-icon.jpg" alt="CTCN" width="90"><br>CTCN</a></li>-->
+        
+        <li><a href="/geo/"><img src="/images/geo_logo.png" alt="GEO" height="50"><br>GEO</a></li>
+        
+        <li><a href="/greeneconomy/"><img src="/images/ge_logo.jpg" alt="Green Economy" height="50"><br>Green Economy</a></li>
+       
+        <li><a href="/post2015/"><img src="/images/Agenda_2030_logo.jpg" alt="Agenda 2030" height="50"><br>2030 Agenda for<br/> Sustainable<br/> Development</a></li> 
+        
+        <li><a href="http://www.unep.org/uneplive"><img src="/images/unep_live.jpg" alt="UNEP Live" width="120"><br>UNEP Live</a></li>
+        
+        <li><a href="http://thinkeatsave.org/"><img src="/images/think_eat_save_logo.jpg" alt="WED" width="105"><br>Think Eat Save</a></li>        
+    </ul>        
+</div>
+
+    </div>    
+</div>
+		</div>
+        
+		<div style='clear:both;'></div>
+		<div id="footer" class="clear">
+			<style>
+#footer_az_links ul li a {
+    display: block;
+}
+</style>
+
+ <script type="text/javascript">
+	
+
+	
+	// Load Jquery for websites that don't have jquery
+
+    var jQueryScriptOutputted = false;
+    function initJQuery() {
+    
+    //if the jQuery object isn't available
+    if (typeof(jQuery) == 'undefined') {
+    
+        if (!jQueryScriptOutputted) {
+            //only output the script once..
+            jQueryScriptOutputted = true;
+            
+            //output the script 
+            document.write("<scr" + "ipt type='text/javascript' src='http://www.unep.org/flvPlayer/Scripts/jquery/jquery-latest.min.js'></scr" + "ipt>");
+        }
+        setTimeout("initJQuery()", 50);
+    } else {
+                        
+        $(function() {  
+            // do anything that needs to be done on document.ready
+            
+
+            // 	var isIE7 = $.browser.msie && +$.browser.version === 7;
+			//	if ( isIE7 ) {
+				
+			//	} else {
+				// $('#footer_az_links').css("display","none");
+						
+						 $('#az_toggle').click(function() {
+							  
+							 $('#footer_az_links').slideToggle();
+							/* $('html, body').animate({ 
+							   scrollBottom: $(document).height()-$(window).height()}, 
+							   1400, 
+							   "easeOutQuint"
+							 ); */
+							 $('html, body').animate({scrollTop: $(document).height()}, 'slow');
+											  
+						 });
+						 
+
+
+			//	} //end if IE7
+
+
+        }); //end doc ready
+    }
+            
+}
+initJQuery();
+
+</script>
+
+
+ 
+ 
+ <div id="footer_az">
+            <h6 id="az_toggle"><a href="javascript:void(0)" style="color:white;font-size:inherit;text-decoration:none;"><span style="font-size:inherit;color:white;"> - </span> A-Z of UNEP</a></h6>
+            <div id="footer_az_links">
+                <div id="footer_az_cont_top">
+                    <div id="footer_az_links_cont_tl"></div>
+                    <div id="footer_az_links_cont_tr"></div>
+                </div>
+                <div id="footer_az_links_cont">
+                    <ul>
+                        <!--<li><a href="/dgef/">Access to Finance</a></li> -->
+                        <li><a href="/annualreport/">Annual Report</a></li>
+                        <!--<li><a href="/billiontreecampaign/" >Billion Tree Campaign</a></li>-->
+                        <!-- <li><a href="/themes/biodiversity/" >Biodiversity</a></li> -->
+                        <!--<li><a href="/biosafety/" >Biosafety</a></li> -->
+                        <!-- <li><a href="/resources/business/" >Business &amp; Industry</a></li> -->
+                        <li><a href="/champions/" >Champions of the Earth</a></li>
+                        <li><a href="/tunza/">Children and Youth / Tunza</a></li>
+                        <!--<li><a href="/resourceefficiency/Policy/ResourceEfficientCities/tabid/55541/Default.aspx">Cities and Buildings</a></li> -->
+                        <li><a href="/ccac/" >Climate and Clean Air Coalition</a></li>
+                        <li><a href="/climatechange/" >Climate Change</a></li>
+                        <li><a href="http://ctc-n.org" target="_blank" >Climate Technology Centre & Network</a></li>
+                        <!--<li><a href="/climatechange/ctcn/" >Climate Technology Centre & Network</a></li>-->
+                        <!--<li><a href="/ccac/" >Climate and Clean Air Coalition</a></li>-->
+                        <li><a href="/conflictsanddisasters/" >Disasters & Conflicts</a></li>
+                        <li><a href="/ecosystemmanagement/">Ecosystem Management</a></li> 
+                        <li><a href="/training/" >Education and Training</a></li>
+                        <li><a href="/vacancies" >Employment</a></li>
+                        <li><a href="/energy" >Energy</a></li>
+                        <!--<li><a href="/themes/assessment/" >Environmental Assessment</a></li>-->
+                        <li><a href="http://www.unemg.org" target="_blank" >Environment Management Group</a></li> 
+                       	<li><a href="/environmentalgovernance/" >Environmental Governance</a></li>
+                        <!--  <li><a href="/eou/">Evaluation</a></li>    -->
+                    	<!--<li><a href="/forests">Forests</a></li> -->
+                    	<li><a href="/inquiry/">Financial Inquiry</a></li>                                            
+                                      
+                    </ul>
+                    
+                    <ul> 
+                                                 
+                     
+                    	<li><a href="/about/funding/">Funding for UNEP</a></li>   
+                  		<!--<li><a href="http://na.unep.net/geas/" target="_blank">GEAS</a></li> -->
+                        <li><a href="/gender/" >Gender</a></li>
+                        <li><a href="/geo/" >Global Environment Outlook</a></li>
+                        <li><a href="/about/sgb/" >Governments / SGB</a></li>
+                        <li><a href="/greeneconomy/" >Green Economy</a></li>
+					    <li><a href="http://www.greeningtheblue.org/" target="_blank" >Greening the Blue</a></li>
+					    <li><a href="/hazardoussubstances/" >Harmful Substances</a></li>
+					    <!--<li><a href="/health-env/" >Health &amp; Environment</a></li>-->
+                        <li><a href="http://www.informea.org/" target="_blank" >INFORMEA</a></li>
+                        <li><a href="/resourcepanel/" >International Resource Panel</a></li>
+                        <!--<li><a href="/internationalyearofsustainableenergyforall/" >IYSEA</a></li> -->
+					    
+					    <!-- <li><a href="/themes/land" >Land</a></li> -->
+                        <li><a href="/civil-society/" >Major Groups and Stakeholders</a></li>
+                        <li><a href="http://www.unep.org/oare" target="_blank" >OARE</a></li>
+                       	<li><a href="http://web.unep.org/ourplanet/" >Our Planet</a></li>
+                        <li><a href="http://www.unep.org/provia" target="_blank">PROVIA - Science for Adaptation Policy</a></li>
+                        <li><a href="/resourceefficiency/" >Resource Efficiency</a></li>
+                    </ul>
+                    
+                    <ul>
+                        <li><a href="/sasakawa/">Sasakawa</a></li> 
+                   	    <!--<li><a href="/science/">Science</a></li> -->
+                        <!-- <li><a href="http://www.seedinit.org/" target="_blank">SEED Awards</a></li> -->
+                        <li><a href="/south-south-cooperation/">South South Co-operation</a></li>
+                        <li><a href="/sport_env/">Sports & Environment</a></li>
+                        <li><a href="/resourceefficiency/Home/Society/tabid/55529/Default.aspx">Sustainable Consumption & Production</a></li>
+                         <li><a href="http://www.thinkeatsave.org/">Think.Eat.Save</a></li>
+                        <li><a href="/resourceefficiency/Home/Business/SectoralActivities/Tourism/tabid/78766/Default.aspx">Tourism</a></li>
+                        
+                        <li><a href="/transport/">Transport</a></li>
+                        
+                        <li><a href="/about/sgb/UnitedNationsEnvironmentAssembly/tabid/129496/language/en-GB/Default.aspx">UN Environment Assembly</a></li>
+                        <li><a href="http://intranet.unep.org/" target="_blank">UNEP Intranet</a></li>
+                        <li><a href="http://www.un-redd.org/" target="_blank">UN REDD</a></li>
+                        <li><a href="http://uneplive.unep.org/" target="_blank">UNEP Live</a></li>  
+                        <li><a href="http://www.unpei.org/" target="_blank">UNDP-UNEP Poverty &amp; Environment</a></li>	
+                        <!--<li><a href="/40thAnniversary/">UNEP 40th Anniversary</a></li>  -->
+                        <li><a href="http://www.unepfi.org/" target="_blank">UNEP Finance Initiative</a></li>
+                        <li><a href="/gc/gc27/">UNEP Governing Council</a></li>   
+                       
+                         
+                    </ul>
+              
+                     <ul class="footer_links_right">  
+                        <li><a href="/qas/">UNEP Planning and Monitoring</a></li>
+                        <li><a href="http://web.unep.org/unep-project-concern/">UNEP Project Concern</a></li>
+                      	<!--<li><a href="/tools/">UNEP Resource Kit</a></li>-->       
+                      	<li><a href="/sustainability" >UNEP Sustainability</a></li>
+					 	<li><a href="/yearbook" >UNEP Year Book</a></li>	
+                        <li><a href="/library" >Virtual Library</a></li>
+						<li><a href="/esm/Waterecosystems/WaterQuality/tabid/794532/Default.aspx" >Water</a></li>
+                        <!--<li><a href="/unite/">UNite for Climate Change</a></li>
+                        <li><a href="/urban_environment/">Urban Issues</a></li>-->
+                        <li><a href="/wed/">World Environment Day</a></li>
+                        <li><a href="/10yfp/">10YFP</a></li>
+                     </ul>
+                    <ul class="footer_links_regionals_list">    
+                        <li class="footer_links_regionals_title">Regional Offices</li>
+                        <li><a href="/roa/" title="UNEP's regional office for Africa">Africa</a></li>
+                        <li><a href="/roap" title="UNEP's regional office for Asia Pacific" target="_blank">Asia Pacific</a></li> 
+                        <li class="regionalOffices"><a href="/roe/" >Europe</a></li>
+						<!-- <li><a href="http://www.unep.ch/roe/" title="UNEP's regional office for Europe" target="_blank">Europe</a></li> --> 
+                        <li><a href="http://www.pnuma.org/" title="UNEP's regional office for Latin America" target="_blank">Latin America and the Caribbean</a></li> 
+                        <li><a href="http://www.rona.unep.org/" title="UNEP's regional office for North America" target="_blank">North America</a></li> 
+                        <li><a href="/rowa" title="UNEP's regional office for West Asia" target="_blank">West Asia</a></li>                        	
+                    </ul>
+                </div>
+                <div id="footer_az_cont_bottom">
+                    <div id="footer_az_links_cont_bl"></div>
+                    <div id="footer_az_links_cont_br"></div>
+                </div>
+            </div>
+ </div>
+        
+ <div id="footer_text">
+            <div id="footer_logo">
+                <a href="/" title="United Nations Environment Programme (UNEP) home page"><img src="/shared_files/header_footer/gfx/footer_logo.jpg" alt="United Nations Environment Programme (UNEP) home page" /></a>
+            </div>
+            
+            <div id="footer_terms">
+                <a href="http://unep.org/About/CopyrightPrivacyTermsandConditions/tabid/133027/Default.aspx">| &nbsp;&nbsp; &copy; United Nations Environment Programme &nbsp;&nbsp;|</a>
+                <a href="/about/ContactUs/tabid/129618/Default.aspx" title="UNEP's contacts">&nbsp;&nbsp; Contact Us</a>
+                <!--<a href="/about/Privacy/tabid/130740/Default.aspx" title="UNEP's privacy policy">&nbsp;Privacy&nbsp;&nbsp;|</a>
+                <a href="/about/TermsandConditions/tabid/130739/Default.aspx" title="UNEP's terms and conditions">&nbsp;Terms and Conditions&nbsp;</a>-->
+                
+                <!--<a href="/About/CopyrightPrivacyTermsandConditions/tabid/133027/Default.aspx" title="UNEP's copyright,UNEP's privacy policy,UNEP's terms and conditions">Copyright &copy;&nbsp;United Nations Environment Programme&nbsp;&nbsp;|
+               &nbsp;Privacy&nbsp;&nbsp;|&nbsp;Terms and Conditions&nbsp;</a>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="/about/ContactUs/tabid/129618/Default.aspx" title="UNEP's contacts">Contacts&nbsp;|</a>
+                <a href="/about/SiteLocator/tabid/130741/Default.aspx" title="UNEP's site map">Site Locator&nbsp;|</a> -->
+                <!--<a href="/rms" title="Support UNEP">Support UNEP&nbsp;|</a>-->
+                <!--<a href="http://intranet.unep.org" target="_blank" title="UNEP Intranet">UNEP Intranet&nbsp;</a> -->&nbsp;&nbsp;&nbsp;
+            </div>
+            <div id="footer_sm">
+                <a href="http://issuu.com/unep"><img src="/shared_files/header_footer/gfx/Issuu_icon.png" style="max-height:15px;" alt=""></a>
+                <a href="/rss/"><img src="/shared_files/header_footer/gfx/rss_icon.gif" alt=""></a>
+                <a href="https://www.linkedin.com/company/unep"><img src="/shared_files/header_footer/gfx/linkedin_icon.png" style="max-height:15px;" alt=""></a>
+                <a href="https://www.youtube.com/user/UnepAndYou"><img src="/shared_files/header_footer/gfx/youtube_icon.png" style="max-height:15px;" alt=""></a>
+                <a href="https://www.instagram.com/unep/"><img src="/shared_files/header_footer/gfx/instagram_icon.png" style="max-height:15px;" alt=""></a>
+                <a href="https://plus.google.com/+UNEP/posts"><img src="/shared_files/header_footer/gfx/googleplus_icon.png" style="max-height:15px;" alt=""></a>
+                <a href="http://www.facebook.com/UNEP"><img src="/annualreport/2013/images/icon_fb.png" style="max-height:15px;" alt=""></a>
+                <a href="http://twitter.com/unep"><img src="/annualreport/2013/images/icon_twitter.png" style="max-height:15px;" alt=""></a>
+                
+                <!--<p>Follow UNEP</p>
+                <a href="/rss/" title="UNEP RSS feeds"><img src="/shared_files/header_footer/gfx/rss_icon.gif" alt="UNEP RSS feeds"/></a>
+                <a href="http://twitter.com/unep" title="UNEP Twitter" target="_blank"><img src="/shared_files/header_footer/gfx/twitter_icon.gif" alt="UNEP on Twitter"/></a>
+                <a href="http://www.facebook.com/pages/UNEP/287683225711" title="UNEP on Facebook" target="_blank"><img src="/shared_files/header_footer/gfx/facebook_icon.gif" alt="UNEP on Facebook"/></a> -->
+            </div>
+ </div>
+
+ <a name="page_bottom" id="page_bottom"></a>
+
+		</div>
+	</div>
+</div>
+
+</div>
+
+<div style='clear:both;'></div>
+
+<script>
+$(document).ready(function() {
+	
+	$('#footer_az_links').slideToggle();
+	$("a[href*='http://']:not([href*='"+window.location.hostname+"'])").addClass("ExternalLink").attr("target","_blank");
+	$("a[href*='https://']:not([href*='"+window.location.hostname+"'])").addClass("ExternalLink").attr("target","_blank");
+
+    
+});
+</script>
+<!-- Analytics Tracking Code -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u=(("https:" == document.location.protocol) ? "https" : "http") + "://apps.unep.org/piwik/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 4]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript';
+    g.defer=true; g.async=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="http://apps.unep.org/piwik/piwik.php?idsite=4" style="border:0;" alt="" /></p></noscript>
+<!-- End Code -->
+</body>
+</html>

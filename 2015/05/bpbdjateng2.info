@@ -1,0 +1,725 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb">
+
+<head>
+  <base href="http://bpbdjateng.info/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="Sekretariat BPBD Provinsi Jawa Tengah" />
+  <meta name="description" content="Situs BPBD Provinsi Jawa Tengah" />
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
+  <title>BPBD Provinsi Jawa Tengah</title>
+  <link href="/index.php?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/index.php?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <link href="/templates/ja_helio/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+  <link rel="stylesheet" href="http://bpbdjateng.info/modules/mod_jaslideshow/ja_slideshow/ja.slideshow.css" type="text/css" />
+  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="/media/system/js/caption.js"></script>
+
+
+<link rel="stylesheet" href="http://bpbdjateng.info/templates/system/css/system.css" type="text/css" />
+<link rel="stylesheet" href="http://bpbdjateng.info/templates/system/css/general.css" type="text/css" />
+<link rel="stylesheet" href="http://bpbdjateng.info/templates/ja_helio/css/template.css" type="text/css" />
+<link rel="stylesheet" href="http://bpbdjateng.info/templates/ja_helio/css/typo.css" type="text/css" />
+<script language="javascript" type="text/javascript" src="http://bpbdjateng.info/templates/ja_helio/js/ja.script.js"></script>
+
+<!-- Menu head -->
+			<link href="http://bpbdjateng.info/templates/ja_helio/ja_menus/ja_moomenu/ja.moomenu.css" rel="stylesheet" type="text/css" />
+			<script src="http://bpbdjateng.info/templates/ja_helio/ja_menus/ja_moomenu/ja.moomenu.js" language="javascript" type="text/javascript" ></script>
+			
+<link href="http://bpbdjateng.info/templates/ja_helio/css/colors/orange.css" rel="stylesheet" type="text/css" />
+
+<!--[if lte IE 6]>
+<style type="text/css">
+.clearfix {height: 1%;}
+img {border: none;}
+</style>
+<![endif]-->
+
+<!--[if gte IE 7.0]>
+<style type="text/css">
+.clearfix {display: inline-block;}
+</style>
+<![endif]-->
+
+
+
+<!--[if gt IE 7]>
+<link href="http://bpbdjateng.info/templates/ja_helio/css/ie8.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+</head>
+
+<body id="bd" class="wide fs3" >
+<a name="Top" id="Top"></a>
+<ul class="accessibility">
+	<li><a href="/#ja-content" title="Skip to content">Skip to content</a></li>
+	<li><a href="/#ja-mainnav" title="Skip to main navigation">Skip to main navigation</a></li>
+	<li><a href="/#ja-col1" title="Skip to 1st column">Skip to 1st column</a></li>
+	<li><a href="/#ja-col2" title="Skip to 2nd column">Skip to 2nd column</a></li>
+</ul>
+
+<div id="ja-wrapper">
+
+<!-- BEGIN: MAIN NAVIGATION -->
+<div id="ja-mainnavwrap">
+	<div id="ja-mainnav">
+		<ul id="ja-cssmenu" class="clearfix">
+<li class="active"><a href="http://bpbdjateng.info/" class="menu-item0 active first-item" id="menu1" title="Beranda"><span class="menu-title">Beranda</span></a></li> 
+<li class="havechild"><a class="menu-item1" id="menu96" title="Profil"><span class="menu-title">Profil</span></a><ul><li class="havesubchild"><a href="/aktivitas-/sekilas-bpbd-prov-jateng.html" class=" first-item" id="menu98" title="Sekilas BPBD Prov. Jateng"><span class="menu-title">Sekilas BPBD Prov. Jateng</span></a><ul><li ><a href="/aktivitas-/sekilas-bpbd-prov-jateng/profil-bpbd-jateng.html" class=" first-item" id="menu168" title="Profil BPBD Jateng"><span class="menu-title">Profil BPBD Jateng</span></a></li> 
+<li ><a href="/aktivitas-/sekilas-bpbd-prov-jateng/struktur-organisasi.html"  id="menu118" title="Struktur Organisasi"><span class="menu-title">Struktur Organisasi</span></a></li> 
+<li ><a href="/aktivitas-/sekilas-bpbd-prov-jateng/daftar-peralatan.html"  id="menu97" title="Daftar Peralatan"><span class="menu-title">Daftar Peralatan</span></a></li> 
+<li ><a href="/aktivitas-/sekilas-bpbd-prov-jateng/jumlah-pns.html"  id="menu181" title="Jumlah PNS"><span class="menu-title">Jumlah PNS</span></a></li> 
+<li class="havesubchild"><a href="/aktivitas-/sekilas-bpbd-prov-jateng/pelatiahan-sdm.html" class=" last-item" id="menu183" title="Pelatiahan SDM"><span class="menu-title">Pelatiahan SDM</span></a><ul><li ><a href="/aktivitas-/sekilas-bpbd-prov-jateng/pelatiahan-sdm/pelatihan-sdm-2009-2013.html" class=" first-item" id="menu182" title="Pelatihan SDM 2009 - 2013"><span class="menu-title">Pelatihan SDM 2009 - 2013</span></a></li> 
+<li ><a href="/aktivitas-/sekilas-bpbd-prov-jateng/pelatiahan-sdm/pelatihan-sdm-2014.html" class=" last-item" id="menu184" title="Pelatihan SDM 2014"><span class="menu-title">Pelatihan SDM 2014</span></a></li> 
+</ul></li> 
+</ul></li> 
+<li class="havesubchild"><a href="/aktivitas-/laporan-bencana.html"  id="menu99" title="Laporan Bencana"><span class="menu-title">Laporan Bencana</span></a><ul><li ><a href="/aktivitas-/laporan-bencana/tahun-2016.html" class=" first-item" id="menu119" title="Tahun 2016"><span class="menu-title">Tahun 2016</span></a></li> 
+<li ><a href="https://www.dropbox.com/s/8s6uhkq7mjocus9/DATA%20BENCANA%202015%20LOCK_TAHUN%20SAJA.xlsx?dl=0" class=" last-item" id="menu120" title="Tahun 2015"><span class="menu-title">Tahun 2015</span></a></li> 
+</ul></li> 
+<li ><a href="/aktivitas-/bpbd-kabkota-di-jateng.html" class=" last-item" id="menu169" title="BPBD Kab/Kota di Jateng"><span class="menu-title">BPBD Kab/Kota di Jateng</span></a></li> 
+</ul></li> 
+<li class="havechild"><a class="menu-item2" id="menu50" title="PPID"><span class="menu-title">PPID</span></a><ul><li ><a href="/ppid/form-ppid.html" class=" first-item" id="menu196" title="FORM PPID"><span class="menu-title">FORM PPID</span></a></li> 
+<li ><a href="https://drive.google.com/open?id=0Bya6vTOinKr_cVdTcXBtdzZQS2M"  id="menu117" title="Daftar Informasi Publik"><span class="menu-title">Daftar Informasi Publik</span></a></li> 
+<li ><a href="http://bpbdjateng.info/aktivitas-/jumlah-pns/2865-informasi-serta-merta.html"  id="menu191" title="Informasi Serta Merta"><span class="menu-title">Informasi Serta Merta</span></a></li> 
+<li ><a href="http://bpbdjateng.info/lembaga-pemerintah/bpbd-lain/1588-informasi-berkala.html"  id="menu192" title="Informasi Berkala"><span class="menu-title">Informasi Berkala</span></a></li> 
+<li ><a href="/aktivitas-/jumlah-pns/1932-program-dan-kegiatan-bpbd.html"  id="menu193" title="Informasi Setiap Saat"><span class="menu-title">Informasi Setiap Saat</span></a></li> 
+<li ><a href="http://bpbdjateng.info/aktivitas-/jumlah-pns/2829-informasi-dikecualikan.html" class=" last-item" id="menu194" title="Informasi Dikecualikan"><span class="menu-title">Informasi Dikecualikan</span></a></li> 
+</ul></li> 
+<li class="havechild"><a class="menu-item3" id="menu195" title="Program & Kegiatan"><span class="menu-title">Program & Kegiatan</span></a><ul><li class="havesubchild"><a href="/program-a-kegiatan/kegiatan-bpbd.html" class=" first-item" id="menu66" title="Kegiatan BPBD Jateng"><span class="menu-title">Kegiatan BPBD Jateng</span></a><ul><li ><a href="/program-a-kegiatan/kegiatan-bpbd/perencanaan.html" class=" first-item" id="menu121" title="sub. Program"><span class="menu-title">sub. Program</span></a></li> 
+<li ><a href="/program-a-kegiatan/kegiatan-bpbd/sub-keuangan.html"  id="menu174" title="sub. Keuangan"><span class="menu-title">sub. Keuangan</span></a></li> 
+<li ><a href="/program-a-kegiatan/kegiatan-bpbd/umum-a-kehumasan.html"  id="menu148" title="sub. Umum & Kepegawaian"><span class="menu-title">sub. Umum & Kepegawaian</span></a></li> 
+<li ><a href="/program-a-kegiatan/kegiatan-bpbd/pencegahan-a-kesiapsiagaan.html"  id="menu124" title="Pencegahan & Kesiapsiagaan"><span class="menu-title">Pencegahan & Kesiapsiagaan</span></a></li> 
+<li ><a href="/program-a-kegiatan/kegiatan-bpbd/tanggap-darurat.html"  id="menu122" title="Penanganan Darurat"><span class="menu-title">Penanganan Darurat</span></a></li> 
+<li ><a href="/program-a-kegiatan/kegiatan-bpbd/rehab-a-rekon.html"  id="menu123" title="Rehab & Rekon"><span class="menu-title">Rehab & Rekon</span></a></li> 
+<li ><a href="/program-a-kegiatan/kegiatan-bpbd/logistik-a-peralatan.html"  id="menu125" title="Logistik & Peralatan"><span class="menu-title">Logistik & Peralatan</span></a></li> 
+<li ><a href="/program-a-kegiatan/kegiatan-bpbd/pib-pusdalops-jateng.html" class=" last-item" id="menu171" title="PIB Pusdalops Jateng"><span class="menu-title">PIB Pusdalops Jateng</span></a></li> 
+</ul></li> 
+</ul></li> 
+<li class="havechild"><a class="menu-item4" id="menu126" title="Produk Hukum PB"><span class="menu-title">Produk Hukum PB</span></a><ul><li ><a href="/produk-hukum-pb/undang-undang.html" class=" first-item" id="menu149" title="Undang Undang"><span class="menu-title">Undang Undang</span></a></li> 
+<li ><a href="/produk-hukum-pb/pp.html"  id="menu150" title="Peraturan Pemerintah"><span class="menu-title">Peraturan Pemerintah</span></a></li> 
+<li ><a href="/produk-hukum-pb/per-pres.html"  id="menu151" title="Peraturan Presiden"><span class="menu-title">Peraturan Presiden</span></a></li> 
+<li ><a href="/produk-hukum-pb/keputusan-presiden.html"  id="menu152" title="Keputusan Presiden"><span class="menu-title">Keputusan Presiden</span></a></li> 
+<li ><a href="/produk-hukum-pb/keputusan-menteri.html"  id="menu153" title="Keputusan Menteri"><span class="menu-title">Keputusan Menteri</span></a></li> 
+<li ><a href="/produk-hukum-pb/perka-bnpb.html"  id="menu154" title="Perka BNPB"><span class="menu-title">Perka BNPB</span></a></li> 
+<li ><a href="/produk-hukum-pb/bpbd.html"  id="menu155" title="BPBD"><span class="menu-title">BPBD</span></a></li> 
+<li ><a href="/produk-hukum-pb/11-program-unggulan-jawa-tengah.html"  id="menu188" title="11 Program Unggulan Jawa Tengah"><span class="menu-title">11 Program Unggulan Jawa Tengah</span></a></li> 
+<li ><a href="/produk-hukum-pb/visi-misi-jawa-tengah-tahun-2013-2018.html"  id="menu189" title="Visi Misi Jawa Tengah Tahun 2013-2018"><span class="menu-title">Visi Misi Jawa Tengah Tahun 2013-2018</span></a></li> 
+<li ><a href="/produk-hukum-pb/visi-misi-bpbd-provinsi-jawa-tengah.html" class=" last-item" id="menu190" title="Visi Misi BPBD Provinsi Jawa Tengah"><span class="menu-title">Visi Misi BPBD Provinsi Jawa Tengah</span></a></li> 
+</ul></li> 
+<li class="havechild"><a href="#" title=""><span class="separator">Pantau Bencana</span></a><ul><li ><a href="/pantauan-merapi/pantauan-bencana.html" class=" first-item" id="menu177" title="Pantauan Bencana"><span class="menu-title">Pantauan Bencana</span></a></li> 
+<li ><a href="/pantauan-merapi/cctv-aliran-lahar.html"  id="menu178" title="CCTV Lahar Dingin Merapi"><span class="menu-title">CCTV Lahar Dingin Merapi</span></a></li> 
+<li ><a href="/pantauan-merapi/video-bpbd.html" class=" last-item" id="menu185" title="Video BPBD"><span class="menu-title">Video BPBD</span></a></li> 
+</ul></li> 
+<li ><a href="/faq.html" class="menu-item6 last-item" id="menu41" title="FAQ"><span class="menu-title">FAQ</span></a></li> 
+</ul>
+			</div>
+</div>
+<!-- END: MAIN NAVIGATION -->
+
+<!-- BEGIN: HEADER -->
+<div id="ja-headerwrap">
+<div id="ja-header" class="clearfix">
+
+			<h1 class="logo">
+			<a href="/index.php" title="BPBD Provinsi Jawa Tengah"><span>BPBD Provinsi Jawa Tengah</span></a>
+		</h1>
+		
+	
+</div>
+</div>
+<!-- END: HEADER -->
+
+<div id="ja-containerwrap-fl">
+<div id="ja-container" class="clearfix">
+
+  <div id="ja-mainbody" class="clearfix">
+  
+  	<!-- BEGIN:  TOPSPOTLIGHT -->
+	<div id="ja-topsl">
+		<script src="http://bpbdjateng.info//modules/mod_jaslideshow/ja_slideshow/ja.slideshow.js" type="text/javascript"></script>
+		<div id="ja-slideshow-wrap">
+			<div id="ja-slideshow-case" class="ja-slideshow-case">
+				<img src="http://bpbdjateng.info/images/resized/images/slide_prb/1_680_213.jpg" alt="Aktifitas BPBD" title="Aktifitas BPBD" />
+      		</div>
+			<div id="ja-slidebar" class="ja-slidebar clearfix">
+			</div>
+		</div>
+		<script type="text/javascript">
+		//<![CDATA[
+		var	JaSlideshow = new JaSlideshowClass({
+				siteurl: 'http://bpbdjateng.info/',
+				type: 'fade',
+				pan: '10',
+				zoom: '10',
+				width: 680,
+				height: 330,
+				twidth: 100,
+				theight: 100,
+				url: '',
+				images: ['images/resized/images/slide_prb/1_680_213.jpg','images/resized/images/slide_prb/135458_ganjarbanjir_680_213.jpg','images/resized/images/slide_prb/16_680_213.png','images/resized/images/slide_prb/16049_550778688270249_92861249_n_680_213.jpg','images/resized/images/slide_prb/18_680_213.png','images/resized/images/slide_prb/2_680_213.jpg','images/resized/images/slide_prb/23434_680_213.jpg','images/resized/images/slide_prb/24 01 2014 gub tinjau banjir di welahan jepara (1)_680_213.jpg','images/resized/images/slide_prb/24 01 2014 gub tinjau banjir di welahan jepara (3)-compressed_680_213.jpg','images/resized/images/slide_prb/3_680_213.jpg','images/resized/images/slide_prb/34_680_213.png','images/resized/images/slide_prb/55555_680_213.jpg','images/resized/images/slide_prb/cn3koycue_ma_680_213.jpg','images/resized/images/slide_prb/cpjj9rcwwaaquf2_680_213.jpg','images/resized/images/slide_prb/dsc00094_680_213.jpg','images/resized/images/slide_prb/gub mengajar_680_213.png','images/resized/images/slide_prb/gub mengajar2_680_213.png','images/resized/images/slide_prb/gub_680_213.jpg','images/resized/images/slide_prb/gub2_680_213.jpg','images/resized/images/slide_prb/img_0050_680_213.jpg','images/resized/images/slide_prb/img_0115_680_213.jpg','images/resized/images/slide_prb/img_0146_680_213.jpg','images/resized/images/slide_prb/img_0529_680_213.jpg','images/resized/images/slide_prb/img_0839_680_213.jpg','images/resized/images/slide_prb/img_1147_680_213.jpg','images/resized/images/slide_prb/img_20141208_161558_680_213.jpg','images/resized/images/slide_prb/img_20141208_161644_680_213.jpg','images/resized/images/slide_prb/img_20141208_161725_680_213.jpg','images/resized/images/slide_prb/img_20141208_161744_680_213.jpg','images/resized/images/slide_prb/img_20141208_161838_680_213.jpg','images/resized/images/slide_prb/img_20141208_161912_680_213.jpg','images/resized/images/slide_prb/img_20141208_161944_680_213.jpg','images/resized/images/slide_prb/pengecilan_pigura tambahan kpk_53 x 33 cm_680_213.jpg','images/resized/images/slide_prb/pengecilan_pigura tambahan_mboten korupsi_53 x 33 cm_680_213.jpg','images/resized/images/slide_prb/relokasi 2_680_213.png','images/resized/images/slide_prb/relokasi_628_213.png','images/resized/images/slide_prb/resik2 2_680_213.png','images/resized/images/slide_prb/resik2_680_213.png','images/resized/images/slide_prb/_mg_0027_680_213.jpg','images/resized/images/slide_prb/_mg_0073_680_213.jpg','images/resized/images/slide_prb/_mg_3558_680_213.jpg','images/resized/images/slide_prb/_mg_3591_680_213.jpg','images/resized/images/slide_prb/_mg_36481_680_213.jpg','images/resized/images/slide_prb/cepogo1_680_213.jpg','images/resized/images/slide_prb/compressed - dsc07376_680_213.jpg','images/resized/images/slide_prb/compressed - dsc07465_680_213.jpg','images/resized/images/slide_prb/dscf0095_680_213.jpg','images/resized/images/slide_prb/dscf0100_680_213.jpg','images/resized/images/slide_prb/ffggc5_680_213.png','images/resized/images/slide_prb/gub kaliputih-1_680_213.jpg','images/resized/images/slide_prb/gub relawan-1_680_213.jpg','images/resized/images/slide_prb/gubsambungrasa-1_680_213.jpg','images/resized/images/slide_prb/img-20131229-00500_680_213.jpg','images/resized/images/slide_prb/img_3909_680_213.jpg','images/resized/images/slide_prb/img_685_680_213.jpg','images/resized/images/slide_prb/img_6870_680_213.jpg','images/resized/images/slide_prb/img_68805_680_213.jpg','images/resized/images/slide_prb/img_9894-edit_680_213.jpg','images/resized/images/slide_prb/kunjungan- bnpb -kebumen _680_213.jpg','images/resized/images/slide_prb/kutoarjo-purworejo_680_213.jpg','images/resized/images/slide_prb/longsor talud gelis kuduss_680_213.jpg','images/resized/images/slide_prb/ngaliyan-kota-semarang_680_213.jpg','images/resized/images/slide_prb/presiden ri_680_213.jpg','images/resized/images/slide_prb/screen-shot-2013-08-27-at-08-11-07-22j4yol1_680_213.png','images/resized/images/slide_prb/sit 1_680_213.jpg','images/resized/images/slide_prb/terminal kudus_680_213.jpg'],
+				thumbnails: ['images/resized/images/slide_prb/1_100_100.jpg','images/resized/images/slide_prb/135458_ganjarbanjir_100_100.jpg','images/resized/images/slide_prb/16_100_100.png','images/resized/images/slide_prb/16049_550778688270249_92861249_n_100_100.jpg','images/resized/images/slide_prb/18_100_100.png','images/resized/images/slide_prb/2_100_100.jpg','images/resized/images/slide_prb/23434_100_100.jpg','images/resized/images/slide_prb/24 01 2014 gub tinjau banjir di welahan jepara (1)_100_100.jpg','images/resized/images/slide_prb/24 01 2014 gub tinjau banjir di welahan jepara (3)-compressed_100_100.jpg','images/resized/images/slide_prb/3_100_100.jpg','images/resized/images/slide_prb/34_100_100.png','images/resized/images/slide_prb/55555_100_100.jpg','images/resized/images/slide_prb/cn3koycue_ma_100_100.jpg','images/resized/images/slide_prb/cpjj9rcwwaaquf2_100_100.jpg','images/resized/images/slide_prb/dsc00094_100_100.jpg','images/resized/images/slide_prb/gub mengajar_100_100.png','images/resized/images/slide_prb/gub mengajar2_100_100.png','images/resized/images/slide_prb/gub_100_100.jpg','images/resized/images/slide_prb/gub2_100_100.jpg','images/resized/images/slide_prb/img_0050_100_100.jpg','images/resized/images/slide_prb/img_0115_100_100.jpg','images/resized/images/slide_prb/img_0146_100_100.jpg','images/resized/images/slide_prb/img_0529_100_100.jpg','images/resized/images/slide_prb/img_0839_100_100.jpg','images/resized/images/slide_prb/img_1147_100_100.jpg','images/resized/images/slide_prb/img_20141208_161558_100_100.jpg','images/resized/images/slide_prb/img_20141208_161644_100_100.jpg','images/resized/images/slide_prb/img_20141208_161725_100_100.jpg','images/resized/images/slide_prb/img_20141208_161744_100_100.jpg','images/resized/images/slide_prb/img_20141208_161838_100_100.jpg','images/resized/images/slide_prb/img_20141208_161912_100_100.jpg','images/resized/images/slide_prb/img_20141208_161944_100_100.jpg','images/resized/images/slide_prb/pengecilan_pigura tambahan kpk_53 x 33 cm_100_100.jpg','images/resized/images/slide_prb/pengecilan_pigura tambahan_mboten korupsi_53 x 33 cm_100_100.jpg','images/resized/images/slide_prb/relokasi 2_100_100.png','images/resized/images/slide_prb/relokasi_100_100.png','images/resized/images/slide_prb/resik2 2_100_100.png','images/resized/images/slide_prb/resik2_100_100.png','images/resized/images/slide_prb/_mg_0027_100_100.jpg','images/resized/images/slide_prb/_mg_0073_100_100.jpg','images/resized/images/slide_prb/_mg_3558_100_100.jpg','images/resized/images/slide_prb/_mg_3591_100_100.jpg','images/resized/images/slide_prb/_mg_36481_100_100.jpg','images/resized/images/slide_prb/cepogo1_100_100.jpg','images/resized/images/slide_prb/compressed - dsc07376_100_100.jpg','images/resized/images/slide_prb/compressed - dsc07465_100_100.jpg','images/resized/images/slide_prb/dscf0095_100_100.jpg','images/resized/images/slide_prb/dscf0100_100_100.jpg','images/resized/images/slide_prb/ffggc5_100_100.png','images/resized/images/slide_prb/gub kaliputih-1_100_100.jpg','images/resized/images/slide_prb/gub relawan-1_100_100.jpg','images/resized/images/slide_prb/gubsambungrasa-1_100_100.jpg','images/resized/images/slide_prb/img-20131229-00500_100_100.jpg','images/resized/images/slide_prb/img_3909_100_100.jpg','images/resized/images/slide_prb/img_685_100_100.jpg','images/resized/images/slide_prb/img_6870_100_100.jpg','images/resized/images/slide_prb/img_68805_100_100.jpg','images/resized/images/slide_prb/img_9894-edit_100_100.jpg','images/resized/images/slide_prb/kunjungan- bnpb -kebumen _100_100.jpg','images/resized/images/slide_prb/kutoarjo-purworejo_100_100.jpg','images/resized/images/slide_prb/longsor talud gelis kuduss_100_100.jpg','images/resized/images/slide_prb/ngaliyan-kota-semarang_100_100.jpg','images/resized/images/slide_prb/presiden ri_100_100.jpg','images/resized/images/slide_prb/screen-shot-2013-08-27-at-08-11-07-22j4yol1_100_100.png','images/resized/images/slide_prb/sit 1_100_100.jpg','images/resized/images/slide_prb/terminal kudus_100_100.jpg'],
+																				duration: [2000, 5000],
+				transition: Fx.Transitions.sineInOut ,
+				navigation: '',
+				animationRepeat: 'true',
+				classes: ['prev', 'next', 'active'],
+				play : '1',
+				mouse_action: 'click'
+			});
+		//]]>
+		</script>
+
+		
+	</div>
+	<!-- END: TOPSPOTLIGHT -->
+	
+	<!-- BEGIN: CONTENT -->
+	<div id="ja-content" class="clearfix">
+
+		
+
+		<div id="ja-current-content" class="clearfix">
+		
+			<!-- BEGIN: PATHWAY -->
+			<div id="ja-pathwaywrap"><div id="ja-pathway"><div class="ja-innerpad">
+				
+			</div></div></div>
+			<!-- END: PATHWAY -->
+
+			<table class="blog" cellpadding="0" cellspacing="0">
+
+<tr>
+	<td valign="top">
+		<table width="100%"  cellpadding="0" cellspacing="0">
+		<tr>
+										<td valign="top" width="50%" class="article_column">
+				
+<table class="contentpaneopen">
+<tr>
+		<td class="contentheading" width="100%">
+					Kebakaran di Kab. Purbalingga			</td>
+	
+	
+	
+		</tr>
+</table>
+<table class="contentpaneopen">
+<tr>
+	<td>
+				<span>
+							<a href="/aktivitas-/laporan-bencana.html">						Laporan Bencana							</a>											 - 					</span>
+						<span>
+							<a href="/aktivitas-/laporan-bencana/55-kebakaran.html">						Kebakaran							</a>					</span>
+			</td>
+</tr>
+
+<tr>
+	<td width="70%"  valign="top" colspan="2">
+		<span class="small">
+			Written by Admin		</span>
+		&nbsp;&nbsp;
+	</td>
+</tr>
+
+
+
+<tr>
+<td valign="top" colspan="2">
+<p><strong>Kab. Purbalingga</strong></p>
+<p style="text-align: justify;">Terjadi Kebakaran Rumah pada tanggal 11 Agustus 2016,pukul 19.00.WIB di Desa Kalikajar Rt 02/07 Kec.Kaligondang, Kab. Purbalingga. Api sudah di padamkan oleh warga sekitar dan petugas melakukan pemadaman,dan dari pemadam kebakaran memberangkatkan 1 mobil pemadam dan 1 unit mobil tangki.</p>
+</td>
+</tr>
+
+
+<tr>
+	<td  colspan="2">
+		<a href="/aktivitas-/laporan-bencana/55-kebakaran/4037-kebakaran-di-kab-purbalingga.html" class="readon">
+			Read more...</a>
+	</td>
+</tr>
+
+</table>
+<span class="article_separator">&nbsp;</span>
+
+<table class="contentpaneopen">
+<tr>
+		<td class="contentheading" width="100%">
+					Longsor di Kab. Grobogan			</td>
+	
+	
+	
+		</tr>
+</table>
+<table class="contentpaneopen">
+<tr>
+	<td>
+				<span>
+							<a href="/aktivitas-/laporan-bencana.html">						Laporan Bencana							</a>											 - 					</span>
+						<span>
+							<a href="/aktivitas-/laporan-bencana/53-longsor.html">						Longsor							</a>					</span>
+			</td>
+</tr>
+
+<tr>
+	<td width="70%"  valign="top" colspan="2">
+		<span class="small">
+			Written by Rachmad		</span>
+		&nbsp;&nbsp;
+	</td>
+</tr>
+
+
+
+<tr>
+<td valign="top" colspan="2">
+<p><strong>Kab. Grobogan</strong></p>
+<p style="text-align: justify;">Terjadi tanah longsor pada tanggal 04 Agustus 2016 di Ds. Kunden, Kec. Wirosari, Kab. Grobogan. Longsor dikarenakan hujan dengan intensitas tinggi sehinggga mengakibatkan 7 rumah warga harus di pindahkan. kerugian ditaksir mencapai Rp. 500.000.000. BPBD telah berkoordinasi dengan PSDA dan BBWS dikarenakan rumah warga berada di pinggi sungai.</p>
+</td>
+</tr>
+
+
+<tr>
+	<td  colspan="2">
+		<a href="/aktivitas-/laporan-bencana/53-longsor/4035-longsor-di-kab-grobogan.html" class="readon">
+			Read more...</a>
+	</td>
+</tr>
+
+</table>
+<span class="article_separator">&nbsp;</span>
+
+<table class="contentpaneopen">
+<tr>
+		<td class="contentheading" width="100%">
+					Banjir di Kab. Magelang			</td>
+	
+	
+	
+		</tr>
+</table>
+<table class="contentpaneopen">
+<tr>
+	<td>
+				<span>
+							<a href="/aktivitas-/laporan-bencana.html">						Laporan Bencana							</a>											 - 					</span>
+						<span>
+							<a href="/aktivitas-/laporan-bencana/54-banjir.html">						Banjir							</a>					</span>
+			</td>
+</tr>
+
+<tr>
+	<td width="70%"  valign="top" colspan="2">
+		<span class="small">
+			Written by Rachmad		</span>
+		&nbsp;&nbsp;
+	</td>
+</tr>
+
+
+
+<tr>
+<td valign="top" colspan="2">
+<p><strong>Kab. Magelang</strong></p>
+<p style="text-align: justify;">Terjadi Jembatan amblas pada hari Minggu, 07 Agustus 2016, pukul 00.30 WI. Jembatan Kalibelik (Dusun Citro Dukuh, Ds. Kalijoso, Kec. Secang). Jembatan amblas dikarenakan banjir. Kerugian ditaksir mencapai Rp 500.000.000.  Hujan Di wlayah Kecamatan Secang dan Windusari sejak siang sampai malam hari  sehingga Sungai Progo dan Kalibelik mengalami banjir besar menyebabkan tanah labil tergerus air mengakibatkan Jembatan Kalibelik amblas dan putus.BPBD Kab. Magelang melakukan Survey lokasi dan</p>
+</td>
+</tr>
+
+
+<tr>
+	<td  colspan="2">
+		<a href="/aktivitas-/laporan-bencana/54-banjir/4033-banjir-di-kab-magelang.html" class="readon">
+			Read more...</a>
+	</td>
+</tr>
+
+</table>
+<span class="article_separator">&nbsp;</span>
+
+<table class="contentpaneopen">
+<tr>
+		<td class="contentheading" width="100%">
+					Kebakaran di Kab. Kudus			</td>
+	
+	
+	
+		</tr>
+</table>
+<table class="contentpaneopen">
+<tr>
+	<td>
+				<span>
+							<a href="/aktivitas-/laporan-bencana.html">						Laporan Bencana							</a>											 - 					</span>
+						<span>
+							<a href="/aktivitas-/laporan-bencana/55-kebakaran.html">						Kebakaran							</a>					</span>
+			</td>
+</tr>
+
+<tr>
+	<td width="70%"  valign="top" colspan="2">
+		<span class="small">
+			Written by Admin		</span>
+		&nbsp;&nbsp;
+	</td>
+</tr>
+
+
+
+<tr>
+<td valign="top" colspan="2">
+<p><strong>Kab. Kudus</strong></p>
+<p style="text-align: justify;">Pada hari kamis 04 Agustus 2016 telah terjadi Kebakaran kelas SMU Hasyim Ashari, kec.Mlati Kidul, pukul 15.00.WIB. satu ruang kelas (ruang tidak digunakan untuk kelas. BPBD bersama warga melakukan pemadaman, kerugian ditaksir mencapai Rp.50.000.000.</p>
+</td>
+</tr>
+
+
+<tr>
+	<td  colspan="2">
+		<a href="/aktivitas-/laporan-bencana/55-kebakaran/4031-kebakaran-di-kab-kudus.html" class="readon">
+			Read more...</a>
+	</td>
+</tr>
+
+</table>
+<span class="article_separator">&nbsp;</span>
+</td>
+														<td valign="top" width="50%" class="article_column column_separator">
+				
+<table class="contentpaneopen">
+<tr>
+		<td class="contentheading" width="100%">
+					Kebakaran Kab. Pati			</td>
+	
+	
+	
+		</tr>
+</table>
+<table class="contentpaneopen">
+<tr>
+	<td>
+				<span>
+							<a href="/aktivitas-/laporan-bencana.html">						Laporan Bencana							</a>											 - 					</span>
+						<span>
+							<a href="/aktivitas-/laporan-bencana/55-kebakaran.html">						Kebakaran							</a>					</span>
+			</td>
+</tr>
+
+<tr>
+	<td width="70%"  valign="top" colspan="2">
+		<span class="small">
+			Written by Admin		</span>
+		&nbsp;&nbsp;
+	</td>
+</tr>
+
+
+
+<tr>
+<td valign="top" colspan="2">
+<p><strong>Kab. Pati</strong></p>
+<p style="text-align: justify;">Pada hari Senin 09 Agustus 2016, pukul 03.05.WIB terjadi kebakaran  di Ds. sambiroto rt 09/1, Kec.Tayu, Kab. Pati kebakaran menimpa dapur dengan ukuran 4x5 m milik Bapak kasturi. Kebakaran disebabkan arus pendek listrik, kerugian ditaksir mencapai Rp 15.000.000. BPBD Kab. Pati telah melakukan assessment pada lokasi kejadian bencana.</p>
+</td>
+</tr>
+
+
+<tr>
+	<td  colspan="2">
+		<a href="/aktivitas-/laporan-bencana/55-kebakaran/4036-kebakaran-kab-pati.html" class="readon">
+			Read more...</a>
+	</td>
+</tr>
+
+</table>
+<span class="article_separator">&nbsp;</span>
+
+<table class="contentpaneopen">
+<tr>
+		<td class="contentheading" width="100%">
+					Banjir di Kab. Magelang			</td>
+	
+	
+	
+		</tr>
+</table>
+<table class="contentpaneopen">
+<tr>
+	<td>
+				<span>
+							<a href="/aktivitas-/laporan-bencana.html">						Laporan Bencana							</a>											 - 					</span>
+						<span>
+							<a href="/aktivitas-/laporan-bencana/54-banjir.html">						Banjir							</a>					</span>
+			</td>
+</tr>
+
+<tr>
+	<td width="70%"  valign="top" colspan="2">
+		<span class="small">
+			Written by Rachmad		</span>
+		&nbsp;&nbsp;
+	</td>
+</tr>
+
+
+
+<tr>
+<td valign="top" colspan="2">
+<p><strong>Kab. Magelang</strong></p>
+<p style="text-align: justify;">Terjadi Banjir pada hari Sabtu, 06 Agustus 2016, pukul 16.00 WIB di Dsn. Sidosari, Dsn. Krajan 1 RT 17 RW 05), Dsn. Kauman. Kelurahan Secang, Kecamatan Secang. Banjir dikarenakan tersumbatnya saluran irigasi. Akibat kejadian tersebuy badan jalan tergerus sepanjang ± 70 m dan ada titik longsor panjang 5 m tinggi 5 m; dan menggenangi beberapa rumah penduduk:</p>
+</td>
+</tr>
+
+
+<tr>
+	<td  colspan="2">
+		<a href="/aktivitas-/laporan-bencana/54-banjir/4034-banjir-di-kab-magelang.html" class="readon">
+			Read more...</a>
+	</td>
+</tr>
+
+</table>
+<span class="article_separator">&nbsp;</span>
+
+<table class="contentpaneopen">
+<tr>
+		<td class="contentheading" width="100%">
+					Kebakaran di Kab. Banyumas			</td>
+	
+	
+	
+		</tr>
+</table>
+<table class="contentpaneopen">
+<tr>
+	<td>
+				<span>
+							<a href="/aktivitas-/laporan-bencana.html">						Laporan Bencana							</a>											 - 					</span>
+						<span>
+							<a href="/aktivitas-/laporan-bencana/55-kebakaran.html">						Kebakaran							</a>					</span>
+			</td>
+</tr>
+
+<tr>
+	<td width="70%"  valign="top" colspan="2">
+		<span class="small">
+			Written by Admin		</span>
+		&nbsp;&nbsp;
+	</td>
+</tr>
+
+
+
+<tr>
+<td valign="top" colspan="2">
+<p><strong>Kab. Banyumas</strong></p>
+<p style="text-align: justify;">Terjadi kebakaran rumah pada hari jumat 05 Agustus 2016, pukul 10.00 WIB di rt 05 rw 02 Desa Srowot, Kec. Kalibagor, Kab. Banyumas. Kebakaran dikarenakan api sisa bakaran sampah merembet kerumah. Damkar mengirimkan 2 armada mobil damkar, Api dapat dipadamkan kurang lebih pukul 10.45 WIB. Akibat kejadian tersebut 1 rumah rusak berat dan 1 kk menungsi. Kerugian ditaksir kurang lebih Rp.50.000.000.</p>
+</td>
+</tr>
+
+
+<tr>
+	<td  colspan="2">
+		<a href="/aktivitas-/laporan-bencana/55-kebakaran/4032-kebakaran-di-kab-banyumas.html" class="readon">
+			Read more...</a>
+	</td>
+</tr>
+
+</table>
+<span class="article_separator">&nbsp;</span>
+
+<table class="contentpaneopen">
+<tr>
+		<td class="contentheading" width="100%">
+					Kebakaran di Kab Tegal			</td>
+	
+	
+	
+		</tr>
+</table>
+<table class="contentpaneopen">
+<tr>
+	<td>
+				<span>
+							<a href="/aktivitas-/laporan-bencana.html">						Laporan Bencana							</a>											 - 					</span>
+						<span>
+							<a href="/aktivitas-/laporan-bencana/55-kebakaran.html">						Kebakaran							</a>					</span>
+			</td>
+</tr>
+
+<tr>
+	<td width="70%"  valign="top" colspan="2">
+		<span class="small">
+			Written by Admin		</span>
+		&nbsp;&nbsp;
+	</td>
+</tr>
+
+
+
+<tr>
+<td valign="top" colspan="2">
+<p><strong>Kab. Tegal</strong></p>
+<p style="text-align: justify;">Telah terjadi kebakaran pada hari Rabu 03 Agustus 2016 di RT. 05 RT.03 Desa Muncanglarang, Kec.Bumijawa, Kab.Tegal dengan jumlah rumah kebakaran sebanyak 1 buah rumah milik Bpk. Anwar dengan kerugian sekitar 30 juta rupiah. Keadaan rumah hangus ludes tinggal abu. Penyebab kebakaran masih dalam penyelidikan. BPBD Kab.Tegal memberikan bantuan berupa logistik/sembako dan material berupa triplek, seng yg diserahkan kira2 pukul 16.30 WIB yg disaksikan oleh Kades Muncanglarang.</p>
+</td>
+</tr>
+
+
+<tr>
+	<td  colspan="2">
+		<a href="/aktivitas-/laporan-bencana/55-kebakaran/4030-kebakaran-di-kab-tegal.html" class="readon">
+			Read more...</a>
+	</td>
+</tr>
+
+</table>
+<span class="article_separator">&nbsp;</span>
+</td>
+								
+		</tr>
+		</table>
+	</td>
+</tr>
+
+<tr>
+	<td valign="top" align="center">
+		<ul class="pagination"><li>&laquo;</li><li>&nbsp;<span>Start</span>&nbsp;</li><li>&nbsp;<span>Prev</span>&nbsp;</li><li>&nbsp;<span>1</span>&nbsp;</li><li>&nbsp;<strong><a href="/index.php?start=8" title="2">2</a></strong>&nbsp;</li><li>&nbsp;<strong><a href="/index.php?start=16" title="3">3</a></strong>&nbsp;</li><li>&nbsp;<strong><a href="/index.php?start=24" title="4">4</a></strong>&nbsp;</li><li>&nbsp;<strong><a href="/index.php?start=32" title="5">5</a></strong>&nbsp;</li><li>&nbsp;<strong><a href="/index.php?start=40" title="6">6</a></strong>&nbsp;</li><li>&nbsp;<strong><a href="/index.php?start=48" title="7">7</a></strong>&nbsp;</li><li>&nbsp;<strong><a href="/index.php?start=56" title="8">8</a></strong>&nbsp;</li><li>&nbsp;<strong><a href="/index.php?start=64" title="9">9</a></strong>&nbsp;</li><li>&nbsp;<strong><a href="/index.php?start=72" title="10">10</a></strong>&nbsp;</li><li>&nbsp;<strong><a href="/index.php?start=8" title="Next">Next</a></strong>&nbsp;</li><li>&nbsp;<strong><a href="/index.php?start=2856" title="End">End</a></strong>&nbsp;</li><li>&raquo;</li></ul>		<br /><br />
+	</td>
+</tr>
+<tr>
+	<td valign="top" align="center">
+		Page 1 of 358	</td>
+</tr>
+</table>
+
+	
+			
+		</div>
+
+	</div>
+	<!-- END: CONTENT -->
+
+  		
+	</div>
+		
+		<!-- BEGIN: RIGHT COLUMN -->
+	<div id="ja-col2"><div id="ja-col2-top"><div id="ja-col2-bot" class="clearfix">
+
+			
+				<div class="moduletable">
+					<form action="index.php" method="post">
+	<div class="search">
+		<input name="searchword" id="mod_search_searchword" maxlength="25" alt="Search" class="inputbox" type="text" size="25" value="search..."  onblur="if(this.value=='') this.value='search...';" onfocus="if(this.value=='search...') this.value='';" />	</div>
+	<input type="hidden" name="task"   value="search" />
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="1" />
+</form>		</div>
+			<div class="moduletable">
+					<h3>NO. TLP POSKO</h3>
+					<p><a href="https://www.dropbox.com/s/3pf35puyvmv62an/upload1_NOMOR%20TELEPON%20POSKO%202015.doc?dl=0" target="_blank"><img src="http://i1244.photobucket.com/albums/gg576/poskoaju/NO.%20TLP%20POSKO_zpsjlpfpkhb.png" border="0" width="190" height="80" style="border: 0px none;" /></a></p>		</div>
+			<div class="moduletable">
+					<h3>Pemohon Informasi 2015</h3>
+					<p><a href="https://www.dropbox.com/s/gojvwm1q4m4ugyq/DAFTAR%20JUMLAH%20PEMOHON%20INFORMASI%202015.pdf?dl=0" target="_blank"><img src="http://i1244.photobucket.com/albums/gg576/poskoaju/INFORMASI%20DATA_zpskk2mejf7.png" border="0" alt="lapor_gub" width="180" height="100" /><br /> </a></p>		</div>
+			<div class="moduletable">
+					<h3>Pengaduan Masyarakat</h3>
+					<p><a href="http://laporgub.jatengprov.go.id" target="_blank"><img src="/images/support/lapor_gub.png" border="0" alt="lapor_gub" width="180" height="54" /><br /> </a></p>
+<p><a href="http://www.emailmeform.com/builder/form/TIf8DHn3Qp3b3K" target="_blank"><img src="/images/support/komplain.png" border="0" alt="komplain" width="180" height="63" /><br /> </a></p>
+<p><a href="http://www.emailmeform.com/builder/form/Ff83G9HV36Cdg5bqZbcelx" target="_blank"><img src="/images/support/lap_masy.png" border="0" alt="lapor_gub" width="180" height="68" /><br /> </a></p>
+<p><a href="https://web.whatsapp.com/" target="_blank"><img src="http://i1244.photobucket.com/albums/gg576/poskoaju/23345_zpsnnjbyobg.png" border="0" width="180" height="70" /></a></p>
+<p><a href="http://birohumas.jatengprov.go.id/sms-tickets/" target="_blank"><img src="http://birohumas.jatengprov.go.id/sites/default/files/imageblock/sms%20center%20jateng%20copy.png" border="0" width="180" height="70" style="border: 0px none;" /></a></p>
+<p><a href="https://www.dropbox.com/s/ng8pqoycwee0vwq/twitter%20BPBD.xlsx?dl=0" target="_blank"><img src="http://i1244.photobucket.com/albums/gg576/poskoaju/Untitled_zpsbqarfygb.png" border="0" width="180" height="70" style="border: 0px none;" /></a></p>
+<p><a href="https://www.facebook.com/BPBDJATENG/" target="_blank"><img src="http://i1244.photobucket.com/albums/gg576/poskoaju/CaraPromosiDiFacebook2_zpskcs89pfa.png" border="0" width="180" height="70" /></a></p>
+<p><a href="https://www.instagram.com/bpbdjateng/" target="_blank"><img src="http://i1244.photobucket.com/albums/gg576/poskoaju/Instagram-Logo_zpsiwckkvxj.jpg" border="0" width="180" height="70" /></a></p>
+<p><a href="https://www.youtube.com/c/bpbdprovjateng" target="_blank"><img src="http://i1244.photobucket.com/albums/gg576/poskoaju/_87772655_87772653_zpsexdfnjcn.jpg" border="0" width="180" height="70" /></a></p>		</div>
+			<div class="moduletable">
+					<h3>Informasi Publik</h3>
+					<p><a href="http://www.bpbdjateng.info/aktivitas-/jumlah-pns/1224-no-tlp-bpbd-daerah.html"><img src="http://i1244.photobucket.com/albums/gg576/poskoaju/tlp_zps6891d208.png" border="0" width="180" height="70" /></a></p>
+<p><a href="/aktivitas-/jumlah-pns/2478-disaster-recent-updates.html"><img src="data:ZZZZZZZZZZZZZZZZZZZZZZZZ;base64,Qk3uoQAAAAAAADYAAAAoAAAAxwAAAEUAAAABABgAAAAAALihAAAAAAAAAAAAAAAAAAAAAAAAK37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+AAAAK37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+AAAAK37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+AAAAK37+K37+K37+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////TkycEQ2ADQl+CAB+AAB5AAB5JiOEf36zzs3j////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+////////////////////////////////////////////////////////////////////////////////9PT5aWesAABu9/f7////////////////////////////////////RkSTEg6AEQ2AEQ2AEQ2AEQ2AEQ2ACAB+AAB5qajP/Pz+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+////////////////////////////////////////////////////////////////////////6ej0TkycAAB5EQ2AEQ2AAAB3////////////////////////////////////////JiOEEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2ADQl+AAB5fXuy////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+/////////////////////////////////////////////////////////////Pz+aWesAAB3EQ2AEQ2AEQ2AEQ2AEQ2AEQ2ADQl+dHOp////////////////////////////////////3t3txMPfoJ/HWFSgAAB3EQ2AEQ2AEQ2AEQ2AEQ2AEQ2AAAB0tLLX////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+////////////////////////////////////////////////////////////AAB3EQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AdHOp////////////////////////////////////////////////9/f7ODaNEQ2AEQ2AEQ2AEQ2AEQ2AEQ2ADAh9qajP////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+////////////////////////////////////////////////////3t3tAAB5EQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2ADQl+AAB7CAB+EQ2AcnCt////////////////////////////////////////////////////AAB3EQ2AEQ2AEQ2AEQ2AEQ2AEQ2ADQl+ODaN////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+/////////////////////////////////////////////Pz+AAB5EQ2AEQ2AEQ2AEQ2AEQ2ADQl+YV6l////NDKMEg6A////////HRuAEQ2AEQ2AXVub////////////////////////9/f7xMPf////////////////////YV6lDQl+EQ2AEQ2AEQ2AEQ2AEQ2AEQ2ADAh9YV6l////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+////////////////////////////////////////////AAB0EQ2AEQ2AEQ2AEQ2AEQ2ACAB+j469////qajPAAB3////////YmGhEQ2AEQ2AAAB7AAB7W1mn////////////////////////xMPf////////////////////////lZPAAAB0EQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AYV6l////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+/////////////////////////////////////Pz+AAB0Eg6AEQ2AEQ2AEQ2AEQ2AAAB5xMPf////uLfVAAB0xMPf////YV6lEQ2AAAB5lZLI////dHOpAAB73t3t////////////////////////TEef////////////////////////////nJrKAAB5EQ2AEQ2AEQ2AEQ2AEQ2AEQ2ATkyc////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+////////////////////////////////////AAB7EQ2AEQ2AEQ2AEQ2AEQ2AAAB5xMPf////zs3jAABxxMPf////TkycEQ2AAAB0zs3j////////AAB7EQ2AcnCt////////////////////////lZLI////////////////////////////////////fXuyEQ2AEQ2AEQ2AEQ2AEQ2ADQl+/Pz+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+////////////////////////////////dHOpEQ2AEQ2AEQ2AEQ2AEQ2AAAB3////////dHOpAABx////////WFSgAAB3xMPf////////REGcAAB53t3t////NDKM7u72////////////////////uLfT7u72////////////////////WFSgAABxRkST6ej0////XVubEg6AEQ2AEQ2AEQ2AAAB51NPm////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+////////////////////////////3t3tCAB+EQ2AEQ2AEQ2AAAB7AAB51NPm////////9/f7/Pz+////TkycAAB09/f7////////Eg6AAABu1NPm////3t3tAAB7aWes////////////////////REGc////////////////////////////5eXxMS2UAABuqaXS////AABxEQ2AEQ2AEQ2AEQ2AAABx////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+/////////////////////////Pz+AAB3EQ2AEQ2ADAh9QD+N3t3t////////////////////////zs3jYmGh/Pz+////xMPfAABuXVub////////xMPfAAB5EQ2AAABu////////////////xMPffHm5////////////////////hYO9uLfV////////9/f7AAB0AAB3EQ2AEQ2AEQ2AEQ2AEQ2AAAB7////////////////////////////////////////nOv/J3//J3//J3//J3//J3//eH//////eNb/J3//J3//J3//J3//Un//J5X/J3//J3//J3//J3//nJX/eNb/J3//J3//J3//J3//J3//38H/////////vv//J3//J3//J3//J3//nJX/////////////nOv/J3//J3//J3//J3//J3//vqv/////////vv//J3//J3//J3//J3//J3//vsH/J5X/J3//J3//J3//J3//vtb/J3//J3//J3//J3//J3//38H/////nOv/J3//J3//J3//vqv/////UsH/J3//J3//vqv/////////////J6v/J3//J3//J3//Un///+v/nOv/J3//J3//J3//J3//J3//vqv/////////vv//J3//J3//J3//J3//nJX/////////////eNb/J3//J3//J3//J3//Un//J5X/J3//J3//J3//J3//nJX/////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+////////////////////////AAB3EQ2AEQ2AJiOE////////////////////////////////////////////9/f7AABuhYO9////////////cnCtEg6AEQ2AEQ2AEg6AXVub////////////1NPm9/f7////////////////////////fXuyAAB7AAB04uHu////////cW+wAAB5EQ2AEQ2AAAB5/Pz+////////////////////////////////////////nOv/J3//J3//J3//J3//J3//eH//////eNb/J3//J3//J3//J3//Un//J5X/J3//J3//J3//J3//nJX/eNb/J3//J3//J3//J3//J3//38H/////eNb/J3//J3//J3//J3//J3//J3//Un///+v/////nOv/J3//J3//J3//J3//J3//vqv/////////vv//J3//J3//J3//J3//J3//vsH/J5X/J3//J3//J3//J3//vtb/J3//J3//J3//J3//J3//38H/vv//J3//J3//J3//J3//J3//J3//J3//J3//J3//vqv/////3///J5X/J3//J3//J3//J3//J3//38H/nOv/J3//J3//J3//J3//J3//vqv/////eNb/J3//J3//J3//J3//J3//J3//Un///+v/////eNb/J3//J3//J3//J3//Un//J5X/J3//J3//J3//J3//nJX/////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+////////////////////qaXSDQl+EQ2AEQ2A////////////////////////////////////////////////3t3t6ej0////////9PT5Eg6ADQl+EQ2AEQ2AEQ2AEQ2AAAB53t3t////////////fHm5////////////9/f7dHOp////////uLfVAAB0AAB7qafM////////5eXxAAB7EQ2Aj469////////////////////////////////////////////////////UsH/J3//J3//38H/////////////vv//J3//J3//eH//////////UsH/J3//J3//38H/////////vv//J3//J3//Un///+v/////vv//J3//J3//Un///+v/////UsH/J3//J3//nJX/////////3///J5X/J3//J3///9b/////////////////////J6v/J3//J3///9b/////3///J5X/J3//J3///9b/////vv//J3//J3//Un///+v/////eNb/J3//J3//nJX/////3///J5X/J3//J3///9b/////////vv//J3//J3//J3///9b/////////3+v/////3///J5X/J3//J3///9b/////vv//J3//J3//Un///+v/////UsH/J3//J3//nJX/////////vv//J3//J3//eH//////////UsH/J3//J3//38H/////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+////////////////////AAB5EQ2AEQ2AAAB5////////////////////////////////////////////////////////////lZPAAAB0EQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AAABx9PT5////////////AACB/Pz+////////TkycAAB08fH4////////RkSTEQ2AAABxZmOv5eXxAAB0EQ2A////////////////////////////////////////////////////////UsH/J3//J3//38H/////////////vv//J3//J3//eH//////////UsH/J3//J3//38H/////////vv//J3//J3//eH//////////eNb/J3//J3//vqv/////////vv//J3//J3//Un///+v/////3///J5X/J3//Un///+v/////////////////////J6v/J3//J3///9b/////3///J5X/J3//J3///9b/////vv//J3//J3//Un///+v/////nOv/J3//J3//Un///+v/3///J5X/J3//Un///+v/////////vv//J3//J3//eH//////////////////////3///J5X/J3//J3///9b/////eNb/J3//J3//vqv/////////vv//J3//J3//Un///+v/////vv//J3//J3//eH//////////UsH/J3//J3//38H/////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+////////////////cW+wEQ2AEQ2AAAB7zs3j////////////qaXSW1mnTEefRkST////////////////////////WFSgAAB7DQl+AAB0AABuAABxEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2A6ej0////////////AAB0HRuA/////////Pz+AAB0HRuA////////3t3tAABxEg6AEQ2AEQ2AAACB////////////////////////////////////////////////////////UsH/J3//J3//38H/////////////vv//J3//J3//eH//////////UsH/J3//J3//38H/////////vv//J3//J3//eH//////////UsH/J3//J3//vqv/////////3///J5X/J3//Un///+v/////3///J5X/J3//Un///+v/////////////////////J6v/J3//J3///9b/////3///J5X/J3//J3///9b/////vv//J3//J3//Un///+v/////////J6v/J3//J3//J3//J3//J3//J3//Un///+v/////////vv//J3//J3//eH//////////////////////3///J5X/J3//J3///9b/////UsH/J3//J3//vqv/////////3///J5X/J3//Un///+v/////vv//J3//J3//eH//////////UsH/J3//J3//38H/////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+////////////////AAB3DQl+AAB7nJrK////////8fH43t3t////////////////qafMtLLX////////////oJ/HAAB5AAB7tLLX////////////AAB5EQ2AEQ2AEQ2AEQ2AEQ2AEQ2AAAB35eXx////uLfVQD+NEQ2ARkST////////////YmGhAAB0lZPA////////JiOHEQ2AAAB71NPm////////////////////////////////////////////////////////UsH/J3//J3//38H/////////////vv//J3//J3//eH//////////UsH/J3//J3//38H/////////vv//J3//J3//eH//////////eNb/J3//J3//vqv/////////3///J5X/J3//Un///+v/////3///J5X/J3//Un///+v/////////////////////J6v/J3//J3///9b/////3///J5X/J3//J3///9b/////vv//J3//J3//Un///+v/////////////////J6v/J3//J3//J3//J3//Un///+v/////////vv//J3//J3//eH//////////////////////3///J5X/J3//J3///9b/////eNb/J3//J3//vqv/////////3///J5X/J3//Un///+v/////vv//J3//J3//eH//////////UsH/J3//J3//38H/////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+////////////xMPfAABuuLfV////////////////////////////////////////////qajPODaNlZLIZmOv7u729/f7zs3j////////////////uLfTDQl+EQ2AEQ2AEQ2AEQ2AEQ2AEQ2AAAB0////////////QD+NEQ2AAAB0////////////qajPAAB0j469////9PT5AAB5JiOE////////////////////////////////////////////////////////////UsH/J3//J3//38H/////////eNb/J3//J3//J3//J3//38H/////J6v/J3//J3//38H/////////vv//J3//J3//eH//////////vv//J3//J3//Un///+v/////UsH/J3//J3//nJX/////////3///J5X/J3//Un///+v/eNb/J3///9b/vv//J3//J3//J3//J3//nJX/////3///J5X/J3//J3//vqv/////vv//J3//J3//Un///+v/////////J6v/J3//nJX/////3///J5X/J3//Un///+v/////////vv//J3//J3//eH//////////////////nOv/J3//J3//J3//J3///9b/////vv//J3//J3//Un///+v/////UsH/J3//J3//nJX/////eNb/J3//J3//J3//J3//38H/////J6v/J3//J3//38H/////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+////////////////////////////////////////////////////////////////////////////////////////////////oJ/HQD+NAAB7AAB3EQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AAAB37u72////////DQl+EQ2AEQ2AAAB33t3t////////AAB7DQl+AAB5AAB0////////////////////////////////f36z////////////////////////////UsH/J3//J3//38H/////////eNb/J3//J3//J3//J3//J3//J3//J3//J3//J3///9b/////eNb/J3//J3//J3//J3//J3//38H/////eNb/J3//J3//J3//J3//J3//J3//Un///+v/////nOv/J3//J3//J3//J3//J3//J3//J3//vqv/vv//J3//J3//J3//J3//J3//J3//J3//J3//J3//J3//J3//J3//J3//J3//J3//eH//////////////J6v/J3//J3//J3//J3//J3//J3//eH//////////eNb/J3//J3//J3//J3//J3//J3//eH//////nOv/J3//J3//J3//J3///9b/////////eNb/J3//J3//J3//J3//J3//J3//Un///+v/////eNb/J3//J3//J3//J3//J3//J3//J3//J3//J3///9b/////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+////////////////////////////////////////////////////////////////////////////////////////REGcAABxDQl+EQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AGxWK////////AAB0EQ2AEQ2AEQ2AAAB7MS2U9/f79PT5AAB5AAB03t3t////////////////////////////cW+wJiOE////////////////////////////UsH/J3//J3//38H/////////////////eNb/J3//vqv/nOv/J3//J3//J3//38H/////////eNb/J3//J3//J3//J3//J3//38H/////////vv//J3//J3//J3//J3//nJX/////////////////nOv/J3//J3//eH//eNb/J3//J3///9b/////////vv//J3//eH//3///J5X/J3//J3//Un///+v/vv//J3//J3//J3//Un///+v/////////////////eNb/J3//J3//J3//J3//nJX/////////////eNb/J3//J3//J3//J3//J3//J3//eH//////////////////J6v/J3///9b/////////////vv//J3//J3//J3//J3//nJX/////////////////////eNb/J3//vqv/nOv/J3//J3//J3//38H/////////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+////////////////////////////////////////////////////////////////////////////////uLfVAAB7EQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AAAB3/Pz+////AAB5EQ2AEQ2AEQ2AEQ2AEQ2AAAB3f36zAAB07u72////////////////////////////9PT5AAB5AAB5////////////////////////////UsH/J3//J3//38H/////////////////////////////////////////////////////////////vv//J3//J3//eH//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////eNb/J3//J3//eH//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+////////////////////////////////////////////////////////////////9/f77u72zs3jAAB5DQl+EQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AAAB0fHm5EQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2ARkST////////////////////////////////////WFSgEQ2AAAB7////////////////////////////J6v/J3//J3//38H/////////////////////////////////////////////////////////////vv//J3//J3//eH//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////eNb/J3//eH//////////////////////////J6v/J3//nJX/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+////////////////////////////////////fHm5AAB3AAB7CAB+ODaNfXuyDQl+EQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2ADAh9j469////////////////////////////////////////AAB0EQ2ADQl+////////////////////nOv/J3//J3//J3//J3//J3//eH//////////////////////////////////////////////////////////3///J5X/J3//Un///+v/UsH/J3//nJX/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////3///J5X/eH//////////////////////nOv/J3//J3//J3///9b/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+////////////////////////////4uHuNDKMEQ2AcnCtYV6lEQ2AqajP////DAh9EQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2ADQl+j469/////////////////////////////Pz+/Pz+////////AAB5EQ2AEQ2A////////////////////nOv/J3//J3//J3//J3//J3//eH//////////////////////////////////////////////////////////////eNb/J3//J3//J3//J3//J3//eH//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////J6v/J3//nJX/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+/////f39////////////////RkSTAAB7EQ2AAAB71NPm////AAB5cnCt////AAB3EQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AQD+N////////////////////////////////lZLI////////////MS2UEQ2AEQ2A////////////////////////////////////////////////////////////////////////////////////////////////////////////////nOv/J3//J3//J3//Un///+v/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+/////Pz8/Pz+dHOpAAB3EQ2AEQ2ACAB+cnCtEQ2AaWes////tLLXAAB39/f73t3tAAB7EQ2AEQ2AEQ2AEg6ADQl+EQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AAABx////////////////////////////////zs3j////////////////cnCtEQ2AEQ2A////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+////////AABpEQ2AEQ2AEQ2AEQ2AhYO9////CAB+AAB0////////AABuuLfV////HRuAEQ2AEQ2ADQl+Tkyc9PT5DQl+EQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AcW+w////////////TEef8fH49PT57u72Jh2T9/f7////////////////YV6lEQ2AEQ2A////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+/////f39AAB0EQ2AEQ2AEQ2AEQ2AAAB0////AACBDQl+1NPm////MS2UODaN////cW+wEQ2AEQ2ARkST////////CAB+EQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AAAB5////////////3t3tzs3jxMPfuLfTxMPf////////////////////////AAB7EQ2AEQ2A////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+////+/v7AAB3EQ2AEQ2AEQ2AEQ2AEQ2Aj469/Pz+AAB5Eg6A////8fH4AABu////////AAB3CAB+zs3j////////EQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AAABx////////////xMPf8fH4////////////////////////////////////YV6lEg6AEQ2AEQ2A////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+////+Pj6AAB5EQ2AEQ2AEQ2AAAB7TEefAAB5////j469AAB71NPm////HRuA////////AAB7AAB75eXx////7u72EQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2ADQl+oJ/H////1NPm4uHuAABu////////////////////////////////////7u72AAB5EQ2AEQ2AEQ2A////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+/////f3zMS2UEQ2AEQ2AEQ2ARkST////AAB3////////AABxaWes////j469////////fXuyDQl+qafM////3t3tEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AcnCt////////lZLICAB+oJ/H////////////////////////////////////RkSTEQ2AEQ2AEQ2ADQl+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+//////r8oJ/HDQl+EQ2AEQ2AAAB75eXx8fH4JiOE////6ej0AABx/////////////////Pz+AAB04uHu////9/f7EQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AcW+w////////3t3tAAB5AAB5////////9PT5////////////////////////////AAB0EQ2AEQ2AEQ2AAAB5////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+/////fb91NPmAAB7EQ2AEQ2AEQ2ACAB+////AABuzs3j////f36z////////////////////ODaN////////////EQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AAAB75eXx////1NPmAAB3Eg6AYmGh////////QD+N////9/f7zs3j////xMPf////////AAB5EQ2AEQ2AEQ2AAAB7////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+////+Pn4////AAB5EQ2AEQ2AEQ2AAAB57u72qajPAABx////////////////////////////nJrK////////////DQl+EQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AAAB0AAB5AAB7EQ2ACAB+zs3j////zs3j3t3t////GxWKj469////JiOE////zs3jDQl+EQ2AEQ2AEQ2ATkyc////////////////////////////////////////////////////////////////////////////////////////////nOv/J3//J3//J3//J3//J3//J3//J3//J3//Un///+v/////////////////nOv/J3//J3//J3//J3//J3//vqv/////J6v/eH//J6v/J3//J3//J3//nJX/////////////nOv/J3//J3//J3//vqv/////UsH/J3//J3//vqv/////J6v/eH//J6v/J3//J3//J3//nJX/////////////////////J6v/J3//J3//J3//Un///+v/////////////J6v/J3//J3//J3//Un///+v/////////nOv/J3//J3//J3//J3//J3//vqv/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+////8/rw////NDKMEQ2AEQ2AEQ2AEg6AYmGh////6ej0////////////////////////////5eXx////////////AAB7EQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AAABx////////REGc////////AABxzs3j////AAB5////hYO9EQ2AEQ2AEQ2ADQl+qajP////////////////////////////////////////////////////////////////////////////////////////////nOv/J3//J3//J3//J3//J3//J3//J3//J3//J3//J3//eH//////////////nOv/J3//J3//J3//J3//J3//vqv/eNb/J3//J3//J3//J3//J3//J3//J3//eH//////vv//J3//J3//J3//J3//J3//J3//J3//J3//J3//vqv/eNb/J3//J3//J3//J3//J3//J3//J3//eH//////////3///J5X/J3//J3//J3//J3//J3//38H/////vv//J3//J3//J3//J3//J3//J3//J3//eJX//+v/nOv/J3//J3//J3//J3//J3//vqv/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+////8fft////8fH4DAh9EQ2AEQ2AEQ2ADQl+////////////////////////////////5eXxAABp////////////AABxEQ2AEQ2AEQ2AEQ2AEQ2AoJ/HNDKMAAB7EQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AqafM////7u72AAB3////fXuyAAB5/Pz+9PT5AABu////JiOEEQ2AEQ2AEQ2AAABu////////////////////////////////////////////////////////////////////////////////////////////////////////J6v/J3//J3//38H/////////nOv/J3//J3//J3//eH//////////////3///J5X/J3//J3///9b/////eNb/J3//eH//////////////eNb/J3//J3///9b/eNb/J3//J3//nJX/////3///J5X/J3//J3///9b/////eNb/J3//eH//////////////eNb/J3//J3///9b/////vv//J3//J3//J3///9b/////////3+v/3///J5X/J3//J3//nJX/////////vv//J3//nJX/////////3///J5X/J3//J3///9b/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+////9+n/////////AAB3EQ2AEQ2AEQ2AEQ2AxMPf////////////////////////j469zs3jxMPf////////////AAB7EQ2AEQ2AEQ2AEQ2ADAh9////////4uHuAACBAAB3DQl+EQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AAAB57u72////WFSgXVub////GxWKHRuA////7u72AABx////AAB5EQ2AEQ2AEQ2AUk+l////////////////////////////////////////////////////////////////////////////////////////////////////////J6v/J3//J3//38H/////////////vv//J3//J3//J3//vqv/////////3///J5X/J3//J3///9b/////////////////vv//J3//J3//J3//J3//Un///+v/nOv/J3//J3//Un///+v/3///J5X/J3//Un///+v/////////////////vv//J3//J3//J3//J3//Un///+v/////vv//J3//J3//eH//////////////////nOv/J3//J3//eH//////////////////////////////////3///J5X/J3//Un///+v/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+/////fjx////////qafMDQl+EQ2AEQ2AEQ2ATkyc////////////////////YV6l/Pz+////////////////////AABxEQ2AEQ2AEQ2AEQ2AEg6A////////////////////tLLXcnCtAAB7AAB5AAB5DAh9EQ2AEQ2AEQ2AEQ2AAAB7////////AAB3uLfV8fH4AAB5RkST////lZPAAAB5xMPfDAh9EQ2AEQ2AAAB58fH4////////////////////////////////////////////////////////////////////////////////////////////////////////J6v/J3//J3//38H/////////////////UsH/J3//J3//eH//////////3///J5X/J3//J3///9b/////////eNb/J3//J3//J3//J3//J3//J3//38H/////////J6v/J3//J3//J3//J3//J3//J3//Un///+v/////////eNb/J3//J3//J3//J3//J3//J3//38H/////////vv//J3//J3//eH//////////////////eNb/J3//J3//J3//J3//J3//J3//J3//J3//Un///+v/////3///J5X/J3//Un///+v/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+/////fr8////////////MTCIEQ2AEQ2AEQ2AEg6A////////////////////6ej0////////////////////////AAB3EQ2AEQ2AEQ2AEQ2AEQ2ADQl+AAB33t3t9PT5xMPf////////////////////////////WFSgDQl+EQ2AcnCt////j469AABu////W1mnEQ2AnJrK////EQ2AEQ2ADQl+EQ2AEQ2ADQl+qafM////////////////////////////////////////////////////////////////////////////////////////////////////////////J6v/J3//J3//38H/////////////////nOv/J3//J3//Un///+v/////3///J5X/J3//J3///9b/////nOv/J3//J3//J3//J3//J3///9b/////////////////////////J6v/J3//J3//J3//J3//Un///+v/////nOv/J3//J3//J3//J3//J3///9b/////////////////vv//J3//J3//eH//////////////////nOv/J3//J3//J3///9b/////vv//J3//J3//eH//////////3///J5X/J3//Un///+v/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+////9//y////////////7u72DAh9EQ2AEQ2AAAB5/Pz+////////////////////////////////////////////CAB+EQ2AEQ2AEg6AEg6AEg6AEQ2AEQ2ADAh9AAB3DAh99/f7////////////////////////////lZPAAAB3lZPA////AAB5AACB////AABxDQl+xMPf////AABxEQ2AEQ2AEQ2AEQ2AAABx////////////////////////////////////////////////////////////////////////////////////////////////////////////////J6v/J3//J3//38H/////////////////nOv/J3//J3//J3///9b/nOv/J3//J3//J3//J3///9b/////eNb/J3//J3//38H/////////J6v/J3//vqv/////////J6v/J3//nJX/////3///J5X/J3//Un///+v/////eNb/J3//J3//38H/////////J6v/J3//vqv/////////vv//J3//J3//eH//////////////////3///J5X/J3//J3//vqv/////UsH/J3//J3//vqv/////////3///J5X/J3//Un///+v/eNb/J3///9b/////////////////////////////////////////////////////////////////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+////8vr5////////////////RkSTEQ2AEQ2AAAB71NPm////////////////////////////////////////9PT5AAB5DAh9MTCITkycaWesW1mnRkSTRkSTRkSTRkSTRkSTQD+NTEef5eXx////////////////////////////EQ2AAABxEg6AaWes////CAB+DQl+xMPf3t3tAAB7EQ2AEQ2AEQ2ADAh9xMPf////////////////////////////////////////////////////////////////////////////////////////////////////////////////J6v/J3//J3//38H/////////////////nOv/J3//J3//Un///+v/nOv/J3//J3//J3//J3///9b/////vv//J3//J3//J3//J3//J3//J3//J3//38H/////////J6v/J3//J3//J3//J3//J3//J3//eH//////////vv//J3//J3//J3//J3//J3//J3//J3//38H/////eNb/J3//J3//J3//J3//J3//J3//eH//////////nOv/J3//J3//J3//J3//J3//J3//Un///+v/////nOv/J3//J3//J3//J3//J3//J3//J3//vqv/////////////////////////////////////////////////////////////////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+////9vn7////////////////////JiOEEg6AEQ2AAACB////////////////////////////////////////oJ/H////////////////////////////////////////////////////////WFSgqajP/////////////////////////Pz+cW+wAAB0AABuAAB7DQl+DQl+EQ2AEQ2AEQ2AEQ2ADQl+nJrK////////////////////////////////////////////////////////////////////////////////////////////////////////////////////J6v/J3//J3//38H/////////////////UsH/J3//J3//eH//////////////////J6v/J3///9b/////////3///J5X/J3//J3//J3//UpX/J3///9b/////////////eNb/J3//J3//J3//J3//nJX/////////////////3///J5X/J3//J3//J3//UpX/J3///9b/////eNb/J3//J3//J3//J3//J3//J3//eH//////////////////J6v/J3//J3//J3//nJX/////////////////nOv/J3//J3//eH//eNb/J3//J3///9b/////////////////////////////////////////////////////////////////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+////+v39////////////////////////AAB0EQ2AEQ2AfXuy////////////////////////////////////CAB+AAB5NzeWREGcIh2MIh2MJiOHWFSgfXuylZPA4uHu////////////////uLfV////////////////////////////////////////////3t3ttLLXf36zWFSgEg6AAAB5AAB7GxWK////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////J6v/J3//J3//38H/////////////3///J5X/J3//J3//nJX/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////eNb/J3//J3//eH//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+////+/v7////////////////////////xMPfEQ2AEQ2ACAB+lZPA////////////////////////////////AAB3AAB3Ih2MNzeWUk+lcW+whYO9j469fHm5Uk+loJ/H////////////////////lZLI/////////////////////////////////////////////////////////////Pz+7u72////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////J6v/J3//J3//38H/////////3///J5X/J3//J3//Un///+v/////////////J6v/J3//nJX/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////eNb/J3//eH//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+/////Pz7////////////////////////////YmGhDQl+EQ2AEg6AAAB3////////////////////////////AABx////////////////////////////////////////////////////////////4uHufXuy////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////nOv/J3//J3//J3//J3//J3//J3//J3//J3//J3//J3//J3///9b/////////////nOv/J3//J3//J3///9b/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////3///J5X/eH//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+////+/v7////////////////////////////////YmGhEQ2AEQ2AAAB75eXx////////////////////////DQl+AAB5AABxAAB0AAB0AAB0AAB3AAB0AABxAABuAABg////////////////////////////REGc4uHu////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////nOv/J3//J3//J3//J3//J3//J3//J3//J3//J3//nJX/////////////////////////J6v/J3//nJX/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+/////Pz8////////////////////////////////////TkycDQl+CAB+zs3j////////////////////////W1mnEQ2AEQ2AAAB5AAB3AACBODaNuLfVzs3j6ej0////////////////////////////////////7u72uLfV////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+/////f39////////////////////////////////////////hYO9AAB7qafM////////////////////////qafMCAB+lZLI////////////////////////9PT54uHu3t3t////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+////////////////////////////////////////////////////////nJrK////////////////////////4uHuEQ2AJiOHTkycODaNHRuAAAB3AABuAAB0REGcuLfV9PT5////////////////////////////////////////qajPHRuAODaNcW+wxMPf////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+////////////////////////////////////////////////////////////////////////////////////////EQ2AEQ2AEQ2AEQ2AAAB7xMPf////////////////9/f73t3txMPfuLfV1NPm9PT5////////////uLfVAAB7EQ2AEQ2AEQ2AEQ2AAAB36ej0////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+////////////////////////////////////////////////////////////////////////////////////////DQl+EQ2AEQ2AEQ2AEQ2AODaNaWesTkycJiOEDAh9AAB5AAB7DAh9DQl+AAB7AAB5DAh9JiOEDAh9DQl+EQ2AEQ2AEQ2AAAB7CAB+9/f7////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+////////////////////////////////////////////////////////////////////////////////////////AAB3EQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AAAB0Tkyc3t3t////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+////////////////////////////////////////////////////////////////////////////////////////JiOEAAB5CAB+EQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2AEQ2ADQl+AAB7AAB5nJrK////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+/////////////////////////////////////////////////////////////////////////////////////////////Pz+zs3jf36zGxWKAAB5AAB0AAB7DQl+EQ2AEQ2AEQ2AAAB7AAB0AAB5REGcoJ/H3t3t////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////K37+K37+K37+AAAAK37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+AAAAK37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+AAAAK37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+K37+AAAA" border="0" width="180" height="70" /></a></p>
+<p><a href="/aktivitas-/jumlah-pns/2508-penerimaan-pegawai.html"><img src="http://i1244.photobucket.com/albums/gg576/poskoaju/penerimaan%20pegawai_zpslewusz0x.png" border="0" width="180" height="70" /></a></p>		</div>
+			<div class="moduletable">
+					<h3>DOWNLOAD</h3>
+					<p><a href="http://goo.gl/jfZp2Y" target="_blank"><img src="http://i1244.photobucket.com/albums/gg576/poskoaju/MATERI_zpsidynq2sb.png" border="0" width="177" height="68" style="vertical-align: top;" /></a></p>
+<p><a href="/component/content/article/2712.html" target="_blank"><img src="http://i1244.photobucket.com/albums/gg576/poskoaju/DOWNLOAD22_zpsratph8hw.png" border="0" width="177" height="68" style="vertical-align: middle; border: 0px none;" /></a></p>
+<p><a href="/aktivitas-/jumlah-pns/3502-format-lap-pemetaan-peralatan-pb.html" target="_blank"><img src="http://i1244.photobucket.com/albums/gg576/poskoaju/MENU%20DOWNLOAD_zpseb1agqf0.png" border="0" width="177" height="68" /></a></p>		</div>
+			<div class="moduletable">
+					<h3>Artikel Terkini</h3>
+					<ul class="latestnews">
+	<li class="latestnews">
+		<a href="/aktivitas-/laporan-bencana/55-kebakaran/4037-kebakaran-di-kab-purbalingga.html" class="latestnews">
+			Kebakaran di Kab. Purbalingga</a>
+	</li>
+	<li class="latestnews">
+		<a href="/aktivitas-/laporan-bencana/55-kebakaran/4036-kebakaran-kab-pati.html" class="latestnews">
+			Kebakaran Kab. Pati</a>
+	</li>
+	<li class="latestnews">
+		<a href="/aktivitas-/laporan-bencana/53-longsor/4035-longsor-di-kab-grobogan.html" class="latestnews">
+			Longsor di Kab. Grobogan</a>
+	</li>
+	<li class="latestnews">
+		<a href="/aktivitas-/laporan-bencana/54-banjir/4034-banjir-di-kab-magelang.html" class="latestnews">
+			Banjir di Kab. Magelang</a>
+	</li>
+	<li class="latestnews">
+		<a href="/aktivitas-/laporan-bencana/54-banjir/4033-banjir-di-kab-magelang.html" class="latestnews">
+			Banjir di Kab. Magelang</a>
+	</li>
+</ul>		</div>
+			<div class="moduletable">
+					<h3>Twitter BPBD</h3>
+					<p>
+	<a class="twitter-timeline" data-widget-id="514091462170902528" href="https://twitter.com/bpbdjateng">Tweets by @bpbdjateng</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></p>		</div>
+			<div class="moduletable">
+					<h3>Statistik</h3>
+					<!-- Histats.com  START  (standard)-->
+<script type="text/javascript">// <![CDATA[
+document.write(unescape("%3Cscript src=%27http://s10.histats.com/js15.js%27 type=%27text/javascript%27%3E%3C/script%3E"));
+// ]]></script>
+<p><a href="http://www.histats.com" target="_blank" title="hit tracker">
+<script type="text/javascript">// <![CDATA[
+try {Histats.start(1,2705664,4,605,110,55,"00011111");
+Histats.track_hits();} catch(err){};
+// ]]></script>
+</a> <noscript><a href="http://www.histats.com" target="_blank"><img  src="http://sstatic1.histats.com/0.gif?2705664&101" alt="hit tracker" border="0"></a></noscript></p>
+<!-- Histats.com  END  -->		</div>
+	
+	</div></div></div>
+	<!-- END: RIGHT COLUMN -->
+	
+</div></div>
+
+<!-- BEGIN: BOTTOM SPOTLIGHT -->
+<div id="ja-botslwrap">
+<div id="ja-botsl" class="clearfix">
+
+    <div class="ja-box-full" style="width: ;">
+				<div class="moduletable">
+					<h3>Pelayanan Informasi</h3>
+					<p><img src="http://i1244.photobucket.com/albums/gg576/poskoaju/tatacara_zps6ec69f8c.png" border="0" width="443" height="125" /> <img src="http://i1244.photobucket.com/albums/gg576/poskoaju/form2_zpsc777d9e6.png" border="0" width="443" height="125" style="border: 0px none;" /></p>		</div>
+	
+  </div>
+  
+  
+  
+    
+  
+</div></div>
+<!-- END: BOTTOM SPOTLIGHT -->
+
+<!-- BEGIN: FOOTER -->
+<div id="ja-footerwrap">
+<div id="ja-footer" class="clearfix">
+
+	
+	<a href="/index.php?format=feed&amp;type=rss">
+	<img src="/images/M_images/livemarks.png" alt="feed-image"  /> <span>Feed Entries</span></a>
+
+</div>
+</div>
+<!-- END: FOOTER -->
+
+</div>
+
+
+</body>
+
+</html>

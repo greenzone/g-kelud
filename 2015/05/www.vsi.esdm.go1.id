@@ -1,0 +1,892 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+	
+<html xmlns="http://www.w3.org/1999/xhtml" 
+   xml:lang="en-gb" lang="en-gb" >
+
+<head>
+	  <base href="http://www.vsi.esdm.go.id/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="Geologi, geologi, Geology, geology, vulkanologi, volcanology, cvghm, pvmbg, landslslide, gerakantanah" />
+  <meta name="description" content="Pusat Vulkanologi dan Mitigasi Bencana Geologi, Center for Volcanology and Geological Hazard Mitigation, Badan Geologi, Geological Agency, Departemen ESDM, Departemen Energi dan Sumber Daya Mineral, Department of Energy and Mineral Resources of Republic of Indonesia" />
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
+  <title>Kebencanaan Geologi</title>
+  <link href="/index.php?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/index.php?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <link rel="stylesheet" href="/plugins/system/jcemediabox/css/jcemediabox.css?version=1110" type="text/css" />
+  <link rel="stylesheet" href="/plugins/system/jcemediabox/themes/light/css/style.css?version=1110" type="text/css" />
+  <link rel="stylesheet" href="http://www.vsi.esdm.go.id/modules/mod_news_pro_gk4/interface/css/style.portal.mode.1.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.vsi.esdm.go.id/modules/mod_gk_news_image_1/css/style.php?text_block_width=600&amp;text_block_opacity=0.45&amp;text_block_margin=350&amp;module_width=960&amp;module_height=410&amp;thumbnail_bar=0&amp;thumbnail_width=100&amp;thumbnail_height=75&amp;thumbnail_margin=4&amp;thumbnail_border=1&amp;thumbnail_bar_position=1&amp;image_x=0&amp;image_y=0&amp;slides_count=5&amp;tick_x=645&amp;tick_y=325&amp;modid=newsimage1&amp;thumbnail_border_color_inactive=000000&amp;base_bgcolor=000000&amp;text_block_position=1&amp;text_block_height=100&amp;outter_interface=0&amp;outter_interface_width=24&amp;wrapper_border=0&amp;text_block_background=1&amp;text_block_bgcolor=000000&amp;slide_width=900&amp;slide_height=410&amp;image_x=0&amp;image_y=0&amp;interface_x=0&amp;interface_y=20" type="text/css" />
+  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="/media/system/js/caption.js"></script>
+  <script type="text/javascript" src="/plugins/system/jcemediabox/js/jcemediabox.js?version=1110"></script>
+  <script type="text/javascript" src="/plugins/system/jcemediabox/addons/twitter-src.js?version=1110"></script>
+  <script type="text/javascript" src="/plugins/system/jcemediabox/addons/twitter.js?version=1110"></script>
+  <script type="text/javascript" src="http://www.vsi.esdm.go.id/modules/mod_news_pro_gk4/interface/scripts/engine.portal.mode.1.js"></script>
+  <script type="text/javascript" src="http://www.vsi.esdm.go.id/modules/mod_news_pro_gk4/interface/scripts/engine-mootools-11.js"></script>
+  <script type="text/javascript" src="http://www.vsi.esdm.go.id/modules/mod_gk_news_image_1/js/engine_compress.js"></script>
+  <script type="text/javascript" src="http://www.vsi.esdm.go.id/modules/mod_gk_news_image_1/js/importer.php?mid=newsimage1&amp;animation_slide_speed=1000&amp;animation_interval=7500&amp;autoanimation=1&amp;animation_slide_type=2&amp;animation_text_type=0&amp;base_bgcolor=000000&amp;text_block_opacity=0.45&amp;thumbnail_width=100&amp;thumbnail_margin=4&amp;thumbnail_border=1&amp;thumbnail_border_color=FFFFFF&amp;thumbnail_border_color_inactive=000000&amp;interface_x=0&amp;interface_y=20&amp;clickable_slides=1"></script>
+  <script type="text/javascript">
+JCEMediaBox.init({popup:{width:"",height:"",legacy:1,lightbox:1,shadowbox:1,resize:1,icons:1,overlay:1,overlayopacity:0.8,overlaycolor:"#000000",fadespeed:500,scalespeed:500,hideobjects:0,scrolling:"fixed",close:2,labels:{'close':'Close','next':'Next','previous':'Previous','cancel':'Cancel','numbers':'{$current} of {$total}'},cookie_expiry:"",google_viewer:0},tooltip:{className:"tooltip",opacity:0.8,speed:150,position:"br",offsets:{x: 16, y: 16}},base:"/",imgpath:"plugins/system/jcemediabox/img",theme:"light",themecustom:"",themepath:"plugins/system/jcemediabox/themes"});
+  </script>
+
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="">
+	<meta name="author" content="">
+	<link rel="icon" href="/images/favicon.ico">
+	
+	<link href="/templates/pvg_bootstrap2016/images/favicon.ico" rel='shortcut icon'/>
+	<link href="/templates/pvg_bootstrap2016/css/bootstrap.min.css" rel="stylesheet">
+	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+	<link href="/templates/pvg_bootstrap2016/css/template.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/pvg_bootstrap2016/css/style.css" rel="stylesheet" type="text/css">
+	<link href="/templates/pvg_bootstrap2016/css/overrides.css" rel="stylesheet" type="text/css">
+
+	<script src="/templates/pvg_bootstrap2016/js/jquery.min.js"></script>
+	<script src="/templates/pvg_bootstrap2016/js/script.js"></script>
+
+		<script src="/templates/pvg_bootstrap2016/js/bootstrap.min.js"></script>
+	<script src="/templates/pvg_bootstrap2016/js/prefixfree.min.js"></script>
+	</head>
+
+<body>	
+	<div class="navbar-wrapper">
+		<nav class="navbar">
+			<div class="container">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<header>
+						<p class="kementerian">Kementerian Energi dan Sumber Daya Mineral</p>
+						<h2>Badan <strong>Geologi</strong></h2>
+						<!--<p>Pusat Vulkanologi dan Mitigasi Bencana Geologi</p>-->
+					</header>
+				</div>
+				<div id="navbar" class="navbar-collapse collapse" aria-expanded="false" style="height: 1px; padding-left:10px;">
+					<ul class="menu"><li class="item1"><a href="http://www.vsi.esdm.go.id"><span>Home</span></a></li><li class="parent item60"><a href="#"><span>Profil</span></a><ul><li class="item62"><a href="/index.php/tentang-pvmbg/fungsi"><span>Tugas dan Fungsi</span></a></li><li class="parent item63"><a href="/index.php/tentang-pvmbg/struktur-organisasi"><span>Struktur Organisasi</span></a><ul><li class="item67"><a href="/index.php/tentang-pvmbg/struktur-organisasi/bagian-tata-usaha"><span>Bagian Tata Usaha</span></a></li><li class="item68"><a href="/index.php/tentang-pvmbg/struktur-organisasi/bidang-pengamatan-dan-penyelidikan-gunungapi"><span>Bidang Mitigasi Gunungapi</span></a></li><li class="item69"><a href="/index.php/tentang-pvmbg/struktur-organisasi/bidang-mitigasi-gempa-bumi-dan-tsunami"><span>Bidang Mitigasi Gempa Bumi dan Tsunami</span></a></li><li class="item70"><a href="/index.php/tentang-pvmbg/struktur-organisasi/bidang-mitigasi-gerakan-tanah"><span>Bidang Mitigasi Gerakan Tanah</span></a></li><li class="item168"><a href="http://merapi.bgl.esdm.go.id"><span>BPPTKG</span></a></li></ul></li><li class="item61"><a href="/index.php/tentang-pvmbg/sejarah"><span>Sejarah</span></a></li><li class="item159"><a href="/index.php/tentang-pvmbg/hubungi-kami"><span>Hubungi Kami</span></a></li><li class="item184"><a href="/index.php/tentang-pvmbg/pengaduan"><span>Pengaduan</span></a></li></ul></li><li class="parent item154"><a href="#"><span>Gunungapi</span></a><ul><li class="item147"><a href="/index.php/gunungapi/data-dasar-gunungapi"><span>Data Dasar Gunungapi</span></a></li><li class="item148"><a href="/index.php/gunungapi/tentang-gunungapi"><span>Sebaran Gunungapi</span></a></li><li class="item149"><a href="/index.php/gunungapi/aktivitas-gunungapi"><span>Aktivitas Gunungapi</span></a></li><li class="item156"><a href="/index.php/gunungapi/kamera-gunungapi"><span>Kamera Gunungapi</span></a></li><li class="parent item165"><a href="http://merapi.bgl.esdm.go.id/"><span>Informasi G. Merapi</span></a><ul><li class="item169"><a href="/index.php/gunungapi/informasi-g-merapi/kamera-g-merapi"><span>Kamera G. Merapi</span></a></li></ul></li><li class="item171"><a href="http://www.vsi.esdm.go.id/galeri/index.php/Peta-Kawasan-Rawan-Bencana-Gunungapi" target="_blank"><span>Peta KRB Gunungapi</span></a></li></ul></li><li class="parent item145"><a href="#"><span>Gerakan Tanah</span></a><ul><li class="item150"><a href="/index.php/gerakan-tanah/kejadian-gerakan-tanah"><span>Kejadian Gerakan Tanah</span></a></li><li class="item153"><a href="/index.php/gerakan-tanah/peringatan-dini-gerakan-tanah"><span>Peringatan Dini Gerakan Tanah</span></a></li><li class="item163"><a href="/index.php/gerakan-tanah/rekapitulasi-kejadian-gerakan-tanah"><span>Rekapitulasi Kejadian Gerakan Tanah</span></a></li><li class="item172"><a href="http://www.vsi.esdm.go.id/galeri/index.php/Peta-Zona-Kerentanan-Gerakan-Tanah" target="_blank"><span>Peta ZKGT Gerakan Tanah</span></a></li></ul></li><li class="parent item146"><a href="#"><span>Gempabumi &amp; Tsunami</span></a><ul><li class="item151"><a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami"><span>Kejadian Gempabumi &amp; Tsunami</span></a></li><li class="item164"><a href="/index.php/gempabumi-a-tsunami/katalog-gempabumi-merusak"><span>Katalog Gempabumi Merusak</span></a></li><li class="item173"><a href="http://www.vsi.esdm.go.id/galeri/index.php/Peta-Kawasan-Rawan-Bencana-Gempa-Bumi" target="_blank"><span>Peta KRB Gempabumi</span></a></li><li class="item186"><a href="http://www.vsi.esdm.go.id/galeri/index.php/Peta-Kawasan-Rawan-Bencana-Tsunami-01" target="_blank"><span>Peta KRB Tsunami</span></a></li></ul></li><li class="parent item119"><a href="#"><span>Diseminasi Informasi</span></a><ul><li class="item152"><a href="/index.php/kegiatan-pvmbg/kegiatan-diseminasi-informasi"><span>Kegiatan DIseminasi Informasi</span></a></li><li class="item160"><a href="/index.php/kegiatan-pvmbg/foto-dan-peta" target="_blank"><span>Foto dan Peta</span></a></li><li class="item155"><a href="/index.php/kegiatan-pvmbg/download-center"><span>Download Center</span></a></li><li class="item157"><a href="http://library.vsi.esdm.go.id" target="_blank"><span>Perpustakaan</span></a></li><li class="parent item175"><a href="#"><span>Publikasi</span></a><ul><li class="item176"><a href="/publikasi/booklet_gertan/bookletgertan.html"><span>Booklet Gerakan Tanah</span></a></li><li class="item177"><a href="/publikasi/booklet_gunungapi/bookletgunungapi.html"><span>Booklet Gunungapi</span></a></li><li class="item178"><a href="/publikasi/booklet_tsunami/booklettsunami.html"><span>Booklet Gempabumi dan Tsunami</span></a></li><li class="item179"><a href="/publikasi/leaflet_gertan/leafletgertan.html"><span>Leaflet Gerakan Tanah</span></a></li><li class="item180"><a href="/publikasi/leaflet_gunungapi/leafletbahayagunungapi.html"><span>Leaflet Bahaya Gunungapi</span></a></li><li class="item181"><a href="/publikasi/leaflet_gunungapi1/leafletbahayagunungapi.html"><span>Leaflet Menghindari Bahaya Gunungapi</span></a></li><li class="item182"><a href="/publikasi/leaflet_tsunami/leaflettsunami.html"><span>Leaflet Tsunami</span></a></li></ul></li></ul></li><li class="item107"><a href="https://mail.vsi.esdm.go.id" target="_blank"><span>E-Mail</span></a></li></ul>
+				</div>
+			</div>
+		</nav>
+	</div>
+
+    
+<!-- Start Search Bar Lavel 2 -->
+	<!-- End Search Bar Level 2 -->
+
+	
+        <div id="wrapper-required-full">
+        <div class="wrapper-main" id="wrapper-required">
+            <div id="wrapper-required-left">
+                <!-- #profile --> 
+                    <div id="profile">
+        
+<div id="gk_news_image_1-newsimage1" class="gk_news_image_1_wrapper">
+		
+	<div class="gk_news_image_1_main_wrapper">
+		
+				<div class="gk_news_image_1_json"><div class="gk_news_image_1_text_datas"><div class="gk_news_image_1_news_text"><h2><a href="/index.php/gunungapi/aktivitas-gunungapi/1247" style="color:#FFFFFF;" onmouseover="this.style.color = '#CCCCCC';" onmouseout="this.style.color = '#FFFFFF'"  class="gk_news_image_title">Erupsi G. Gamalama 3 Agustus 2016</a></h2><p style="color:#ffffff;">Pada pukul 06.28 WIT terjadi erupsi tipe eksplosif lemah berupa hembusan abu berwarna putih kelabu hingga abu-abu dengan tinggi sekitar 500 - 600 meter ke arah Tenggara hingga Selatan  </p></div><div class="gk_news_image_1_news_text"><h2><a href="/index.php/kegiatan-pvmbg/kegiatan-diseminasi-informasi/1230" style="color:#FFFFFF;" onmouseover="this.style.color = '#CCCCCC';" onmouseout="this.style.color = '#FFFFFF'"  class="gk_news_image_title">Peta Peringatan Bahaya Gunungapi Dalam Rangka Kesiapsiagaan Idul Fitri 2016</a></h2><p style="color:#ffffff;">Berikut kami sampaikan Peta Peringatan Bahaya Gunungapi dalam rangka kesiapsiagaan Idul Fitri 2016  </p></div><div class="gk_news_image_1_news_text"><h2><a href="/index.php/kegiatan-pvmbg/kegiatan-diseminasi-informasi/1232" style="color:#FFFFFF;" onmouseover="this.style.color = '#CCCCCC';" onmouseout="this.style.color = '#FFFFFF'"  class="gk_news_image_title">Peta Prakiraan Wilayah Potensi Terjadi Gerakan Tanah Di Sepanjang Jalur Mudik</a></h2><p style="color:#ffffff;">Berikut kami sampaikan Peta Prakiraan Wilayah Potensi Terjadi Gerakan Tanah di Sepanjang Jalur Mudik dalam rangka kesiapsiagaan Idul Fitri 2016  </p></div><div class="gk_news_image_1_news_text"><h2><a href="/index.php/gunungapi/aktivitas-gunungapi/1219" style="color:#FFFFFF;" onmouseover="this.style.color = '#CCCCCC';" onmouseout="this.style.color = '#FFFFFF'"  class="gk_news_image_title">PENURUNAN AKTIVITAS GUNUNG KIE BESI</a></h2><p style="color:#ffffff;">Berdasarkan hasil pengamatan visual dan instrumental serta potensi bahaya letusannya, maka tingkat aktivitas G. Kie Besi diturunkan dari  WASPADA menjadi NORMAL sejak tanggal 16 Juni 2016 pukul 15.00 WIT  </p></div><div class="gk_news_image_1_news_text"><h2><a href="/index.php/gunungapi/aktivitas-gunungapi/1217" style="color:#FFFFFF;" onmouseover="this.style.color = '#CCCCCC';" onmouseout="this.style.color = '#FFFFFF'"  class="gk_news_image_title">PENURUNAN AKTIVITAS GUNUNG AWU</a></h2><p style="color:#ffffff;">Berdasarkan hasil analisis data visual, instrumental dan potensi ancaman bahayanya, maka tingkat aktivitas G. Awu diturunkan dari Siaga menjadi Waspada sejak 14 Juni 2016  </p></div></div></div>
+			
+						<span class="gk_news_image_1_slide" style="z-index:0;" title="/index.php/gunungapi/aktivitas-gunungapi/1247">http://www.vsi.esdm.go.id/components/com_gk2_photoslide/images/thumbm/354871headline_Gamalama.jpg</span>						
+			
+						<span class="gk_news_image_1_slide" style="z-index:1;" title="/index.php/kegiatan-pvmbg/kegiatan-diseminasi-informasi/1230">http://www.vsi.esdm.go.id/components/com_gk2_photoslide/images/thumbm/861313Bromo_5__26_02_16_.jpg</span>						
+			
+						<span class="gk_news_image_1_slide" style="z-index:2;" title="/index.php/kegiatan-pvmbg/kegiatan-diseminasi-informasi/1232">http://www.vsi.esdm.go.id/components/com_gk2_photoslide/images/thumbm/230986Jawa_Barat.jpg</span>						
+			
+						<span class="gk_news_image_1_slide" style="z-index:3;" title="/index.php/gunungapi/aktivitas-gunungapi/1219">http://www.vsi.esdm.go.id/components/com_gk2_photoslide/images/thumbm/204081Kie_Besi_1__17_06_16_.jpg</span>						
+			
+						<span class="gk_news_image_1_slide" style="z-index:4;" title="/index.php/gunungapi/aktivitas-gunungapi/1217">http://www.vsi.esdm.go.id/components/com_gk2_photoslide/images/thumbm/360962Awu_1__16_06_16_.jpg</span>						
+			
+					
+				<div class="gk_news_image_1_text_bg" style="z-index: 9;"></div>
+		<div class="gk_news_image_1_text" style="z-index:10;"></div>
+				
+			
+				
+				<ul class="gk_news_image_1_tick_buttons" style="z-index: 13;">
+						<li class="tick">0</li>
+						<li class="tick">1</li>
+						<li class="tick">2</li>
+						<li class="tick">3</li>
+						<li class="tick">4</li>
+					</ul>
+			</div>	
+	
+		<div class="gk_news_image_1_preloader" style="z-index: 1000;"></div>
+	</div>    </div>
+    
+                <!-- end #profile -->                
+            </div><!-- #wrapper-content-left -->
+            
+            <div id="wrapper-banner">
+                
+            </div><!-- #wrapper-banner -->
+        </div><!-- #wrapper-required -->
+    </div><!-- #wrapper-required-full -->
+    <!-- Start Search Bar Front Module -->
+
+		<div class="container-fluid search-bar">
+		<div class="container">
+			<div class="search">
+				<form action="index.php" method="post" id="search-box">
+		<input name="searchword" id="search_input" maxlength="255" alt="Search" class="inputboxsearch" type="text" size="20" value="Cari ..."  onblur="if(this.value=='') this.value='Cari ...';" onfocus="if(this.value=='Cari ...') this.value='';" /><input type="submit" value="Search" id="src_btn" />	<input type="hidden" name="task"   value="search" />
+	<input type="hidden" name="option" value="com_search" />
+</form>
+
+			</div>
+		</div>
+	</div>
+	
+<!-- End Search Bar Front Module -->
+
+
+	
+		<div class="container">
+		<div class="row">
+			<div class="col-lg-4 box-one" style="margin-right: 10px;">
+						<div class="menutop module300">
+					<h3>Peringatan Dini Gerakan Tanah</h3>
+					
+<div class="nsp_main_portal_mode1 nsp_fs100" id="nsp-nsp_117" style="width:100%;">
+		<div class="nsp_top_interface">
+		<span class="prev">Prev</span>
+		<span class="next">Next</span>
+	</div>
+
+	<div class="nsp_arts" style="height:320px;">
+					<div class="nsp_art">
+				<div style="padding:2px 4px 2px 4px">
+					<h4 class="nsp_header tleft fnone"><a href="/index.php/gerakan-tanah/peringatan-dini-gerakan-tanah/1245-agustus-2016" title="Agustus 2016">Agustus 2016</a></h4><p class="nsp_text tleft fleft"></p><p class="nsp_info  tleft fleft">Publish Date : 28 Jul 2016</p><p class="nsp_info  tleft fleft"></p>				</div>
+			</div>
+					<div class="nsp_art">
+				<div style="padding:2px 4px 2px 4px">
+					<h4 class="nsp_header tleft fnone"><a href="/index.php/gerakan-tanah/peringatan-dini-gerakan-tanah/1228-juli-2016" title="Juli 2016">Juli 2016</a></h4><p class="nsp_text tleft fleft"></p><p class="nsp_info  tleft fleft">Publish Date : 28 Jun 2016</p><p class="nsp_info  tleft fleft"></p>				</div>
+			</div>
+					<div class="nsp_art">
+				<div style="padding:2px 4px 2px 4px">
+					<h4 class="nsp_header tleft fnone"><a href="/index.php/gerakan-tanah/peringatan-dini-gerakan-tanah/1207-juni-2016" title="Juni 2016">Juni 2016</a></h4><p class="nsp_text tleft fleft"></p><p class="nsp_info  tleft fleft">Publish Date : 30 May 2016</p><p class="nsp_info  tleft fleft"></p>				</div>
+			</div>
+			
+	</div>
+	</div>
+
+
+
+<script type="text/javascript">
+//<![CDATA[
+try {$Gavick;}catch(e){$Gavick = {};};
+$Gavick["nsp-nsp_117"] = {
+	"animation_speed": 350,
+	"animation_interval": 5000};
+//]]>
+</script>			</div>
+	      
+			</div><!-- #wrapper-left-1 -->
+			<div class="col-lg-4 box-one">
+						<div class="module module300">
+					<h3>Diseminasi Informasi </h3>
+					
+<div class="nsp_main_portal_mode1 nsp_fs80" id="nsp-nsp_116" style="width:100%;">
+		<div class="nsp_top_interface">
+		<span class="prev">Prev</span>
+		<span class="next">Next</span>
+	</div>
+
+	<div class="nsp_arts" style="height:320px;">
+					<div class="nsp_art">
+				<div style="padding:2px 4px 2px 4px">
+					<h4 class="nsp_header tleft fnone"><a href="/index.php/kegiatan-pvmbg/kegiatan-diseminasi-informasi/1232-peta-prakiraan-wilayah-potensi-terjadi-gerakan-tanah-di-sepanjang-jalur-mudik" title="Peta Prakiraan Wilayah Potensi Terjadi Gerakan Tanah di Sepanjang Jalur Mudik">Peta Prakiraan Wilayah Potensi Terjadi Gerakan Tan&hellip;</a></h4><a href="/index.php/kegiatan-pvmbg/kegiatan-diseminasi-informasi/1232-peta-prakiraan-wilayah-potensi-terjadi-gerakan-tanah-di-sepanjang-jalur-mudik" class=" tleft fleft" title="Peta Prakiraan Wilayah Potensi Terjadi Gerakan Tanah di Sepanjang Jalur Mudik"><img class="nsp_image tleft fleft" src="/images/stories/pvmbg/gerakantanah/2016/Jawa%20Barat.jpg" alt="Peta Prakiraan Wilayah Potensi Terjadi Gerakan Tanah di Sepanjang Jalur Mudik" title="Peta Prakiraan Wilayah Potensi Terjadi Gerakan Tanah di Sepanjang Jalur Mudik" style="width:160px;height:120px;margin:3px 5px 3px 5px;"  /></a><p class="nsp_text tleft fleft"><a href="/index.php/kegiatan-pvmbg/kegiatan-diseminasi-informasi/1232-peta-prakiraan-wilayah-potensi-terjadi-gerakan-tanah-di-sepanjang-jalur-mudik"></a></p><p class="nsp_info  tleft fleft"> 29 Jun 2016 <a href="/index.php/kegiatan-pvmbg/kegiatan-diseminasi-informasi" >Berita Diseminasi Informasi</a></p><p class="nsp_info  tleft fleft"></p><a class="readon readon_class  fright" href="/index.php/kegiatan-pvmbg/kegiatan-diseminasi-informasi/1232-peta-prakiraan-wilayah-potensi-terjadi-gerakan-tanah-di-sepanjang-jalur-mudik">Read more</a>				</div>
+			</div>
+			
+	</div>
+	</div>
+
+
+
+<script type="text/javascript">
+//<![CDATA[
+try {$Gavick;}catch(e){$Gavick = {};};
+$Gavick["nsp-nsp_116"] = {
+	"animation_speed": 350,
+	"animation_interval": 5000};
+//]]>
+</script>			</div>
+	
+			</div><!-- #wrapper-left-1 -->
+
+			<div class="col-lg-3">
+						<div class="menutop module_side_banner1">
+					<a href="/index.php/gunungapi/kamera-gunungapi"><img src="/images/stories/banner/cctv.png" width="299" height="94" alt="cctv" /></a><br />		</div>
+			<div class="menutop module_side_banner2">
+					<a href="/index.php/kegiatan-pvmbg/foto-dan-peta"><img alt="banner_galeri" src="/images/stories/banner/banner_galeri.png" height="94" width="299" /></a><br />		</div>
+			<div class="menutop module_side_banner1">
+					<a href="http://magma.vsi.esdm.go.id"><img src="/images/stories/banner/magma.png" width="299" height="94" alt="magma" /></a><br />		</div>
+	
+			</div><!-- #wrapper-left-1 -->
+		</div>
+	</div>
+		
+	
+	 <!-- Isfront Index atas -->
+	<div class="container" style="margin-top: 60px;">
+		<div class="row">
+			<div class="col-lg-8">		
+				<div class="kebencanaan">
+							<div class="module module_bordered">
+					
+	<div class="nsp_main nsp_fs100" id="nsp-nsp_118" style="width:100%;">
+		
+					
+			<div class="nsp_arts bottom" style="width:100%;">
+			
+								<div class="nsp_top_interface">
+					<div>
+												
+												<span class="prev">Prev</span>
+						<span class="next">Next</span>
+												
+											</div>
+				</div>
+							
+														<div class="nsp_art" style="width:100%;"><div style="padding:2px 4px 2px 4px"><h4 class="nsp_header tleft fnone"><a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami/1251-tanggapan-gempa-lampung-52-sr-12-agustus-2016" title="TANGGAPAN GEMPA LAMPUNG - 5,2 SR - 12 AGUSTUS 2016">TANGGAPAN GEMPA LAMPUNG - 5,2 SR - 12 AGUSTUS 2016</a></h4><a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami/1251-tanggapan-gempa-lampung-52-sr-12-agustus-2016" class=" tleft fleft" title="TANGGAPAN GEMPA LAMPUNG - 5,2 SR - 12 AGUSTUS 2016"><img class="nsp_image tleft fleft" src="/images/stories/pvmbg/gempabumi/tanggapan_2016/Agust%202016/TG%20LAMPUNG%2012082016.jpg" alt="TANGGAPAN GEMPA LAMPUNG - 5,2 SR - 12 AGUSTUS 2016" title="TANGGAPAN GEMPA LAMPUNG - 5,2 SR - 12 AGUSTUS 2016" style="width:160px;height:120px;margin:3px 5px 3px 5px;"  /></a><p class="nsp_text tleft fleft">TANGGAPAN GEMPA LAMPUNG 5,2 SR - 12 AGUSTUS 2016 
+  Bersama ini, kami sampaikan laporan tanggapan terjadinya gempa bumi di     Barat Daya Pesawaran Lampung berdasarkan informasi yang diperoleh dari BMKG dengan rincian informasi sebagai berikut: 
+  1.	Gempa bumi terjadi pada hari Jumat, tanggal 12 Agustus 2016,    pukul 14:17:16 WIB. Pusat gempa bumi berada pada koordinat 6,39° LS  dan 104,95° BT atau sekitar 100 km barat daya Pesawaran Lampung.  Magnitudo gempa bumi 5.3 SR (Skala Richter) dengan hiposenter pada kedalaman 10 km.
+
+  2.	Terjadi Gempa bumi kedua berkekuatan 5.2 SR...</p><p class="nsp_info  tleft fleft"> 12 Aug 2016 <a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami" >Berita Gempabumi Tsunami</a></p><p class="nsp_info  tleft fleft"></p></div></div>
+														<div class="nsp_art" style="width:100%;"><div style="padding:2px 4px 2px 4px"><h4 class="nsp_header tleft fnone"><a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami/1250-tanggapan-gempa-laut-bali-45-sr-9-agustus-2016" title="TANGGAPAN GEMPA LAUT BALI - 4.5 SR - 9 AGUSTUS 2016">TANGGAPAN GEMPA LAUT BALI - 4.5 SR - 9 AGUSTUS 2016</a></h4><a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami/1250-tanggapan-gempa-laut-bali-45-sr-9-agustus-2016" class=" tleft fleft" title="TANGGAPAN GEMPA LAUT BALI - 4.5 SR - 9 AGUSTUS 2016"><img class="nsp_image tleft fleft" src="/images/stories/pvmbg/gempabumi/tanggapan_2016/Agust%202016/TG_LautBali_9Agustus2016.jpeg" alt="TANGGAPAN GEMPA LAUT BALI - 4.5 SR - 9 AGUSTUS 2016" title="TANGGAPAN GEMPA LAUT BALI - 4.5 SR - 9 AGUSTUS 2016" style="width:160px;height:120px;margin:3px 5px 3px 5px;"  /></a><p class="nsp_text tleft fleft">TANGGAPAN GEMPA LAUT BALI 4.5 SR - 9 AGUSTUS 2016 
+ 
+ Bersama ini, kami sampaikan tanggapan kejadian gempabumi di Laut Bali berdasarkan informasi yang diperoleh dari berbagai sumber dan analisis dari Pusat Vulkanologi dan Mitigasi Bencana Geologi (PVMBG), Badan Geologi, sebagai berikut: 
+  1.	Gempabumi terjadi pada hari Selasa, 9 Agustus 2016 pukul 22:37 WIB. Berdasarkan informasi dari Badan Meteorologi, Klimatologi dan Geofisika (BMKG), pusat gempabumi berada pada koordinat 115,69° BT dan 8,19° LS atau sekitar 29 km sebelah barat laut Kota Karangasem, Bali, dengan magnitudo 4,5 SR pada kedalaman 11 km (Peta pusat gempabumi terlampir).
+
+
+ 2.	Kondisi geologi daerah terdampak...</p><p class="nsp_info  tleft fleft"> 10 Aug 2016 <a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami" >Berita Gempabumi Tsunami</a></p><p class="nsp_info  tleft fleft"></p></div></div>
+														<div class="nsp_art" style="width:100%;"><div style="padding:2px 4px 2px 4px"><h4 class="nsp_header tleft fnone"><a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami/1249-tanggapan-kejadian-gempabumi-7-agustus-2016-di-peraian-barat-provinsi-lampung" title="Tanggapan Kejadian Gempabumi 7 Agustus  2016 di Peraian Barat Provinsi Lampung">Tanggapan Kejadian Gempabumi 7 Agustus  2016 di Peraian Barat Provinsi Lampung</a></h4><a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami/1249-tanggapan-kejadian-gempabumi-7-agustus-2016-di-peraian-barat-provinsi-lampung" class=" tleft fleft" title="Tanggapan Kejadian Gempabumi 7 Agustus  2016 di Peraian Barat Provinsi Lampung"><img class="nsp_image tleft fleft" src="/images/stories/pvmbg/gempabumi/tanggapan_2016/Agust%202016/tg%20lampung%20080816.png" alt="Tanggapan Kejadian Gempabumi 7 Agustus  2016 di Peraian Barat Provinsi Lampung" title="Tanggapan Kejadian Gempabumi 7 Agustus  2016 di Peraian Barat Provinsi Lampung" style="width:160px;height:120px;margin:3px 5px 3px 5px;"  /></a><p class="nsp_text tleft fleft">Tanggapan Kejadian Gempabumi
+7 Agustus ÂÂ&nbsp;2016 di Peraian Barat Provinsi Lampung
+
+Bersama ini kami sampaikan laporan tanggapan terjadinya gempabumi di Peraian Barat Provinsi Lampung berdasarkan informasi yang diperoleh dari BMKG Jakarta, USGS Amerika Serikat, dan data lainnya sebagai berikut:
+1. Gempabumi tersebut terjadi pada hari Minggu, tanggal 7 Agustus ÂÂ&nbsp;2016. Berdasarkan informasi dari BMKG kejadian gempabumi tersebut terjadi pada pukul 21:02:40 WIB, pusat gempabumi berada di laut pada koordinat 6,03°LS dan 104,16°BT dengan magnitudo 5 SR (Skala Richter) pada kedalaman 10 km, berada pada jarak sekitar 140,4 km barat daya Kota Bandar Lampung. Menurut data USGS kejadian gempabumi tersebut terjadi pada pukul 21:02:42...</p><p class="nsp_info  tleft fleft"> 08 Aug 2016 <a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami" >Berita Gempabumi Tsunami</a></p><p class="nsp_info  tleft fleft"></p></div></div>
+														<div class="nsp_art unvisible" style="width:100%;"><div style="padding:2px 4px 2px 4px"><h4 class="nsp_header tleft fnone"><a href="/index.php/gunungapi/aktivitas-gunungapi/1248-kronologi-erupsi-abu-rinjani-1-agustus-2016" title="Kronologi Erupsi Abu Rinjani 1 Agustus 2016:">Kronologi Erupsi Abu Rinjani 1 Agustus 2016:</a></h4><a href="/index.php/gunungapi/aktivitas-gunungapi/1248-kronologi-erupsi-abu-rinjani-1-agustus-2016" class=" tleft fleft" title="Kronologi Erupsi Abu Rinjani 1 Agustus 2016:"><img class="nsp_image tleft fleft" src="/images/stories/pvmbg/gunungapi/rinjani/rinjani%201%20agustus.jpeg" alt="Kronologi Erupsi Abu Rinjani 1 Agustus 2016:" title="Kronologi Erupsi Abu Rinjani 1 Agustus 2016:" style="width:160px;height:120px;margin:3px 5px 3px 5px;"  /></a><p class="nsp_text tleft fleft">1. Dari alat seismograf erupsi abu terjadi pk. 11:50 WITA.Setelah goncangan II-III MMI dirasakan di sekitar G. Rinjani termasuk Kec. Sembalun oleh Gempa Bima 1 Agustus 2016 pk. 07:40 WITA, M=5,7 SR (BMKG). Pengamatan visual tidak dpt dilakukan pada pagi-siang karena gunung tertutup kabut. Hasil pengamatan visual dari udara oleh penumpang pesawat menunjukkan ketinggian kolom abu letusan sekitar 2000 m dari Puncak Barujari. Dari citra Satelit Himawari abu menyebar ke selatan Gunung Rinjani pada ketinggian 6000m, sehingga Bandara Internasional Lombok ditutup oleh Otoritas Bandara.
+2. Gempa hembusan abu kedua tercatat pk. 16:33 WITA.
+3. Secara visual dari Pos PGA Rinjani pada pukul...</p><p class="nsp_info  tleft fleft"> 03 Aug 2016 <a href="/index.php/gunungapi/aktivitas-gunungapi" >Berita Gunungapi</a></p><p class="nsp_info  tleft fleft"></p></div></div>
+														<div class="nsp_art unvisible" style="width:100%;"><div style="padding:2px 4px 2px 4px"><h4 class="nsp_header tleft fnone"><a href="/index.php/gunungapi/aktivitas-gunungapi/1247-erupsi-g-gamalama-3-agustus-2016" title="Erupsi G. Gamalama, 3 Agustus 2016">Erupsi G. Gamalama, 3 Agustus 2016</a></h4><a href="/index.php/gunungapi/aktivitas-gunungapi/1247-erupsi-g-gamalama-3-agustus-2016" class=" tleft fleft" title="Erupsi G. Gamalama, 3 Agustus 2016"><img class="nsp_image tleft fleft" src="/images/stories/pvmbg/gamalama/Gamalama%203%20agustus.jpg" alt="Erupsi G. Gamalama, 3 Agustus 2016" title="Erupsi G. Gamalama, 3 Agustus 2016" style="width:160px;height:120px;margin:3px 5px 3px 5px;"  /></a><p class="nsp_text tleft fleft">Kronologi
+1. Pada pukul 06.14.12 WIT terekam gempa Tektonik (info dari BMKG, 86 km Barat Daya Halmahera Barat, kedalaman 18Km, 4.6SR), diikuti dengan tremor menerus dengan amplituda maksimum 1.5 mm.&nbsp;
+2. Pada pukul 06.28 WIT terjadi erupsi tipe eksplosif lemah berupa hembusan abu berwarna putih kelabu hingga abu-abu dengan tinggi sekitar 500 - 600 meter ke arah Tenggara hingga Selatan.
+3. Suara gemuruh terdengar tiga kali. Pada waktu 07.09 WIT, 07.12 WIT dan 07.13 WIT.4. Hembusan abu mulai menurun pada pukul 06.55 WIT.5. Pengecekan di lapangan menunjukkan material abu ditemukan tipis di daerah Ake Huda (sebelah selatan-tenggara lereng G. Gamalama).
+Tindak Lanjut
+1. Koordinasi dengan...</p><p class="nsp_info  tleft fleft"> 03 Aug 2016 <a href="/index.php/gunungapi/aktivitas-gunungapi" >Berita Gunungapi</a></p><p class="nsp_info  tleft fleft"></p></div></div>
+														<div class="nsp_art unvisible" style="width:100%;"><div style="padding:2px 4px 2px 4px"><h4 class="nsp_header tleft fnone"><a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami/1246--tanggapan-gempa-simeulue-aceh-51-sr-2-agustus-2016" title=" TANGGAPAN GEMPA SIMEULUE, ACEH - 5.1 SR - 2 AGUSTUS 2016"> TANGGAPAN GEMPA SIMEULUE, ACEH - 5.1 SR - 2 AGUSTUS 2016</a></h4><a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami/1246--tanggapan-gempa-simeulue-aceh-51-sr-2-agustus-2016" class=" tleft fleft" title=" TANGGAPAN GEMPA SIMEULUE, ACEH - 5.1 SR - 2 AGUSTUS 2016"><img class="nsp_image tleft fleft" src="/images/stories/pvmbg/gempabumi/tanggapan_2016/Agust%202016/TG%20ACEH_20160802.jpg" alt=" TANGGAPAN GEMPA SIMEULUE, ACEH - 5.1 SR - 2 AGUSTUS 2016" title=" TANGGAPAN GEMPA SIMEULUE, ACEH - 5.1 SR - 2 AGUSTUS 2016" style="width:160px;height:120px;margin:3px 5px 3px 5px;"  /></a><p class="nsp_text tleft fleft">TANGGAPAN GEMPA SIMEULUE, ACEH 5.1 SR - 2 AGUSTUS 2016 
+ 
+ Bersama ini, kami sampaikan laporan tanggapan terjadinya gempabumi di Kabupaten Simeulue, Provinsi Aceh. Berdasarkan informasi yang diperoleh dari Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) dan Geo Forschungs Zentrum (GFZ) Potsdam, Jerman sebagai berikut: 
+  1.	Gempabumi terjadi pada tanggal 2 Agustus 2016, pukul 02:40:06 WIB berjarak 120 km barat daya dari Kab. Simeulue, Aceh dengan informasi sebagai berikut: •	BMKG: pusat gempabumi berada pada koordinat 1.65°LU dan 95.59°BT dengan magnitudo 5.1 SR pada kedalaman 10 km. •	GFZ: pusat gempabumi berada pada koordinat 1.67°LU dan 95.7°BT dengan Magnitudo 4.8 mb pada...</p><p class="nsp_info  tleft fleft"> 02 Aug 2016 <a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami" >Berita Gempabumi Tsunami</a></p><p class="nsp_info  tleft fleft"></p></div></div>
+														<div class="nsp_art unvisible" style="width:100%;"><div style="padding:2px 4px 2px 4px"><h4 class="nsp_header tleft fnone"><a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami/1243--tanggapan-gempa-papua-50-sr-26-juli-2016" title=" TANGGAPAN GEMPA PAPUA - 5.0 SR - 26 JULI 2016"> TANGGAPAN GEMPA PAPUA - 5.0 SR - 26 JULI 2016</a></h4><a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami/1243--tanggapan-gempa-papua-50-sr-26-juli-2016" class=" tleft fleft" title=" TANGGAPAN GEMPA PAPUA - 5.0 SR - 26 JULI 2016"><img class="nsp_image tleft fleft" src="/images/stories/pvmbg/gempabumi/tanggapan_2016/Juli%202016/TG%20PAPUA%2026%20JULI%202016.JPG" alt=" TANGGAPAN GEMPA PAPUA - 5.0 SR - 26 JULI 2016" title=" TANGGAPAN GEMPA PAPUA - 5.0 SR - 26 JULI 2016" style="width:160px;height:120px;margin:3px 5px 3px 5px;"  /></a><p class="nsp_text tleft fleft">TANGGAPAN GEMPA PAPUA 5.0 SR - 26 JULI 2016 
+  Bersama ini, kami sampaikan laporan tanggapan terjadinya gempa bumi di Tenggara Sarmi, Papua. Berdasarkan informasi yang diperoleh dari BMKG, Jakarta dan USGS, Amerika Serikat sebagai berikut: 
+ 1.	Gempa bumi terjadi pada hari Selasa, tanggal 26 juli  2016, pukul 04:33:32 WIB. Berdasarkan informasi dari BMKG pusat gempa bumi berada pada koordinat 2,64°LS dan 139,55°BT, dengan magnitudo 5,0 SR pada kedalaman 13 km, berjarak 43 km Tenggara, Sarmi, Papua. Sedangkan berdasarkan informasi dari USGS, pusat gempa bumi berada pada koordinat 2,865°LS dan 139,280°BT dengan magnitudo 4,6 Mw pada kedalaman 64...</p><p class="nsp_info  tleft fleft"> 26 Jul 2016 <a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami" >Berita Gempabumi Tsunami</a></p><p class="nsp_info  tleft fleft"></p></div></div>
+														<div class="nsp_art unvisible" style="width:100%;"><div style="padding:2px 4px 2px 4px"><h4 class="nsp_header tleft fnone"><a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami/1242-tanggapan-gempa-bengkulu-selatan-56-sr-23-juli-2016" title="TANGGAPAN GEMPA BENGKULU SELATAN - 5.6 SR - 23 JULI 2016">TANGGAPAN GEMPA BENGKULU SELATAN - 5.6 SR - 23 JULI 2016</a></h4><a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami/1242-tanggapan-gempa-bengkulu-selatan-56-sr-23-juli-2016" class=" tleft fleft" title="TANGGAPAN GEMPA BENGKULU SELATAN - 5.6 SR - 23 JULI 2016"><img class="nsp_image tleft fleft" src="/images/stories/pvmbg/gempabumi/tanggapan_2016/Juli%202016/TG%20BENGKULU%2020160723.JPG" alt="TANGGAPAN GEMPA BENGKULU SELATAN - 5.6 SR - 23 JULI 2016" title="TANGGAPAN GEMPA BENGKULU SELATAN - 5.6 SR - 23 JULI 2016" style="width:160px;height:120px;margin:3px 5px 3px 5px;"  /></a><p class="nsp_text tleft fleft">TANGGAPAN GEMPA BENGKULU SELATAN
+5.6 SR - 23 JULI 2016
+Bersama ini, kami sampaikan laporan tanggapan terjadinya gempa bumi di Bengkulu Selatan, Provinsi Bengkulu. Berdasarkan informasi yang diperoleh dari Badan Meteorologi, Klimatologi, dan Geofisika (BMKG), dan GeoForschungs Zentrum (GFZ) Potsdam, Jerman sebagai berikut:
+
+1. Gempa bumi terjadi pada hari Sabtu tanggal 23 Juli 2016, pukul 14:41:45 WIB. Menurut BMKG pusat gempa bumi berada pada koordinat 6,68°LS dan 101,16°BT, dengan magnitudo 5,6 SR (Skala Richter) pada kedalaman 10 km, pada jarak 334 km barat daya Bengkulu Selatan. Menurut GFZ Potsdam, pusat gempa bumi berada pada koordinat 6,66°LS dan 101,2°BT, dengan magnitudo 5,4 Mw (Moment...</p><p class="nsp_info  tleft fleft"> 25 Jul 2016 <a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami" >Berita Gempabumi Tsunami</a></p><p class="nsp_info  tleft fleft"></p></div></div>
+														<div class="nsp_art unvisible" style="width:100%;"><div style="padding:2px 4px 2px 4px"><h4 class="nsp_header tleft fnone"><a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami/1241-tanggapan-gempa-teluk-tomini-gorontalo-52-sr-20-juli-2016" title="TANGGAPAN GEMPA TELUK TOMINI, GORONTALO - 5.2 SR - 20 JULI 2016">TANGGAPAN GEMPA TELUK TOMINI, GORONTALO - 5.2 SR - 20 JULI 2016</a></h4><a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami/1241-tanggapan-gempa-teluk-tomini-gorontalo-52-sr-20-juli-2016" class=" tleft fleft" title="TANGGAPAN GEMPA TELUK TOMINI, GORONTALO - 5.2 SR - 20 JULI 2016"><img class="nsp_image tleft fleft" src="/images/stories/pvmbg/gempabumi/tanggapan_2016/Juli%202016/TG%20GORONTALO%2020%20Juli%202016.JPG" alt="TANGGAPAN GEMPA TELUK TOMINI, GORONTALO - 5.2 SR - 20 JULI 2016" title="TANGGAPAN GEMPA TELUK TOMINI, GORONTALO - 5.2 SR - 20 JULI 2016" style="width:160px;height:120px;margin:3px 5px 3px 5px;"  /></a><p class="nsp_text tleft fleft">TANGGAPAN GEMPA TELUK TOMINI, GORONTALO 5.2 SR - 20 JULI 2016 
+  Bersama ini kami sampaikan laporan tanggapan terjadinya gempabumi di Teluk Tomini, Provinsi Gorontalo berdasarkan informasi yang diperoleh dari BMKG, USGS, Amerika Serikat dan informasi lainnya sebagai berikut : 
+  1.	Gempabumi terjadi pada hari Rabu, tanggal 20 Juli 2016, pukul 10:58:32 WIB. Berdasarkan informasi dari BMKG pusat gempabumi berada di Teluk Tomini pada koordinat 0,06 °LS dan 122,9°BT, dengan magnitudo 5,2 SR (Skala Richter) pada kedalaman 154 km, dan berjarak sekitar 69,5 km selatan Kota Gorontalo. Menurut USGS pusat gempabumi berada pada koordinat 0,041° LS dan 122,967°...</p><p class="nsp_info  tleft fleft"> 21 Jul 2016 <a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami" >Berita Gempabumi Tsunami</a></p><p class="nsp_info  tleft fleft"></p></div></div>
+														<div class="nsp_art unvisible" style="width:100%;"><div style="padding:2px 4px 2px 4px"><h4 class="nsp_header tleft fnone"><a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami/1240-tanggapan-gempa-kepulauan-babar-maluku-53-sr-18-juli-2016" title="TANGGAPAN GEMPA KEPULAUAN BABAR, MALUKU - 5.3 SR - 18 JULI 2016">TANGGAPAN GEMPA KEPULAUAN BABAR, MALUKU - 5.3 SR - 18 JULI 2016</a></h4><a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami/1240-tanggapan-gempa-kepulauan-babar-maluku-53-sr-18-juli-2016" class=" tleft fleft" title="TANGGAPAN GEMPA KEPULAUAN BABAR, MALUKU - 5.3 SR - 18 JULI 2016"><img class="nsp_image tleft fleft" src="/images/stories/pvmbg/gempabumi/tanggapan_2016/Juli%202016/Maluku18July2016.jpeg" alt="TANGGAPAN GEMPA KEPULAUAN BABAR, MALUKU - 5.3 SR - 18 JULI 2016" title="TANGGAPAN GEMPA KEPULAUAN BABAR, MALUKU - 5.3 SR - 18 JULI 2016" style="width:160px;height:120px;margin:3px 5px 3px 5px;"  /></a><p class="nsp_text tleft fleft">TANGGAPAN GEMPA KEPULAUAN BABAR, MALUKU 5.3 SR - 18 JULI 2016 
+  Bersama ini, kami sampaikan tanggapan kejadian gempabumi di Kepulauan Babar, Maluku, berdasarkan informasi yang diperoleh dari berbagai sumber dan analisis dari Pusat Vulkanologi dan Mitigasi Bencana Geologi (PVMBG), Badan Geologi, sebagai berikut: 
+  1.	Gempabumi terjadi pada hari Senin, 18 Juli 2016 pukul 12:32 WIB. Berdasarkan informasi dari Badan Meteorologi, Klimatologi dan Geofisika (BMKG), pusat gempabumi berada pada koordinat 129,26° BT dan 8,32° LS atau sekitar 60 km sebelah barat daya Pulau Babar, Maluku, dengan magnitudo 5,3 SR pada kedalaman 10 km. The United State Geological Survey...</p><p class="nsp_info  tleft fleft"> 19 Jul 2016 <a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami" >Berita Gempabumi Tsunami</a></p><p class="nsp_info  tleft fleft"></p></div></div>
+														<div class="nsp_art unvisible" style="width:100%;"><div style="padding:2px 4px 2px 4px"><h4 class="nsp_header tleft fnone"><a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami/1239-tanggapan-gempa-tasikmalaya-55-sr-15-juli-2016" title="TANGGAPAN GEMPA TASIKMALAYA - 5.5 SR - 15 JULI 2016">TANGGAPAN GEMPA TASIKMALAYA - 5.5 SR - 15 JULI 2016</a></h4><a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami/1239-tanggapan-gempa-tasikmalaya-55-sr-15-juli-2016" class=" tleft fleft" title="TANGGAPAN GEMPA TASIKMALAYA - 5.5 SR - 15 JULI 2016"><img class="nsp_image tleft fleft" src="/images/stories/pvmbg/gempabumi/tanggapan_2016/Juli%202016/07152016%20tasikmalaya%20jabar.png" alt="TANGGAPAN GEMPA TASIKMALAYA - 5.5 SR - 15 JULI 2016" title="TANGGAPAN GEMPA TASIKMALAYA - 5.5 SR - 15 JULI 2016" style="width:160px;height:120px;margin:3px 5px 3px 5px;"  /></a><p class="nsp_text tleft fleft">Bersama ini, kami sampaikan tanggapan kejadian gempabumi di Barat Daya Kabupaten Tasikmalaya, Jawa Barat , berdasarkan informasi yang diperoleh dari berbagai sumber dan analisis dari Pusat Vulkanologi dan Mitigasi Bencana Geologi (PVMBG), Badan Geologi, sebagai berikut:
+ 1.	Gempabumi terjadi pada hari Jumat, 15 Juli 2016 pukul 01:28:04 WIB. Berdasarkan informasi dari Badan Meteorologi, Klimatologi dan Geofisika (BMKG), pusat gempabumi berada pada koordinat 107.93 °BT dan 10.62 °LS (330 km sebelah Barat Daya Kabupaten Tasikmalaya, Jawa Barat), dengan magnitude 5.5 SR pada kedalaman 10 km. The United State Geological Survey (USGS) merilis bahwa gempa bumi yang terjadi berpusat di koordinat 108.029 °BT...</p><p class="nsp_info  tleft fleft"> 15 Jul 2016 <a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami" >Berita Gempabumi Tsunami</a></p><p class="nsp_info  tleft fleft"></p></div></div>
+														<div class="nsp_art unvisible" style="width:100%;"><div style="padding:2px 4px 2px 4px"><h4 class="nsp_header tleft fnone"><a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami/1238-tanggapan-gempa-bengkulu-53-sr-12-juli-2016" title="TANGGAPAN GEMPA BENGKULU - 5.3 SR - 12 JULI 2016">TANGGAPAN GEMPA BENGKULU - 5.3 SR - 12 JULI 2016</a></h4><a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami/1238-tanggapan-gempa-bengkulu-53-sr-12-juli-2016" class=" tleft fleft" title="TANGGAPAN GEMPA BENGKULU - 5.3 SR - 12 JULI 2016"><img class="nsp_image tleft fleft" src="/images/stories/pvmbg/gempabumi/tanggapan_2016/Juli%202016/TG%20BENGKULU%20220160712.JPG" alt="TANGGAPAN GEMPA BENGKULU - 5.3 SR - 12 JULI 2016" title="TANGGAPAN GEMPA BENGKULU - 5.3 SR - 12 JULI 2016" style="width:160px;height:120px;margin:3px 5px 3px 5px;"  /></a><p class="nsp_text tleft fleft">Bersama ini, kami sampaikan laporan tanggapan terjadinya gempa bumi di Seluma, Provinsi Bengkulu. Berdasarkan informasi yang diperoleh dari Badan Meteorologi, Klimatologi, dan Geofisika (BMKG), dan Geo Forschungs Zentrum (GFZ) Potsdam, Jerman sebagai berikut:&nbsp;
+ 1.	Gempa bumi terjadi pada hari Selasa tanggal 12 Juli 2016, pukul 03:28:39 WIB.  Menurut BMKG pusat gempa bumi berada pada koordinat 4,82°LS dan 102,07°BT, dengan magnitudo 5,3 SR (Skala Richter) pada kedalaman 65 km, pada jarak 111 km barat daya Seluma, Bengkulu. Menurut GFZ Potsdam, pusat gempa bumi berada pada koordinat 4,59°LS dan 102,28°BT, dengan magnitudo 5 Mw (Moment Magnitude) pada kedalaman 74 km. 
+
+ 2.	Kondisi...</p><p class="nsp_info  tleft fleft"> 12 Jul 2016 <a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami" >Berita Gempabumi Tsunami</a></p><p class="nsp_info  tleft fleft"></p></div></div>
+														<div class="nsp_art unvisible" style="width:100%;"><div style="padding:2px 4px 2px 4px"><h4 class="nsp_header tleft fnone"><a href="/index.php/gerakan-tanah/kejadian-gerakan-tanah/1237-tanggapan-bencana-gerakan-tanah-kec-tarakan-tengah-kota-tarakan-provinsi-kalimantan-utara" title="Tanggapan Bencana Gerakan Tanah Kec. Tarakan Tengah, Kota Tarakan Provinsi Kalimantan Utara">Tanggapan Bencana Gerakan Tanah Kec. Tarakan Tengah, Kota Tarakan Provinsi Kalimantan Utara</a></h4><a href="/index.php/gerakan-tanah/kejadian-gerakan-tanah/1237-tanggapan-bencana-gerakan-tanah-kec-tarakan-tengah-kota-tarakan-provinsi-kalimantan-utara" class=" tleft fleft" title="Tanggapan Bencana Gerakan Tanah Kec. Tarakan Tengah, Kota Tarakan Provinsi Kalimantan Utara"><img class="nsp_image tleft fleft" src="/images/stories/pvmbg/gerakantanah/2016/Tarakan%201%20(11-07-16).jpg" alt="Tanggapan Bencana Gerakan Tanah Kec. Tarakan Tengah, Kota Tarakan Provinsi Kalimantan Utara" title="Tanggapan Bencana Gerakan Tanah Kec. Tarakan Tengah, Kota Tarakan Provinsi Kalimantan Utara" style="width:160px;height:120px;margin:3px 5px 3px 5px;"  /></a><p class="nsp_text tleft fleft">Tanggapan bencana gerakan tanah di Kecamatan Tarakan Tengah, Kota Tarakan, Provinsi Kalimantan Utara, berdasarkan pemberitaan media kaltara.prokal.co hari Minggu, 10 Juli 2016, sebagai berikut:
+1. Lokasi dan waktu kejadian:
+ 
+Gerakan tanah terjadi di RT 10 Kelurahan Kampung Satu Skip, Kecamatan Tarakan Tengah, Kota Tarakan, Provinsi Kalimantan Utara pada hari Jumat, 8 Juli 2016 sekitar pukul 04.30 WITA.
+ 
+2. Jenis gerakan tanah:
+ 
+Jenis gerakan tanah berupa aliran bahan rombakan yang terjadi pada bukit setinggi 30 meter di sekitar pemukiman warga. Gerakan tanah di lokasi yang sama pernah terjadi 7 tahun lalu dan kemudian aktif kembali.
+ 
+3. Dampak gerakan tanah:  
+
+2 (dua) rumah rusak...</p><p class="nsp_info  tleft fleft"> 11 Jul 2016 <a href="/index.php/gerakan-tanah/kejadian-gerakan-tanah" >Berita Gerakan Tanah</a></p><p class="nsp_info  tleft fleft"></p></div></div>
+														<div class="nsp_art unvisible" style="width:100%;"><div style="padding:2px 4px 2px 4px"><h4 class="nsp_header tleft fnone"><a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami/1236--tanggapan-gempa-pasaman-sumbar-54-sr-10-juli-2016" title=" TANGGAPAN GEMPA PASAMAN, SUMBAR - 5.4 SR - 10 JULI 2016"> TANGGAPAN GEMPA PASAMAN, SUMBAR - 5.4 SR - 10 JULI 2016</a></h4><a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami/1236--tanggapan-gempa-pasaman-sumbar-54-sr-10-juli-2016" class=" tleft fleft" title=" TANGGAPAN GEMPA PASAMAN, SUMBAR - 5.4 SR - 10 JULI 2016"><img class="nsp_image tleft fleft" src="/images/stories/pvmbg/gempabumi/tanggapan_2016/Juli%202016/TG%20PASAMAN%2010%20JULI%202016.JPG" alt=" TANGGAPAN GEMPA PASAMAN, SUMBAR - 5.4 SR - 10 JULI 2016" title=" TANGGAPAN GEMPA PASAMAN, SUMBAR - 5.4 SR - 10 JULI 2016" style="width:160px;height:120px;margin:3px 5px 3px 5px;"  /></a><p class="nsp_text tleft fleft">TANGGAPAN GEMPA PASAMAN, SUMBAR 5.4 SR - 10 JULI 2016 
+  Bersama ini, kami sampaikan tanggapan kejadian gempabumi di Barat Daya Pasaman, Provinsi Sumatra Barat berdasarkan informasi yang diperoleh dari berbagai sumber dan analisis dari Pusat Vulkanologi dan Mitigasi Bencana Geologi (PVMBG), Badan Geologi, sebagai berikut: 
+  1.	Gempabumi terjadi pada hari Minggu, 10 Juli 2016 pukul 16:31:58 WIB. Berdasarkan informasi dari Badan Meteorologi, Klimatologi dan Geofisika (BMKG), pusat gempabumi berada pada koordinat 100,08° BT dan 0,21° LU (10 km sebelah Barat Daya Pasaman, Sumatra Barat), dengan magnitudo 5,4 SR pada kedalaman 10 km. The United State Geological Survey...</p><p class="nsp_info  tleft fleft"> 11 Jul 2016 <a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami" >Berita Gempabumi Tsunami</a></p><p class="nsp_info  tleft fleft"></p></div></div>
+														<div class="nsp_art unvisible" style="width:100%;"><div style="padding:2px 4px 2px 4px"><h4 class="nsp_header tleft fnone"><a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami/1235-tanggapan-gempa-maluku-barat-daya-55-sr-7-juli-2016" title="TANGGAPAN GEMPA MALUKU BARAT DAYA - 5.5 SR - 7 JULI 2016">TANGGAPAN GEMPA MALUKU BARAT DAYA - 5.5 SR - 7 JULI 2016</a></h4><a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami/1235-tanggapan-gempa-maluku-barat-daya-55-sr-7-juli-2016" class=" tleft fleft" title="TANGGAPAN GEMPA MALUKU BARAT DAYA - 5.5 SR - 7 JULI 2016"><img class="nsp_image tleft fleft" src="/images/stories/pvmbg/gempabumi/tanggapan_2016/Juli%202016/TG%20Maluku%20BARAT_20160707.jpg" alt="TANGGAPAN GEMPA MALUKU BARAT DAYA - 5.5 SR - 7 JULI 2016" title="TANGGAPAN GEMPA MALUKU BARAT DAYA - 5.5 SR - 7 JULI 2016" style="width:160px;height:120px;margin:3px 5px 3px 5px;"  /></a><p class="nsp_text tleft fleft">TANGGAPAN GEMPA MALUKU BARAT DAYA
+5.5 SR - 7 JULI 2016
+
+Bersama ini, kami sampaikan laporan tanggapan terjadinya gempabumi di    tenggara - Maluku Barat Daya berdasarkan informasi yang diperoleh dari BMKG, USGS, dan GFZ sebagai berikut: 
+  1.	Gempabumi terjadi pada hari Kamis, tanggal 7 Juli 2016, pukul 17:12:05 WIB. Berdasarkan informasi dari BMKG pusat gempabumi berada pada koordinat 8,04° LS  dan 126,85° BT, dengan magnitudo 5,5 SR pada kedalaman 10 Km, berjarak 62 km tenggara - Maluku Barat Daya. Sedangkan berdasarkan informasi dari USGS, pusat gempabumi berada pada koordinat 7,895° LS dan 126,758° BT, dengan magnitudo 5,6...</p><p class="nsp_info  tleft fleft"> 08 Jul 2016 <a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami" >Berita Gempabumi Tsunami</a></p><p class="nsp_info  tleft fleft"></p></div></div>
+														<div class="nsp_art unvisible" style="width:100%;"><div style="padding:2px 4px 2px 4px"><h4 class="nsp_header tleft fnone"><a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami/1234--tanggapan-gempa-bolaang-mongondow-sulut-50-sr-30-juni-2016" title=" TANGGAPAN GEMPA BOLAANG MONGONDOW, SULUT - 5,0 SR - 30 JUNI 2016"> TANGGAPAN GEMPA BOLAANG MONGONDOW, SULUT - 5,0 SR - 30 JUNI 2016</a></h4><a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami/1234--tanggapan-gempa-bolaang-mongondow-sulut-50-sr-30-juni-2016" class=" tleft fleft" title=" TANGGAPAN GEMPA BOLAANG MONGONDOW, SULUT - 5,0 SR - 30 JUNI 2016"><img class="nsp_image tleft fleft" src="/images/stories/pvmbg/gempabumi/tanggapan_2016/Jun%202016/TG%20BOLAANG%2030Juni2016.JPG" alt=" TANGGAPAN GEMPA BOLAANG MONGONDOW, SULUT - 5,0 SR - 30 JUNI 2016" title=" TANGGAPAN GEMPA BOLAANG MONGONDOW, SULUT - 5,0 SR - 30 JUNI 2016" style="width:160px;height:120px;margin:3px 5px 3px 5px;"  /></a><p class="nsp_text tleft fleft">TANGGAPAN GEMPA BOLAANG MONGONDOW, SULUT 5,0 SR - 30 JUNI 2016 
+  Bersama ini kami sampaikan laporan tanggapan terjadinya gempa bumi di Barat Laut Kabupaten Bolaang Mongondow Selatan, Provinsi Sulawesi Utara. Berdasarkan informasi yang diperoleh dari Badan Meteorologi, Klimatologi, dan Geofisika (BMKG), serta United States Geological Survey (USGS), sebagai berikut: 
+ 1.	Gempabumi terjadi pada hari Kamis, tanggal 30 Juni 2016, pukul 18:43:13 WIB. Berdasarkan informasi dari BMKG pusat gempa bumi berada pada koordinat 0.50°LU dan 123,62°BT, dengan magnitudo 5,0 SR pada kedalaman 228 km, berjarak 26 km Barat Laut Bolaang Mongondow Selatan, Sulawesi Utara. Sedangkan menurut USGS, pusat gempa...</p><p class="nsp_info  tleft fleft"> 01 Jul 2016 <a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami" >Berita Gempabumi Tsunami</a></p><p class="nsp_info  tleft fleft"></p></div></div>
+														<div class="nsp_art unvisible" style="width:100%;"><div style="padding:2px 4px 2px 4px"><h4 class="nsp_header tleft fnone"><a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami/1233--tanggapan-gempa-gorontalo-50-sr-30-juni-2016" title=" TANGGAPAN GEMPA GORONTALO - 5.0 SR - 30 JUNI 2016"> TANGGAPAN GEMPA GORONTALO - 5.0 SR - 30 JUNI 2016</a></h4><a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami/1233--tanggapan-gempa-gorontalo-50-sr-30-juni-2016" class=" tleft fleft" title=" TANGGAPAN GEMPA GORONTALO - 5.0 SR - 30 JUNI 2016"><img class="nsp_image tleft fleft" src="/images/stories/pvmbg/gempabumi/tanggapan_2016/Jun%202016/TG%20GORONTALO_30JUNI2016.JPG" alt=" TANGGAPAN GEMPA GORONTALO - 5.0 SR - 30 JUNI 2016" title=" TANGGAPAN GEMPA GORONTALO - 5.0 SR - 30 JUNI 2016" style="width:160px;height:120px;margin:3px 5px 3px 5px;"  /></a><p class="nsp_text tleft fleft">TANGGAPAN GEMPA GORONTALO 5.0 SR - 30 JUNI 2016 
+  Bersama ini kami sampaikan laporan tanggapan terjadinya gempa bumi di      timurlaut Pohuwato, Gorontalo berdasarkan informasi yang diperoleh dari BMKG, USGS Amerika dan GFZ Jerman sebagai berikut: 
+  1.	Informasi Gempa bumi Gempa bumi terjadi pada hari Kamis, 30 Juni 2016, pukul 17:46:17 WIB. Berdasarkan informasi dari BMKG pusat gempa bumi berada pada koordinat 1.09° LU, 121.76°BT, dengan magnitudo 5,0 SR pada kedalaman 10 Km, berjarak 42 km timurlaut Pohuwato, Gorontalo. Berdasarkan informasi dari USGS pusat gempa bumi berada pada koordinat 1.009° LU, 121.759°BT, dengan...</p><p class="nsp_info  tleft fleft"> 01 Jul 2016 <a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami" >Berita Gempabumi Tsunami</a></p><p class="nsp_info  tleft fleft"></p></div></div>
+														<div class="nsp_art unvisible" style="width:100%;"><div style="padding:2px 4px 2px 4px"><h4 class="nsp_header tleft fnone"><a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami/1231-tanggapan-gempa-papua-barat-51-sr-28-juni-2016" title="TANGGAPAN GEMPA PAPUA BARAT - 5.1 SR - 28 JUNI 2016">TANGGAPAN GEMPA PAPUA BARAT - 5.1 SR - 28 JUNI 2016</a></h4><a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami/1231-tanggapan-gempa-papua-barat-51-sr-28-juni-2016" class=" tleft fleft" title="TANGGAPAN GEMPA PAPUA BARAT - 5.1 SR - 28 JUNI 2016"><img class="nsp_image tleft fleft" src="/images/stories/pvmbg/gempabumi/tanggapan_2016/Jun%202016/TG%20PAPUA%2028%20JUNI2016.JPG" alt="TANGGAPAN GEMPA PAPUA BARAT - 5.1 SR - 28 JUNI 2016" title="TANGGAPAN GEMPA PAPUA BARAT - 5.1 SR - 28 JUNI 2016" style="width:160px;height:120px;margin:3px 5px 3px 5px;"  /></a><p class="nsp_text tleft fleft">TANGGAPAN GEMPA PAPUA BARAT
+5.1 SR - 28 JUNI 2016
+
+
+Bersama ini, kami sampaikan tanggapan kejadian gempabumi di Barat daya Provinsi Papua Barat, berdasarkan informasi yang diperoleh dari berbagai sumber dan analisis dari Pusat Vulkanologi dan Mitigasi Bencana Geologi (PVMBG), Badan Geologi, sebagai berikut:
+
+1.	Gempabumi terjadi pada hari Selasa, 28 Juni 2016 pukul 20:55:52 WIB. Berdasarkan informasi dari Badan Meteorologi, Klimatologi dan Geofisika (BMKG), pusat gempabumi berada pada koordinat 133,84° BT dan 4,18° LS (99 km sebelah Baratdaya Kaimana, Papua Barat), dengan magnitudo 5,1 SR pada kedalaman 10 km. The United State Geological Survey (USGS) merilis bahwa gempa bumi yang terjadi berpusat di...</p><p class="nsp_info  tleft fleft"> 29 Jun 2016 <a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami" >Berita Gempabumi Tsunami</a></p><p class="nsp_info  tleft fleft"></p></div></div>
+														<div class="nsp_art unvisible" style="width:100%;"><div style="padding:2px 4px 2px 4px"><h4 class="nsp_header tleft fnone"><a href="/index.php/kegiatan-pvmbg/kegiatan-diseminasi-informasi/1232-peta-prakiraan-wilayah-potensi-terjadi-gerakan-tanah-di-sepanjang-jalur-mudik" title="Peta Prakiraan Wilayah Potensi Terjadi Gerakan Tanah di Sepanjang Jalur Mudik">Peta Prakiraan Wilayah Potensi Terjadi Gerakan Tanah di Sepanjang Jalur Mudik</a></h4><a href="/index.php/kegiatan-pvmbg/kegiatan-diseminasi-informasi/1232-peta-prakiraan-wilayah-potensi-terjadi-gerakan-tanah-di-sepanjang-jalur-mudik" class=" tleft fleft" title="Peta Prakiraan Wilayah Potensi Terjadi Gerakan Tanah di Sepanjang Jalur Mudik"><img class="nsp_image tleft fleft" src="/images/stories/pvmbg/gerakantanah/2016/Jawa%20Barat.jpg" alt="Peta Prakiraan Wilayah Potensi Terjadi Gerakan Tanah di Sepanjang Jalur Mudik" title="Peta Prakiraan Wilayah Potensi Terjadi Gerakan Tanah di Sepanjang Jalur Mudik" style="width:160px;height:120px;margin:3px 5px 3px 5px;"  /></a><p class="nsp_text tleft fleft">
+ 
+Berikut kami sampaikan Peta Prakiraan Wilayah Potensi Terjadi Gerakan Tanah di Sepanjang Jalur Mudik&nbsp;dalam rangka kesiapsiagaan Idul Fitri 2016 :
+
+Jawa Barat, Selengkapnya.
+Jawa Tengah,&nbsp;Selengkapnya.
+Jawa Timur,&nbsp;Selengkapnya.
+Sumatera Barat,&nbsp;Selengkapnya.
+Sulawesi Selatan,&nbsp;Selengkapnya.
+Banyuwangi
+Ciamis
+Cianjur
+Garut
+Pacitan
+Ponorogo
+Purwakarta
+Situbondo
+Sumedang
+Tasikmalaya
+Trenggalek
+
+Update Peringatan Dini Gerakan Tanah Bulan Juli 2016 :
+
+Bandung Barat Juli 2016
+Bogor Juli 2016
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;...</p><p class="nsp_info  tleft fleft"> 29 Jun 2016 <a href="/index.php/kegiatan-pvmbg/kegiatan-diseminasi-informasi" >Berita Diseminasi Informasi</a></p><p class="nsp_info  tleft fleft"></p></div></div>
+														<div class="nsp_art unvisible" style="width:100%;"><div style="padding:2px 4px 2px 4px"><h4 class="nsp_header tleft fnone"><a href="/index.php/kegiatan-pvmbg/kegiatan-diseminasi-informasi/1230-peta-peringatan-bahaya-gunungapi-dalam-rangka-kesiapsiagaan-idul-fitri-2016" title="Peta Peringatan Bahaya Gunungapi Dalam Rangka Kesiapsiagaan Idul Fitri 2016">Peta Peringatan Bahaya Gunungapi Dalam Rangka Kesiapsiagaan Idul Fitri 2016</a></h4><a href="/index.php/kegiatan-pvmbg/kegiatan-diseminasi-informasi/1230-peta-peringatan-bahaya-gunungapi-dalam-rangka-kesiapsiagaan-idul-fitri-2016" class=" tleft fleft" title="Peta Peringatan Bahaya Gunungapi Dalam Rangka Kesiapsiagaan Idul Fitri 2016"><img class="nsp_image tleft fleft" src="/images/stories/pvmbg/gunungapi/bromo/Bromo%205%20(26-02-16).jpg" alt="Peta Peringatan Bahaya Gunungapi Dalam Rangka Kesiapsiagaan Idul Fitri 2016" title="Peta Peringatan Bahaya Gunungapi Dalam Rangka Kesiapsiagaan Idul Fitri 2016" style="width:160px;height:120px;margin:3px 5px 3px 5px;"  /></a><p class="nsp_text tleft fleft">
+ 
+Berikut kami sampaikan Peta Peringatan Bahaya Gunungapi dalam rangka kesiapsiagaan Idul Fitri 2016 :
+
+Bengkulu
+Jambi
+Jawa Barat
+Jawa Tengah
+Jawa Timur
+Lampung
+Maluku Utara
+NTB
+Sulawesi Utara
+Sumatera Barat
+Sumatera Utara
+
+ 
+Berikut Kami Lampirkan Lampiran Surat Peta Peringatan Dini Bahaya Gunungapi dalam rangka Kesiapsiagaan Idul Fitri 2016, Dapat di Download DI SINI
+ 
+
+ 
+ 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;...</p><p class="nsp_info  tleft fleft"> 29 Jun 2016 <a href="/index.php/kegiatan-pvmbg/kegiatan-diseminasi-informasi" >Berita Diseminasi Informasi</a></p><p class="nsp_info  tleft fleft"></p></div></div>
+														<div class="nsp_art unvisible" style="width:100%;"><div style="padding:2px 4px 2px 4px"><h4 class="nsp_header tleft fnone"><a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami/1229-tanggapan-gempa-lampung-50-sr-28-juni-2016-" title="TANGGAPAN GEMPA LAMPUNG - 5.0 SR - 28 JUNI 2016 ">TANGGAPAN GEMPA LAMPUNG - 5.0 SR - 28 JUNI 2016 </a></h4><a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami/1229-tanggapan-gempa-lampung-50-sr-28-juni-2016-" class=" tleft fleft" title="TANGGAPAN GEMPA LAMPUNG - 5.0 SR - 28 JUNI 2016 "><img class="nsp_image tleft fleft" src="/images/stories/pvmbg/gempabumi/tanggapan_2016/Jun%202016/TG%20LAMPUNG_28JUNI2016.JPG" alt="TANGGAPAN GEMPA LAMPUNG - 5.0 SR - 28 JUNI 2016 " title="TANGGAPAN GEMPA LAMPUNG - 5.0 SR - 28 JUNI 2016 " style="width:160px;height:120px;margin:3px 5px 3px 5px;"  /></a><p class="nsp_text tleft fleft"> TANGGAPAN GEMPA LAMPUNG
+5.0 SR - 28 JUNI 2016 
+ 
+Bersama ini, kami sampaikan laporan tanggapan terjadinya gempabumi di Selat Sunda, Kabupaten Lampung Selatan, Provinsi Lampung. Berdasarkan informasi yang diperoleh dari Badan Meteorologi, Klimatologi, dan Geofisika (BMKG), United States Geological Survey (USGS), dan Geo Forschungs Zentrum (GFZ) Potsdam, Jerman sebagai berikut: 
+  1.	Gempabumi terjadi pada tanggal 28 Juni 2016, pukul 10:32:47 WIB, dengan informasi sebagai berikut: •	BMKG: pusat gempabumi berada pada koordinat 6.12°LS dan 105.33°BT dengan magnitudo 5.0 SR pada kedalaman 10 km (berjarak 52 km barat daya dari Kalianda, Lampung Selatan, dan 74 km arah barat dari Cilegon, Banten)...</p><p class="nsp_info  tleft fleft"> 29 Jun 2016 <a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami" >Berita Gempabumi Tsunami</a></p><p class="nsp_info  tleft fleft"></p></div></div>
+														<div class="nsp_art unvisible" style="width:100%;"><div style="padding:2px 4px 2px 4px"><h4 class="nsp_header tleft fnone"><a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami/1227--tanggapan-gempa-ternate-50-sr-22-juni-2016" title=" TANGGAPAN GEMPA TERNATE - 5.0 SR - 22 JUNI 2016"> TANGGAPAN GEMPA TERNATE - 5.0 SR - 22 JUNI 2016</a></h4><a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami/1227--tanggapan-gempa-ternate-50-sr-22-juni-2016" class=" tleft fleft" title=" TANGGAPAN GEMPA TERNATE - 5.0 SR - 22 JUNI 2016"><img class="nsp_image tleft fleft" src="/images/stories/pvmbg/gempabumi/tanggapan_2016/Jun%202016/tg%20ternate%2023%20juni.JPG" alt=" TANGGAPAN GEMPA TERNATE - 5.0 SR - 22 JUNI 2016" title=" TANGGAPAN GEMPA TERNATE - 5.0 SR - 22 JUNI 2016" style="width:160px;height:120px;margin:3px 5px 3px 5px;"  /></a><p class="nsp_text tleft fleft">TANGGAPAN GEMPA TERNATE 5.0 SR - 22 JUNI 2016 
+  Bersama ini, kami sampaikan tanggapan kejadian gempabumi di Barat Daya Ternate, Maluku Utara, berdasarkan informasi yang diperoleh dari berbagai sumber dan analisis dari Pusat Vulkanologi dan Mitigasi Bencana Geologi (PVMBG), Badan Geologi, sebagai berikut: 
+  1.	Gempabumi terjadi pada hari Rabu, 22 Juni 2016 pukul 18:00:00 WIB. Berdasarkan informasi dari Badan Meteorologi, Klimatologi dan Geofisika (BMKG), pusat gempabumi berada pada koordinat 126.96° BT dan 0.53° LU (54 km sebelah Barat Daya Ternate, Maluku Utara), dengan magnitudo 5.0 SR pada kedalaman 50 km. The United State Geological Survey (USGS) merilis...</p><p class="nsp_info  tleft fleft"> 23 Jun 2016 <a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami" >Berita Gempabumi Tsunami</a></p><p class="nsp_info  tleft fleft"></p></div></div>
+														<div class="nsp_art unvisible" style="width:100%;"><div style="padding:2px 4px 2px 4px"><h4 class="nsp_header tleft fnone"><a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami/1226--tanggapan-gempa-nias-sumut-51-sr-22-juni-2016" title=" TANGGAPAN GEMPA NIAS, SUMUT - 5.1 SR - 22 JUNI 2016"> TANGGAPAN GEMPA NIAS, SUMUT - 5.1 SR - 22 JUNI 2016</a></h4><a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami/1226--tanggapan-gempa-nias-sumut-51-sr-22-juni-2016" class=" tleft fleft" title=" TANGGAPAN GEMPA NIAS, SUMUT - 5.1 SR - 22 JUNI 2016"><img class="nsp_image tleft fleft" src="/images/stories/pvmbg/gempabumi/tanggapan_2016/Jun%202016/TabelNias22Juni2016.GIF" alt=" TANGGAPAN GEMPA NIAS, SUMUT - 5.1 SR - 22 JUNI 2016" title=" TANGGAPAN GEMPA NIAS, SUMUT - 5.1 SR - 22 JUNI 2016" style="width:160px;height:120px;margin:3px 5px 3px 5px;"  /></a><p class="nsp_text tleft fleft">TANGGAPAN GEMPA NIAS, SUMUT 5.1 SR - 22 JUNI 2016 
+ 
+Bersama ini, kami sampaikan tanggapan kejadian gempabumi di sekitar Pulau Nias, Provinsi Sumatera Utara, berdasarkan informasi yang diperoleh dari berbagai sumber dan analisis dari Pusat Vulkanologi dan Mitigasi Bencana Geologi (PVMBG), Badan Geologi, sebagai berikut: 
+  1.	Gempabumi terjadi pada hari Rabu, 22 Juni 2016 pukul 09:42 WIB. Berdasarkan informasi dari Badan Meteorologi, Klimatologi dan Geofisika (BMKG), pusat gempabumi berada pada koordinat 97,29° BT dan 0,91° LU atau terletak di sebelah barat Pulau Nias, sekitar 50 km sebelah barat daya Gunungsitoli, Nias, Sumatera Utara, dengan magnitudo 5,1 SR pada kedalaman...</p><p class="nsp_info  tleft fleft"> 22 Jun 2016 <a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami" >Berita Gempabumi Tsunami</a></p><p class="nsp_info  tleft fleft"></p></div></div>
+														<div class="nsp_art unvisible" style="width:100%;"><div style="padding:2px 4px 2px 4px"><h4 class="nsp_header tleft fnone"><a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami/1225-tanggapan-gempa-mentawai-53-sr-21-juni-2016" title="﻿﻿TANGGAPAN GEMPA MENTAWAI - 5.3 SR - 21 JUNI 2016">﻿﻿TANGGAPAN GEMPA MENTAWAI - 5.3 SR - 21 JUNI 2016</a></h4><a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami/1225-tanggapan-gempa-mentawai-53-sr-21-juni-2016" class=" tleft fleft" title="﻿﻿TANGGAPAN GEMPA MENTAWAI - 5.3 SR - 21 JUNI 2016"><img class="nsp_image tleft fleft" src="/images/stories/pvmbg/gempabumi/tanggapan_2016/Jun%202016/TG%20Mentawai%2021Juni2016.GIF" alt="﻿﻿TANGGAPAN GEMPA MENTAWAI - 5.3 SR - 21 JUNI 2016" title="﻿﻿TANGGAPAN GEMPA MENTAWAI - 5.3 SR - 21 JUNI 2016" style="width:160px;height:120px;margin:3px 5px 3px 5px;"  /></a><p class="nsp_text tleft fleft">
+
+5.3 SR - 21 JUNI 2016
+
+
+
+ 
+
+
+
+Bersama ini, kami sampaikan laporan tanggapan terjadinya gempa bumi di tenggara Kepulauan Mentawai, Sumatera Barat, berdasarkan informasi yang diperoleh dari BMKG dan USGS, sebagai berikut :
+
+
+
+
+
+1.	Gempa bumi terjadi hari Selasa, tanggal 21 Juni 2016, pukul 21:10:23 WIB. Menurut BMKG, pusat gempa bumi berada pada koordinat 99,33° BT dan 2,21° LS, dengan magnitudo 5,3 SR pada kedalaman 34 km, berjarak 98 km tenggara Kepulauan Mentawai, Sumatera Barat. Sementara menurut USGS gempa bumi berada pada koordinat 99,44° BT dan 2,158° LS, dengan magnitudo 5,3 SR pada kedalaman 28,5 km, berjarak 67 km tenggara Muara, Pulau Siberut. Menurut...</p><p class="nsp_info  tleft fleft"> 22 Jun 2016 <a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami" >Berita Gempabumi Tsunami</a></p><p class="nsp_info  tleft fleft"></p></div></div>
+														<div class="nsp_art unvisible" style="width:100%;"><div style="padding:2px 4px 2px 4px"><h4 class="nsp_header tleft fnone"><a href="/index.php/gerakan-tanah/kejadian-gerakan-tanah/1224-tanggapan-bencana-gerakan-tanah-di-kecamatan-tahuna-barat-kabupaten-sangihe-provinsi-sulawesi-utara" title="Tanggapan bencana gerakan tanah di Kecamatan Tahuna Barat, Kabupaten Sangihe, Provinsi Sulawesi Utara">Tanggapan bencana gerakan tanah di Kecamatan Tahuna Barat, Kabupaten Sangihe, Provinsi Sulawesi Utar&hellip;</a></h4><a href="/index.php/gerakan-tanah/kejadian-gerakan-tanah/1224-tanggapan-bencana-gerakan-tanah-di-kecamatan-tahuna-barat-kabupaten-sangihe-provinsi-sulawesi-utara" class=" tleft fleft" title="Tanggapan bencana gerakan tanah di Kecamatan Tahuna Barat, Kabupaten Sangihe, Provinsi Sulawesi Utara"><img class="nsp_image tleft fleft" src="/images/stories/pvmbg/gerakantanah/2016/Tahuna%201%20(21-06-16).jpg" alt="Tanggapan bencana gerakan tanah di Kecamatan Tahuna Barat, Kabupaten Sangihe, Provinsi Sulawesi Utara" title="Tanggapan bencana gerakan tanah di Kecamatan Tahuna Barat, Kabupaten Sangihe, Provinsi Sulawesi Utara" style="width:160px;height:120px;margin:3px 5px 3px 5px;"  /></a><p class="nsp_text tleft fleft">Tanggapan bencana gerakan tanah di Kecamatan Tahuna Barat, Kabupaten Sangihe, Provinsi Sulawesi Utara, berdasarkan pemberitaan di www.antaranews.com pada Hari Selasa, 21 Juni 2016, sebagai berikut :
+1. Lokasi dan waktu kejadian :
+ 
+Bencana gerakan tanah terjadi pada hari Selasa, tanggal 21 Juni 2016. Bencana tersebut terjadi di Kelurahan Kolongan Beha, Kecamatan Tahuna Barat, Kabupaten Sangihe, Provinsi Sulawesi Utara. Menurut informasi dari Pos G. Awu, di Kepulauan Sangihe dan sekitarnya terjadi hujanyang disertai angin Barat sejak kemarin sore hingga siang ini.
+ 
+2. Jenis bencana : 
+Bencana gerakan tanah yang terjadi diperkirakan longsoran bahan rombakan dan banjir bandang.&nbsp;
+ 
+3. Dampak gerakan tanah :
+  
+
+Ratusan...</p><p class="nsp_info  tleft fleft"> 21 Jun 2016 <a href="/index.php/gerakan-tanah/kejadian-gerakan-tanah" >Berita Gerakan Tanah</a></p><p class="nsp_info  tleft fleft"></p></div></div>
+														<div class="nsp_art unvisible" style="width:100%;"><div style="padding:2px 4px 2px 4px"><h4 class="nsp_header tleft fnone"><a href="/index.php/gerakan-tanah/kejadian-gerakan-tanah/1223-tanggapan-bencana-gerakan-tanah-kec-loano-kec-kaligesing-dan-kec-purworejo-kab-purworejo-provinsi-jawa-tengah" title="Tanggapan Bencana Gerakan Tanah Kec. Loano, Kec. Kaligesing dan Kec. Purworejo, Kab. Purworejo Provinsi Jawa Tengah">Tanggapan Bencana Gerakan Tanah Kec. Loano, Kec. Kaligesing dan Kec. Purworejo, Kab. Purworejo Provi&hellip;</a></h4><a href="/index.php/gerakan-tanah/kejadian-gerakan-tanah/1223-tanggapan-bencana-gerakan-tanah-kec-loano-kec-kaligesing-dan-kec-purworejo-kab-purworejo-provinsi-jawa-tengah" class=" tleft fleft" title="Tanggapan Bencana Gerakan Tanah Kec. Loano, Kec. Kaligesing dan Kec. Purworejo, Kab. Purworejo Provinsi Jawa Tengah"><img class="nsp_image tleft fleft" src="/images/stories/pvmbg/gerakantanah/2016/Purworejo%201%20(20-06-16).jpg" alt="Tanggapan Bencana Gerakan Tanah Kec. Loano, Kec. Kaligesing dan Kec. Purworejo, Kab. Purworejo Provinsi Jawa Tengah" title="Tanggapan Bencana Gerakan Tanah Kec. Loano, Kec. Kaligesing dan Kec. Purworejo, Kab. Purworejo Provinsi Jawa Tengah" style="width:160px;height:120px;margin:3px 5px 3px 5px;"  /></a><p class="nsp_text tleft fleft">Tanggapan bencana gerakan tanah di Kecamatan Loano, Kecamatan Kaligesing dan Kecamatan Purworejo, Kabupaten Purworejo, Provinsi Jawa Tengah, berdasarkan pemberitaan media kompas.com hari Minggu, 19 Juni 2016, sebagai berikut:
+&nbsp;1. Lokasi dan waktu kejadian:
+Gerakan tanah terjadi di Dusun Caok, Desa Karangrejo, Kecamatan Loano, lalu di Desa Jelog, Kecamatan Kaligesing dan di Desa Donorati, Desa Pacekelan dan Desa Sidomulyo, Kecamatan Purworejo, Kabupaten Purworejo, Provinsi Jawa Tengah pada hari Sabtu, 18 Juni 2016.
+ 
+2. Jenis gerakan tanah: 
+Jenis gerakan tanah berupa longsoran bahan rombakan yang terjadi pada lereng di sekitar pemukiman warga. Di Dusun Caok kemudian terjadi longsoran susulan tidak lama setelah longsor pertama terjadi.
+ 
+3....</p><p class="nsp_info  tleft fleft"> 20 Jun 2016 <a href="/index.php/gerakan-tanah/kejadian-gerakan-tanah" >Berita Gerakan Tanah</a></p><p class="nsp_info  tleft fleft"></p></div></div>
+														<div class="nsp_art unvisible" style="width:100%;"><div style="padding:2px 4px 2px 4px"><h4 class="nsp_header tleft fnone"><a href="/index.php/gerakan-tanah/kejadian-gerakan-tanah/1222-tanggapan-bencana-gerakan-tanah-kecamatan-susukan-kabupaten-banjarnegara-provinsi-jawa-tengah" title="Tanggapan bencana gerakan tanah Kecamatan Susukan, Kabupaten Banjarnegara, Provinsi Jawa Tengah">Tanggapan bencana gerakan tanah Kecamatan Susukan, Kabupaten Banjarnegara, Provinsi Jawa Tengah</a></h4><a href="/index.php/gerakan-tanah/kejadian-gerakan-tanah/1222-tanggapan-bencana-gerakan-tanah-kecamatan-susukan-kabupaten-banjarnegara-provinsi-jawa-tengah" class=" tleft fleft" title="Tanggapan bencana gerakan tanah Kecamatan Susukan, Kabupaten Banjarnegara, Provinsi Jawa Tengah"><img class="nsp_image tleft fleft" src="/images/stories/pvmbg/gerakantanah/2016/Banjarnegara%201%20(20-06-16).jpg" alt="Tanggapan bencana gerakan tanah Kecamatan Susukan, Kabupaten Banjarnegara, Provinsi Jawa Tengah" title="Tanggapan bencana gerakan tanah Kecamatan Susukan, Kabupaten Banjarnegara, Provinsi Jawa Tengah" style="width:160px;height:120px;margin:3px 5px 3px 5px;"  /></a><p class="nsp_text tleft fleft">Tanggapan bencana gerakan tanah di Desa Gumelem Kulon dan Dusun Wanarata , Kecamatan Susukan, Kabupaten Banjarnegara, Provinsi Jawa Tengah, berdasarkan pemberitaan di tribunjogja.com &nbsp;hari Minggu, 19 Juni 2016,&nbsp; sebagai berikut :
+1. Lokasi dan waktu kejadian :
+ 
+Bencana gerakan tanah terjadi pada hari Sabtu, tanggal 18 Juni 2016. Bencana tersebut terjadi di Desa Gumelem Kulon dan Dusun Wanarata, Kecamatan Susukan, Kabupaten Banjarnegara, Provinsi Jawa Tengah.
+ 
+2. Jenis bencana : 
+Bencana gerakan tanah yang terjadi diperkirakan longsoran bahan rombakan.
+ 
+3. Dampak gerakan tanah :  
+
+6 (enam) orang meninggal
+
+ 
+4. Kondisi daerah bencana :  
+
+Berdasarkan Peta Rupabumi Indonesia Lembar Tambak, 1308-344 (Bakosurtanal, 2000), bentang...</p><p class="nsp_info  tleft fleft"> 20 Jun 2016 <a href="/index.php/gerakan-tanah/kejadian-gerakan-tanah" >Berita Gerakan Tanah</a></p><p class="nsp_info  tleft fleft"></p></div></div>
+														<div class="nsp_art unvisible" style="width:100%;"><div style="padding:2px 4px 2px 4px"><h4 class="nsp_header tleft fnone"><a href="/index.php/gerakan-tanah/kejadian-gerakan-tanah/1221-tanggapan-bencana-gerakan-tanah-di-kec-sempor-dan-kec-buayan-kabupaten-kebumen-provinsi-jawa-tengah" title="Tanggapan bencana gerakan tanah di Kec. Sempor dan Kec. Buayan, Kabupaten Kebumen, Provinsi Jawa Tengah">Tanggapan bencana gerakan tanah di Kec. Sempor dan Kec. Buayan, Kabupaten Kebumen, Provinsi Jawa Ten&hellip;</a></h4><a href="/index.php/gerakan-tanah/kejadian-gerakan-tanah/1221-tanggapan-bencana-gerakan-tanah-di-kec-sempor-dan-kec-buayan-kabupaten-kebumen-provinsi-jawa-tengah" class=" tleft fleft" title="Tanggapan bencana gerakan tanah di Kec. Sempor dan Kec. Buayan, Kabupaten Kebumen, Provinsi Jawa Tengah"><img class="nsp_image tleft fleft" src="/images/stories/pvmbg/gerakantanah/2016/Kebumen%201%20(20-06-16).jpg" alt="Tanggapan bencana gerakan tanah di Kec. Sempor dan Kec. Buayan, Kabupaten Kebumen, Provinsi Jawa Tengah" title="Tanggapan bencana gerakan tanah di Kec. Sempor dan Kec. Buayan, Kabupaten Kebumen, Provinsi Jawa Tengah" style="width:160px;height:120px;margin:3px 5px 3px 5px;"  /></a><p class="nsp_text tleft fleft">Tanggapan gerakan tanah dan banjir bandang di Kecamatan Sempur dan Kecamatan Buayan, Kabupaten Kebumen, Provinsi Jawa Tengah, berdasarkan informasi dari Kepala Pusat Data Informasi dan Humas BNPB serta pemberitaan dari www.tribunnews.com pada Sabtu, 18 Juni 2016, sebagai berikut :&nbsp;
+1. Lokasi dan Waktu Kejadian : 
+Gerakan tanah terjadi di dukuh Semapir, Desa Sampang, Kecamatan Sempur sedangkan banjir bandang terjadi di Desa Jatiroto dan Desa Purbowangi, Kecamatan Buayan, Kabupaten Kebumen, Provinsi Jawa Tengah. Gerakan tanah dan banjir banjir bandang terjadi pada Sabtu, 18 Juni 2016 setelah diguyur hujan deras.
+ 
+2. Jenis Gerakan Tanah : 
+Gerakan tanah yang terjadi Desa Sampang di diperkirakan berupa...</p><p class="nsp_info  tleft fleft"> 20 Jun 2016 <a href="/index.php/gerakan-tanah/kejadian-gerakan-tanah" >Berita Gerakan Tanah</a></p><p class="nsp_info  tleft fleft"></p></div></div>
+														<div class="nsp_art unvisible" style="width:100%;"><div style="padding:2px 4px 2px 4px"><h4 class="nsp_header tleft fnone"><a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami/1220--tanggapan-gempa-bengkulu-54-sr-19-juni-2016" title=" TANGGAPAN GEMPA BENGKULU - 5.4 SR - 19 JUNI 2016"> TANGGAPAN GEMPA BENGKULU - 5.4 SR - 19 JUNI 2016</a></h4><a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami/1220--tanggapan-gempa-bengkulu-54-sr-19-juni-2016" class=" tleft fleft" title=" TANGGAPAN GEMPA BENGKULU - 5.4 SR - 19 JUNI 2016"><img class="nsp_image tleft fleft" src="/images/stories/pvmbg/gempabumi/tanggapan_2016/Jun%202016/TG%20MUKO%2020160619.JPG" alt=" TANGGAPAN GEMPA BENGKULU - 5.4 SR - 19 JUNI 2016" title=" TANGGAPAN GEMPA BENGKULU - 5.4 SR - 19 JUNI 2016" style="width:160px;height:120px;margin:3px 5px 3px 5px;"  /></a><p class="nsp_text tleft fleft">TANGGAPAN GEMPA BENGKULU 5.4 SR - 19 JUNI 2016 
+  Bersama ini kami sampaikan laporan tanggapan terjadinya gempabumi di selatan Mukomuko, Provinsi Bengkulu berdasarkan informasi yang diperoleh dari BMKG, USGS dan data lainnya sebagai berikut: 
+  1.	Gempabumi tersebut terjadi pada hari Minggu, tanggal 19 Juni 2016. Berdasarkan informasi dari BMKG kejadian gempabumi tersebut terjadi pada pukul 04:15:51 WIB, pusat gempabumi berada di Samudera Hindia pada koordinat 3,23°LS dan 101,32°BT dengan magnitudo 5,4 SR (Skala Richter) pada kedalaman 10 km, berjarak sekitar 76 km selatan Kota Mukomuko. Menurut USGS, pusat gempabumi berada di Samudera Hindia pada koordinat 3,375°LS dan...</p><p class="nsp_info  tleft fleft"> 19 Jun 2016 <a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami" >Berita Gempabumi Tsunami</a></p><p class="nsp_info  tleft fleft"></p></div></div>
+														<div class="nsp_art unvisible" style="width:100%;"><div style="padding:2px 4px 2px 4px"><h4 class="nsp_header tleft fnone"><a href="/index.php/gunungapi/aktivitas-gunungapi/1219-penurunan-aktivitas-gunung-kie-besi" title="PENURUNAN AKTIVITAS GUNUNG KIE BESI">PENURUNAN AKTIVITAS GUNUNG KIE BESI</a></h4><a href="/index.php/gunungapi/aktivitas-gunungapi/1219-penurunan-aktivitas-gunung-kie-besi" class=" tleft fleft" title="PENURUNAN AKTIVITAS GUNUNG KIE BESI"><img class="nsp_image tleft fleft" src="/images/stories/pvmbg/gunungapi/KieBesi/Kie%20Besi%201%20(17-06-16).jpg" alt="PENURUNAN AKTIVITAS GUNUNG KIE BESI" title="PENURUNAN AKTIVITAS GUNUNG KIE BESI" style="width:160px;height:120px;margin:3px 5px 3px 5px;"  /></a><p class="nsp_text tleft fleft">Hasil evaluasi aktivitas G. Kie Besi, Kabupaten Halmahera Selatan, Provinsi Maluku Utara, periode 1 Januari&nbsp; hingga 15 Juni&nbsp; 2016 berdasarkan data pengamatan visual dan instrumental sebagai berikut:
+&nbsp;I. Pendahuluan
+
+G. Kie Besi terletak di Pulau Makian, Kabupaten Halmahera Selatan, Provinsi Maluku Utara. Secara geografis puncaknya terletak pada 0º 19’ LU dan 127º&nbsp; 24'&nbsp; BT dengan ketinggian puncak 1357 mdpl. G. Kie Besi merupakan gunungapi strato yang memiliki 1 (satu) kawah utama.
+Karakter letusan G. Kie Besi umumnya bersifat eksplosif (mengeluarkan bahan-bahan piroklastik seperti lontaran bom vulkanik, lapilli, dan abu vulkanik) dan efusif (aliran lava dan aliran piroklastika). G. Kie Besi meletus besar terakhir...</p><p class="nsp_info  tleft fleft"> 17 Jun 2016 <a href="/index.php/gunungapi/aktivitas-gunungapi" >Berita Gunungapi</a></p><p class="nsp_info  tleft fleft"></p></div></div>
+					
+			</div>
+				
+			</div>
+
+
+
+<script type="text/javascript">
+//<![CDATA[
+try {$Gavick;}catch(e){$Gavick = {};};
+$Gavick["nsp-nsp_118"] = {
+	"animation_speed": 350,
+	"animation_interval": 5000,
+	"news_column": 1,
+	"news_rows": 3,
+	"links_columns_amount": 1,
+	"links_amount": 0,
+	"counter_text": '<strong>Page:</strong>'
+};
+//]]>
+</script>			</div>
+	
+					
+<!-- Intro Article -->
+<!-- end of article intro -->
+
+
+<!-- Pagination Links -->
+<div id="wrapper-pagination">
+</div>
+<!-- End of Pagination Links -->
+
+				</div>
+				<div>
+							<div class="module module_wide">
+					<h3>Aktifitas Gunungapi</h3>
+					
+<div class="nsp_main_portal_mode1 nsp_fs100" id="nsp-nsp_127" style="width:100%;">
+		<div class="nsp_top_interface">
+		<span class="prev">Prev</span>
+		<span class="next">Next</span>
+	</div>
+
+	<div class="nsp_arts" style="height:320px;">
+					<div class="nsp_art">
+				<div style="padding:2px 4px 2px 4px">
+					<h4 class="nsp_header tleft fnone"><a href="/index.php/gunungapi/aktivitas-gunungapi/1248-kronologi-erupsi-abu-rinjani-1-agustus-2016" title="Kronologi Erupsi Abu Rinjani 1 Agustus 2016:">Kronologi Erupsi Abu Rinjani 1 Agustus 2016:</a></h4><a href="/index.php/gunungapi/aktivitas-gunungapi/1248-kronologi-erupsi-abu-rinjani-1-agustus-2016" class=" tleft fleft" title="Kronologi Erupsi Abu Rinjani 1 Agustus 2016:"><img class="nsp_image tleft fleft" src="/images/stories/pvmbg/gunungapi/rinjani/rinjani%201%20agustus.jpeg" alt="Kronologi Erupsi Abu Rinjani 1 Agustus 2016:" title="Kronologi Erupsi Abu Rinjani 1 Agustus 2016:" style="width:160px;height:120px;margin:3px 5px 3px 5px;"  /></a><p class="nsp_text tleft fleft">1. Dari alat seismograf erupsi abu terjadi pk. 11:50 WITA.Setelah goncangan II-III MMI dirasakan di sekitar G. Rinjani termasuk Kec....</p><p class="nsp_info  tleft fleft">03 Aug 2016Berita Gunungapi</p><p class="nsp_info  tleft fleft"></p>				</div>
+			</div>
+					<div class="nsp_art">
+				<div style="padding:2px 4px 2px 4px">
+					<h4 class="nsp_header tleft fnone"><a href="/index.php/gunungapi/aktivitas-gunungapi/1247-erupsi-g-gamalama-3-agustus-2016" title="Erupsi G. Gamalama, 3 Agustus 2016">Erupsi G. Gamalama, 3 Agustus 2016</a></h4><a href="/index.php/gunungapi/aktivitas-gunungapi/1247-erupsi-g-gamalama-3-agustus-2016" class=" tleft fleft" title="Erupsi G. Gamalama, 3 Agustus 2016"><img class="nsp_image tleft fleft" src="/images/stories/pvmbg/gamalama/Gamalama%203%20agustus.jpg" alt="Erupsi G. Gamalama, 3 Agustus 2016" title="Erupsi G. Gamalama, 3 Agustus 2016" style="width:160px;height:120px;margin:3px 5px 3px 5px;"  /></a><p class="nsp_text tleft fleft">Kronologi
+1. Pada pukul 06.14.12 WIT terekam gempa Tektonik (info dari BMKG, 86 km Barat Daya Halmahera Barat, kedalaman 18Km, 4.6SR),...</p><p class="nsp_info  tleft fleft">03 Aug 2016Berita Gunungapi</p><p class="nsp_info  tleft fleft"></p>				</div>
+			</div>
+					<div class="nsp_art">
+				<div style="padding:2px 4px 2px 4px">
+					<h4 class="nsp_header tleft fnone"><a href="/index.php/gunungapi/aktivitas-gunungapi/1219-penurunan-aktivitas-gunung-kie-besi" title="PENURUNAN AKTIVITAS GUNUNG KIE BESI">PENURUNAN AKTIVITAS GUNUNG KIE BESI</a></h4><a href="/index.php/gunungapi/aktivitas-gunungapi/1219-penurunan-aktivitas-gunung-kie-besi" class=" tleft fleft" title="PENURUNAN AKTIVITAS GUNUNG KIE BESI"><img class="nsp_image tleft fleft" src="/images/stories/pvmbg/gunungapi/KieBesi/Kie%20Besi%201%20(17-06-16).jpg" alt="PENURUNAN AKTIVITAS GUNUNG KIE BESI" title="PENURUNAN AKTIVITAS GUNUNG KIE BESI" style="width:160px;height:120px;margin:3px 5px 3px 5px;"  /></a><p class="nsp_text tleft fleft">Hasil evaluasi aktivitas G. Kie Besi, Kabupaten Halmahera Selatan, Provinsi Maluku Utara, periode 1 Januari&nbsp; hingga 15 Juni&nbsp; 2016 berdasarkan...</p><p class="nsp_info  tleft fleft">17 Jun 2016Berita Gunungapi</p><p class="nsp_info  tleft fleft"></p>				</div>
+			</div>
+					<div class="nsp_art">
+				<div style="padding:2px 4px 2px 4px">
+					<h4 class="nsp_header tleft fnone"><a href="/index.php/gunungapi/aktivitas-gunungapi/1217-penurunan-aktivitas-gunung-awu" title="PENURUNAN AKTIVITAS GUNUNG AWU">PENURUNAN AKTIVITAS GUNUNG AWU</a></h4><a href="/index.php/gunungapi/aktivitas-gunungapi/1217-penurunan-aktivitas-gunung-awu" class=" tleft fleft" title="PENURUNAN AKTIVITAS GUNUNG AWU"><img class="nsp_image tleft fleft" src="/images/stories/pvmbg/gunungapi/Awu/Awu%201%20(16-06-16).jpg" alt="PENURUNAN AKTIVITAS GUNUNG AWU" title="PENURUNAN AKTIVITAS GUNUNG AWU" style="width:160px;height:120px;margin:3px 5px 3px 5px;"  /></a><p class="nsp_text tleft fleft">Hasil evaluasi tingkat aktivitas Gunungapi Awu di Kabupaten Kepulauan Sangihe, Provinsi Sulawesi Utara, hingga tanggal 14 Juni 2016 hingga pukul...</p><p class="nsp_info  tleft fleft">16 Jun 2016Berita Gunungapi</p><p class="nsp_info  tleft fleft"></p>				</div>
+			</div>
+					<div class="nsp_art">
+				<div style="padding:2px 4px 2px 4px">
+					<h4 class="nsp_header tleft fnone"><a href="/index.php/gunungapi/aktivitas-gunungapi/1203-peningkatan-aktivitas-gunung-awu" title="PENINGKATAN AKTIVITAS GUNUNG AWU">PENINGKATAN AKTIVITAS GUNUNG AWU</a></h4><a href="/index.php/gunungapi/aktivitas-gunungapi/1203-peningkatan-aktivitas-gunung-awu" class=" tleft fleft" title="PENINGKATAN AKTIVITAS GUNUNG AWU"><img class="nsp_image tleft fleft" src="/images/stories/pvmbg/gunungapi/Awu/Awu%201%20(16-05-16).jpg" alt="PENINGKATAN AKTIVITAS GUNUNG AWU" title="PENINGKATAN AKTIVITAS GUNUNG AWU" style="width:160px;height:120px;margin:3px 5px 3px 5px;"  /></a><p class="nsp_text tleft fleft">Hasil evaluasi tingkat aktivitas Gunungapi Awu di Kabupaten Kepulauan Sangihe, Provinsi Sulawesi Utara, hingga tanggal 12 Mei 2016 pukul 06:00...</p><p class="nsp_info  tleft fleft">16 May 2016Berita Gunungapi</p><p class="nsp_info  tleft fleft"></p>				</div>
+			</div>
+					<div class="nsp_art">
+				<div style="padding:2px 4px 2px 4px">
+					<h4 class="nsp_header tleft fnone"><a href="/index.php/gunungapi/aktivitas-gunungapi/1193-penurunan-aktivitas-gunung-soputan" title="PENURUNAN AKTIVITAS GUNUNG SOPUTAN">PENURUNAN AKTIVITAS GUNUNG SOPUTAN</a></h4><a href="/index.php/gunungapi/aktivitas-gunungapi/1193-penurunan-aktivitas-gunung-soputan" class=" tleft fleft" title="PENURUNAN AKTIVITAS GUNUNG SOPUTAN"><img class="nsp_image tleft fleft" src="/images/stories/pvmbg/gunungapi/soputan/2016/Soputan%201%20(21-04-16).jpg" alt="PENURUNAN AKTIVITAS GUNUNG SOPUTAN" title="PENURUNAN AKTIVITAS GUNUNG SOPUTAN" style="width:160px;height:120px;margin:3px 5px 3px 5px;"  /></a><p class="nsp_text tleft fleft">Hasil evaluasi kegiatan G. Soputan di Provinsi Sulawesi Utara hingga tanggal 20 April 2016, sebagai berikut:&nbsp;
+I. Pendahuluan
+Gunungapi Soputan merupakan gunungapi...</p><p class="nsp_info  tleft fleft">21 Apr 2016Berita Gunungapi</p><p class="nsp_info  tleft fleft"></p>				</div>
+			</div>
+					<div class="nsp_art">
+				<div style="padding:2px 4px 2px 4px">
+					<h4 class="nsp_header tleft fnone"><a href="/index.php/gunungapi/aktivitas-gunungapi/1186-evaluasi-kegiatan-g-soputan-tingkat-aktivitas-level-iii-siaga-hingga-11-april-2016-hingga-pukul-0600-wita" title="Evaluasi Kegiatan G. Soputan Tingkat Aktivitas LEVEL III (SIAGA) ">Evaluasi Kegiatan G. Soputan Tingkat Aktivitas LEVEL III (SIAGA) </a></h4><a href="/index.php/gunungapi/aktivitas-gunungapi/1186-evaluasi-kegiatan-g-soputan-tingkat-aktivitas-level-iii-siaga-hingga-11-april-2016-hingga-pukul-0600-wita" class=" tleft fleft" title="Evaluasi Kegiatan G. Soputan Tingkat Aktivitas LEVEL III (SIAGA) "><img class="nsp_image tleft fleft" src="/images/stories/pvmbg/gunungapi/soputan/2016/soputan-1%2012%20april.jpg" alt="Evaluasi Kegiatan G. Soputan Tingkat Aktivitas LEVEL III (SIAGA) " title="Evaluasi Kegiatan G. Soputan Tingkat Aktivitas LEVEL III (SIAGA) " style="width:160px;height:120px;margin:3px 5px 3px 5px;"  /></a><p class="nsp_text tleft fleft">Evaluasi Kegiatan G. Soputan Tingkat Aktivitas LEVEL III (SIAGA) Hingga 11 April 2016 hingga pukul 06:00 WITA
+ 
+Perkembangan kegiatan G. Soputan...</p><p class="nsp_info  tleft fleft">12 Apr 2016Berita Gunungapi</p><p class="nsp_info  tleft fleft"></p>				</div>
+			</div>
+					<div class="nsp_art">
+				<div style="padding:2px 4px 2px 4px">
+					<h4 class="nsp_header tleft fnone"><a href="/index.php/gunungapi/aktivitas-gunungapi/1165-evaluasi-kegiatan-g-soputan-hingga-28-maret-2016-hingga-pukul-0600-wita" title="Evaluasi Kegiatan G. Soputan Hingga 28 Maret 2016 hingga pukul 06:00 WITA">Evaluasi Kegiatan G. Soputan Hingga 28 Maret 2016 hingga pukul 06:00 WITA</a></h4><a href="/index.php/gunungapi/aktivitas-gunungapi/1165-evaluasi-kegiatan-g-soputan-hingga-28-maret-2016-hingga-pukul-0600-wita" class=" tleft fleft" title="Evaluasi Kegiatan G. Soputan Hingga 28 Maret 2016 hingga pukul 06:00 WITA"><img class="nsp_image tleft fleft" src="/images/stories/pvmbg/gunungapi/soputan/2016/Soputan%201%20(29-03-16).jpg" alt="Evaluasi Kegiatan G. Soputan Hingga 28 Maret 2016 hingga pukul 06:00 WITA" title="Evaluasi Kegiatan G. Soputan Hingga 28 Maret 2016 hingga pukul 06:00 WITA" style="width:160px;height:120px;margin:3px 5px 3px 5px;"  /></a><p class="nsp_text tleft fleft">Hasil evaluasi kegiatan G. Soputan yang terdapat di Provinsi Sulawesi Utara, sebagai berikut:
+I. PENDAHULUAN
+ 
+Gunungapi Soputan merupakan gunungapi strato yang...</p><p class="nsp_info  tleft fleft">29 Mar 2016Berita Gunungapi</p><p class="nsp_info  tleft fleft"></p>				</div>
+			</div>
+					<div class="nsp_art">
+				<div style="padding:2px 4px 2px 4px">
+					<h4 class="nsp_header tleft fnone"><a href="/index.php/gunungapi/aktivitas-gunungapi/1164-evaluasi-tingkat-aktivitas-g-kie-besi-provinsi-maluku-utara-hingga-22-maret-2016" title="Evaluasi tingkat aktivitas G. Kie Besi, Provinsi Maluku Utara hingga 22 Maret 2016">Evaluasi tingkat aktivitas G. Kie Besi, Provinsi Maluku Utara hingga 22 Maret 2016</a></h4><a href="/index.php/gunungapi/aktivitas-gunungapi/1164-evaluasi-tingkat-aktivitas-g-kie-besi-provinsi-maluku-utara-hingga-22-maret-2016" class=" tleft fleft" title="Evaluasi tingkat aktivitas G. Kie Besi, Provinsi Maluku Utara hingga 22 Maret 2016"><img class="nsp_image tleft fleft" src="/images/stories/pvmbg/gunungapi/KieBesi/Kie%20Besi%201%20(28-03-16).jpg" alt="Evaluasi tingkat aktivitas G. Kie Besi, Provinsi Maluku Utara hingga 22 Maret 2016" title="Evaluasi tingkat aktivitas G. Kie Besi, Provinsi Maluku Utara hingga 22 Maret 2016" style="width:160px;height:120px;margin:3px 5px 3px 5px;"  /></a><p class="nsp_text tleft fleft">Hasil evaluasi aktivitas G. Kie Besi, Kabupaten Halmahera Selatan, Provinsi Maluku Utara, periode 1 Januari&nbsp; hingga 22 Maret 2016 berdasarkan...</p><p class="nsp_info  tleft fleft">28 Mar 2016Berita Gunungapi</p><p class="nsp_info  tleft fleft"></p>				</div>
+			</div>
+					<div class="nsp_art">
+				<div style="padding:2px 4px 2px 4px">
+					<h4 class="nsp_header tleft fnone"><a href="/index.php/gunungapi/aktivitas-gunungapi/1163-evaluasi-data-pengamatan-g-gamkonora-halmahera-barat-hingga-22-maret-2016" title="Evaluasi data pengamatan G. Gamkonora, Halmahera Barat hingga 22 Maret 2016">Evaluasi data pengamatan G. Gamkonora, Halmahera Barat hingga 22 Maret 2016</a></h4><a href="/index.php/gunungapi/aktivitas-gunungapi/1163-evaluasi-data-pengamatan-g-gamkonora-halmahera-barat-hingga-22-maret-2016" class=" tleft fleft" title="Evaluasi data pengamatan G. Gamkonora, Halmahera Barat hingga 22 Maret 2016"><img class="nsp_image tleft fleft" src="/images/stories/pvmbg/gunungapi/Gamkonora/Gamkonora%201%20(28-03-16).jpg" alt="Evaluasi data pengamatan G. Gamkonora, Halmahera Barat hingga 22 Maret 2016" title="Evaluasi data pengamatan G. Gamkonora, Halmahera Barat hingga 22 Maret 2016" style="width:160px;height:120px;margin:3px 5px 3px 5px;"  /></a><p class="nsp_text tleft fleft">Hasil evaluasi aktivitas G. Gamkonora, Kabupaten Halmahera Barat, Provinsi Maluku Utara, periode Januari hingga 6 Maret 2016 berdasarkan pengamatan visual...</p><p class="nsp_info  tleft fleft">28 Mar 2016Berita Gunungapi</p><p class="nsp_info  tleft fleft"></p>				</div>
+			</div>
+			
+	</div>
+	</div>
+
+
+
+<script type="text/javascript">
+//<![CDATA[
+try {$Gavick;}catch(e){$Gavick = {};};
+$Gavick["nsp-nsp_127"] = {
+	"animation_speed": 350,
+	"animation_interval": 5000};
+//]]>
+</script>			</div>
+	
+				</div>
+			</div>
+			<div class="col-lg-4">
+						<div class="module module_long">
+					<h3>Status Gunungapi Diatas Normal</h3>
+					<table border="0" class="gunung-api">
+<tbody>
+<tr>
+<td class="middle" style="width: 30px;"><img height="12" width="12" alt="led_red_blink" src="/images/stories/alert/led_red_blink.gif" /></td>
+<td class="top" style="width: 120px;">G. Sinabung</td>
+<td style="width: 50px;">AWAS</td>
+<td style="width: 80px;">02-06-2015</td>
+</tr>
+<tr>
+<td class="middle"><img height="12" width="12" alt="led_orange_blink" src="/images/stories/alert/led_orange_blink.gif" /></td>
+<td class="top">G. Lokon</td>
+<td>Siaga</td>
+<td>08-03-2016</td>
+</tr>
+<tr>
+<td class="middle"><img height="12" width="12" alt="led_yellow" src="/images/stories/alert/led_yellow.gif" /></td>
+<td class="top">G. Awu</td>
+<td>Waspada</td>
+<td>14-06-2016</td>
+</tr>
+<tr>
+<td class="middle"><img height="12" width="12" alt="led_yellow" src="/images/stories/alert/led_yellow.gif" /></td>
+<td class="top">G. Soputan</td>
+<td>Waspada</td>
+<td>21-04-2016</td>
+</tr>
+<tr>
+<td class="middle"><img height="12" width="12" alt="led_yellow" src="/images/stories/alert/led_yellow.gif" /></td>
+<td class="top">G. Karangetang</td>
+<td>Waspada</td>
+<td>16-03-2016</td>
+</tr>
+<tr>
+<td class="middle"><img height="12" width="12" alt="led_yellow" src="/images/stories/alert/led_yellow.gif" /></td>
+<td class="top">G. Bromo</td>
+<td>Waspada</td>
+<td>26-02-2016</td>
+</tr>
+<tr>
+<td class="middle"><img height="12" width="12" alt="led_yellow" src="/images/stories/alert/led_yellow.gif" /></td>
+<td class="top">G. Egon</td>
+<td>Waspada</td>
+<td>01-02-2016</td>
+</tr>
+<tr>
+<td class="middle"><img height="12" width="12" alt="led_yellow" src="/images/stories/alert/led_yellow.gif" /></td>
+<td class="top">G. Raung</td>
+<td>Waspada</td>
+<td>24-08-2015</td>
+</tr>
+<tr>
+<td class="middle"><img height="12" width="12" alt="led_yellow" src="/images/stories/alert/led_yellow.gif" /></td>
+<td class="top">G. Gamalama</td>
+<td>Waspada</td>
+<td>10-03-2015</td>
+</tr>
+<tr>
+<td class="middle"><img height="12" width="12" alt="led_yellow" src="/images/stories/alert/led_yellow.gif" /></td>
+<td class="top">G. Sangeangapi</td>
+<td>Waspada</td>
+<td>17-06-2014</td>
+</tr>
+<tr>
+<td class="middle"><img height="12" width="12" alt="led_yellow" src="/images/stories/alert/led_yellow.gif" /></td>
+<td class="top">G. Rokatenda</td>
+<td>Waspada</td>
+<td>07-04-2014</td>
+</tr>
+<tr>
+<td class="middle"><img src="/images/stories/alert/led_yellow.gif" /></td>
+<td class="top">G. Ibu</td>
+<td>Waspada</td>
+<td>10-12-2013</td>
+</tr>
+<tr>
+<td class="middle"><img height="12" width="12" alt="led_yellow" src="/images/stories/alert/led_yellow.gif" /></td>
+<td class="top">G. Gamkonora</td>
+<td>Waspada</td>
+<td>01-07-2013</td>
+</tr>
+<tr>
+<td class="middle"><img height="12" width="12" alt="led_yellow" src="/images/stories/alert/led_yellow.gif" /></td>
+<td class="top">G. Papandayan</td>
+<td>Waspada</td>
+<td>06-06-2013</td>
+</tr>
+<!--                                                                                                              <br /> 
+<tr>
+<br /> <br />
+<td><img src="/images/stories/alert/led_yellow.gif"                                      alt="led_yellow" height="12" width="12" /></td>
+<br /> <br />
+<td>G. Dieng</td>
+<br />
+<td>Waspada</td>
+<br />
+<td>08-05-2013</td>
+<br />
+</tr>
+<br />-->                                                                                                                                     
+<tr>
+<td class="middle"><img height="12" width="12" alt="led_yellow" src="/images/stories/alert/led_yellow.gif" /></td>
+<td class="top">G. Semeru</td>
+<td>Waspada</td>
+<td>02-05-2012</td>
+</tr>
+<tr>
+<td class="middle"><img height="12" width="12" alt="led_yellow" src="/images/stories/alert/led_yellow.gif" /></td>
+<td class="top">G. Anak Krakatau</td>
+<td>Waspada</td>
+<td>26-01-2012</td>
+</tr>
+<tr>
+<td class="middle"><img height="12" width="12" alt="led_yellow" src="/images/stories/alert/led_yellow.gif" /></td>
+<td class="top">G. Marapi</td>
+<td>Waspada</td>
+<td>03-08-2011</td>
+</tr>
+<tr>
+<td class="middle"><img height="12" width="12" alt="led_yellow" src="/images/stories/alert/led_yellow.gif" /></td>
+<td class="top">G. Dukono</td>
+<td>Waspada</td>
+<td>15-06-2008</td>
+</tr>
+<tr>
+<td class="middle"><img height="12" width="12" alt="led_yellow" src="/images/stories/alert/led_yellow.gif" /></td>
+<td class="top">G. Kerinci</td>
+<td>Waspada</td>
+<td>09-09-2007</td>
+</tr>
+</tbody>
+</table>
+<br />
+<p style="padding: 5px;">Keterangan :</p>
+<table class="gunung-api">
+<tbody>
+<tr>
+<td class="middle"><img height="12" width="12" alt="led_red_blink" src="/images/stories/alert/led_red_blink.gif" /></td>
+<td class="top">Level IV (AWAS)</td>
+</tr>
+<tr>
+<td class="middle"><img height="12" width="12" alt="led_orange_blink" src="/images/stories/alert/led_orange_blink.gif" /></td>
+<td class="top">Level III (SIAGA)</td>
+</tr>
+<tr>
+<td class="middle"><img height="12" width="12" alt="led_yellow" src="/images/stories/alert/led_yellow.gif" /></td>
+<td class="top">Level II (WASPADA)</td>
+</tr>
+<tr>
+<td class="middle"><img height="12" width="12" alt="led_green" src="/images/stories/alert/led_green.gif" /></td>
+<td class="top">Level I (NORMAL)</td>
+</tr>
+</tbody>
+</table>		</div>
+			<div class="module module200">
+					<h3>Statistik Kunjungan</h3>
+					<strong>Content View Hits</strong> : 1575020<br />
+		</div>
+			<div class="module module_side_banner3">
+					<p><a href="http://wbs.esdm.go.id/" target="_blank"><img alt="WhistleBlowing" height="47" width="294" src="/images/stories/banner/WhistleBlowing.jpg" /></a></p>
+<p> </p>
+<p><a href="https://twitter.com/vulkanologi_mbg"><img src="/images/stories/pvmbg/socmed/twitter_logo_1.png" alt="twitter_logo_1" height="50" width="294" /></a></p>
+<p> </p>
+<div></div>
+<div></div>
+<div><a href="https://www.facebook.com/pages/Pusat-Vulkanologi-dan-Mitigasi-Bencana-Geologi/212590188764038"><img src="/images/stories/pvmbg/socmed/findUsOnFacebook.png" alt="findUsOnFacebook" height="50" width="294" /></a></div>		</div>
+	
+			</div>
+		</div>
+	</div>
+	 <!-- Isfront Index atas -->
+	
+		 <!-- IsNotFront Lavel2-->
+	
+	
+	
+	
+		<div class="container" id="bannerbottom">
+		<div class="row">
+			<hr class="line"/>
+			<div class="col-lg-4">
+						<div class="module module_side_banner4">
+					<img src="/images/stories/banner/sbg-bebaskorupsi.png" width="299" height="94" alt="sbg-bebaskorupsi" /><br />		</div>
+	   
+			</div>
+			<div class="col-lg-4">     	
+						<div class="module module_side_banner4">
+					<img src="/images/stories/banner/moto_pvmbg.png" width="299" height="94" alt="moto_pvmbg" /><br />		</div>
+	
+			</div>
+			<div class="col-lg-4">
+						<div class="module module_side_banner4">
+					<img alt="banner_maklumat1" height="95" width="300" src="/images/stories/pvmbg/dis_info/banner_maklumat1.jpg" /><br />		</div>
+	
+			</div>
+		</div>
+	</div>
+   		
+	<footer class="site-footer">
+		<hr class="line" style="margin: 0;margin-top: 30px;"/>
+		<div class="footer2">
+			<div class="container" id="footer_tengah">
+				<div class="col-lg-6" id="footer_logo">
+					<img src="/templates/pvg_bootstrap2016/images/esdm.png" class="img-responsive" style="width: 80px;display: inline-block;">
+						<h5 style="font-weight: bold;font-size:20px;margin-top: 20px;">Badan Geologi</h5>
+                        <p class="moto-kecil">Pusat Vulkanologi dan Mitigasi Bencana Geologi</p>
+
+				</div>
+				<div class="col-lg-3" id="footer_kontak">
+					<h5 style="font-weight: bold;">Kontak</h5>
+					<div style="font-size: small;color: #E0E0E">
+						Jl. Diponegoro No.57<br/>
+						Bandung - 40122<br/>
+						Jawa Barat - Republik Indonesia<br/>
+						Tel: +62-22-727-2606<br/>
+						Fax: +62-22-720-2761<br/>
+						E-mail: vsi@vsi.esdm.go.id		
+					</div>
+				</div>
+				<div class="col-lg-2" id="footer_navigasi">
+					<h5 style="font-weight: bold;">Navigasi</h5>
+					<div id="menu_bottom"><ul class="menu"><li class="item1"><a href="http://www.vsi.esdm.go.id"><span>Home</span></a></li><li class="parent item60"><a href="#"><span>Profil</span></a><ul><li class="item62"><a href="/index.php/tentang-pvmbg/fungsi"><span>Tugas dan Fungsi</span></a></li><li class="parent item63"><a href="/index.php/tentang-pvmbg/struktur-organisasi"><span>Struktur Organisasi</span></a><ul><li class="item67"><a href="/index.php/tentang-pvmbg/struktur-organisasi/bagian-tata-usaha"><span>Bagian Tata Usaha</span></a></li><li class="item68"><a href="/index.php/tentang-pvmbg/struktur-organisasi/bidang-pengamatan-dan-penyelidikan-gunungapi"><span>Bidang Mitigasi Gunungapi</span></a></li><li class="item69"><a href="/index.php/tentang-pvmbg/struktur-organisasi/bidang-mitigasi-gempa-bumi-dan-tsunami"><span>Bidang Mitigasi Gempa Bumi dan Tsunami</span></a></li><li class="item70"><a href="/index.php/tentang-pvmbg/struktur-organisasi/bidang-mitigasi-gerakan-tanah"><span>Bidang Mitigasi Gerakan Tanah</span></a></li><li class="item168"><a href="http://merapi.bgl.esdm.go.id"><span>BPPTKG</span></a></li></ul></li><li class="item61"><a href="/index.php/tentang-pvmbg/sejarah"><span>Sejarah</span></a></li><li class="item159"><a href="/index.php/tentang-pvmbg/hubungi-kami"><span>Hubungi Kami</span></a></li><li class="item184"><a href="/index.php/tentang-pvmbg/pengaduan"><span>Pengaduan</span></a></li></ul></li><li class="parent item154"><a href="#"><span>Gunungapi</span></a><ul><li class="item147"><a href="/index.php/gunungapi/data-dasar-gunungapi"><span>Data Dasar Gunungapi</span></a></li><li class="item148"><a href="/index.php/gunungapi/tentang-gunungapi"><span>Sebaran Gunungapi</span></a></li><li class="item149"><a href="/index.php/gunungapi/aktivitas-gunungapi"><span>Aktivitas Gunungapi</span></a></li><li class="item156"><a href="/index.php/gunungapi/kamera-gunungapi"><span>Kamera Gunungapi</span></a></li><li class="parent item165"><a href="http://merapi.bgl.esdm.go.id/"><span>Informasi G. Merapi</span></a><ul><li class="item169"><a href="/index.php/gunungapi/informasi-g-merapi/kamera-g-merapi"><span>Kamera G. Merapi</span></a></li></ul></li><li class="item171"><a href="http://www.vsi.esdm.go.id/galeri/index.php/Peta-Kawasan-Rawan-Bencana-Gunungapi" target="_blank"><span>Peta KRB Gunungapi</span></a></li></ul></li><li class="parent item145"><a href="#"><span>Gerakan Tanah</span></a><ul><li class="item150"><a href="/index.php/gerakan-tanah/kejadian-gerakan-tanah"><span>Kejadian Gerakan Tanah</span></a></li><li class="item153"><a href="/index.php/gerakan-tanah/peringatan-dini-gerakan-tanah"><span>Peringatan Dini Gerakan Tanah</span></a></li><li class="item163"><a href="/index.php/gerakan-tanah/rekapitulasi-kejadian-gerakan-tanah"><span>Rekapitulasi Kejadian Gerakan Tanah</span></a></li><li class="item172"><a href="http://www.vsi.esdm.go.id/galeri/index.php/Peta-Zona-Kerentanan-Gerakan-Tanah" target="_blank"><span>Peta ZKGT Gerakan Tanah</span></a></li></ul></li><li class="parent item146"><a href="#"><span>Gempabumi &amp; Tsunami</span></a><ul><li class="item151"><a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami"><span>Kejadian Gempabumi &amp; Tsunami</span></a></li><li class="item164"><a href="/index.php/gempabumi-a-tsunami/katalog-gempabumi-merusak"><span>Katalog Gempabumi Merusak</span></a></li><li class="item173"><a href="http://www.vsi.esdm.go.id/galeri/index.php/Peta-Kawasan-Rawan-Bencana-Gempa-Bumi" target="_blank"><span>Peta KRB Gempabumi</span></a></li><li class="item186"><a href="http://www.vsi.esdm.go.id/galeri/index.php/Peta-Kawasan-Rawan-Bencana-Tsunami-01" target="_blank"><span>Peta KRB Tsunami</span></a></li></ul></li><li class="parent item119"><a href="#"><span>Diseminasi Informasi</span></a><ul><li class="item152"><a href="/index.php/kegiatan-pvmbg/kegiatan-diseminasi-informasi"><span>Kegiatan DIseminasi Informasi</span></a></li><li class="item160"><a href="/index.php/kegiatan-pvmbg/foto-dan-peta" target="_blank"><span>Foto dan Peta</span></a></li><li class="item155"><a href="/index.php/kegiatan-pvmbg/download-center"><span>Download Center</span></a></li><li class="item157"><a href="http://library.vsi.esdm.go.id" target="_blank"><span>Perpustakaan</span></a></li><li class="parent item175"><a href="#"><span>Publikasi</span></a><ul><li class="item176"><a href="/publikasi/booklet_gertan/bookletgertan.html"><span>Booklet Gerakan Tanah</span></a></li><li class="item177"><a href="/publikasi/booklet_gunungapi/bookletgunungapi.html"><span>Booklet Gunungapi</span></a></li><li class="item178"><a href="/publikasi/booklet_tsunami/booklettsunami.html"><span>Booklet Gempabumi dan Tsunami</span></a></li><li class="item179"><a href="/publikasi/leaflet_gertan/leafletgertan.html"><span>Leaflet Gerakan Tanah</span></a></li><li class="item180"><a href="/publikasi/leaflet_gunungapi/leafletbahayagunungapi.html"><span>Leaflet Bahaya Gunungapi</span></a></li><li class="item181"><a href="/publikasi/leaflet_gunungapi1/leafletbahayagunungapi.html"><span>Leaflet Menghindari Bahaya Gunungapi</span></a></li><li class="item182"><a href="/publikasi/leaflet_tsunami/leaflettsunami.html"><span>Leaflet Tsunami</span></a></li></ul></li></ul></li><li class="item107"><a href="https://mail.vsi.esdm.go.id" target="_blank"><span>E-Mail</span></a></li></ul></div>
+					<a href="http://feeds.feedburner.com/go/WBDQ" title="rss" class="rss-feed">RSS Feed</a>
+				</div>
+			</div>
+					
+			<div class="container" id="footer_lebar">
+				<div class="col-lg-3" id="footer_kontak">
+					<h5 style="font-weight: bold;">Kontak</h5>
+					<div style="font-size: small;color: #E0E0E">
+						Jl. Diponegoro No.57<br/>
+						Bandung - 40122<br/>
+						Jawa Barat - Republik Indonesia<br/>
+						Tel: +62-22-727-2606<br/>
+						Fax: +62-22-720-2761<br/>
+						E-mail: vsi@vsi.esdm.go.id					
+					</div>
+				</div>
+				<div class="col-lg-6" id="footer_logo">
+					<img src="/templates/pvg_bootstrap2016/images/esdm.png" class="img-responsive" style="width: 80px;display: inline-block;">
+						<h5 style="font-weight: bold;font-size:20px;margin-top: 20px;">Badan Geologi</h5>
+                        <p class="moto-kecil">Pusat Vulkanologi dan Mitigasi Bencana Geologi</p>
+
+				</div>
+				<div class="col-lg-2" id="footer_navigasi">
+					<h5 style="font-weight: bold;">Navigasi</h5>
+					<div id="menu_bottom"><ul class="menu"><li class="item1"><a href="http://www.vsi.esdm.go.id"><span>Home</span></a></li><li class="parent item60"><a href="#"><span>Profil</span></a><ul><li class="item62"><a href="/index.php/tentang-pvmbg/fungsi"><span>Tugas dan Fungsi</span></a></li><li class="parent item63"><a href="/index.php/tentang-pvmbg/struktur-organisasi"><span>Struktur Organisasi</span></a><ul><li class="item67"><a href="/index.php/tentang-pvmbg/struktur-organisasi/bagian-tata-usaha"><span>Bagian Tata Usaha</span></a></li><li class="item68"><a href="/index.php/tentang-pvmbg/struktur-organisasi/bidang-pengamatan-dan-penyelidikan-gunungapi"><span>Bidang Mitigasi Gunungapi</span></a></li><li class="item69"><a href="/index.php/tentang-pvmbg/struktur-organisasi/bidang-mitigasi-gempa-bumi-dan-tsunami"><span>Bidang Mitigasi Gempa Bumi dan Tsunami</span></a></li><li class="item70"><a href="/index.php/tentang-pvmbg/struktur-organisasi/bidang-mitigasi-gerakan-tanah"><span>Bidang Mitigasi Gerakan Tanah</span></a></li><li class="item168"><a href="http://merapi.bgl.esdm.go.id"><span>BPPTKG</span></a></li></ul></li><li class="item61"><a href="/index.php/tentang-pvmbg/sejarah"><span>Sejarah</span></a></li><li class="item159"><a href="/index.php/tentang-pvmbg/hubungi-kami"><span>Hubungi Kami</span></a></li><li class="item184"><a href="/index.php/tentang-pvmbg/pengaduan"><span>Pengaduan</span></a></li></ul></li><li class="parent item154"><a href="#"><span>Gunungapi</span></a><ul><li class="item147"><a href="/index.php/gunungapi/data-dasar-gunungapi"><span>Data Dasar Gunungapi</span></a></li><li class="item148"><a href="/index.php/gunungapi/tentang-gunungapi"><span>Sebaran Gunungapi</span></a></li><li class="item149"><a href="/index.php/gunungapi/aktivitas-gunungapi"><span>Aktivitas Gunungapi</span></a></li><li class="item156"><a href="/index.php/gunungapi/kamera-gunungapi"><span>Kamera Gunungapi</span></a></li><li class="parent item165"><a href="http://merapi.bgl.esdm.go.id/"><span>Informasi G. Merapi</span></a><ul><li class="item169"><a href="/index.php/gunungapi/informasi-g-merapi/kamera-g-merapi"><span>Kamera G. Merapi</span></a></li></ul></li><li class="item171"><a href="http://www.vsi.esdm.go.id/galeri/index.php/Peta-Kawasan-Rawan-Bencana-Gunungapi" target="_blank"><span>Peta KRB Gunungapi</span></a></li></ul></li><li class="parent item145"><a href="#"><span>Gerakan Tanah</span></a><ul><li class="item150"><a href="/index.php/gerakan-tanah/kejadian-gerakan-tanah"><span>Kejadian Gerakan Tanah</span></a></li><li class="item153"><a href="/index.php/gerakan-tanah/peringatan-dini-gerakan-tanah"><span>Peringatan Dini Gerakan Tanah</span></a></li><li class="item163"><a href="/index.php/gerakan-tanah/rekapitulasi-kejadian-gerakan-tanah"><span>Rekapitulasi Kejadian Gerakan Tanah</span></a></li><li class="item172"><a href="http://www.vsi.esdm.go.id/galeri/index.php/Peta-Zona-Kerentanan-Gerakan-Tanah" target="_blank"><span>Peta ZKGT Gerakan Tanah</span></a></li></ul></li><li class="parent item146"><a href="#"><span>Gempabumi &amp; Tsunami</span></a><ul><li class="item151"><a href="/index.php/gempabumi-a-tsunami/kejadian-gempabumi-a-tsunami"><span>Kejadian Gempabumi &amp; Tsunami</span></a></li><li class="item164"><a href="/index.php/gempabumi-a-tsunami/katalog-gempabumi-merusak"><span>Katalog Gempabumi Merusak</span></a></li><li class="item173"><a href="http://www.vsi.esdm.go.id/galeri/index.php/Peta-Kawasan-Rawan-Bencana-Gempa-Bumi" target="_blank"><span>Peta KRB Gempabumi</span></a></li><li class="item186"><a href="http://www.vsi.esdm.go.id/galeri/index.php/Peta-Kawasan-Rawan-Bencana-Tsunami-01" target="_blank"><span>Peta KRB Tsunami</span></a></li></ul></li><li class="parent item119"><a href="#"><span>Diseminasi Informasi</span></a><ul><li class="item152"><a href="/index.php/kegiatan-pvmbg/kegiatan-diseminasi-informasi"><span>Kegiatan DIseminasi Informasi</span></a></li><li class="item160"><a href="/index.php/kegiatan-pvmbg/foto-dan-peta" target="_blank"><span>Foto dan Peta</span></a></li><li class="item155"><a href="/index.php/kegiatan-pvmbg/download-center"><span>Download Center</span></a></li><li class="item157"><a href="http://library.vsi.esdm.go.id" target="_blank"><span>Perpustakaan</span></a></li><li class="parent item175"><a href="#"><span>Publikasi</span></a><ul><li class="item176"><a href="/publikasi/booklet_gertan/bookletgertan.html"><span>Booklet Gerakan Tanah</span></a></li><li class="item177"><a href="/publikasi/booklet_gunungapi/bookletgunungapi.html"><span>Booklet Gunungapi</span></a></li><li class="item178"><a href="/publikasi/booklet_tsunami/booklettsunami.html"><span>Booklet Gempabumi dan Tsunami</span></a></li><li class="item179"><a href="/publikasi/leaflet_gertan/leafletgertan.html"><span>Leaflet Gerakan Tanah</span></a></li><li class="item180"><a href="/publikasi/leaflet_gunungapi/leafletbahayagunungapi.html"><span>Leaflet Bahaya Gunungapi</span></a></li><li class="item181"><a href="/publikasi/leaflet_gunungapi1/leafletbahayagunungapi.html"><span>Leaflet Menghindari Bahaya Gunungapi</span></a></li><li class="item182"><a href="/publikasi/leaflet_tsunami/leaflettsunami.html"><span>Leaflet Tsunami</span></a></li></ul></li></ul></li><li class="item107"><a href="https://mail.vsi.esdm.go.id" target="_blank"><span>E-Mail</span></a></li></ul></div>
+					<br/>
+					<a href="http://feeds.feedburner.com/go/WBDQ" title="rss" class="rss-feed">RSS Feed</a>
+				</div>
+			</div>
+		</div>
+			
+		<div id="footer3">
+			<div class="container">
+				<div class="col-lg-8" style="color:#bdc3c7">
+					&copy; 2016 Hak Cipta Dilindungi Undang-Undang
+				</div>
+				<div class="col-lg-4" style="color:#bdc3c7">
+				<a href="http://www.facebook.com/pvmbg"><i class="fa fa-facebook-official"></i></a>
+				</div>
+			</div>
+		</div>
+	</footer>
+
+	
+
+	<script type="text/javascript">
+		var sc_project=6726781; 
+		var sc_invisible=0; 
+		var sc_security="3ce4792f"; 
+	</script>
+
+
+<!-- Start of StatCounter Code for Joomla -->
+<script type="text/javascript">
+var sc_project=10765855;
+var sc_invisible=0;
+var sc_security="d7aa419b";
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" +
+scJsHost+
+"statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript><div class="statcounter"><a title="joomla visitor" href="http://statcounter.com/joomla/"
+target="_blank"><img class="statcounter"
+src="http://c.statcounter.com/10765855/0/d7aa419b/0/"
+alt="joomla visitor"></a></div></noscript>
+<!-- End of StatCounter Code for Joomla -->
+
+  
+    
+    
+	<script src="/templates/pvg_bootstrap2016/js/scripts.js"></script>
+	<script type="text/javascript">
+		jQuery(document).ready(function($){
+			//$('img').addClass('img-responsive');
+						$("#search-box").removeClass().addClass("form-lg");
+			$("#search-box").attr("role", "form");
+			$("#search_input").attr("id","cari");
+			$("#cari").removeClass().addClass("form-control input-lg");
+			$("#cari").attr("placeholder","Cari...");
+			$("#src_btn").remove();
+			
+			
+						
+			$('.weblinks-list > tbody > tr > td > img').remove();$("title").html("Pusat Vulkanologi dan Mitigasi Bencana Geologi - Badan Geologi");		
+		});
+	</script>
+
+</body>
+</html>
